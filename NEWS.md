@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-08 16:30:52
+    #> Last Update: 2022-12-08 16:48:27
+
+# BioMonTools_SupportFiles 0.0.1.9004
+
+Released - 2022-12-08
+
+- refactor: Update picklist file to sort projects
 
 # BioMonTools_SupportFiles 0.0.1.9003
 

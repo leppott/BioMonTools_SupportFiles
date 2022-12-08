@@ -3,5 +3,6 @@ Pacific Northwest (BCG),TAXA_TRANSLATOR_MASTER_20221201.csv,Taxon_orig,BCG,OTU_B
 Pacific Northwest (Thermal),TAXA_TRANSLATOR_MASTER_20221201.csv,Taxon_orig,Thermal,Taxon_v2,TAXA_TRANSLATOR_MASTER_20221117_METADATA.csv
 Pacific Northwest (MTTI),TAXA_TRANSLATOR_MASTER_20221201.csv,Taxon_orig,MTTI,OTU_MTTI,TAXA_TRANSLATOR_MASTER_20221117_METADATA.csv
 Pacific Northwest (Bob),TAXA_TRANSLATOR_MASTER_20221201.csv,Taxon_orig,Bob,Taxon_v2,TAXA_TRANSLATOR_MASTER_20221117_METADATA.csv
-MBSS (bugs),CHAR_Bugs.csv,Taxon,BIBI,Taxon,CHAR_Bugs_metadata.csv
-MBSS (fish),CHAR_Fish.csv,SPECIES,FIBI,SPECIES,CHAR_Fish_metadata.csv
+MBSS_bugs,CHAR_Bugs.csv,Taxon,BIBI,Taxon,CHAR_Bugs_metadata.csv
+MBSS_fish,CHAR_Fish.csv,SPECIES,FIBI,SPECIES,CHAR_Fish_metadata.csv
+Pacific Northwest,TAXA_TRANSLATOR_MASTER_20221201.csv,Taxon_orig,"BCG,Thermal,MTTI,Bob","OTU_BCG_MariNW,Taxon_v2,OTU_MTTI,Taxon_v2",TAXA_TRANSLATOR_MASTER_20221117_METADATA.csv
