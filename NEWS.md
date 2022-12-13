@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-13 13:35:56
+    #> Last Update: 2022-12-13 16:29:43
+
+# BioMonTools_SupportFiles 0.0.1.9008
+
+Released - 2022-12-13
+
+- update: Revise ORWA metadata file
+- udpate: Revise pick_files for revised metadata file
 
 # BioMonTools_SupportFiles 0.0.1.9007
 
