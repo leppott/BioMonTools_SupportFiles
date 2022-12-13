@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9006
+===========
+Released - 2022-12-13
+
+* tests: Add tests for each official taxa file to ensure taxa id official are
+included in the taxa id match
+
 BioMonTools_SupportFiles 0.0.1.9005
 ===========
 Released - 2022-12-13

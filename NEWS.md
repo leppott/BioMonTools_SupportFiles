@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-13 09:52:00
+    #> Last Update: 2022-12-13 13:12:56
+
+# BioMonTools_SupportFiles 0.0.1.9006
+
+Released - 2022-12-13
+
+- tests: Add tests for each official taxa file to ensure taxa id
+  official are included in the taxa id match
 
 # BioMonTools_SupportFiles 0.0.1.9005
 
