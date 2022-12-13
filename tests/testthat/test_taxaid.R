@@ -23,7 +23,9 @@ test_that("taxaid1", {
     n_match_QC <- length(unique(df_i[, i_taxaid_match]))
     
     # show mismatches
-    unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid]]
+    i_taxaid_match
+    x1 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid]]
+    x1
     
     # test
     testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -50,7 +52,9 @@ test_that("taxaid2", {
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
   
   # show mismatches
-  unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid]]
+  i_taxaid_match
+  x2 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid]]
+  x2
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -77,7 +81,9 @@ test_that("taxaid3", {
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
   
   # show mismatches
-  unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid]]
+  i_taxaid_match
+  x3 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid]]
+  x3
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -104,8 +110,10 @@ test_that("taxaid4", {
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
   
   # show mismatches
-  unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid]]
-
+  i_taxaid_match
+  x4 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid]]
+  x4
+  
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
   
@@ -113,4 +121,7 @@ test_that("taxaid4", {
   
 })## Test ~ taxaid
 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# All missing taxa
+# sort(unique(c(x1, x2, x3, x4)))
 

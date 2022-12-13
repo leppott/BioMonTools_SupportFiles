@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9007
+===========
+Released - 2022-12-13
+
+* update: Revised ORWA files
+
 BioMonTools_SupportFiles 0.0.1.9006
 ===========
 Released - 2022-12-13
