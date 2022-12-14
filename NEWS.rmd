@@ -17,6 +17,15 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9009
+===========
+Released - 2022-12-14
+
+* update: Revise pick_files to allow for translate and attributes files as two
+separate files
+* update: Revise ORWA file names and add attributes file
+
+
 BioMonTools_SupportFiles 0.0.1.9008
 ===========
 Released - 2022-12-13
