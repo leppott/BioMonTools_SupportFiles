@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-14 09:35:20
+    #> Last Update: 2022-12-14 10:37:57
+
+# BioMonTools_SupportFiles 0.0.1.9010
+
+Released - 2022-12-14
+
+- update: Revise pick_files for PacNW (MTTI) col_drop
 
 # BioMonTools_SupportFiles 0.0.1.9009
 
