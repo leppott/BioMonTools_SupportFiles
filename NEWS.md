@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-14 10:37:57
+    #> Last Update: 2022-12-14 13:51:08
+
+# BioMonTools_SupportFiles 0.0.1.9011
+
+Released - 2022-12-14
+
+- tests: Update tests for PacNW data for taxa names
 
 # BioMonTools_SupportFiles 0.0.1.9010
 

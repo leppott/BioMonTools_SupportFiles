@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9011
+===========
+Released - 2022-12-14
+
+* tests: Update tests for PacNW data for taxa names
+
 BioMonTools_SupportFiles 0.0.1.9010
 ===========
 Released - 2022-12-14
