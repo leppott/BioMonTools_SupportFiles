@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-14 13:51:08
+    #> Last Update: 2022-12-14 14:09:53
+
+# BioMonTools_SupportFiles 0.0.1.9012
+
+Released - 2022-12-14
+
+- update: Update PacNW “Bob” to “Biodiversity Index”
 
 # BioMonTools_SupportFiles 0.0.1.9011
 
