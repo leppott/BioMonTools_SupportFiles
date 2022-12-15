@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-14 14:09:53
+    #> Last Update: 2022-12-15 07:43:53
+
+# BioMonTools_SupportFiles 0.0.1.9013
+
+Released - 2022-12-14
+
+- feature: Add “archive” folder for historical reference of taxa
+  translator files
 
 # BioMonTools_SupportFiles 0.0.1.9012
 

@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9013
+===========
+Released - 2022-12-14
+
+* feature: Add "archive" folder for historical reference of taxa translator 
+files
+
 BioMonTools_SupportFiles 0.0.1.9012
 ===========
 Released - 2022-12-14
