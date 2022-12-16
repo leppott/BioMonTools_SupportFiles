@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9014
+===========
+Released - 2022-12-16
+
+* tests: Add test for duplicate names
+* fix: Remove duplicates in OR_WA master taxa file
+
 BioMonTools_SupportFiles 0.0.1.9013
 ===========
 Released - 2022-12-14

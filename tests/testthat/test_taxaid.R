@@ -3,7 +3,16 @@
 # 2022-12-13
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+# duplicate names ----
+test_that("trans, dup1", {
+  
+})## Test ~ dup, trans
 
+test_that("attr, dups1", {
+  
+})## Test ~ dup, trans
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # trans, taxaid ----
 test_that("trans, taxaid1", {
   # data files
@@ -28,8 +37,16 @@ test_that("trans, taxaid1", {
                                            df_i[, i_taxaid]]
     i1
     
-    # test
+    # test, match
     testthat::expect_equivalent(n_match_calc, n_match_QC)
+    
+    # test, dup
+    n_taxaid <- sum(length(unique(df_i[, i_taxaid])))
+    n_rows <- nrow(df_i)
+    df_freq <- as.data.frame(table(df_i[, i_taxaid]))
+    df_freq[df_freq$Freq > 1, "Var1"]
+    
+    testthat::expect_equivalent(n_rows, n_taxaid)
 
  # }## FOR ~ i
   
@@ -160,6 +177,15 @@ test_that("attr, taxaid1", {
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
+  
+  # test, dup
+  n_taxaid <- sum(length(unique(df_j[, j_taxaid])))
+  n_rows <- nrow(df_j)
+  df_freq <- as.data.frame(table(df_j[, j_taxaid]))
+  df_freq[df_freq$Freq > 1, "Var1"]
+  
+  testthat::expect_equivalent(n_rows, n_taxaid)
+  
   
   # }## FOR ~ i
   

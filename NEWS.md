@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-15 07:43:53
+    #> Last Update: 2022-12-16 15:36:21
+
+# BioMonTools_SupportFiles 0.0.1.9014
+
+Released - 2022-12-16
+
+- tests: Add test for duplicate names
+- fix: Remove duplicates in OR_WA master taxa file
 
 # BioMonTools_SupportFiles 0.0.1.9013
 
