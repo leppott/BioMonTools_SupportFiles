@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-20 08:58:02
+    #> Last Update: 2022-12-20 11:23:59
+
+# BioMonTools_SupportFiles 0.0.1.9016
+
+Released - 2022-12-20
+
+- refactor: pick_files.csv taxaid_drop NA to NULL to match function
+  default
 
 # BioMonTools_SupportFiles 0.0.1.9015
 
