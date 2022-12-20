@@ -4,7 +4,16 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-16 15:36:21
+    #> Last Update: 2022-12-20 08:58:02
+
+# BioMonTools_SupportFiles 0.0.1.9015
+
+Released - 2022-12-20
+
+- fix: Update PacNW OR WA data
+- refactor: Update pickfiles with taxaid_drop
+  - Name for taxa to drop from analyses. Only 1 name allowed, e.g.,
+    ‘DNI’
 
 # BioMonTools_SupportFiles 0.0.1.9014
 
