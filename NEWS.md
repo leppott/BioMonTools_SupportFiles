@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-20 11:23:59
+    #> Last Update: 2022-12-20 16:27:53
+
+# BioMonTools_SupportFiles 0.0.1.9017
+
+Released - 2022-12-20
+
+- tests: Update tests for duplicates in main taxaid field
 
 # BioMonTools_SupportFiles 0.0.1.9016
 

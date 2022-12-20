@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9017
+===========
+Released - 2022-12-20
+
+* tests: Update tests for duplicates in main taxaid field
+
 BioMonTools_SupportFiles 0.0.1.9016
 ===========
 Released - 2022-12-20

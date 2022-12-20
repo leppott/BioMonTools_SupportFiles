@@ -5,10 +5,55 @@
 
 # duplicate names ----
 test_that("trans, dup1", {
+  # data files
+  df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
+  fn_all <- df_pickfiles$filename
+  
+  i <- 1
+  
+  # for (i in seq_len(length(fn_all))) {
+  fn_i <- df_pickfiles[i , "filename"]
+  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  i_taxaid <- df_pickfiles[i, "taxaid"]
+  
+  # QC
+  n_taxa_calc <- length(unique(df_i[, i_taxaid]))
+  n_taxa_qc   <- length(df_i[, i_taxaid])
+  
+  # show mismatches
+  print(paste0("Duplicate names '", i_taxaid, "' from file '", fn_i, "'"))
+  n_taxa_table <- as.data.frame(table(df_i[, i_taxaid]))
+  n_taxa_table[n_taxa_table$Freq > 1, ]
+  
+  #test
+  testthat::expect_equal(n_taxa_calc, n_taxa_qc)
   
 })## Test ~ dup, trans
 
 test_that("attr, dups1", {
+  
+  # data files
+  df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
+  fn_all <- df_pickfiles$filename
+  
+  i <- 1
+
+  # attribute file
+  fn_j <- df_pickfiles[i , "attributes_filename"]
+  df_j <- read.csv(file.path("data", "taxa_official", fn_j))
+  j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
+  
+  # QC
+  n_taxa_calc <- length(unique(df_j[, j_taxaid]))
+  n_taxa_qc   <- length(df_j[, j_taxaid])
+  
+  # show mismatches
+  print(paste0("Duplicate names '", j_taxaid, "' from file '", fn_j, "'"))
+  n_taxa_table <- as.data.frame(table(df_j[, j_taxaid]))
+  n_taxa_table[n_taxa_table$Freq > 1, ]
+  
+  # test
+  testthat::expect_equivalent(n_taxa_calc, n_taxa_qc)
   
 })## Test ~ dup, trans
 
