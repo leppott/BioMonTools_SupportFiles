@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-20 16:27:53
+    #> Last Update: 2022-12-23 13:25:13
+
+# BioMonTools_SupportFiles 0.0.1.9018
+
+Released - 2022-12-23
+
+- refactor: Update file names
+- docs: Update .gitignore
 
 # BioMonTools_SupportFiles 0.0.1.9017
 
