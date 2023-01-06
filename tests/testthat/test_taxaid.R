@@ -9,7 +9,7 @@ test_that("trans, dup1", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 1
+  i <- 1 + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -36,7 +36,7 @@ test_that("attr, dups1", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 1
+  i <- 1 + 6
 
   # attribute file
   fn_j <- df_pickfiles[i , "attributes_filename"]
@@ -64,7 +64,7 @@ test_that("trans, taxaid1", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 1
+  i <- 1 + 6
   
  # for (i in seq_len(length(fn_all))) {
     fn_i <- df_pickfiles[i , "filename"]
@@ -80,7 +80,7 @@ test_that("trans, taxaid1", {
     print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
     i1 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                            df_i[, i_taxaid]]
-    i1
+    sort(i1)
     
     # test, match
     testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -103,7 +103,7 @@ test_that("trans, taxaid2", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 2
+  i <- 2 + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -118,7 +118,7 @@ test_that("trans, taxaid2", {
   print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
   i2 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_i[, i_taxaid]]
-  i2
+  sort(i2)
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -133,7 +133,7 @@ test_that("trans, taxaid3", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 3
+  i <- 3 + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -148,7 +148,7 @@ test_that("trans, taxaid3", {
   print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
   i3 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_i[, i_taxaid]]
-  i3
+  sort(i3)
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -163,7 +163,7 @@ test_that("trans, taxaid4", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 4
+  i <- 4 + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -178,7 +178,7 @@ test_that("trans, taxaid4", {
   print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
   i4 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_i[, i_taxaid]]
-  i4
+  sort(i4)
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -198,7 +198,7 @@ test_that("attr, taxaid1", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 1
+  i <- 1 + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -218,7 +218,7 @@ test_that("attr, taxaid1", {
   print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, "'"))
   j1 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
-  j1
+  sort(j1)
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -242,7 +242,7 @@ test_that("attr, taxaid2", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 2
+  i <- 2 + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -262,7 +262,7 @@ test_that("attr, taxaid2", {
   print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, "'"))
   j2 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
-  j2
+  sort(j2)
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -277,7 +277,7 @@ test_that("attr, taxaid3", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 3
+  i <- 3 + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -297,7 +297,7 @@ test_that("attr, taxaid3", {
   print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, "'"))
   j3 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
-  j3
+  sort(j3)
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -312,7 +312,7 @@ test_that("attr, taxaid4", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 4
+  i <- 4 + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -332,7 +332,7 @@ test_that("attr, taxaid4", {
   print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, "'"))
   j4 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
-  j4
+  sort(j4)
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -347,7 +347,7 @@ test_that("attr, taxaid4", {
 #   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
 #   fn_all <- df_pickfiles$filename
 #   
-#   i <- 1
+#   i <- 1 + 6
 #   
 #   # for (i in seq_len(length(fn_all))) {
 #   fn_i <- df_pickfiles[i , "filename"]

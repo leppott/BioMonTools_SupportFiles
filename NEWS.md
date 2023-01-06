@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2022-12-23 13:25:13
+    #> Last Update: 2023-01-06 15:09:20
+
+# BioMonTools_SupportFiles 0.0.1.9019
+
+Released - 2023-01-06
+
+- refactor: Add test taxa lists for PacNW
+- tests: Update tests for taxa lists
+- feature: Add Index_Class.xlsx for use with assign_IndexClass function
 
 # BioMonTools_SupportFiles 0.0.1.9018
 
