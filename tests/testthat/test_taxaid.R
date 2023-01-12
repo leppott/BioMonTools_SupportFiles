@@ -9,7 +9,7 @@ test_that("trans, dup1", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 1 + 6
+  i <- 1# + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -36,7 +36,7 @@ test_that("attr, dups1", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 1 + 6
+  i <- 1 #+ 6
 
   # attribute file
   fn_j <- df_pickfiles[i , "attributes_filename"]
@@ -64,7 +64,7 @@ test_that("trans, taxaid1", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 1 + 6
+  i <- 1# + 6
   
  # for (i in seq_len(length(fn_all))) {
     fn_i <- df_pickfiles[i , "filename"]
@@ -103,7 +103,7 @@ test_that("trans, taxaid2", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 2 + 6
+  i <- 2 #+ 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -133,7 +133,7 @@ test_that("trans, taxaid3", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 3 + 6
+  i <- 3# + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -163,7 +163,7 @@ test_that("trans, taxaid4", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 4 + 6
+  i <- 4 #+ 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -198,7 +198,7 @@ test_that("attr, taxaid1", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 1 + 6
+  i <- 1# + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -242,7 +242,7 @@ test_that("attr, taxaid2", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 2 + 6
+  i <- 2# + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -277,7 +277,7 @@ test_that("attr, taxaid3", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 3 + 6
+  i <- 3 #+ 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
@@ -312,7 +312,7 @@ test_that("attr, taxaid4", {
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
   
-  i <- 4 + 6
+  i <- 4# + 6
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
