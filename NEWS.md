@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-01-12 07:21:44
+    #> Last Update: 2023-01-23 16:12:43
+
+# BioMonTools_SupportFiles 0.0.1.9021
+
+Released - 2023-01-12
+
+- refactor: Update PacNW index class required field names
 
 # BioMonTools_SupportFiles 0.0.1.9020
 
