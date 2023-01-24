@@ -4,13 +4,22 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-01-23 16:12:43
+    #> Last Update: 2023-01-24 06:35:47
+
+# BioMonTools_SupportFiles 0.0.1.9022
+
+Released - 2023-01-24
+
+- refactor: Update PacNW index class required field names
+  - slope_nhd to pslope_nhd
 
 # BioMonTools_SupportFiles 0.0.1.9021
 
-Released - 2023-01-12
+Released - 2023-01-23
 
 - refactor: Update PacNW index class required field names
+  - GRADIENT to slope_nhd
+  - ELEVATION to elev_m
 
 # BioMonTools_SupportFiles 0.0.1.9020
 
