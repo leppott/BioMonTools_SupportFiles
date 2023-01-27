@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-01-24 06:35:47
+    #> Last Update: 2023-01-27 11:05:35
+
+# BioMonTools_SupportFiles 0.0.1.9023
+
+Released - 2023-01-27
+
+- refactor: Update project names in \_pick-files.xlsx for taxa translate
+  - OTU then project in parentheses
+  - Remove non-Pacific NW references
 
 # BioMonTools_SupportFiles 0.0.1.9022
 
