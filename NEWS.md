@@ -4,13 +4,19 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-01-27 11:05:35
+    #> Last Update: 2023-01-27 11:15:52
+
+# BioMonTools_SupportFiles 0.0.1.9024
+
+Released - 2023-01-27
+
+- refactor: Change project names in \_pick_files.xlsx for taxa translate
 
 # BioMonTools_SupportFiles 0.0.1.9023
 
 Released - 2023-01-27
 
-- refactor: Update project names in \_pick-files.xlsx for taxa translate
+- refactor: Update project names in \_pick_files.xlsx for taxa translate
   - OTU then project in parentheses
   - Remove non-Pacific NW references
 

@@ -17,11 +17,17 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9024
+===========
+Released - 2023-01-27
+
+* refactor: Change project names in _pick_files.xlsx for taxa translate
+
 BioMonTools_SupportFiles 0.0.1.9023
 ===========
 Released - 2023-01-27
 
-* refactor: Update project names in _pick-files.xlsx for taxa translate
+* refactor: Update project names in _pick_files.xlsx for taxa translate
     * OTU then project in parentheses
     * Remove non-Pacific NW references
 
