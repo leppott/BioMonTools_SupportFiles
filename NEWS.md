@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-01-27 11:15:52
+    #> Last Update: 2023-02-01 10:01:49
+
+# BioMonTools_SupportFiles 0.0.1.9025
+
+Released - 2023-02-01
+
+- refactor: Update ORWA attributes BCG_Attr blanks to NA
 
 # BioMonTools_SupportFiles 0.0.1.9024
 

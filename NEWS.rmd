@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9025
+===========
+Released - 2023-02-01
+
+* refactor: Update ORWA attributes BCG_Attr blanks to NA
+
 BioMonTools_SupportFiles 0.0.1.9024
 ===========
 Released - 2023-01-27
