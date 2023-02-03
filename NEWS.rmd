@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9026
+===========
+Released - 2023-02-03
+
+* refactor: Remove MBSS from Index Class file
+
 BioMonTools_SupportFiles 0.0.1.9025
 ===========
 Released - 2023-02-01

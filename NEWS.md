@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-02-01 10:01:49
+    #> Last Update: 2023-02-03 10:41:22
+
+# BioMonTools_SupportFiles 0.0.1.9026
+
+Released - 2023-02-03
+
+- refactor: Remove MBSS from Index Class file
 
 # BioMonTools_SupportFiles 0.0.1.9025
 
