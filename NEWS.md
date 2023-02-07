@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-02-07 07:38:11
+    #> Last Update: 2023-02-07 08:18:09
+
+# BioMonTools_SupportFiles 0.0.1.9028
+
+Released - 2023-02-07
+
+- fix: Update Fuzzy Thermal Ratings file
 
 # BioMonTools_SupportFiles 0.0.1.9027
 
