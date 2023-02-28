@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-02-07 08:18:09
+    #> Last Update: 2023-02-28 08:18:48
+
+# BioMonTools_SupportFiles 0.0.1.9029
+
+Released - 2023-02-28
+
+- refactor: Update taxa and attributes lists for mismatches
 
 # BioMonTools_SupportFiles 0.0.1.9028
 
