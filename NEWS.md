@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-02-28 08:18:48
+    #> Last Update: 2023-05-09 14:52:23.762123
+
+# BioMonTools_SupportFiles 0.0.1.9030
+
+Released - 2023-05-09
+
+- refactor: Update taxa for new data
+- tests: Partial update to tests to remove ‘DNI’ for mismatches
 
 # BioMonTools_SupportFiles 0.0.1.9029
 

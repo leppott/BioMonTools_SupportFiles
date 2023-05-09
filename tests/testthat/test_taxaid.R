@@ -72,9 +72,12 @@ test_that("trans, taxaid1", {
     i_taxaid <- df_pickfiles[i, "taxaid"]
     i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
     
+    # # Remove DNI
+    # df_i <- df_i[!df_i[, i_taxaid_match] == "DNI", ]
 
     n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid])
     n_match_QC <- length(unique(df_i[, i_taxaid_match]))
+  
     
     # show mismatches
     print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
