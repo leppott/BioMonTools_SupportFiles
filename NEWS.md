@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-05-09 14:52:23.762123
+    #> Last Update: 2023-05-19 12:38:53.763523
+
+# BioMonTools_SupportFiles 0.0.1.9031
+
+Released - 2023-05-09
+
+- refactor: Update pick list language
+  - Change ‘Pacific Northwest’ to ‘Oregon/Washington’
 
 # BioMonTools_SupportFiles 0.0.1.9030
 
