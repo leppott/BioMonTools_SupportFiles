@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9032
+===========
+Released - 2023-06-02
+
+* feature: Add BSTI to official taxa list
+
 BioMonTools_SupportFiles 0.0.1.9031
 ===========
 Released - 2023-05-09

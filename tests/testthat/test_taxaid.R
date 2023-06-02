@@ -2,9 +2,12 @@
 # Ensure each OTU is in the match column
 # 2022-12-13
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# 20230602, Added tests for BSTI (trans and attr)
+# could probably combine trans and attr individual tests into a single test each
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # duplicate names ----
-test_that("trans, dup1", {
+test_that("trans, dups1", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -59,7 +62,7 @@ test_that("attr, dups1", {
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # trans, taxaid ----
-test_that("trans, taxaid1", {
+test_that("trans, taxaid_1", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -101,7 +104,7 @@ test_that("trans, taxaid1", {
 })## Test ~ taxaid
     
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("trans, taxaid2", {
+test_that("trans, taxaid_2", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -131,7 +134,7 @@ test_that("trans, taxaid2", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("trans, taxaid3", {
+test_that("trans, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -161,7 +164,7 @@ test_that("trans, taxaid3", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("trans, taxaid4", {
+test_that("trans, taxaid_4", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -191,8 +194,38 @@ test_that("trans, taxaid4", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test_that("trans, taxaid_5", {
+  # data files
+  df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
+  fn_all <- df_pickfiles$filename
+  
+  i <- 5 #+ 6
+  
+  # for (i in seq_len(length(fn_all))) {
+  fn_i <- df_pickfiles[i , "filename"]
+  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  i_taxaid <- df_pickfiles[i, "taxaid"]
+  i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
+  
+  n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid])
+  n_match_QC <- length(unique(df_i[, i_taxaid_match]))
+  
+  # show mismatches
+  print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
+  i5 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
+                                         df_i[, i_taxaid]]
+  sort(i5)
+  
+  # test
+  testthat::expect_equivalent(n_match_calc, n_match_QC)
+  
+  # }## FOR ~ i
+  
+})## Test ~ taxaid
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # All missing taxa
-# sort(unique(c(i1, i2, i3, i4)))
+# sort(unique(c(i1, i2, i3, i4, i5)))
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # attr, taxaid ----
@@ -240,7 +273,7 @@ test_that("attr, taxaid1", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("attr, taxaid2", {
+test_that("attr, taxaid_2", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -275,7 +308,7 @@ test_that("attr, taxaid2", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("attr, taxaid3", {
+test_that("attr, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -310,7 +343,7 @@ test_that("attr, taxaid3", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("attr, taxaid4", {
+test_that("attr, taxaid_4", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -336,6 +369,41 @@ test_that("attr, taxaid4", {
   j4 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j4)
+  
+  # test
+  testthat::expect_equivalent(n_match_calc, n_match_QC)
+  
+  # }## FOR ~ i
+  
+})## Test ~ taxaid
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test_that("attr, taxaid_5", {
+  # data files
+  df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
+  fn_all <- df_pickfiles$filename
+  
+  i <- 5# + 6
+  
+  # for (i in seq_len(length(fn_all))) {
+  fn_i <- df_pickfiles[i , "filename"]
+  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  i_taxaid <- df_pickfiles[i, "taxaid"]
+  i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
+  
+  # attribute file
+  fn_j <- df_pickfiles[i , "attributes_filename"]
+  df_j <- read.csv(file.path("data", "taxa_official", fn_j))
+  j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
+  
+  n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
+  n_match_QC <- length(unique(df_i[, i_taxaid_match]))
+  
+  # show mismatches
+  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, "'"))
+  j5 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
+                                         df_j[, j_taxaid]]
+  sort(j5)
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)

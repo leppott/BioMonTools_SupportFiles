@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-05-19 12:38:53.763523
+    #> Last Update: 2023-06-02 14:27:48.621946
+
+# BioMonTools_SupportFiles 0.0.1.9032
+
+Released - 2023-06-02
+
+- feature: Add BSTI to official taxa list
 
 # BioMonTools_SupportFiles 0.0.1.9031
 
