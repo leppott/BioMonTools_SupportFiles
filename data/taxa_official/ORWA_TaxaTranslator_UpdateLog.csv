@@ -47,3 +47,6 @@ Date,TypeOfChange,Taxon_Group,Taxon_orig,NonTarget,Changed,Rationale,OTU_MTTI,OT
 20230508,addition,Trichoptera,Rhyacophila vofixa Group,FALSE,yes,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Vofixa Gr.,,,
 20230508,addition,Chironomidae,Tvetenia bavarica Group,FALSE,yes,formatting,Tvetenia,Tvetenia Bavarica Group,Tvetenia Bavarica Group,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Tvetenia,,Bavarica Gr.,,,
 20230508,addition,Plecoptera,Zapada oregonensis Group,FALSE,yes,Formatting,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Zapada,,Oregonensis Gr.,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,2023-06-02,Add BSTI column from Shannon,,,,,,,,,,,,,,,,,,,
+,,,,,,,,2023-06-05,Edit,New non-match (from Rob’s input file) = Orthocladius (Symposiocladius) sp. 2 (Bolton 2012) Translation = ‘Orthocladius (Symposiocladius)’ (copy the info from the existing entry,,,,,,,,,,,,,,,,,,

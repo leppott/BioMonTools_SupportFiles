@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-06-02 14:27:48.621946
+    #> Last Update: 2023-06-05 13:06:08.19765
+
+# BioMonTools_SupportFiles 0.0.1.9033
+
+Released - 2023-06-05
+
+- feature: Additional taxon for user to OR/WA list
 
 # BioMonTools_SupportFiles 0.0.1.9032
 
