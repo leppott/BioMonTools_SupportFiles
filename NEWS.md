@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-06-05 13:06:08.19765
+    #> Last Update: 2023-06-08 10:46:06.403059
+
+# BioMonTools_SupportFiles 0.0.1.9034
+
+Released - 2023-06-08
+
+- feature: Add Fuzzy Set to official taxa list
 
 # BioMonTools_SupportFiles 0.0.1.9033
 

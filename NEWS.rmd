@@ -16,6 +16,11 @@ knitr::opts_chunk$set(
 ```{r LastUpdate, echo = FALSE}
 cat(paste0("Last Update: ",Sys.time()))
 ```
+BioMonTools_SupportFiles 0.0.1.9034
+===========
+Released - 2023-06-08
+
+* feature: Add Fuzzy Set to official taxa list
 
 BioMonTools_SupportFiles 0.0.1.9033
 ===========
