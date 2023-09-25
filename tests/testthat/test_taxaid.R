@@ -5,6 +5,8 @@
 # 20230602, Added tests for BSTI (trans and attr)
 # could probably combine trans and attr individual tests into a single test each
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# OK if "DNI"
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # duplicate names ----
 test_that("trans, dups1", {
