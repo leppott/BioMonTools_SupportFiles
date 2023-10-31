@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-09-25 16:02:34.266775
+    #> Last Update: 2023-10-31 13:38:00.837177
+
+# BioMonTools_SupportFiles 0.0.1.9037
+
+Released - 2023-10-31
+
+- refactor: Update ORWA files
+- refactor: Update pick_files for new files
+- tests: Add ‘DNI’ to tests
 
 # BioMonTools_SupportFiles 0.0.1.9036
 

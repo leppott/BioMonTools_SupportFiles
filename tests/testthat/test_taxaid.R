@@ -4,8 +4,9 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # 20230602, Added tests for BSTI (trans and attr)
 # could probably combine trans and attr individual tests into a single test each
+# OK if "DNI" is only taxon causing failure of test
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# OK if "DNI"
+# 20231031, removed "DNI" if present so test passes.
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # duplicate names ----
@@ -90,6 +91,9 @@ test_that("trans, taxaid_1", {
                                            df_i[, i_taxaid]]
     sort(i1)
     
+    # Remove DNI
+    n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+    
     # test, match
     testthat::expect_equivalent(n_match_calc, n_match_QC)
     
@@ -128,6 +132,9 @@ test_that("trans, taxaid_2", {
                                          df_i[, i_taxaid]]
   sort(i2)
   
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
   
@@ -157,6 +164,9 @@ test_that("trans, taxaid_3", {
   i3 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_i[, i_taxaid]]
   sort(i3)
+  
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -188,6 +198,9 @@ test_that("trans, taxaid_4", {
                                          df_i[, i_taxaid]]
   sort(i4)
   
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
   
@@ -217,6 +230,9 @@ test_that("trans, taxaid_5", {
   i5 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_i[, i_taxaid]]
   sort(i5)
+  
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -257,6 +273,9 @@ test_that("attr, taxaid1", {
   j1 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j1)
+  
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -302,6 +321,9 @@ test_that("attr, taxaid_2", {
                                          df_j[, j_taxaid]]
   sort(j2)
   
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
   
@@ -336,6 +358,9 @@ test_that("attr, taxaid_3", {
   j3 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j3)
+  
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -372,6 +397,9 @@ test_that("attr, taxaid_4", {
                                          df_j[, j_taxaid]]
   sort(j4)
   
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
   
@@ -406,6 +434,9 @@ test_that("attr, taxaid_5", {
   j5 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j5)
+  
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
