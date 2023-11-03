@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-10-31 13:38:00.837177
+    #> Last Update: 2023-11-03 09:15:33.912117
+
+# BioMonTools_SupportFiles 0.0.1.9038
+
+Released - 2023-11-03
+
+- feature: Add dir_results to pick_files
+  - Allows for different folders for different calculations in
+    BioMonTools
 
 # BioMonTools_SupportFiles 0.0.1.9037
 

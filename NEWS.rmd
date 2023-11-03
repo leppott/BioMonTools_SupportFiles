@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9038
+===========
+Released - 2023-11-03
+
+* feature: Add dir_results to pick_files
+    + Allows for different folders for different calculations in BioMonTools
+
 BioMonTools_SupportFiles 0.0.1.9037
 ===========
 Released - 2023-10-31
