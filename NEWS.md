@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-11-03 14:40:36.587979
+    #> Last Update: 2023-11-21 07:41:35.236062
+
+# BioMonTools_SupportFiles 0.0.1.9040
+
+Released - 2023-11-21
+
+- feature: Add Red Lakes pick_files
 
 # BioMonTools_SupportFiles 0.0.1.9039
 

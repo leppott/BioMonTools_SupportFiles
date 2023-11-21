@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9040
+===========
+Released - 2023-11-21
+
+* feature: Add Red Lakes pick_files
+
 BioMonTools_SupportFiles 0.0.1.9039
 ===========
 Released - 2023-11-03
