@@ -1,0 +1,41 @@
+Taxon_Group,
+NonTarget,
+BenTaxaID,
+FinalID,
+TSN,"Taxonomic Serial Number - a unique, persistent, non-intelligent identifier for a scientific name in the context of the Integrated Taxonomic Information System (ITIS)."
+ParTSN,
+Phylum,taxonomic hierarchy
+SubPhylum,taxonomic hierarchy
+Class,taxonomic hierarchy
+SubClass,taxonomic hierarchy
+Order,taxonomic hierarchy
+SubOrder,taxonomic hierarchy
+Family,taxonomic hierarchy
+SubFamily,taxonomic hierarchy
+Tribe,taxonomic hierarchy
+Genus,taxonomic hierarchy
+SubGenus,taxonomic hierarchy
+Species,taxonomic hierarchy
+Variety,taxonomic hierarchy
+Rank,
+TolVal,
+TolValSource,
+FFG,
+FFGSource,
+Habit,
+HabitSource,
+InBenthics,
+AdminCheck,
+DateNameRevised,
+EnterDate,
+Comments,
+Terrestrial,
+BCG_Attr,"Biological Condition Gradient (BCG) taxa attribute assignments (1i, 1m, 2, 3, 4, 5, 6). 1i = sensitive specialist or regionally endemic; 1m = moderately tolerant specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = highly tolerant; 6 = nonnative"
+data_MN,
+BCG_Attr_NLF,
+BCG_Attr_Driftless,
+BCG_Attr_MN,
+BCG_Attr_GP,
+BCG_Attr_RR,
+BCG_Cool_8,
+BCG_Cold_9,
