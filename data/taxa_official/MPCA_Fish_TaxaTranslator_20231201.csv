@@ -1,203 +1,205 @@
 Taxon_Group,Taxon_orig,NonTarget,Rationale,FishTaxaID,FinalID,OTU_BCG,OTU_IBI,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species
-,,,,2,Atlantic Salmon,Atlantic Salmon,Atlantic Salmon,Salmo salar,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar
-,,,,19,Slimy Sculpin,Slimy Sculpin,Slimy Sculpin,Cottus cognatus,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus
-,,,,21,American brook lamprey,American brook lamprey,American brook lamprey,Lethenteron appendix,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lethenteron,appendix
-,,,,22,American eel,American eel,American eel,Anguilla rostrata,Animalia,Chordata,Osteichthyes,Anguilliformes,Anguillidae,Anguilla,rostrata
-,,,,23,Banded darter,Banded darter,Banded darter,Etheostoma zonale,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,zonale
-,,,,24,Banded killifish,Banded killifish,Banded killifish,Fundulus diaphanus,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,diaphanus
-,,,,25,Banded sunfish,Banded sunfish,Banded sunfish,Enneacanthus obesus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,obesus
-,,,,26,Black crappie,Black crappie,Black crappie,Pomoxis nigromaculatus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus
-,,,,27,western blacknose dace,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
-,,,,28,Bluegill,Bluegill,Bluegill,Lepomis macrochirus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,macrochirus
-,,,,29,Bluespotted sunfish,Bluespotted sunfish,Bluespotted sunfish,Enneacanthus gloriosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,gloriosus
-,,,,30,Bluntnose minnow,Bluntnose minnow,Bluntnose minnow,Pimephales notatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,notatus
-,,,,31,Brook lamprey,Brook lamprey,Brook lamprey,Lampetra,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,
-,,,,32,Brook trout,Brook trout,Brook trout,Salvelinus fontinalis,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,fontinalis
-,,,,33,Brown bullhead,Brown bullhead,Brown bullhead,Ameiurus nebulosus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,nebulosus
-,,,,34,Brown trout,Brown trout,Brown trout,Salmo trutta,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,trutta
-,,,,35,Central stoneroller,Central stoneroller,Central stoneroller,Campostoma anomalum,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,anomalum
-,,,,36,Chain pickerel,Chain pickerel,Chain pickerel,Esox niger,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,niger
-,,,,37,Channel catfish,Channel catfish,Channel catfish,Ictalurus punctatus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ictalurus,punctatus
-,,,,38,Checkered sculpin,Checkered sculpin,Checkered sculpin,Cottus sp.,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
-,,,,39,Comely shiner,Comely shiner,Comely shiner,Notropis amoenus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,amoenus
-,,,,40,Common carp,Common carp,Common carp,Cyrpinus carpio,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyrpinus,carpio
-,,,,41,Common shiner,Common shiner,Common shiner,Luxilus cornutus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
-,,,,42,Creek chub,Creek chub,Creek chub,Semotilus atromaculatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
-,,,,43,Creek chubsucker,Creek chubsucker,Creek chubsucker,Erimyzon oblongus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Erimyzon,oblongus
-,,,,44,Cutlips minnow,Cutlips minnow,Cutlips minnow,Exoglossum maxillingua,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Exoglossum,maxillingua
-,,,,45,Eastern Mosquitofish,Eastern Mosquitofish,Eastern Mosquitofish,Gambusia holbrooki,Animalia,Chordata,Osteichthyes,Atheriniformes,Poeciliidae,Gambusia,holbrooki
-,,,,46,Eastern mudminnow,Eastern mudminnow,Eastern mudminnow,Umbra pygmaea,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,pygmaea
-,,,,47,Eastern silvery minnow,Eastern silvery minnow,Eastern silvery minnow,Hybognathus regius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,regius
-,,,,48,Fallfish,Fallfish,Fallfish,Semotilus corporalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,corporalis
-,,,,49,Fantail darter,Fantail darter,Fantail darter,Etheostoma flabellare,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,flabellare
-,,,,50,Fathead minnow,Fathead minnow,Fathead minnow,Pimephales promelas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
-,,,,51,Flier,Flier,Flier,Centrarchus macropterus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Centrarchus,macropterus
-,,,,52,Gizzard shad,Gizzard shad,Gizzard shad,Dorosoma cepedianum,Animalia,Chordata,Osteichthyes,,Clupeidae,Dorosoma,cepedianum
-,,,,53,Glassy darter,Glassy darter,Glassy darter,Etheostoma vitreum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,vitreum
-,,,,54,Golden redhorse,Golden redhorse,Golden redhorse,Moxostoma erythrurum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,erythrurum
-,,,,55,Golden shiner,Golden shiner,Golden shiner,Notemigonus crysoleucas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas
-,,,,56,Goldfish,Goldfish,Goldfish,Carassius auratus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Carassius,auratus
-,,,,57,Green sunfish,Green sunfish,Green sunfish,Lepomis cyanellus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,cyanellus
-,,,,58,Greenside darter,Greenside darter,Greenside darter,Etheostoma blennioides,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,blennioides
-,,,,59,Inland silverside,Inland silverside,Inland silverside,Menidia beryllina,Animalia,Chordata,Osteichthyes,,Atherinidae,Menidia,beryllina
-,,,,60,Ironcolor shiner,Ironcolor shiner,Ironcolor shiner,Notropis chalybaeus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,chalybaeus
-,,,,61,Johnny darter,Johnny darter,Johnny darter,Etheostoma nigrum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
-,,,,62,Largemouth bass,Largemouth bass,Largemouth bass,Micropterus salmoides,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,salmoides
-,,,,63,Least brook lamprey,Least brook lamprey,Least brook lamprey,Lampetra aepyptera,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,aepyptera
-,,,,64,Logperch,Logperch,Logperch,Percina caprodes,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,caprodes
-,,,,65,northern sunfish,northern sunfish,northern sunfish,Lepomis megalotis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,megalotis
-,,,,66,Longnose dace,Longnose dace,Longnose dace,Rhinichthys cataractae,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae
-,,,,67,Longnose gar,Longnose gar,Longnose gar,Lepisosteus osseus,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus
-,,,,68,Margined madtom,Margined madtom,Margined madtom,Noturus insignis,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,insignis
-,,,,69,Mottled sculpin,Mottled sculpin,Mottled sculpin,Cottus bairdi,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,bairdi
-,,,,70,Mud sunfish,Mud sunfish,Mud sunfish,Acantharchus pomotis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Acantharchus,pomotis
-,,,,71,Mummichog,Mummichog,Mummichog,Fundulus heteroclitus,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,heteroclitus
-,,,,72,Northern hogsucker,Northern hogsucker,Northern hogsucker,Hypentelium nigricans,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Hypentelium,nigricans
-,,,,73,Northern pike,Northern pike,Northern pike,Esox lucius,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
-,,,,74,northern pearl dace,northern pearl dace,northern pearl dace,Margariscus margarita,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Margariscus,margarita
-,,,,75,Pirate perch,Pirate perch,Pirate perch,Aphredoderus sayanus,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus
-,,,,76,Potomic sculpin,Potomic sculpin,Potomic sculpin,Cottus girardi,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,girardi
-,,,,77,Pumpkinseed,Pumpkinseed,Pumpkinseed,Lepomis gibbosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gibbosus
-,,,,78,Rainbow trout,Rainbow trout,Rainbow trout,Oncorhynchus mykiss,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss
-,,,,79,Rainwater killifish,Rainwater killifish,Rainwater killifish,Lucania parva,Animalia,Chordata,Osteichthyes,,Fundulidae,Lucania,parva
-,,,,80,Redbreast sunfish,Redbreast sunfish,Redbreast sunfish,Lepomis auritus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,auritus
-,,,,81,Redfin pickerel,Redfin pickerel,Redfin pickerel,Esox americanus americanus,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,americanus americanus
-,,,,82,River chub,River chub,River chub,Nocomis micropogon,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,micropogon
-,,,,83,Rock bass,Rock bass,Rock bass,Ambloplites rupestris,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
-,,,,84,Rosyface shiner,Rosyface shiner,Rosyface shiner,Notropis rubellus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,rubellus
-,,,,85,Rosyside dace,Rosyside dace,Rosyside dace,Clinostomus funduloides,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,funduloides
-,,,,86,Satinfin shiner,Satinfin shiner,Satinfin shiner,Cyprinella analostana,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,analostana
-,,,,87,Shield darter,Shield darter,Shield darter,Percina peltata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,peltata
-,,,,88,Shorthead redhorse,Shorthead redhorse,Shorthead redhorse,Moxostoma macrolepidotum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum
-,,,,89,Silverjaw minnow,Silverjaw minnow,Silverjaw minnow,Notropis buccatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,buccatus
-,,,,91,Smallmouth bass,Smallmouth bass,Smallmouth bass,Micropterus dolomieu,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,dolomieu
-,,,,92,Spot,Spot,Spot,Leiostomus xanthurus,Animalia,Chordata,Osteichthyes,Perciformes,Sciaenidae,Leiostomus,xanthurus
-,,,,93,Spotfin shiner,Spotfin shiner,Spotfin shiner,Cyprinella spiloptera,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera
-,,,,94,Spottail shiner,Spottail shiner,Spottail shiner,Notropis hudsonius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,hudsonius
-,,,,95,Stonecat,Stonecat,Stonecat,Noturus flavus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,flavus
-,,,,96,Striped bass,Striped bass,Striped bass,Morone saxatilis,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,saxatilis
-,,,,97,Striped killifish,Striped killifish,Striped killifish,Fundulus majalis,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,majalis
-,,,,98,Striped shiner,Striped shiner,Striped shiner,Luxilus chrysocephalus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,chrysocephalus
-,,,,99,Swallowtail shiner,Swallowtail shiner,Swallowtail shiner,Notropis procne,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,procne
-,,,,100,Swamp darter,Swamp darter,Swamp darter,Etheostoma fusiforme,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,fusiforme
-,,,,101,Tadpole madtom,Tadpole madtom,Tadpole madtom,Noturus gyrinus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus
-,,,,102,Tesselated darter,Tesselated darter,Tesselated darter,Etheostoma olmstedi,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,olmstedi
-,,,,103,Warmouth,Warmouth,Warmouth,Lepomis gulosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus
-,,,,104,watercolumn fish,watercolumn fish,watercolumn fish,,Animalia,Chordata,Osteichthyes,,,,
-,,,,105,White catfish,White catfish,White catfish,Ameiurus catus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,catus
-,,,,106,White crappie,White crappie,White crappie,Pomoxis annularis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis
-,,,,107,White perch,White perch,White perch,Morone americana,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,americana
-,,,,108,White sucker,White sucker,White sucker,Catostomus commersoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
-,,,,109,Yellow bullhead,Yellow bullhead,Yellow bullhead,Ameiurus natalis,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,natalis
-,,,,110,Yellow perch,Yellow perch,Yellow perch,Perca flavescens,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
-,,,,111,bigmouth buffalo,bigmouth buffalo,bigmouth buffalo,Ictiobus cyprinellus,Animalia,,,,,Ictiobus,cyprinellus
-,,,,112,bigmouth shiner,bigmouth shiner,bigmouth shiner,Notropis dorsalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,dorsalis
-,,,,113,black buffalo,black buffalo,black buffalo,Ictiobus niger,Animalia,,,,,Ictiobus,niger
-,,,,114,black bullhead,black bullhead,black bullhead,Ameiurus melas,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,melas
-,,,,115,black redhorse,black redhorse,black redhorse,Moxostoma duquesnei,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,duquesnei
-,,,,116,blackchin shiner,blackchin shiner,blackchin shiner,Notropis heterodon,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterodon
-,,,,117,blacknose shiner,blacknose shiner,blacknose shiner,Notropis heterolepis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterolepis
-,,,,118,blackside darter,blackside darter,blackside darter,Percina maculata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
-,,,,119,blue sucker,blue sucker,blue sucker,Cycleptus elongatus,Animalia,,,,,Cycleptus,elongatus
-,,,,120,bowfin,bowfin,bowfin,Amia calva,Animalia,,,,,Amia,calva
-,,,,121,brassy minnow,brassy minnow,brassy minnow,Hybognathus hankinsoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,hankinsoni
-,,,,122,brook silverside,brook silverside,brook silverside,Labidesthes sicculus,Animalia,,,,,Labidesthes,sicculus
-,,,,123,brook stickleback,brook stickleback,brook stickleback,Culaea inconstans,Animalia,,,,,Culaea,inconstans
-,,,,124,bullhead minnow,bullhead minnow,bullhead minnow,Pimephales vigilax,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,vigilax
-,,,,125,burbot,burbot,burbot,Lota lota,Animalia,,,,,Lota,lota
-,,,,126,carmine shiner,carmine shiner,carmine shiner,Notropis percobromus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
-,,,,127,central mudminnow,central mudminnow,central mudminnow,Umbra limi,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
-,,,,128,channel shiner,channel shiner,channel shiner,Notropis wickliffi,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,wickliffi
-,,,,129,chestnut lamprey,chestnut lamprey,chestnut lamprey,Ichthyomyzon castaneus,Animalia,,,,,Ichthyomyzon,castaneus
-,,,,130,chinook salmon,chinook salmon,chinook salmon,Oncorhynchus tshawytscha,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,tshawytscha
-,,,,131,coho salmon,coho salmon,coho salmon,Oncorhynchus kisutch,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,kisutch
-,,,,132,crystal darter,crystal darter,crystal darter,Crystallaria asprella,Animalia,,,,,Crystallaria,asprella
-,,,,133,emerald shiner,emerald shiner,emerald shiner,Notropis atherinoides,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,atherinoides
-,,,,134,Fam: herrings,Fam: herrings,Fam: herrings,Clupeidae ,Animalia,Chordata,Osteichthyes,,Clupeidae,,
-,,,,135,Fam: lamprey,Fam: lamprey,Fam: lamprey,Petromyzontidae ,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
-,,,,136,Fam: minnows,Fam: minnows,Fam: minnows,Cyprinidae ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,,
-,,,,137,Fam: trout,Fam: trout,Fam: trout,Salmonidae ,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,,
-,,,,138,finescale dace,finescale dace,finescale dace,Phoxinus neogaeus,Animalia,,,,,Phoxinus,neogaeus
-,,,,139,flathead catfish,flathead catfish,flathead catfish,Pylodictis olivaris,Animalia,,,,,Pylodictis,olivaris
-,,,,140,freshwater drum,freshwater drum,freshwater drum,Aplodinotus grunniens,Animalia,,,,,Aplodinotus,grunniens
-,,,,141,Gen: buffalos,Gen: buffalos,Gen: buffalos,Ictiobus ,Animalia,,,,,Ictiobus,
-,,,,142,Gen: bullheads,Gen: bullheads,Gen: bullheads,Ameiurus ,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,
-,,,,143,Gen: carpsuckers,Gen: carpsuckers,Gen: carpsuckers,Carpiodes ,Animalia,,,,,Carpiodes,
-,,,,144,Gen: Catostomus,Gen: Catostomus,Gen: Catostomus,Catostomus ,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,
-,,,,145,Gen: common sunfishes,Gen: common sunfishes,Gen: common sunfishes,Lepomis ,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,
-,,,,146,Gen: Etheostoma,Gen: Etheostoma,Gen: Etheostoma,Etheostoma ,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,
-,,,,147,Gen: Notropis,Gen: Notropis,Gen: Notropis,Notropis ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,
-,,,,148,Gen: Percina,Gen: Percina,Gen: Percina,Percina ,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,
-,,,,149,Gen: Chrosomus,Gen: Chrosomus,Gen: Chrosomus,Chrosomus,Animalia,,,,,Chrosomus,
-,,,,150,Gen: redhorses,Gen: redhorses,Gen: redhorses,Moxostoma ,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,
-,,,,151,Gen: sculpins,Gen: sculpins,Gen: sculpins,Cottus ,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
-,,,,152,Gen: stonerollers,Gen: stonerollers,Gen: stonerollers,Campostoma ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,
-,,,,153,gilt darter,gilt darter,gilt darter,Percina evides,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,evides
-,,,,154,goldeye,goldeye,goldeye,Hiodon alosoides,Animalia,,,,,Hiodon,alosoides
-,,,,155,grass carp,grass carp,grass carp,Ctenopharyngodon idella,Animalia,,,,,Ctenopharyngodon,idella
-,,,,156,gravel chub,gravel chub,gravel chub,Erimystax x-punctatus,Animalia,,,,,Erimystax,x-punctatus
-,,,,157,greater redhorse,greater redhorse,greater redhorse,Moxostoma valenciennesi,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,valenciennesi
-,,,,158,highfin carpsucker,highfin carpsucker,highfin carpsucker,Carpiodes velifer,Animalia,,,,,Carpiodes,velifer
-,,,,159,hornyhead chub,hornyhead chub,hornyhead chub,Nocomis biguttatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
-,,,,160,hybrid minnow,hybrid minnow,hybrid minnow,Cyprinidae hybrid,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,hybrid,
-,,,,161,hybrid Chrosomus,hybrid Chrosomus,hybrid Chrosomus,Chrosomus hybrid,Animalia,,,,,Chrosomus,hybrid
-,,,,162,hybrid sunfish,hybrid sunfish,hybrid sunfish,Lepomis hybrid,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,hybrid
-,,,,163,Iowa darter,Iowa darter,Iowa darter,Etheostoma exile,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,exile
-,,,,164,lake chub,lake chub,lake chub,Couesius plumbeus,Animalia,,,,,Couesius,plumbeus
-,,,,165,lake herring,lake herring,lake herring,Coregonus artedi,Animalia,,,,,Coregonus,artedi
-,,,,166,lake sturgeon,lake sturgeon,lake sturgeon,Acipenser fulvescens,Animalia,,,,,Acipenser,fulvescens
-,,,,167,lamprey ammocoete,lamprey ammocoete,lamprey ammocoete,Petromyzontidae larvae,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,larvae,
-,,,,168,largescale stoneroller,largescale stoneroller,largescale stoneroller,Campostoma oligolepis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,oligolepis
-,,,,169,least darter,least darter,least darter,Etheostoma microperca,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,microperca
-,,,,170,longnose sucker,longnose sucker,longnose sucker,Catostomus catostomus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,catostomus
-,,,,171,mimic shiner,mimic shiner,mimic shiner,Notropis volucellus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,volucellus
-,,,,172,Mississippi silvery minnow,Mississippi silvery minnow,Mississippi silvery minnow,Hybognathus nuchalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,nuchalis
-,,,,173,mooneye,mooneye,mooneye,Hiodon tergisus,Animalia,,,,,Hiodon,tergisus
-,,,,174,mud darter,mud darter,mud darter,Etheostoma asprigene,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,asprigene
-,,,,175,muskellunge,muskellunge,muskellunge,Esox masquinongy,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,masquinongy
-,,,,176,ninespine stickleback,ninespine stickleback,ninespine stickleback,Pungitius pungitius,Animalia,,,,,Pungitius,pungitius
-,,,,177,northern brook lamprey,northern brook lamprey,northern brook lamprey,Ichthyomyzon fossor,Animalia,,,,,Ichthyomyzon,fossor
-,,,,178,northern redbelly dace,northern redbelly dace,northern redbelly dace,Phoxinus eos,Animalia,,,,,Phoxinus,eos
-,,,,179,orangespotted sunfish,orangespotted sunfish,orangespotted sunfish,Lepomis humilis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,humilis
-,,,,180,Ozark minnow,Ozark minnow,Ozark minnow,Notropis nubilus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,nubilus
-,,,,181,pink salmon,pink salmon,pink salmon,Oncorhynchus gorbuscha,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,gorbuscha
-,,,,182,plains topminnow,plains topminnow,plains topminnow,Fundulus sciadicus,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,sciadicus
-,,,,183,pugnose minnow,pugnose minnow,pugnose minnow,Opsopoeodus emiliae,Animalia,,,,,Opsopoeodus,emiliae
-,,,,184,pugnose shiner,pugnose shiner,pugnose shiner,Notropis anogenus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,anogenus
-,,,,185,quillback,quillback,quillback,Carpiodes cyprinus,Animalia,,,,,Carpiodes,cyprinus
-,,,,186,rainbow darter,rainbow darter,rainbow darter,Etheostoma caeruleum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,caeruleum
-,,,,187,rainbow smelt,rainbow smelt,rainbow smelt,Osmerus mordax,Animalia,,,,,Osmerus,mordax
-,,,,188,red shiner,red shiner,red shiner,Cyprinella lutrensis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,lutrensis
-,,,,189,redfin shiner,redfin shiner,redfin shiner,Lythrurus umbratilis,Animalia,,,,,Lythrurus,umbratilis
-,,,,190,redside dace,redside dace,redside dace,Clinostomus elongatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,elongatus
-,,,,191,river carpsucker,river carpsucker,river carpsucker,Carpiodes carpio,Animalia,,,,,Carpiodes,carpio
-,,,,192,river darter,river darter,river darter,Percina shumardi,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,shumardi
-,,,,193,river redhorse,river redhorse,river redhorse,Moxostoma carinatum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
-,,,,194,river shiner,river shiner,river shiner,Notropis blennius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,blennius
-,,,,195,ruffe,ruffe,ruffe,Gymnocephalus cernuus,Animalia,,,,,Gymnocephalus,cernuus
-,,,,196,sand shiner,sand shiner,sand shiner,Notropis stramineus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,stramineus
-,,,,197,sauger,sauger,sauger,Sander canadensis,Animalia,,,,,Sander,canadensis
-,,,,198,sea lamprey,sea lamprey,sea lamprey,Petromyzon marinus,Animalia,,,,,Petromyzon,marinus
-,,,,199,shoal chub,shoal chub,shoal chub,Macrhybopsis hyostoma,Animalia,,,,,Macrhybopsis,hyostoma
-,,,,200,shortnose gar,shortnose gar,shortnose gar,Lepisosteus platostomus,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,platostomus
-,,,,201,shovelnose sturgeon,shovelnose sturgeon,shovelnose sturgeon,Scaphirhynchus platorynchus,Animalia,,,,,Scaphirhynchus,platorynchus
-,,,,202,silver chub,silver chub,silver chub,Macrhybopsis storeriana,Animalia,,,,,Macrhybopsis,storeriana
-,,,,203,silver lamprey,silver lamprey,silver lamprey,Ichthyomyzon unicuspis,Animalia,,,,,Ichthyomyzon,unicuspis
-,,,,204,silver redhorse,silver redhorse,silver redhorse,Moxostoma anisurum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,anisurum
-,,,,205,slenderhead darter,slenderhead darter,slenderhead darter,Percina phoxocephala,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,phoxocephala
-,,,,206,smallmouth buffalo,smallmouth buffalo,smallmouth buffalo,Ictiobus bubalus,Animalia,,,,,Ictiobus,bubalus
-,,,,207,southern brook lamprey,southern brook lamprey,southern brook lamprey,Ichthyomyzon gagei,Animalia,,,,,Ichthyomyzon,gagei
-,,,,208,southern redbelly dace,southern redbelly dace,southern redbelly dace,Phoxinus erythrogaster,Animalia,,,,,Phoxinus,erythrogaster
-,,,,209,splake,splake,splake,Salvelinus hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,hybrid
-,,,,210,spotted sucker,spotted sucker,spotted sucker,Minytrema melanops,Animalia,,,,,Minytrema,melanops
-,,,,211,SubFam: salmonids,SubFam: salmonids,SubFam: salmonids,Salmoninae ,Animalia,,,,,Salmoninae,
-,,,,212,suckermouth minnow,suckermouth minnow,suckermouth minnow,Phenacobius mirabilis,Animalia,,,,,Phenacobius,mirabilis
-,,,,213,threespine stickleback,threespine stickleback,threespine stickleback,Gasterosteus aculeatus,Animalia,,,,,Gasterosteus,aculeatus
-,,,,214,tiger musky,tiger musky,tiger musky,Esox hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,hybrid
-,,,,215,tiger trout,tiger trout,tiger trout,Salmonidae hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,hybrid,
-,,,,216,Topeka shiner,Topeka shiner,Topeka shiner,Notropis topeka,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,topeka
-,,,,217,trout-perch,trout-perch,trout-perch,Percopsis omiscomaycus,Animalia,,,,,Percopsis,omiscomaycus
-,,,,218,walleye,walleye,walleye,Sander vitreus,Animalia,,,,,Sander,vitreus
-,,,,219,weed shiner,weed shiner,weed shiner,Notropis texanus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,texanus
-,,,,220,western sand darter,western sand darter,western sand darter,Ammocrypta clara,Animalia,,,,,Ammocrypta,clara
-,,,,221,white bass,white bass,white bass,Morone chrysops,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops
+,,,MN Access,2,Atlantic Salmon,Atlantic Salmon,Atlantic Salmon,Salmo salar,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar
+,,,MN Access,19,Slimy Sculpin,Slimy Sculpin,Slimy Sculpin,Cottus cognatus,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus
+,,,MN Access,21,American brook lamprey,American brook lamprey,American brook lamprey,Lethenteron appendix,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lethenteron,appendix
+,,,MN Access,22,American eel,American eel,American eel,Anguilla rostrata,Animalia,Chordata,Osteichthyes,Anguilliformes,Anguillidae,Anguilla,rostrata
+,,,MN Access,23,Banded darter,Banded darter,Banded darter,Etheostoma zonale,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,zonale
+,,,MN Access,24,Banded killifish,Banded killifish,Banded killifish,Fundulus diaphanus,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,diaphanus
+,,,MN Access,25,Banded sunfish,Banded sunfish,Banded sunfish,Enneacanthus obesus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,obesus
+,,,MN Access,26,Black crappie,Black crappie,Black crappie,Pomoxis nigromaculatus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus
+,,,MN Access,27,western blacknose dace,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+,,,MN Access,28,Bluegill,Bluegill,Bluegill,Lepomis macrochirus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,macrochirus
+,,,MN Access,29,Bluespotted sunfish,Bluespotted sunfish,Bluespotted sunfish,Enneacanthus gloriosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,gloriosus
+,,,MN Access,30,Bluntnose minnow,Bluntnose minnow,Bluntnose minnow,Pimephales notatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,notatus
+,,,MN Access,31,Brook lamprey,Brook lamprey,Brook lamprey,Lampetra,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,
+,,,MN Access,32,Brook trout,Brook trout,Brook trout,Salvelinus fontinalis,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,fontinalis
+,,,MN Access,33,Brown bullhead,Brown bullhead,Brown bullhead,Ameiurus nebulosus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,nebulosus
+,,,MN Access,34,Brown trout,Brown trout,Brown trout,Salmo trutta,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,trutta
+,,,MN Access,35,Central stoneroller,Central stoneroller,Central stoneroller,Campostoma anomalum,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,anomalum
+,,,MN Access,36,Chain pickerel,Chain pickerel,Chain pickerel,Esox niger,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,niger
+,,,MN Access,37,Channel catfish,Channel catfish,Channel catfish,Ictalurus punctatus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ictalurus,punctatus
+,,,MN Access,38,Checkered sculpin,Checkered sculpin,Checkered sculpin,Cottus sp.,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
+,,,MN Access,39,Comely shiner,Comely shiner,Comely shiner,Notropis amoenus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,amoenus
+,,,MN Access,40,Common carp,Common carp,Common carp,Cyrpinus carpio,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyrpinus,carpio
+,,,MN Access,41,Common shiner,Common shiner,Common shiner,Luxilus cornutus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+,,,MN Access,42,Creek chub,Creek chub,Creek chub,Semotilus atromaculatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+,,,MN Access,43,Creek chubsucker,Creek chubsucker,Creek chubsucker,Erimyzon oblongus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Erimyzon,oblongus
+,,,MN Access,44,Cutlips minnow,Cutlips minnow,Cutlips minnow,Exoglossum maxillingua,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Exoglossum,maxillingua
+,,,MN Access,45,Eastern Mosquitofish,Eastern Mosquitofish,Eastern Mosquitofish,Gambusia holbrooki,Animalia,Chordata,Osteichthyes,Atheriniformes,Poeciliidae,Gambusia,holbrooki
+,,,MN Access,46,Eastern mudminnow,Eastern mudminnow,Eastern mudminnow,Umbra pygmaea,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,pygmaea
+,,,MN Access,47,Eastern silvery minnow,Eastern silvery minnow,Eastern silvery minnow,Hybognathus regius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,regius
+,,,MN Access,48,Fallfish,Fallfish,Fallfish,Semotilus corporalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,corporalis
+,,,MN Access,49,Fantail darter,Fantail darter,Fantail darter,Etheostoma flabellare,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,flabellare
+,,,MN Access,50,Fathead minnow,Fathead minnow,Fathead minnow,Pimephales promelas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+,,,MN Access,51,Flier,Flier,Flier,Centrarchus macropterus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Centrarchus,macropterus
+,,,MN Access,52,Gizzard shad,Gizzard shad,Gizzard shad,Dorosoma cepedianum,Animalia,Chordata,Osteichthyes,,Clupeidae,Dorosoma,cepedianum
+,,,MN Access,53,Glassy darter,Glassy darter,Glassy darter,Etheostoma vitreum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,vitreum
+,,,MN Access,54,Golden redhorse,Golden redhorse,Golden redhorse,Moxostoma erythrurum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,erythrurum
+,,,MN Access,55,Golden shiner,Golden shiner,Golden shiner,Notemigonus crysoleucas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas
+,,,MN Access,56,Goldfish,Goldfish,Goldfish,Carassius auratus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Carassius,auratus
+,,,MN Access,57,Green sunfish,Green sunfish,Green sunfish,Lepomis cyanellus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,cyanellus
+,,,MN Access,58,Greenside darter,Greenside darter,Greenside darter,Etheostoma blennioides,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,blennioides
+,,,MN Access,59,Inland silverside,Inland silverside,Inland silverside,Menidia beryllina,Animalia,Chordata,Osteichthyes,,Atherinidae,Menidia,beryllina
+,,,MN Access,60,Ironcolor shiner,Ironcolor shiner,Ironcolor shiner,Notropis chalybaeus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,chalybaeus
+,,,MN Access,61,Johnny darter,Johnny darter,Johnny darter,Etheostoma nigrum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+,,,MN Access,62,Largemouth bass,Largemouth bass,Largemouth bass,Micropterus salmoides,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,salmoides
+,,,MN Access,63,Least brook lamprey,Least brook lamprey,Least brook lamprey,Lampetra aepyptera,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,aepyptera
+,,,MN Access,64,Logperch,Logperch,Logperch,Percina caprodes,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,caprodes
+,,,MN Access,65,northern sunfish,northern sunfish,northern sunfish,Lepomis megalotis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,megalotis
+,,,MN Access,66,Longnose dace,Longnose dace,Longnose dace,Rhinichthys cataractae,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae
+,,,MN Access,67,Longnose gar,Longnose gar,Longnose gar,Lepisosteus osseus,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus
+,,,MN Access,68,Margined madtom,Margined madtom,Margined madtom,Noturus insignis,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,insignis
+,,,MN Access,69,Mottled sculpin,Mottled sculpin,Mottled sculpin,Cottus bairdi,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,bairdi
+,,,MN Access,70,Mud sunfish,Mud sunfish,Mud sunfish,Acantharchus pomotis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Acantharchus,pomotis
+,,,MN Access,71,Mummichog,Mummichog,Mummichog,Fundulus heteroclitus,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,heteroclitus
+,,,MN Access,72,Northern hogsucker,Northern hogsucker,Northern hogsucker,Hypentelium nigricans,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Hypentelium,nigricans
+,,,MN Access,73,Northern pike,Northern pike,Northern pike,Esox lucius,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+,,,MN Access,74,northern pearl dace,northern pearl dace,northern pearl dace,Margariscus margarita,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Margariscus,margarita
+,,,MN Access,75,Pirate perch,Pirate perch,Pirate perch,Aphredoderus sayanus,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus
+,,,MN Access,76,Potomic sculpin,Potomic sculpin,Potomic sculpin,Cottus girardi,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,girardi
+,,,MN Access,77,Pumpkinseed,Pumpkinseed,Pumpkinseed,Lepomis gibbosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gibbosus
+,,,MN Access,78,Rainbow trout,Rainbow trout,Rainbow trout,Oncorhynchus mykiss,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss
+,,,MN Access,79,Rainwater killifish,Rainwater killifish,Rainwater killifish,Lucania parva,Animalia,Chordata,Osteichthyes,,Fundulidae,Lucania,parva
+,,,MN Access,80,Redbreast sunfish,Redbreast sunfish,Redbreast sunfish,Lepomis auritus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,auritus
+,,,MN Access,81,Redfin pickerel,Redfin pickerel,Redfin pickerel,Esox americanus americanus,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,americanus americanus
+,,,MN Access,82,River chub,River chub,River chub,Nocomis micropogon,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,micropogon
+,,,MN Access,83,Rock bass,Rock bass,Rock bass,Ambloplites rupestris,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+,,,MN Access,84,Rosyface shiner,Rosyface shiner,Rosyface shiner,Notropis rubellus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,rubellus
+,,,MN Access,85,Rosyside dace,Rosyside dace,Rosyside dace,Clinostomus funduloides,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,funduloides
+,,,MN Access,86,Satinfin shiner,Satinfin shiner,Satinfin shiner,Cyprinella analostana,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,analostana
+,,,MN Access,87,Shield darter,Shield darter,Shield darter,Percina peltata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,peltata
+,,,MN Access,88,Shorthead redhorse,Shorthead redhorse,Shorthead redhorse,Moxostoma macrolepidotum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum
+,,,MN Access,89,Silverjaw minnow,Silverjaw minnow,Silverjaw minnow,Notropis buccatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,buccatus
+,,,MN Access,91,Smallmouth bass,Smallmouth bass,Smallmouth bass,Micropterus dolomieu,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,dolomieu
+,,,MN Access,92,Spot,Spot,Spot,Leiostomus xanthurus,Animalia,Chordata,Osteichthyes,Perciformes,Sciaenidae,Leiostomus,xanthurus
+,,,MN Access,93,Spotfin shiner,Spotfin shiner,Spotfin shiner,Cyprinella spiloptera,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera
+,,,MN Access,94,Spottail shiner,Spottail shiner,Spottail shiner,Notropis hudsonius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,hudsonius
+,,,MN Access,95,Stonecat,Stonecat,Stonecat,Noturus flavus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,flavus
+,,,MN Access,96,Striped bass,Striped bass,Striped bass,Morone saxatilis,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,saxatilis
+,,,MN Access,97,Striped killifish,Striped killifish,Striped killifish,Fundulus majalis,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,majalis
+,,,MN Access,98,Striped shiner,Striped shiner,Striped shiner,Luxilus chrysocephalus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,chrysocephalus
+,,,MN Access,99,Swallowtail shiner,Swallowtail shiner,Swallowtail shiner,Notropis procne,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,procne
+,,,MN Access,100,Swamp darter,Swamp darter,Swamp darter,Etheostoma fusiforme,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,fusiforme
+,,,MN Access,101,Tadpole madtom,Tadpole madtom,Tadpole madtom,Noturus gyrinus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus
+,,,MN Access,102,Tesselated darter,Tesselated darter,Tesselated darter,Etheostoma olmstedi,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,olmstedi
+,,,MN Access,103,Warmouth,Warmouth,Warmouth,Lepomis gulosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus
+,,,MN Access,104,watercolumn fish,watercolumn fish,watercolumn fish,,Animalia,Chordata,Osteichthyes,,,,
+,,,MN Access,105,White catfish,White catfish,White catfish,Ameiurus catus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,catus
+,,,MN Access,106,White crappie,White crappie,White crappie,Pomoxis annularis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis
+,,,MN Access,107,White perch,White perch,White perch,Morone americana,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,americana
+,,,MN Access,108,White sucker,White sucker,White sucker,Catostomus commersoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+,,,MN Access,109,Yellow bullhead,Yellow bullhead,Yellow bullhead,Ameiurus natalis,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,natalis
+,,,MN Access,110,Yellow perch,Yellow perch,Yellow perch,Perca flavescens,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+,,,MN Access,111,bigmouth buffalo,bigmouth buffalo,bigmouth buffalo,Ictiobus cyprinellus,Animalia,,,,,Ictiobus,cyprinellus
+,,,MN Access,112,bigmouth shiner,bigmouth shiner,bigmouth shiner,Notropis dorsalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,dorsalis
+,,,MN Access,113,black buffalo,black buffalo,black buffalo,Ictiobus niger,Animalia,,,,,Ictiobus,niger
+,,,MN Access,114,black bullhead,black bullhead,black bullhead,Ameiurus melas,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,melas
+,,,MN Access,115,black redhorse,black redhorse,black redhorse,Moxostoma duquesnei,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,duquesnei
+,,,MN Access,116,blackchin shiner,blackchin shiner,blackchin shiner,Notropis heterodon,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterodon
+,,,MN Access,117,blacknose shiner,blacknose shiner,blacknose shiner,Notropis heterolepis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterolepis
+,,,MN Access,118,blackside darter,blackside darter,blackside darter,Percina maculata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
+,,,MN Access,119,blue sucker,blue sucker,blue sucker,Cycleptus elongatus,Animalia,,,,,Cycleptus,elongatus
+,,,MN Access,120,bowfin,bowfin,bowfin,Amia calva,Animalia,,,,,Amia,calva
+,,,MN Access,121,brassy minnow,brassy minnow,brassy minnow,Hybognathus hankinsoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,hankinsoni
+,,,MN Access,122,brook silverside,brook silverside,brook silverside,Labidesthes sicculus,Animalia,,,,,Labidesthes,sicculus
+,,,MN Access,123,brook stickleback,brook stickleback,brook stickleback,Culaea inconstans,Animalia,,,,,Culaea,inconstans
+,,,MN Access,124,bullhead minnow,bullhead minnow,bullhead minnow,Pimephales vigilax,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,vigilax
+,,,MN Access,125,burbot,burbot,burbot,Lota lota,Animalia,,,,,Lota,lota
+,,,MN Access,126,carmine shiner,carmine shiner,carmine shiner,Notropis percobromus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
+,,,MN Access,127,central mudminnow,central mudminnow,central mudminnow,Umbra limi,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
+,,,MN Access,128,channel shiner,channel shiner,channel shiner,Notropis wickliffi,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,wickliffi
+,,,MN Access,129,chestnut lamprey,chestnut lamprey,chestnut lamprey,Ichthyomyzon castaneus,Animalia,,,,,Ichthyomyzon,castaneus
+,,,MN Access,130,chinook salmon,chinook salmon,chinook salmon,Oncorhynchus tshawytscha,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,tshawytscha
+,,,MN Access,131,coho salmon,coho salmon,coho salmon,Oncorhynchus kisutch,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,kisutch
+,,,MN Access,132,crystal darter,crystal darter,crystal darter,Crystallaria asprella,Animalia,,,,,Crystallaria,asprella
+,,,MN Access,133,emerald shiner,emerald shiner,emerald shiner,Notropis atherinoides,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,atherinoides
+,,,MN Access,134,Fam: herrings,Fam: herrings,Fam: herrings,Clupeidae ,Animalia,Chordata,Osteichthyes,,Clupeidae,,
+,,,MN Access,135,Fam: lamprey,Fam: lamprey,Fam: lamprey,Petromyzontidae ,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+,,,MN Access,136,Fam: minnows,Fam: minnows,Fam: minnows,Cyprinidae ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,,
+,,,MN Access,137,Fam: trout,Fam: trout,Fam: trout,Salmonidae ,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,,
+,,,MN Access,138,finescale dace,finescale dace,finescale dace,Phoxinus neogaeus,Animalia,,,,,Phoxinus,neogaeus
+,,,MN Access,139,flathead catfish,flathead catfish,flathead catfish,Pylodictis olivaris,Animalia,,,,,Pylodictis,olivaris
+,,,MN Access,140,freshwater drum,freshwater drum,freshwater drum,Aplodinotus grunniens,Animalia,,,,,Aplodinotus,grunniens
+,,,MN Access,141,Gen: buffalos,Gen: buffalos,Gen: buffalos,Ictiobus ,Animalia,,,,,Ictiobus,
+,,,MN Access,142,Gen: bullheads,Gen: bullheads,Gen: bullheads,Ameiurus ,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,
+,,,MN Access,143,Gen: carpsuckers,Gen: carpsuckers,Gen: carpsuckers,Carpiodes ,Animalia,,,,,Carpiodes,
+,,,MN Access,144,Gen: Catostomus,Gen: Catostomus,Gen: Catostomus,Catostomus ,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,
+,,,MN Access,145,Gen: common sunfishes,Gen: common sunfishes,Gen: common sunfishes,Lepomis ,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,
+,,,MN Access,146,Gen: Etheostoma,Gen: Etheostoma,Gen: Etheostoma,Etheostoma ,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,
+,,,MN Access,147,Gen: Notropis,Gen: Notropis,Gen: Notropis,Notropis ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,
+,,,MN Access,148,Gen: Percina,Gen: Percina,Gen: Percina,Percina ,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,
+,,,MN Access,149,Gen: Chrosomus,Gen: Chrosomus,Gen: Chrosomus,Chrosomus,Animalia,,,,,Chrosomus,
+,,,MN Access,150,Gen: redhorses,Gen: redhorses,Gen: redhorses,Moxostoma ,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,
+,,,MN Access,151,Gen: sculpins,Gen: sculpins,Gen: sculpins,Cottus ,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
+,,,MN Access,152,Gen: stonerollers,Gen: stonerollers,Gen: stonerollers,Campostoma ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,
+,,,MN Access,153,gilt darter,gilt darter,gilt darter,Percina evides,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,evides
+,,,MN Access,154,goldeye,goldeye,goldeye,Hiodon alosoides,Animalia,,,,,Hiodon,alosoides
+,,,MN Access,155,grass carp,grass carp,grass carp,Ctenopharyngodon idella,Animalia,,,,,Ctenopharyngodon,idella
+,,,MN Access,156,gravel chub,gravel chub,gravel chub,Erimystax x-punctatus,Animalia,,,,,Erimystax,x-punctatus
+,,,MN Access,157,greater redhorse,greater redhorse,greater redhorse,Moxostoma valenciennesi,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,valenciennesi
+,,,MN Access,158,highfin carpsucker,highfin carpsucker,highfin carpsucker,Carpiodes velifer,Animalia,,,,,Carpiodes,velifer
+,,,MN Access,159,hornyhead chub,hornyhead chub,hornyhead chub,Nocomis biguttatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
+,,,MN Access,160,hybrid minnow,hybrid minnow,hybrid minnow,Cyprinidae hybrid,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,hybrid,
+,,,MN Access,161,hybrid Chrosomus,hybrid Chrosomus,hybrid Chrosomus,Chrosomus hybrid,Animalia,,,,,Chrosomus,hybrid
+,,,MN Access,162,hybrid sunfish,hybrid sunfish,hybrid sunfish,Lepomis hybrid,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,hybrid
+,,,MN Access,163,Iowa darter,Iowa darter,Iowa darter,Etheostoma exile,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,exile
+,,,MN Access,164,lake chub,lake chub,lake chub,Couesius plumbeus,Animalia,,,,,Couesius,plumbeus
+,,,MN Access,165,lake herring,lake herring,lake herring,Coregonus artedi,Animalia,,,,,Coregonus,artedi
+,,,MN Access,166,lake sturgeon,lake sturgeon,lake sturgeon,Acipenser fulvescens,Animalia,,,,,Acipenser,fulvescens
+,,,MN Access,167,lamprey ammocoete,lamprey ammocoete,lamprey ammocoete,Petromyzontidae larvae,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,larvae,
+,,,MN Access,168,largescale stoneroller,largescale stoneroller,largescale stoneroller,Campostoma oligolepis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,oligolepis
+,,,MN Access,169,least darter,least darter,least darter,Etheostoma microperca,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,microperca
+,,,MN Access,170,longnose sucker,longnose sucker,longnose sucker,Catostomus catostomus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,catostomus
+,,,MN Access,171,mimic shiner,mimic shiner,mimic shiner,Notropis volucellus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,volucellus
+,,,MN Access,172,Mississippi silvery minnow,Mississippi silvery minnow,Mississippi silvery minnow,Hybognathus nuchalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,nuchalis
+,,,MN Access,173,mooneye,mooneye,mooneye,Hiodon tergisus,Animalia,,,,,Hiodon,tergisus
+,,,MN Access,174,mud darter,mud darter,mud darter,Etheostoma asprigene,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,asprigene
+,,,MN Access,175,muskellunge,muskellunge,muskellunge,Esox masquinongy,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,masquinongy
+,,,MN Access,176,ninespine stickleback,ninespine stickleback,ninespine stickleback,Pungitius pungitius,Animalia,,,,,Pungitius,pungitius
+,,,MN Access,177,northern brook lamprey,northern brook lamprey,northern brook lamprey,Ichthyomyzon fossor,Animalia,,,,,Ichthyomyzon,fossor
+,,,MN Access,178,northern redbelly dace,northern redbelly dace,northern redbelly dace,Phoxinus eos,Animalia,,,,,Phoxinus,eos
+,,,MN Access,179,orangespotted sunfish,orangespotted sunfish,orangespotted sunfish,Lepomis humilis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,humilis
+,,,MN Access,180,Ozark minnow,Ozark minnow,Ozark minnow,Notropis nubilus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,nubilus
+,,,MN Access,181,pink salmon,pink salmon,pink salmon,Oncorhynchus gorbuscha,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,gorbuscha
+,,,MN Access,182,plains topminnow,plains topminnow,plains topminnow,Fundulus sciadicus,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,sciadicus
+,,,MN Access,183,pugnose minnow,pugnose minnow,pugnose minnow,Opsopoeodus emiliae,Animalia,,,,,Opsopoeodus,emiliae
+,,,MN Access,184,pugnose shiner,pugnose shiner,pugnose shiner,Notropis anogenus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,anogenus
+,,,MN Access,185,quillback,quillback,quillback,Carpiodes cyprinus,Animalia,,,,,Carpiodes,cyprinus
+,,,MN Access,186,rainbow darter,rainbow darter,rainbow darter,Etheostoma caeruleum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,caeruleum
+,,,MN Access,187,rainbow smelt,rainbow smelt,rainbow smelt,Osmerus mordax,Animalia,,,,,Osmerus,mordax
+,,,MN Access,188,red shiner,red shiner,red shiner,Cyprinella lutrensis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,lutrensis
+,,,MN Access,189,redfin shiner,redfin shiner,redfin shiner,Lythrurus umbratilis,Animalia,,,,,Lythrurus,umbratilis
+,,,MN Access,190,redside dace,redside dace,redside dace,Clinostomus elongatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,elongatus
+,,,MN Access,191,river carpsucker,river carpsucker,river carpsucker,Carpiodes carpio,Animalia,,,,,Carpiodes,carpio
+,,,MN Access,192,river darter,river darter,river darter,Percina shumardi,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,shumardi
+,,,MN Access,193,river redhorse,river redhorse,river redhorse,Moxostoma carinatum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
+,,,MN Access,194,river shiner,river shiner,river shiner,Notropis blennius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,blennius
+,,,MN Access,195,ruffe,ruffe,ruffe,Gymnocephalus cernuus,Animalia,,,,,Gymnocephalus,cernuus
+,,,MN Access,196,sand shiner,sand shiner,sand shiner,Notropis stramineus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,stramineus
+,,,MN Access,197,sauger,sauger,sauger,Sander canadensis,Animalia,,,,,Sander,canadensis
+,,,MN Access,198,sea lamprey,sea lamprey,sea lamprey,Petromyzon marinus,Animalia,,,,,Petromyzon,marinus
+,,,MN Access,199,shoal chub,shoal chub,shoal chub,Macrhybopsis hyostoma,Animalia,,,,,Macrhybopsis,hyostoma
+,,,MN Access,200,shortnose gar,shortnose gar,shortnose gar,Lepisosteus platostomus,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,platostomus
+,,,MN Access,201,shovelnose sturgeon,shovelnose sturgeon,shovelnose sturgeon,Scaphirhynchus platorynchus,Animalia,,,,,Scaphirhynchus,platorynchus
+,,,MN Access,202,silver chub,silver chub,silver chub,Macrhybopsis storeriana,Animalia,,,,,Macrhybopsis,storeriana
+,,,MN Access,203,silver lamprey,silver lamprey,silver lamprey,Ichthyomyzon unicuspis,Animalia,,,,,Ichthyomyzon,unicuspis
+,,,MN Access,204,silver redhorse,silver redhorse,silver redhorse,Moxostoma anisurum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,anisurum
+,,,MN Access,205,slenderhead darter,slenderhead darter,slenderhead darter,Percina phoxocephala,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,phoxocephala
+,,,MN Access,206,smallmouth buffalo,smallmouth buffalo,smallmouth buffalo,Ictiobus bubalus,Animalia,,,,,Ictiobus,bubalus
+,,,MN Access,207,southern brook lamprey,southern brook lamprey,southern brook lamprey,Ichthyomyzon gagei,Animalia,,,,,Ichthyomyzon,gagei
+,,,MN Access,208,southern redbelly dace,southern redbelly dace,southern redbelly dace,Phoxinus erythrogaster,Animalia,,,,,Phoxinus,erythrogaster
+,,,MN Access,209,splake,splake,splake,Salvelinus hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,hybrid
+,,,MN Access,210,spotted sucker,spotted sucker,spotted sucker,Minytrema melanops,Animalia,,,,,Minytrema,melanops
+,,,MN Access,211,SubFam: salmonids,SubFam: salmonids,SubFam: salmonids,Salmoninae ,Animalia,,,,,Salmoninae,
+,,,MN Access,212,suckermouth minnow,suckermouth minnow,suckermouth minnow,Phenacobius mirabilis,Animalia,,,,,Phenacobius,mirabilis
+,,,MN Access,213,threespine stickleback,threespine stickleback,threespine stickleback,Gasterosteus aculeatus,Animalia,,,,,Gasterosteus,aculeatus
+,,,MN Access,214,tiger musky,tiger musky,tiger musky,Esox hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,hybrid
+,,,MN Access,215,tiger trout,tiger trout,tiger trout,Salmonidae hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,hybrid,
+,,,MN Access,216,Topeka shiner,Topeka shiner,Topeka shiner,Notropis topeka,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,topeka
+,,,MN Access,217,trout-perch,trout-perch,trout-perch,Percopsis omiscomaycus,Animalia,,,,,Percopsis,omiscomaycus
+,,,MN Access,218,walleye,walleye,walleye,Sander vitreus,Animalia,,,,,Sander,vitreus
+,,,MN Access,219,weed shiner,weed shiner,weed shiner,Notropis texanus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,texanus
+,,,MN Access,220,western sand darter,western sand darter,western sand darter,Ammocrypta clara,Animalia,,,,,Ammocrypta,clara
+,,,MN Access,221,white bass,white bass,white bass,Morone chrysops,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops
+,,,Red Lakes,,Blacknose Dace,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+,,,Red Lakes,,Lamprey (larvae),Fam: lamprey,Fam: lamprey,Petromyzontidae ,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
