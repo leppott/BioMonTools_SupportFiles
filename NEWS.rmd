@@ -17,11 +17,19 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9045
+===========
+Released - 2023-12-01
+
+* refactor: Add taxa to Red Lakes fish taxatrans
+    + spelling
+
 BioMonTools_SupportFiles 0.0.1.9044
 ===========
 Released - 2023-12-01
 
 * refactor: Add taxa to Red Lakes fish taxatrans
+    + new
 
 BioMonTools_SupportFiles 0.0.1.9043
 ===========

@@ -201,5 +201,19 @@ Taxon_Group,Taxon_orig,NonTarget,Rationale,FishTaxaID,FinalID,OTU_BCG,OTU_IBI,Sc
 ,,,MN Access,219,weed shiner,weed shiner,weed shiner,Notropis texanus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,texanus
 ,,,MN Access,220,western sand darter,western sand darter,western sand darter,Ammocrypta clara,Animalia,,,,,Ammocrypta,clara
 ,,,MN Access,221,white bass,white bass,white bass,Morone chrysops,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops
-,,,Red Lakes,,Blacknose Dace,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
-,,,Red Lakes,,Lamprey (larvae),Fam: lamprey,Fam: lamprey,Petromyzontidae ,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+,,,"Red Lakes, new",,Blacknose Dace,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+,,,"Red Lakes, new",,Lamprey (larvae),Fam: lamprey,Fam: lamprey,Petromyzontidae ,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+,,,"Red Lakes, spelling",,Blackside Darter,blackside darter,blackside darter,Percina maculata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
+,,,"Red Lakes, spelling",,Carmine shiner,carmine shiner,carmine shiner,Notropis percobromus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
+,,,"Red Lakes, spelling",,Central Mudminnow,central mudminnow,central mudminnow,Umbra limi,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
+,,,"Red Lakes, spelling",,Common Shiner,Common shiner,Common shiner,Luxilus cornutus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+,,,"Red Lakes, spelling",,Creek Chub,Creek chub,Creek chub,Semotilus atromaculatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+,,,"Red Lakes, spelling",,Fathead Minnow,Fathead minnow,Fathead minnow,Pimephales promelas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+,,,"Red Lakes, spelling",,Hornyhead Chub,hornyhead chub,hornyhead chub,Nocomis biguttatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
+,,,"Red Lakes, spelling",,Johnny Darter,Johnny darter,Johnny darter,Etheostoma nigrum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+,,,"Red Lakes, spelling",,Northern Pike,Northern pike,Northern pike,Esox lucius,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+,,,"Red Lakes, spelling",,Northern Redbelly Dace,northern redbelly dace,northern redbelly dace,Phoxinus eos,Animalia,,,,,Phoxinus,eos
+,,,"Red Lakes, spelling",,River Redhorse,river redhorse,river redhorse,Moxostoma carinatum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
+,,,"Red Lakes, spelling",,Rock Bass,Rock bass,Rock bass,Ambloplites rupestris,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+,,,"Red Lakes, spelling",,White Sucker,White sucker,White sucker,Catostomus commersoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+,,,"Red Lakes, spelling",,Yellow Perch,Yellow perch,Yellow perch,Perca flavescens,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
