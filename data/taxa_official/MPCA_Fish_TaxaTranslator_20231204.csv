@@ -1,4 +1,4 @@
-Taxon_Group,Taxon_orig,NonTarget,Rationale,FishTaxaID,FinalID,OTU_BCG,OTU_IBI,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species
+Taxon_Group,Taxon_orig,NonTarget,Rationale,FishTaxaID,Taxon_Orig,OTU_BCG,OTU_IBI,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species
 ,,,MN Access,2,Atlantic Salmon,Atlantic Salmon,Atlantic Salmon,Salmo salar,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar
 ,,,MN Access,19,Slimy Sculpin,Slimy Sculpin,Slimy Sculpin,Cottus cognatus,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus
 ,,,MN Access,21,American brook lamprey,American brook lamprey,American brook lamprey,Lethenteron appendix,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lethenteron,appendix

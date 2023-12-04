@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9047
+===========
+Released - 2023-12-04
+
+* refactor: Red Lakes, change FinalID to Taxon_Orig
+    + _pick_files and taxatranslation files (bugs and fish)
+    
 BioMonTools_SupportFiles 0.0.1.9046
 ===========
 Released - 2023-12-04
