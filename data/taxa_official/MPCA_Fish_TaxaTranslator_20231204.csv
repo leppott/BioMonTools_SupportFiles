@@ -203,17 +203,62 @@ Taxon_Group,Taxon_orig,NonTarget,Rationale,FishTaxaID,FinalID,OTU_BCG,OTU_IBI,Sc
 ,,,MN Access,221,white bass,white bass,white bass,Morone chrysops,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops
 ,,,"Red Lakes, new",,Blacknose Dace,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
 ,,,"Red Lakes, new",,Lamprey (larvae),Fam: lamprey,Fam: lamprey,Petromyzontidae ,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
-,,,"Red Lakes, spelling",,Blackside Darter,blackside darter,blackside darter,Percina maculata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
-,,,"Red Lakes, spelling",,Carmine shiner,carmine shiner,carmine shiner,Notropis percobromus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
-,,,"Red Lakes, spelling",,Central Mudminnow,central mudminnow,central mudminnow,Umbra limi,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
-,,,"Red Lakes, spelling",,Common Shiner,Common shiner,Common shiner,Luxilus cornutus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
-,,,"Red Lakes, spelling",,Creek Chub,Creek chub,Creek chub,Semotilus atromaculatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
-,,,"Red Lakes, spelling",,Fathead Minnow,Fathead minnow,Fathead minnow,Pimephales promelas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
-,,,"Red Lakes, spelling",,Hornyhead Chub,hornyhead chub,hornyhead chub,Nocomis biguttatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
-,,,"Red Lakes, spelling",,Johnny Darter,Johnny darter,Johnny darter,Etheostoma nigrum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
-,,,"Red Lakes, spelling",,Northern Pike,Northern pike,Northern pike,Esox lucius,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
-,,,"Red Lakes, spelling",,Northern Redbelly Dace,northern redbelly dace,northern redbelly dace,Phoxinus eos,Animalia,,,,,Phoxinus,eos
-,,,"Red Lakes, spelling",,River Redhorse,river redhorse,river redhorse,Moxostoma carinatum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
-,,,"Red Lakes, spelling",,Rock Bass,Rock bass,Rock bass,Ambloplites rupestris,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
-,,,"Red Lakes, spelling",,White Sucker,White sucker,White sucker,Catostomus commersoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
-,,,"Red Lakes, spelling",,Yellow Perch,Yellow perch,Yellow perch,Perca flavescens,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+,,,"Red Lakes, case",,Blackside Darter,blackside darter,blackside darter,Percina maculata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
+,,,"Red Lakes, case",,Carmine shiner,carmine shiner,carmine shiner,Notropis percobromus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
+,,,"Red Lakes, case",,Central Mudminnow,central mudminnow,central mudminnow,Umbra limi,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
+,,,"Red Lakes, case",,Common Shiner,Common shiner,Common shiner,Luxilus cornutus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+,,,"Red Lakes, case",,Creek Chub,Creek chub,Creek chub,Semotilus atromaculatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+,,,"Red Lakes, case",,Fathead Minnow,Fathead minnow,Fathead minnow,Pimephales promelas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+,,,"Red Lakes, case",,Hornyhead Chub,hornyhead chub,hornyhead chub,Nocomis biguttatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
+,,,"Red Lakes, case",,Johnny Darter,Johnny darter,Johnny darter,Etheostoma nigrum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+,,,"Red Lakes, case",,Northern Pike,Northern pike,Northern pike,Esox lucius,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+,,,"Red Lakes, case",,Northern Redbelly Dace,northern redbelly dace,northern redbelly dace,Phoxinus eos,Animalia,,,,,Phoxinus,eos
+,,,"Red Lakes, case",,River Redhorse,river redhorse,river redhorse,Moxostoma carinatum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
+,,,"Red Lakes, case",,Rock Bass,Rock bass,Rock bass,Ambloplites rupestris,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+,,,"Red Lakes, case",,White Sucker,White sucker,White sucker,Catostomus commersoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+,,,"Red Lakes, case",,Yellow Perch,Yellow perch,Yellow perch,Perca flavescens,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+,,,"MN, case",,Atlantic salmon,Atlantic Salmon,Atlantic Salmon,Salmo salar,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar
+,,,"MN, case",,banded darter,Banded darter,Banded darter,Etheostoma zonale,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,zonale
+,,,"MN, case",,banded killifish,Banded killifish,Banded killifish,Fundulus diaphanus,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,diaphanus
+,,,"MN, case",,black crappie,Black crappie,Black crappie,Pomoxis nigromaculatus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus
+,,,"MN, case",,bluegill,Bluegill,Bluegill,Lepomis macrochirus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,macrochirus
+,,,"MN, case",,bluntnose minnow,Bluntnose minnow,Bluntnose minnow,Pimephales notatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,notatus
+,,,"MN, case",,brook trout,Brook trout,Brook trout,Salvelinus fontinalis,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,fontinalis
+,,,"MN, case",,brown bullhead,Brown bullhead,Brown bullhead,Ameiurus nebulosus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,nebulosus
+,,,"MN, case",,brown trout,Brown trout,Brown trout,Salmo trutta,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,trutta
+,,,"MN, case",,central stoneroller,Central stoneroller,Central stoneroller,Campostoma anomalum,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,anomalum
+,,,"MN, case",,channel catfish,Channel catfish,Channel catfish,Ictalurus punctatus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ictalurus,punctatus
+,,,"MN, case",,common carp,Common carp,Common carp,Cyrpinus carpio,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyrpinus,carpio
+,,,"MN, case",,common shiner,Common shiner,Common shiner,Luxilus cornutus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+,,,"MN, case",,creek chub,Creek chub,Creek chub,Semotilus atromaculatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+,,,"MN, case",,fantail darter,Fantail darter,Fantail darter,Etheostoma flabellare,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,flabellare
+,,,"MN, case",,fathead minnow,Fathead minnow,Fathead minnow,Pimephales promelas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+,,,"MN, case",,gizzard shad,Gizzard shad,Gizzard shad,Dorosoma cepedianum,Animalia,Chordata,Osteichthyes,,Clupeidae,Dorosoma,cepedianum
+,,,"MN, case",,golden redhorse,Golden redhorse,Golden redhorse,Moxostoma erythrurum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,erythrurum
+,,,"MN, case",,golden shiner,Golden shiner,Golden shiner,Notemigonus crysoleucas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas
+,,,"MN, case",,goldfish,Goldfish,Goldfish,Carassius auratus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Carassius,auratus
+,,,"MN, case",,green sunfish,Green sunfish,Green sunfish,Lepomis cyanellus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,cyanellus
+,,,"MN, case",,johnny darter,Johnny darter,Johnny darter,Etheostoma nigrum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+,,,"MN, case",,largemouth bass,Largemouth bass,Largemouth bass,Micropterus salmoides,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,salmoides
+,,,"MN, case",,logperch,Logperch,Logperch,Percina caprodes,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,caprodes
+,,,"MN, case",,longnose dace,Longnose dace,Longnose dace,Rhinichthys cataractae,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae
+,,,"MN, case",,longnose gar,Longnose gar,Longnose gar,Lepisosteus osseus,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus
+,,,"MN, case",,mottled sculpin,Mottled sculpin,Mottled sculpin,Cottus bairdi,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,bairdi
+,,,"MN, case",,northern hogsucker,Northern hogsucker,Northern hogsucker,Hypentelium nigricans,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Hypentelium,nigricans
+,,,"MN, case",,northern pike,Northern pike,Northern pike,Esox lucius,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+,,,"MN, case",,pirate perch,Pirate perch,Pirate perch,Aphredoderus sayanus,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus
+,,,"MN, case",,pumpkinseed,Pumpkinseed,Pumpkinseed,Lepomis gibbosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gibbosus
+,,,"MN, case",,rainbow trout,Rainbow trout,Rainbow trout,Oncorhynchus mykiss,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss
+,,,"MN, case",,rock bass,Rock bass,Rock bass,Ambloplites rupestris,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+,,,"MN, case",,shorthead redhorse,Shorthead redhorse,Shorthead redhorse,Moxostoma macrolepidotum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum
+,,,"MN, case",,slimy sculpin,Slimy Sculpin,Slimy Sculpin,Cottus cognatus,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus
+,,,"MN, case",,smallmouth bass,Smallmouth bass,Smallmouth bass,Micropterus dolomieu,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,dolomieu
+,,,"MN, case",,spotfin shiner,Spotfin shiner,Spotfin shiner,Cyprinella spiloptera,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera
+,,,"MN, case",,spottail shiner,Spottail shiner,Spottail shiner,Notropis hudsonius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,hudsonius
+,,,"MN, case",,stonecat,Stonecat,Stonecat,Noturus flavus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,flavus
+,,,"MN, case",,tadpole madtom,Tadpole madtom,Tadpole madtom,Noturus gyrinus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus
+,,,"MN, case",,warmouth,Warmouth,Warmouth,Lepomis gulosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus
+,,,"MN, case",,white crappie,White crappie,White crappie,Pomoxis annularis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis
+,,,"MN, case",,white sucker,White sucker,White sucker,Catostomus commersoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+,,,"MN, case",,yellow bullhead,Yellow bullhead,Yellow bullhead,Ameiurus natalis,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,natalis
+,,,"MN, case",,yellow perch,Yellow perch,Yellow perch,Perca flavescens,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens

@@ -4,14 +4,21 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-01 16:52:21.795009
+    #> Last Update: 2023-12-04 14:49:11.597655
+
+# BioMonTools_SupportFiles 0.0.1.9046
+
+Released - 2023-12-04
+
+- refactor: Add taxa to Red Lakes fish taxatrans from MN data
+  - case
 
 # BioMonTools_SupportFiles 0.0.1.9045
 
 Released - 2023-12-01
 
-- refactor: Add taxa to Red Lakes fish taxatrans
-  - spelling
+- refactor: Add taxa to Red Lakes fish taxatrans from Red Lakes data
+  - mostly case
 
 # BioMonTools_SupportFiles 0.0.1.9044
 
