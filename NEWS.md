@@ -4,7 +4,23 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-04 14:49:11.597655
+    #> Last Update: 2023-12-06 09:10:45.213255
+
+# BioMonTools_SupportFiles 0.0.1.9048
+
+Released - 2023-12-06
+
+- refactor: New ORWA files, Attributes and Attributes_UpdateLog
+- refactor: Update pick_files with new ORWA file names
+- tests: Rename tests for ORWA and RedLakes
+- refactor: Update RedLakes Bugs Attributes file
+
+# BioMonTools_SupportFiles 0.0.1.9047
+
+Released - 2023-12-04
+
+- refactor: Red Lakes, change FinalID to Taxon_Orig
+  - \_pick_files and taxatranslation files (bugs and fish)
 
 # BioMonTools_SupportFiles 0.0.1.9046
 

@@ -17,6 +17,15 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9048
+===========
+Released - 2023-12-06
+
+* refactor: New ORWA files, Attributes and Attributes_UpdateLog
+* refactor: Update pick_files with new ORWA file names
+* tests: Rename tests for ORWA and RedLakes
+* refactor: Update RedLakes Bugs Attributes file
+
 BioMonTools_SupportFiles 0.0.1.9047
 ===========
 Released - 2023-12-04
