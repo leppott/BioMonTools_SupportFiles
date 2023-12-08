@@ -1,0 +1,204 @@
+FishTaxaID,FinalID,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species,EnterDate,Comments,TSN,ParTSN,CNCode,BCG_Attr_NLF,BCG_Attr_Driftless,BCG_Attr,data_MN,BCG_Attr_MN_01,BCG_Attr_MN_02,BCG_Attr_MN_03,BCG_Attr_MN_04,BCG_Attr_MN_05,BCG_Attr_MN_06,BCG_Attr_MN_07,BCG_Attr_MN_10,BCG_Attr_MN_11,BCG_Attr_MN2_01,BCG_Attr_MN2_02,BCG_Attr_MN2_03,BCG_Attr_MN2_04,BCG_Attr_MN2_05,BCG_Attr_MN2_06,BCG_Attr_MN2_07,BCG_Attr_MN2_10,BCG_Attr_MN2_11
+74,northern pearl dace,Margariscus margarita,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Margariscus,margarita,##########,,,,,,3,3,FALSE,x,3,x,x,3,3,3,3,3,x,3,3,x,3,3,3,3,3
+75,Pirate perch,Aphredoderus sayanus,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,x,x
+76,Potomic sculpin,Cottus girardi,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,girardi,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+77,Pumpkinseed,Lepomis gibbosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gibbosus,##########,,,,,,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,5,5
+78,Rainbow trout,Oncorhynchus mykiss,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss,##########,,,,,6,6,6,FALSE,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+79,Rainwater killifish,Lucania parva,Animalia,Chordata,Osteichthyes,,Fundulidae,Lucania,parva,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+80,Redbreast sunfish,Lepomis auritus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,auritus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+81,Redfin pickerel,Esox americanus americanus,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,americanus americanus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+82,River chub,Nocomis micropogon,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,micropogon,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,x,x
+83,Rock bass,Ambloplites rupestris,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris,##########,,,,,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+84,Rosyface shiner,Notropis rubellus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,rubellus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,x,x
+85,Rosyside dace,Clinostomus funduloides,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,funduloides,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+86,Satinfin shiner,Cyprinella analostana,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,analostana,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+87,Shield darter,Percina peltata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,peltata,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+88,Shorthead redhorse,Moxostoma macrolepidotum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum,##########,,,,,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+89,Silverjaw minnow,Notropis buccatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,buccatus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+91,Smallmouth bass,Micropterus dolomieu,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,dolomieu,##########,,,,,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+92,Spot,Leiostomus xanthurus,Animalia,Chordata,Osteichthyes,Perciformes,Sciaenidae,Leiostomus,xanthurus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+93,Spotfin shiner,Cyprinella spiloptera,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+94,Spottail shiner,Notropis hudsonius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,hudsonius,##########,,,,,,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+95,Stonecat,Noturus flavus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,flavus,##########,,,,,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+96,Striped bass,Morone saxatilis,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,saxatilis,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+97,Striped killifish,Fundulus majalis,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,majalis,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+2,Atlantic Salmon,Salmo salar,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+19,Slimy Sculpin,Cottus cognatus,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus,##########,,,,,2,2,2,FALSE,x,x,x,x,2,2,x,2,2,x,2,2,x,2,2,x,2,2
+21,American brook lamprey,Lethenteron appendix,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lethenteron,appendix,##########,,,,,2,,2,FALSE,2,2,2,x,x,x,2,2,2,2,2,2,x,x,x,2,2,2
+22,American eel,Anguilla rostrata,Animalia,Chordata,Osteichthyes,Anguilliformes,Anguillidae,Anguilla,rostrata,##########,,,,,,,,FALSE,1,1,1,x,x,x,x,1,x,1,1,x,x,x,x,x,x,x
+23,Banded darter,Etheostoma zonale,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,zonale,##########,,,,,3,,3,FALSE,3,3,3,x,x,x,3,3,3,3,3,3,x,x,x,3,4,4
+24,Banded killifish,Fundulus diaphanus,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,diaphanus,##########,,,,,,2,2,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+25,Banded sunfish,Enneacanthus obesus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,obesus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+26,Black crappie,Pomoxis nigromaculatus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5
+27,western blacknose dace,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus,##########,,,,,5,,5,FALSE,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,4,4
+28,Bluegill,Lepomis macrochirus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,macrochirus,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5
+29,Bluespotted sunfish,Enneacanthus gloriosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,gloriosus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+30,Bluntnose minnow,Pimephales notatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,notatus,##########,,,,,5,4,5,FALSE,5,5,5,5,5,5,5,5,5,5a,,5a,5a,5a,5a,5a,5a,5a
+31,Brook lamprey,Lampetra,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+32,Brook trout,Salvelinus fontinalis,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,fontinalis,##########,,,,,2,2,2,FALSE,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+33,Brown bullhead,Ameiurus nebulosus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,nebulosus,##########,,,,,,4,4,FALSE,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,5,5
+34,Brown trout,Salmo trutta,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,trutta,##########,,,,,6,6,6,FALSE,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+35,Central stoneroller,Campostoma anomalum,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,anomalum,##########,,,,,3,4,3,FALSE,4,4,4,4,4,4,4,4,4,5,5,4,5,5,5,5,5,5
+36,Chain pickerel,Esox niger,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,niger,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+37,Channel catfish,Ictalurus punctatus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ictalurus,punctatus,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,x,x
+38,Checkered sculpin,Cottus sp.,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+39,Comely shiner,Notropis amoenus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,amoenus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+40,Common carp,Cyrpinus carpio,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyrpinus,carpio,##########,,,,,6,6,6,FALSE,6,6,6,6,6,6,6,6,6,6a,,6a,6a,6a,6a,6a,6a,6a
+41,Common shiner,Luxilus cornutus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,3,4,4,4,4,4,4,4,3,3,4,4
+42,Creek chub,Semotilus atromaculatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus,##########,,,,,4,5,4,FALSE,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,4,4,4
+43,Creek chubsucker,Erimyzon oblongus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Erimyzon,oblongus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,x,x
+44,Cutlips minnow,Exoglossum maxillingua,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Exoglossum,maxillingua,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+45,Eastern Mosquitofish,Gambusia holbrooki,Animalia,Chordata,Osteichthyes,Atheriniformes,Poeciliidae,Gambusia,holbrooki,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+46,Eastern mudminnow,Umbra pygmaea,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,pygmaea,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+47,Eastern silvery minnow,Hybognathus regius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,regius,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+48,Fallfish,Semotilus corporalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,corporalis,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+49,Fantail darter,Etheostoma flabellare,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,flabellare,##########,,,,,4,4,4,FALSE,4,4,4,x,x,x,4,4,4,4,4,3,x,x,x,4,4,4
+50,Fathead minnow,Pimephales promelas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas,##########,,,,,5,5,5,FALSE,5,5,5,5,5,5,5,5,5,5a,,5a,5a,5a,5a,5a,5a,5a
+51,Flier,Centrarchus macropterus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Centrarchus,macropterus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+52,Gizzard shad,Dorosoma cepedianum,Animalia,Chordata,Osteichthyes,,Clupeidae,Dorosoma,cepedianum,##########,,,,,,4,4,FALSE,4,4,4,x,x,x,x,4,x,4,4,x,x,x,x,x,x,x
+53,Glassy darter,Etheostoma vitreum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,vitreum,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+54,Golden redhorse,Moxostoma erythrurum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,erythrurum,##########,,,,,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+55,Golden shiner,Notemigonus crysoleucas,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas,##########,,,,,,4,4,FALSE,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,3,4,4
+56,Goldfish,Carassius auratus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Carassius,auratus,##########,,,,,,6,6,FALSE,6,6,6,6,6,6,6,6,6,6a,,6a,6a,6a,6a,6a,6a,6a
+57,Green sunfish,Lepomis cyanellus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,cyanellus,##########,,,,,5,5,5,FALSE,5,5,5,5,5,5,5,5,5,5a,,5a,5a,5a,5a,5,5a,5a
+58,Greenside darter,Etheostoma blennioides,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,blennioides,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,4,4
+59,Inland silverside,Menidia beryllina,Animalia,Chordata,Osteichthyes,,Atherinidae,Menidia,beryllina,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+60,Ironcolor shiner,Notropis chalybaeus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,chalybaeus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+61,Johnny darter,Etheostoma nigrum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+62,Largemouth bass,Micropterus salmoides,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,salmoides,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5
+63,Least brook lamprey,Lampetra aepyptera,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,aepyptera,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+64,Logperch,Percina caprodes,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,caprodes,##########,,,,,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+65,northern sunfish,Lepomis megalotis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,megalotis,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+66,Longnose dace,Rhinichthys cataractae,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae,##########,,,,,2,3,2,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+67,Longnose gar,Lepisosteus osseus,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus,##########,,,,,,,,FALSE,4,4,4,x,x,x,x,4,x,4,4,x,x,x,x,x,x,x
+68,Margined madtom,Noturus insignis,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,insignis,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+69,Mottled sculpin,Cottus bairdi,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,bairdi,##########,,,,,3,3,3,FALSE,x,x,3,3,3,3,x,3,3,3,3,3,3,3,3,x,3,3
+70,Mud sunfish,Acantharchus pomotis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Acantharchus,pomotis,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+71,Mummichog,Fundulus heteroclitus,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,heteroclitus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+72,Northern hogsucker,Hypentelium nigricans,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Hypentelium,nigricans,##########,,,,,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+73,Northern pike,Esox lucius,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5
+98,Striped shiner,Luxilus chrysocephalus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,chrysocephalus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+99,Swallowtail shiner,Notropis procne,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,procne,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+100,Swamp darter,Etheostoma fusiforme,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,fusiforme,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+101,Tadpole madtom,Noturus gyrinus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus,##########,,,,,,3,3,FALSE,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,3,5,5
+102,Tesselated darter,Etheostoma olmstedi,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,olmstedi,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+103,Warmouth,Lepomis gulosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,x,x
+104,watercolumn fish,,Animalia,Chordata,Osteichthyes,,,,,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+105,White catfish,Ameiurus catus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,catus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+106,White crappie,Pomoxis annularis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis,##########,,,,,,,,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,x,x
+107,White perch,Morone americana,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,americana,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+108,White sucker,Catostomus commersoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni,##########,,,,,5,4,5,FALSE,4,4,4,4,5,5,4,5,5,4,5,4,4,5,4,4,4,4
+109,Yellow bullhead,Ameiurus natalis,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,natalis,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,3,5,5
+110,Yellow perch,Perca flavescens,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens,##########,,,,,4,4,4,FALSE,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,5,5
+111,bigmouth buffalo,Ictiobus cyprinellus,Animalia,,,,,Ictiobus,cyprinellus,##########,,,,BIB,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,5a,,5a,5a,5a,5a,5a,4,4
+112,bigmouth shiner,Notropis dorsalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,dorsalis,##########,,,,BMS,4,4,4,FALSE,5,5,5,5,5,5,5,5,5,5a,,5a,5a,5a,5a,5a,5a,5a
+113,black buffalo,Ictiobus niger,Animalia,,,,,Ictiobus,niger,##########,,,,BKB,,,,FALSE,4,4,4,x,x,x,x,4,x,4,4,x,x,x,x,x,x,x
+114,black bullhead,Ameiurus melas,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,melas,##########,,,,BLB,5,5,5,FALSE,5,5,5,5,5,5,5,5,5,5a,,5a,5a,5a,5a,5a,5a,5a
+115,black redhorse,Moxostoma duquesnei,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,duquesnei,##########,,,,BRH,2,,2,FALSE,x,x,2,x,x,x,x,2,x,2,2,x,x,x,x,x,4,4
+116,blackchin shiner,Notropis heterodon,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterodon,##########,,,,BCS,,1,1,FALSE,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,4
+117,blacknose shiner,Notropis heterolepis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterolepis,##########,,,,BNS,,2,2,FALSE,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,2,4,4
+118,blackside darter,Percina maculata,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata,##########,,,,BSD,3,3,3,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+119,blue sucker,Cycleptus elongatus,Animalia,,,,,Cycleptus,elongatus,##########,,,,BLS,,2,2,FALSE,1,1,1,x,x,x,x,,x,1,,x,x,x,x,x,x,x
+120,bowfin,Amia calva,Animalia,,,,,Amia,calva,##########,,,,BOF,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5
+121,brassy minnow,Hybognathus hankinsoni,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,hankinsoni,##########,,,,BRM,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5
+122,brook silverside,Labidesthes sicculus,Animalia,,,,,Labidesthes,sicculus,##########,,,,BKS,,3,3,FALSE,x,x,3,3,3,x,x,3,x,3,3,x,3,3,x,x,x,x
+123,brook stickleback,Culaea inconstans,Animalia,,,,,Culaea,inconstans,##########,,,,BST,5,5,5,FALSE,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5a,4,4
+124,bullhead minnow,Pimephales vigilax,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,vigilax,##########,,,,BHM,,4,4,FALSE,4,4,4,x,x,x,x,4,x,4,4,x,x,x,x,x,4,4
+125,burbot,Lota lota,Animalia,,,,,Lota,lota,##########,,,,BUB,,2,2,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+126,carmine shiner,Notropis percobromus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus,##########,,,,CRS,3,,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+127,central mudminnow,Umbra limi,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi,##########,,,,CNM,5,5,5,FALSE,5,5,5,5,5,5,5,5,5,5a,,4,5a,5a,5,4,5,5
+128,channel shiner,Notropis wickliffi,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,wickliffi,##########,,,,CNS,,,,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+129,chestnut lamprey,Ichthyomyzon castaneus,Animalia,,,,,Ichthyomyzon,castaneus,##########,,,,CHL,3,3,3,FALSE,3,3,3,3,3,3,3,3,x,3,3,3,3,3,3,3,3,3
+130,chinook salmon,Oncorhynchus tshawytscha,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,tshawytscha,##########,,,,CHS,,6,6,FALSE,x,x,x,6,6,6,x,,x,x,,x,6,6,6,x,6,6
+131,coho salmon,Oncorhynchus kisutch,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,kisutch,##########,,,,COS,,,,FALSE,,,,,,,,,,,,,,,,,6,6
+132,crystal darter,Crystallaria asprella,Animalia,,,,,Crystallaria,asprella,##########,,,,CRD,,1,1,FALSE,x,x,1,x,x,x,x,,x,1,,x,x,x,x,x,x,x
+133,emerald shiner,Notropis atherinoides,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,atherinoides,##########,,,,EMS,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+134,Fam: herrings,Clupeidae,Animalia,Chordata,Osteichthyes,,Clupeidae,,,##########,,,,HER,,,,FALSE,,,,,,,,,,,,,,,,,,
+135,Fam: lamprey,Petromyzontidae,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,,##########,,,,LAM,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+136,Fam: minnows,Cyprinidae,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,,,##########,,,,MIN,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+137,Fam: trout,Salmonidae,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,,,##########,,,,TRT,,,,FALSE,,,,,,,,,,,,,,,,,,
+138,finescale dace,Phoxinus neogaeus,Animalia,,,,,Phoxinus,neogaeus,##########,,,,FND,,2,2,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+139,flathead catfish,Pylodictis olivaris,Animalia,,,,,Pylodictis,olivaris,##########,,,,FCF,,4,4,FALSE,4,4,4,x,x,x,4,4,4,4,4,4,x,x,x,4,x,x
+140,freshwater drum,Aplodinotus grunniens,Animalia,,,,,Aplodinotus,grunniens,##########,,,,FRD,,4,4,FALSE,4,4,4,4,4,x,x,4,x,4,4,x,4,4,x,x,4,4
+141,Gen: buffalos,Ictiobus,Animalia,,,,,Ictiobus,,##########,,,,BUF,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+142,Gen: bullheads,Ameiurus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,,##########,,,,BUL,,,,FALSE,,,,,,,,,,,,,,,,,,
+143,Gen: carpsuckers,Carpiodes,Animalia,,,,,Carpiodes,,##########,,,,CPS,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+144,Gen: Catostomus,Catostomus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,,##########,,,,OTS,,,,FALSE,,,,,,,,,,,,,,,,,,
+145,Gen: common sunfishes,Lepomis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,,##########,,,,SUN,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+146,Gen: Etheostoma,Etheostoma,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,,##########,,,,DAE,,,,FALSE,,,,,,,,,,,,,,,,,,
+147,Gen: Notropis,Notropis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,,##########,,,,SHI,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+148,Gen: Percina,Percina,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,,##########,,,,DAP,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+149,Gen: Chrosomus,Chrosomus,Animalia,,,,,Chrosomus,,##########,,,,PHX,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+150,Gen: redhorses,Moxostoma,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,,##########,,,,RHS,,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+151,Gen: sculpins,Cottus,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,,##########,,,,SCU,,,,FALSE,,,,,,,,,,,,,,,,,,
+152,Gen: stonerollers,Campostoma,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,,##########,,,,STR,,,,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+153,gilt darter,Percina evides,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,evides,##########,,,,GLD,,1,1,FALSE,x,x,1,1,1,1,x,,x,1,,x,1,1,1,x,x,x
+154,goldeye,Hiodon alosoides,Animalia,,,,,Hiodon,alosoides,##########,,,,GOE,,,,FALSE,3,3,3,3,3,x,x,3,x,3,3,x,3,3,x,x,x,x
+155,grass carp,Ctenopharyngodon idella,Animalia,,,,,Ctenopharyngodon,idella,##########,,,,GAP,,,,FALSE,,,,,,,,,,,,,,,,,,
+156,gravel chub,Erimystax x-punctatus,Animalia,,,,,Erimystax,x-punctatus,##########,,,,GRC,2,,2,FALSE,x,x,2,x,x,x,x,2,x,2,2,x,x,x,x,x,x,x
+157,greater redhorse,Moxostoma valenciennesi,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,valenciennesi,##########,,,,GRR,,1,1,FALSE,1,1,1,1,1,x,x,1,x,1,1,x,1,1,x,x,4,4
+158,highfin carpsucker,Carpiodes velifer,Animalia,,,,,Carpiodes,velifer,##########,,,,HFS,,2,2,FALSE,3,3,3,x,x,x,x,3,x,3,3,x,x,x,x,x,x,x
+159,hornyhead chub,Nocomis biguttatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus,##########,,,,HHC,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+160,hybrid minnow,Cyprinidae hybrid,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,hybrid,,##########,,,,MXM,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+161,hybrid Chrosomus,Chrosomus hybrid,Animalia,,,,,Chrosomus,hybrid,##########,,,,HPX,,,,FALSE,x,x,x,x,x,x,x,,x,x,,x,x,x,x,x,x,x
+162,hybrid sunfish,Lepomis hybrid,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,hybrid,##########,,,,HSF,5,,5,FALSE,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5
+163,Iowa darter,Etheostoma exile,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,exile,##########,,,,IOD,3,2,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,4,4
+164,lake chub,Couesius plumbeus,Animalia,,,,,Couesius,plumbeus,##########,,,,LKC,,1,1,FALSE,x,x,x,x,2,2,2,,x,x,,x,x,2,2,2,3,3
+165,lake herring,Coregonus artedi,Animalia,,,,,Coregonus,artedi,##########,,,,TLC,,,,FALSE,,,,,,,,,,,,,,,,,,
+166,lake sturgeon,Acipenser fulvescens,Animalia,,,,,Acipenser,fulvescens,##########,,,,LKS,,1,1,FALSE,1,1,1,1,1,x,x,1,x,1,1,x,1,1,x,x,x,x
+167,lamprey ammocoete,Petromyzontidae larvae,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,larvae,,##########,,,,AMM,3,2,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+168,largescale stoneroller,Campostoma oligolepis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,oligolepis,##########,,,,LSR,3,,3,FALSE,4,4,4,4,4,x,x,4,x,4,4,x,4,4,x,x,5,5
+169,least darter,Etheostoma microperca,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,microperca,##########,,,,LED,,1,1,FALSE,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,x,x
+170,longnose sucker,Catostomus catostomus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,catostomus,##########,,,,LNS,,2,2,FALSE,x,x,x,2,2,2,x,,x,x,,x,2,2,2,x,2,2
+171,mimic shiner,Notropis volucellus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,volucellus,##########,,,,MMS,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+172,Mississippi silvery minnow,Hybognathus nuchalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,nuchalis,##########,,,,SLM,,,,FALSE,,,,,,,,,,,,,,,,,,
+173,mooneye,Hiodon tergisus,Animalia,,,,,Hiodon,tergisus,##########,,,,MOE,,3,3,FALSE,3,3,3,3,3,x,x,3,x,3,3,x,3,3,x,x,x,x
+174,mud darter,Etheostoma asprigene,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,asprigene,##########,,,,MDD,2,,2,FALSE,x,x,2,x,x,x,2,2,2,2,2,2,x,x,x,2,4,4
+175,muskellunge,Esox masquinongy,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,masquinongy,##########,,,,MUE,,2,2,FALSE,2,2,2,2,x,x,x,,x,2,,x,2,x,x,x,5,5
+176,ninespine stickleback,Pungitius pungitius,Animalia,,,,,Pungitius,pungitius,##########,,,,NST,,,,FALSE,,,,,,,,,,,,,,,,,,
+177,northern brook lamprey,Ichthyomyzon fossor,Animalia,,,,,Ichthyomyzon,fossor,##########,,,,NBL,,2,2,FALSE,x,x,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+178,northern redbelly dace,Phoxinus eos,Animalia,,,,,Phoxinus,eos,##########,,,,NRD,,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+179,orangespotted sunfish,Lepomis humilis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,humilis,##########,,,,OSS,4,4,4,FALSE,5,5,5,5,5,5,5,5,5,5a,,5a,5a,5a,5a,5a,5a,5a
+180,Ozark minnow,Notropis nubilus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,nubilus,##########,,,,OZM,2,,2,FALSE,x,x,x,x,x,x,2,2,2,x,2,2,x,x,x,2,4,4
+181,pink salmon,Oncorhynchus gorbuscha,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,gorbuscha,##########,,,,PKS,,,,FALSE,,,,,,,,,,,,,,,,,6,6
+182,plains topminnow,Fundulus sciadicus,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,sciadicus,##########,,,,PTM,,,,FALSE,x,2,x,x,x,x,2,2,2,x,2,2,x,x,x,2,x,x
+183,pugnose minnow,Opsopoeodus emiliae,Animalia,,,,,Opsopoeodus,emiliae,##########,,,,PGM,,2,2,FALSE,x,x,2,x,x,x,2,2,2,2,2,2,x,x,x,2,x,x
+184,pugnose shiner,Notropis anogenus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,anogenus,##########,,,,PGS,,1,1,FALSE,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+185,quillback,Carpiodes cyprinus,Animalia,,,,,Carpiodes,cyprinus,##########,,,,QBS,4,4,4,FALSE,4,4,4,4,4,x,x,4,x,4,4,x,4,4,x,x,x,x
+186,rainbow darter,Etheostoma caeruleum,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,caeruleum,##########,,,,RBD,3,2,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+187,rainbow smelt,Osmerus mordax,Animalia,,,,,Osmerus,mordax,##########,,,,RBS,,,,FALSE,,,,,,,,,,,,,,,,,,
+188,red shiner,Cyprinella lutrensis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,lutrensis,##########,,,,RDS,,,,FALSE,x,4,x,x,x,x,4,4,4,x,5,5,x,x,x,5,5,5
+189,redfin shiner,Lythrurus umbratilis,Animalia,,,,,Lythrurus,umbratilis,##########,,,,RES,,,,FALSE,x,x,2,x,x,x,2,2,2,2,2,2,x,x,x,2,x,x
+190,redside dace,Clinostomus elongatus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,elongatus,##########,,,,RSD,2,,2,FALSE,x,x,x,x,x,x,x,2,2,x,2,2,x,x,x,x,3,3
+191,river carpsucker,Carpiodes carpio,Animalia,,,,,Carpiodes,carpio,##########,,,,RCS,,4,4,FALSE,4,4,4,x,x,x,x,4,x,4,4,x,x,x,x,x,x,x
+192,river darter,Percina shumardi,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,shumardi,##########,,,,RVD,,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+193,river redhorse,Moxostoma carinatum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum,##########,,,,RRH,,2,2,FALSE,1,1,1,1,x,x,x,1,x,1,1,x,1,x,x,x,x,x
+194,river shiner,Notropis blennius,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,blennius,##########,,,,RVS,,4,4,FALSE,4,4,4,4,4,x,4,4,x,4,4,x,4,4,x,4,4,4
+195,ruffe,Gymnocephalus cernuus,Animalia,,,,,Gymnocephalus,cernuus,##########,,,,RIR,,6,6,FALSE,x,x,x,6,6,6,6,,x,6a,,6a,6a,6a,6a,6a,6a,6a
+196,sand shiner,Notropis stramineus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,stramineus,##########,,,,SDS,,4,4,FALSE,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5a,5a
+197,sauger,Sander canadensis,Animalia,,,,,Sander,canadensis,##########,,,,SAR,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+198,sea lamprey,Petromyzon marinus,Animalia,,,,,Petromyzon,marinus,##########,,,,SEL,,6,6,FALSE,,,,,,,,,,,,,,,,,6a,6a
+199,shoal chub,Macrhybopsis hyostoma,Animalia,,,,,Macrhybopsis,hyostoma,##########,,,,SHC,,,,FALSE,2,2,2,x,x,x,x,2,x,2,2,x,x,x,x,x,x,x
+200,shortnose gar,Lepisosteus platostomus,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,platostomus,##########,,,,SNG,,4,4,FALSE,4,4,4,x,x,x,x,4,x,4,4,x,x,x,x,x,x,x
+201,shovelnose sturgeon,Scaphirhynchus platorynchus,Animalia,,,,,Scaphirhynchus,platorynchus,##########,,,,SLS,,3,3,FALSE,1,1,1,x,x,x,x,1,x,1,1,x,x,x,x,x,x,x
+202,silver chub,Macrhybopsis storeriana,Animalia,,,,,Macrhybopsis,storeriana,##########,,,,SLC,,,,FALSE,3,3,3,x,x,x,x,3,x,3,3,x,x,x,x,x,x,x
+203,silver lamprey,Ichthyomyzon unicuspis,Animalia,,,,,Ichthyomyzon,unicuspis,##########,,,,SIL,3,3,3,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+204,silver redhorse,Moxostoma anisurum,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,anisurum,##########,,,,SLR,3,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+205,slenderhead darter,Percina phoxocephala,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,phoxocephala,##########,,,,SHD,2,3,2,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,x,x
+206,smallmouth buffalo,Ictiobus bubalus,Animalia,,,,,Ictiobus,bubalus,##########,,,,SAB,,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+207,southern brook lamprey,Ichthyomyzon gagei,Animalia,,,,,Ichthyomyzon,gagei,##########,,,,SBL,,2,2,FALSE,x,x,2,x,2,2,2,2,2,2,2,2,x,2,2,2,x,x
+208,southern redbelly dace,Phoxinus erythrogaster,Animalia,,,,,Phoxinus,erythrogaster,##########,,,,SRD,3,,3,FALSE,x,4,4,x,x,x,4,4,4,4,4,4,x,x,x,4,4,4
+209,splake,Salvelinus hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,hybrid,##########,,,,SPL,,,,FALSE,,,,,,,,,,,,,,,,,,
+210,spotted sucker,Minytrema melanops,Animalia,,,,,Minytrema,melanops,##########,,,,SPS,,,,FALSE,2,2,2,x,x,x,x,,x,2,,x,x,x,x,x,x,x
+211,SubFam: salmonids,Salmoninae,Animalia,,,,,Salmoninae,,##########,,,,SAT,,,,FALSE,,,,,,,,,,,,,,,,,,
+212,suckermouth minnow,Phenacobius mirabilis,Animalia,,,,,Phenacobius,mirabilis,##########,,,,SKM,3,,3,FALSE,x,x,4,x,x,x,4,4,4,4,4,4,x,x,x,4,4,4
+213,threespine stickleback,Gasterosteus aculeatus,Animalia,,,,,Gasterosteus,aculeatus,##########,,,,TST,,6,6,FALSE,x,x,x,6,6,6,6,,x,6a,,6a,6a,6a,6a,6a,x,x
+214,tiger musky,Esox hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,hybrid,##########,,,,TME,,,,FALSE,,,,,,,,,,,,,,,,,,
+215,tiger trout,Salmonidae hybrid,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,hybrid,,##########,,,,TIT,,,,FALSE,,,,,,,,,,,,,,,,,,
+216,Topeka shiner,Notropis topeka,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,topeka,##########,,,,TKS,,,,FALSE,x,1,x,x,x,x,1,1,1,x,1,1,x,x,x,1,x,x
+217,trout-perch,Percopsis omiscomaycus,Animalia,,,,,Percopsis,omiscomaycus,##########,,,,TRP,,3,3,FALSE,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4
+218,walleye,Sander vitreus,Animalia,,,,,Sander,vitreus,##########,,,,WAE,4,4,4,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5
+219,weed shiner,Notropis texanus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,texanus,##########,,,,WDS,,2,2,FALSE,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+220,western sand darter,Ammocrypta clara,Animalia,,,,,Ammocrypta,clara,##########,,,,WSD,,3,3,FALSE,2,2,2,x,x,x,x,,x,2,,x,x,x,x,x,x,x
+221,white bass,Morone chrysops,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops,##########,,,,WHB,4,4,4,FALSE,4,4,4,4,4,x,x,4,x,4,4,x,4,4,x,x,x,x
+,eastern blacknose dace,Rhinichthys atratulus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,atratulus,##########,,,,,5,,5,FALSE,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,4,4

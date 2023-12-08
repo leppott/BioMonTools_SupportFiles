@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9049
+===========
+Released - 2023-12-08
+
+* refactor: Update MN (Red Lakes) bug and fish files (taxa and attributes)
+
 BioMonTools_SupportFiles 0.0.1.9048
 ===========
 Released - 2023-12-06

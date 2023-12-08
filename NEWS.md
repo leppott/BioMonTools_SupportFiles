@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-06 09:10:45.213255
+    #> Last Update: 2023-12-08 15:44:28.56505
+
+# BioMonTools_SupportFiles 0.0.1.9049
+
+Released - 2023-12-08
+
+- refactor: Update MN (Red Lakes) bug and fish files (taxa and
+  attributes)
 
 # BioMonTools_SupportFiles 0.0.1.9048
 

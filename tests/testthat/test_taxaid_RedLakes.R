@@ -16,7 +16,9 @@
 # duplicate names ----
 test_that("RedLakes, trans, dups1", {
   # data files
-  df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files_RedLakes.csv"))
+  df_pickfiles <- read.csv(file.path("data"
+                                     , "taxa_official"
+                                     , "_pick_files_RedLakes.csv"))
   fn_all <- df_pickfiles$filename
   
   ii <- 1# + 4
@@ -31,8 +33,8 @@ test_that("RedLakes, trans, dups1", {
   n_taxa_qc   <- length(df_ii[, ii_taxaid])
   
   # show mismatches
-  print(paste0("Duplicate names '", i_taxaid, "' from file '", fn_i, "'"))
-  n_taxa_table <- as.data.frame(table(df_i[, i_taxaid]))
+  print(paste0("Duplicate names '", ii_taxaid, "' from file '", fn_ii, "'"))
+  n_taxa_table <- as.data.frame(table(df_ii[, ii_taxaid]))
   n_taxa_table[n_taxa_table$Freq > 1, ]
   
   #test
@@ -57,8 +59,8 @@ test_that("RedLakes, trans, dups3", {
   n_taxa_qc   <- length(df_ii[, ii_taxaid])
   
   # show mismatches
-  print(paste0("Duplicate names '", i_taxaid, "' from file '", fn_i, "'"))
-  n_taxa_table <- as.data.frame(table(df_i[, i_taxaid]))
+  print(paste0("Duplicate names '", ii_taxaid, "' from file '", fn_ii, "'"))
+  n_taxa_table <- as.data.frame(table(df_ii[, ii_taxaid]))
   n_taxa_table[n_taxa_table$Freq > 1, ]
   
   #test
@@ -69,13 +71,15 @@ test_that("RedLakes, trans, dups3", {
 test_that("RedLakes, attr, dups1", {
   
   # data files
-  df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files_RedLakes.csv"))
+  df_pickfiles <- read.csv(file.path("data"
+                                     , "taxa_official"
+                                     , "_pick_files_RedLakes.csv"))
   fn_all <- df_pickfiles$filename
   
   jj <- 1 #+ 6
 
   # attribute file
-  fn_jj <- df_pickfiles[i , "attributes_filename"]
+  fn_jj <- df_pickfiles[jj , "attributes_filename"]
   df_jj <- read.csv(file.path("data", "taxa_official", fn_jj))
   jj_taxaid <- df_pickfiles[jj, "attributes_taxaid"]
   
@@ -102,7 +106,7 @@ test_that("RedLakes, attr, dups3", {
   jj <- 3 #+ 6
   
   # attribute file
-  fn_jj <- df_pickfiles[i , "attributes_filename"]
+  fn_jj <- df_pickfiles[jj , "attributes_filename"]
   df_jj <- read.csv(file.path("data", "taxa_official", fn_jj))
   jj_taxaid <- df_pickfiles[jj, "attributes_taxaid"]
   
