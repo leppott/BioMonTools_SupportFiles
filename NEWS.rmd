@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9052
+===========
+Released - 2023-12-13
+
+* fix: Apply another fix for bad ORDER name in MN Bugs translation file
+    + Git would not pick up subtle change so had to do in two parts
+
 BioMonTools_SupportFiles 0.0.1.9051
 ===========
 Released - 2023-12-13
