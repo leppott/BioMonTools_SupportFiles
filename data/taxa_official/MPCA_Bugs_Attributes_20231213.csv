@@ -1424,9 +1424,9 @@ Taxon_Group,BenTaxaID,FinalID,TSN,ParTSN,Phylum,SubPhylum,Class,SubClass,Order,S
 ,1376,Pleurocera,71549,71541,Mollusca,,Gastropoda,,Neotaenioglossa,,Pleuroceridae,,,Pleurocera,,,,Genus,5,WSA,SC,WSA,,WSA,,FALSE,,2006-01-17,WSA,FALSE,,TRUE,,,,4,4,,
 ,1377,Prosobranchia,78780,69459,Mollusca,,Gastropoda,Prosobranchia,,,,,,,,,,SubClass,,WSA,,WSA,,WSA,,FALSE,,2006-01-17,WSA,FALSE,,FALSE,,,,,,,
 ,1378,Mesogastropoda,70298,78780,Mollusca,,Gastropoda,Prosobranchia,Mesogastropoda,,,,,,,,,Order,,WSA,,WSA,,WSA,,FALSE,,2006-01-17,WSA,FALSE,,FALSE,,,,,,,
-,1379,Hydrobiidae,70493,566851,Mollusca,,Gastropoda,,Neotaenioglossa ,,Hydrobiidae,,,,,,,Family,5,WSA,SC,WSA,CB,WSA,,FALSE,,2006-01-17,WSA,FALSE,3,TRUE,4,3,3,3,3,4,4
-,1380,Amnicola,70747,70493,Mollusca,,Gastropoda,,Neotaenioglossa ,,Hydrobiidae,Amnicolinae,,Amnicola,,,,Genus,8,WSA,SC,WSA,CB,WSA,,FALSE,,2006-01-17,WSA,FALSE,4,TRUE,4,,,3,4,4,4
-,1381,Amnicola limosus,70748,70747,Mollusca,,Gastropoda,,Neotaenioglossa ,,Hydrobiidae,Amnicolinae,,Amnicola,,Amnicola limosus,,Species,,WSA,,WSA,,WSA,,FALSE,,2006-01-17,WSA,FALSE,,FALSE,,,,,,,
+,1379,Hydrobiidae,70493,566851,Mollusca,,Gastropoda,,Neotaenioglossa,,Hydrobiidae,,,,,,,Family,5,WSA,SC,WSA,CB,WSA,,FALSE,,2006-01-17,WSA,FALSE,3,TRUE,4,3,3,3,3,4,4
+,1380,Amnicola,70747,70493,Mollusca,,Gastropoda,,Neotaenioglossa,,Hydrobiidae,Amnicolinae,,Amnicola,,,,Genus,8,WSA,SC,WSA,CB,WSA,,FALSE,,2006-01-17,WSA,FALSE,4,TRUE,4,,,3,4,4,4
+,1381,Amnicola limosus,70748,70747,Mollusca,,Gastropoda,,Neotaenioglossa,,Hydrobiidae,Amnicolinae,,Amnicola,,Amnicola limosus,,Species,,WSA,,WSA,,WSA,,FALSE,,2006-01-17,WSA,FALSE,,FALSE,,,,,,,
 ,1382,Campeloma,70311,70304,Mollusca,,Gastropoda,Prosobranchia,Architaenioglossa,,Viviparidae,,,Campeloma,,,,Genus,6,WSA,SC,WSA,CB,WSA,,FALSE,,2006-01-17,WSA,FALSE,,TRUE,,,,4,4,4,4
 ,1383,Campeloma decisum,70312,70311,Mollusca,,Gastropoda,Prosobranchia,Architaenioglossa,,Viviparidae,,,Campeloma,,Campeloma decisum,,Species,6,WSA,SC,WSA,CB,WSA,,FALSE,,2006-01-17,WSA,FALSE,,TRUE,,,,4,4,,
 ,1384,Viviparus,70305,70304,Mollusca,,Gastropoda,Prosobranchia,Architaenioglossa,,Viviparidae,,,Viviparus,,,,Genus,1,WSA,SC,WSA,CB,WSA,,FALSE,,2006-01-17,WSA,FALSE,,TRUE,,,,4,4,,
