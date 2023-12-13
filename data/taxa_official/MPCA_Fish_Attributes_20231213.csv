@@ -1,4 +1,4 @@
-FishTaxaID,FinalID,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species,EnterDate,Comments,TSN,ParTSN,CNCode,BCG_Attr_NLF,BCG_Attr_Driftless,BCG_Attr,data_MN,BCG_Attr_MN_01,BCG_Attr_MN_02,BCG_Attr_MN_03,BCG_Attr_MN_04,BCG_Attr_MN_05,BCG_Attr_MN_06,BCG_Attr_MN_07,BCG_Attr_MN_10,BCG_Attr_MN_11,BCG_Attr_MN2_01,BCG_Attr_MN2_02,BCG_Attr_MN2_03,BCG_Attr_MN2_04,BCG_Attr_MN2_05,BCG_Attr_MN2_06,BCG_Attr_MN2_07,BCG_Attr_MN2_10,BCG_Attr_MN2_11
+FishTaxaID,CommonName,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species,EnterDate,Comments,TSN,ParTSN,CNCode,BCG_Attr_NLF,BCG_Attr_Driftless,BCG_Attr,data_MN,BCG_Attr_MN_01,BCG_Attr_MN_02,BCG_Attr_MN_03,BCG_Attr_MN_04,BCG_Attr_MN_05,BCG_Attr_MN_06,BCG_Attr_MN_07,BCG_Attr_MN_10,BCG_Attr_MN_11,BCG_Attr_MN2_01,BCG_Attr_MN2_02,BCG_Attr_MN2_03,BCG_Attr_MN2_04,BCG_Attr_MN2_05,BCG_Attr_MN2_06,BCG_Attr_MN2_07,BCG_Attr_MN2_10,BCG_Attr_MN2_11
 74,northern pearl dace,Margariscus margarita,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Margariscus,margarita,##########,,,,,,3,3,FALSE,x,3,x,x,3,3,3,3,3,x,3,3,x,3,3,3,3,3
 75,Pirate perch,Aphredoderus sayanus,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,x,x
 76,Potomic sculpin,Cottus girardi,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,girardi,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
@@ -83,7 +83,7 @@ FishTaxaID,FinalID,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species,EnterDa
 101,Tadpole madtom,Noturus gyrinus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus,##########,,,,,,3,3,FALSE,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,3,5,5
 102,Tesselated darter,Etheostoma olmstedi,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,olmstedi,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
 103,Warmouth,Lepomis gulosus,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,x,x
-104,watercolumn fish,,Animalia,Chordata,Osteichthyes,,,,,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
+104,watercolumn fish,Osteichthyes,Animalia,Chordata,Osteichthyes,,,,,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
 105,White catfish,Ameiurus catus,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,catus,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
 106,White crappie,Pomoxis annularis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis,##########,,,,,,,,FALSE,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,x,x
 107,White perch,Morone americana,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,americana,##########,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,
@@ -202,3 +202,4 @@ FishTaxaID,FinalID,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species,EnterDa
 220,western sand darter,Ammocrypta clara,Animalia,,,,,Ammocrypta,clara,##########,,,,WSD,,3,3,FALSE,2,2,2,x,x,x,x,,x,2,,x,x,x,x,x,x,x
 221,white bass,Morone chrysops,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops,##########,,,,WHB,4,4,4,FALSE,4,4,4,4,4,x,x,4,x,4,4,x,4,4,x,x,x,x
 ,eastern blacknose dace,Rhinichthys atratulus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,atratulus,##########,,,,,5,,5,FALSE,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,4,4
+,Gen: lamprey,Ichthyomyzon,Animalia,,,,,Ichthyomyzon,,,,,,,,,,,,,,,,,,,,,,,,,,,,

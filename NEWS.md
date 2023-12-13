@@ -4,7 +4,16 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-13 14:30:29.294009
+    #> Last Update: 2023-12-13 16:37:58.73935
+
+# BioMonTools_SupportFiles 0.0.1.9055
+
+Released - 2023-12-13
+
+- refactor: Update MN Fish (Red Lakes) to use different primary key
+  - Use SciName instead of CommonName
+- refactor: Update MN Fish Orig Sci to remove duplicates
+  - Mostly in pairs with different common name so add space to sci name
 
 # BioMonTools_SupportFiles 0.0.1.9054
 
