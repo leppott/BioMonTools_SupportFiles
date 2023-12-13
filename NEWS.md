@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-13 13:55:04.346947
+    #> Last Update: 2023-12-13 14:01:32.556145
+
+# BioMonTools_SupportFiles 0.0.1.9053
+
+Released - 2023-12-13
+
+- fix: Apply another fix for bad ORDER name in MN Bugs translation file
+  - Remove bad name
 
 # BioMonTools_SupportFiles 0.0.1.9052
 
