@@ -17,9 +17,15 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
-BioMonTools_SupportFiles 0.0.1.9049
+BioMonTools_SupportFiles 0.0.1.9051
 ===========
-Released - 2023-12-08
+Released - 2023-12-13
+
+* fix: Apply second fix for bad ORDER name in MN Bugs translation file
+
+BioMonTools_SupportFiles 0.0.1.9050
+===========
+Released - 2023-12-13
 
 * fix: Update MN (Red Lakes) bug taxa translation for odd character
     + Order "Neotaenioglossa\xa0" to "Neotaenioglossa"
