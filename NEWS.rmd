@@ -21,6 +21,13 @@ BioMonTools_SupportFiles 0.0.1.9049
 ===========
 Released - 2023-12-08
 
+* fix: Update MN (Red Lakes) bug taxa translation for odd character
+    + Order "Neotaenioglossa\xa0" to "Neotaenioglossa"
+
+BioMonTools_SupportFiles 0.0.1.9049
+===========
+Released - 2023-12-08
+
 * refactor: Update MN (Red Lakes) bug and fish files (taxa and attributes)
 
 BioMonTools_SupportFiles 0.0.1.9048

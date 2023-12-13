@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-08 15:44:28.56505
+    #> Last Update: 2023-12-13 13:23:16.098545
+
+# BioMonTools_SupportFiles 0.0.1.9049
+
+Released - 2023-12-08
+
+- fix: Update MN (Red Lakes) bug taxa translation for odd character
+  - Order “Neotaenioglossa” to “Neotaenioglossa”
 
 # BioMonTools_SupportFiles 0.0.1.9049
 
