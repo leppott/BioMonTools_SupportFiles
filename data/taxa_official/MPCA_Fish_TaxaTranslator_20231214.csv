@@ -280,3 +280,5 @@ Taxon_Group,Taxon_Orig_Common,Taxon_Orig_Sci,NonTarget,source,Comment,FishTaxaID
 1,Gen: Pomoxis,Pomoxis,,"MN data, Sci",,,Gen: Pomoxis,Gen: Pomoxis,Pomoxis,Pomoxis,Pomoxis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,
 1,Blacknose Dace,Rhinichthys obtusus  ,,"MN data, Sci",add space to end of Taxon_Orig_Sci so not a duplicate,,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
 1,SubFam: buffalo/carpsuckers,Ictiobinae,,"MN data, Sci",,,SubFam: buffalo/carpsuckers,SubFam: buffalo/carpsuckers,Ictiobinae,Ictiobinae,Ictiobinae,Animalia,,,,,,
+,Blacknose Dace,Rhinichthys obtusus (dup),,"MN data, Sci",,,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+,SubFam: buffalo/carpsuckers,SubFam: buffalo/carpsuckers,,"MN data, Sci",,,SubFam: buffalo/carpsuckers,SubFam: buffalo/carpsuckers,Ictiobinae,Ictiobinae,Ictiobinae,Animalia,,,,,,

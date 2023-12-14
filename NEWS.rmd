@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9057
+===========
+Released - 2023-12-14
+
+* refactor: Add MN Fish taxa translations
+
 BioMonTools_SupportFiles 0.0.1.9056
 ===========
 Released - 2023-12-14

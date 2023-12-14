@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-14 08:43:49.069392
+    #> Last Update: 2023-12-14 08:56:16.449563
+
+# BioMonTools_SupportFiles 0.0.1.9057
+
+Released - 2023-12-14
+
+- refactor: Add MN Fish taxa translations
 
 # BioMonTools_SupportFiles 0.0.1.9056
 
