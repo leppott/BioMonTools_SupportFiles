@@ -4,13 +4,20 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-14 08:56:16.449563
+    #> Last Update: 2023-12-14 09:31:30.661729
+
+# BioMonTools_SupportFiles 0.0.1.9058
+
+Released - 2023-12-14
+
+- refactor: Add MN Fish taxa translations, Red Lakes
+- tests: Reorganize tests by community rather than test type
 
 # BioMonTools_SupportFiles 0.0.1.9057
 
 Released - 2023-12-14
 
-- refactor: Add MN Fish taxa translations
+- refactor: Add MN Fish taxa translations, MN
 
 # BioMonTools_SupportFiles 0.0.1.9056
 

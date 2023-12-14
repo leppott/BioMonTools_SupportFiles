@@ -17,11 +17,18 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9058
+===========
+Released - 2023-12-14
+
+* refactor: Add MN Fish taxa translations, Red Lakes
+* tests: Reorganize tests by community rather than test type
+
 BioMonTools_SupportFiles 0.0.1.9057
 ===========
 Released - 2023-12-14
 
-* refactor: Add MN Fish taxa translations
+* refactor: Add MN Fish taxa translations, MN
 
 BioMonTools_SupportFiles 0.0.1.9056
 ===========

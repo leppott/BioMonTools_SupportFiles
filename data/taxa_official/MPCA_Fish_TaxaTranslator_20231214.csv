@@ -282,3 +282,6 @@ Taxon_Group,Taxon_Orig_Common,Taxon_Orig_Sci,NonTarget,source,Comment,FishTaxaID
 1,SubFam: buffalo/carpsuckers,Ictiobinae,,"MN data, Sci",,,SubFam: buffalo/carpsuckers,SubFam: buffalo/carpsuckers,Ictiobinae,Ictiobinae,Ictiobinae,Animalia,,,,,,
 ,Blacknose Dace,Rhinichthys obtusus (dup),,"MN data, Sci",,,western blacknose dace,western blacknose dace,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
 ,SubFam: buffalo/carpsuckers,SubFam: buffalo/carpsuckers,,"MN data, Sci",,,SubFam: buffalo/carpsuckers,SubFam: buffalo/carpsuckers,Ictiobinae,Ictiobinae,Ictiobinae,Animalia,,,,,,
+,Northern redbelly dace,Chrosomus eos,,AWQMS_Fish_Data_Export,Use MN master taxa list,,northern redbelly dace,northern redbelly dace,Phoxinus eos,Phoxinus eos,Phoxinus eos,Animalia,,,,,Phoxinus,eos
+,Finescale Dace,Chrosomus neogaeus,,AWQMS_Fish_Data_Export,Use MN master taxa list,,finescale dace,finescale dace,Phoxinus neogaeus,Phoxinus neogaeus,Phoxinus neogaeus,Animalia,,,,,Phoxinus,neogaeus
+,Bigmouth Shiner,Hybopsis dorsalis,,AWQMS_Fish_Data_Export,Keep with MN master taxa list,,bigmouth shiner,bigmouth shiner,Notropis dorsalis,Notropis dorsalis,Notropis dorsalis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,dorsalis
