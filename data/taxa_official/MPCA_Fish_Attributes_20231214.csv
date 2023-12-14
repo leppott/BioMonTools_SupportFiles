@@ -203,3 +203,6 @@ FishTaxaID,CommonName,SciID,Kingdom,Phylum,Class,Order,Family,Genus,Species,Ente
 221,white bass,Morone chrysops,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops,##########,,,,WHB,4,4,4,FALSE,4,4,4,4,4,x,x,4,x,4,4,x,4,4,x,x,x,x
 ,eastern blacknose dace,Rhinichthys atratulus,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,atratulus,##########,,,,,5,,5,FALSE,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,4,4
 ,Gen: lamprey,Ichthyomyzon,Animalia,,,,,Ichthyomyzon,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Gen: Pomoxis,Pomoxis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,SubFam: buffalo/carpsuckers,Ictiobinae,Animalia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,lake whitefish,Coregonus clupeaformis,Animalia,,,,,Coregonus,clupeaformis,,,,,,,,,,,,,,,,,,,,,,,,,,,
