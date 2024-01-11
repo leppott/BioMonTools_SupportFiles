@@ -1,0 +1,565 @@
+"TaxaID","NONTARGET","FFG","FFGSource","Habit","HabitSource","BCG_ATTR","TolVal","TolValSource","Phylum","SubPhylum","Class","SubClass","Order","Family","SubFamily"
+"Abedus",FALSE,"PR","Jacobi","CB","EPA 841-B-99-002",5,8,"AZ DEQ","Arthropoda",,"Insecta",,"Hemiptera","Belostomatidae","Belostomatinae"
+"Ablabesmyia",FALSE,"PR","Jacobi","SP","M&C 95-80182",5,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Acarina",FALSE,"PR",,,,4,8,,"Arthropoda",,"Arachnida","Acarina",,,
+"Acentrella",FALSE,"CG","05_NM1999","SW","EPA 841-B-99-002",3,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Acentrella insignificans",FALSE,"CG","Jacobi","SW","WY DEQ",4,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Acerpenna",FALSE,,"NRSA",,"NRSA",,3.6,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Acroneuria",FALSE,"PR","EPA 841-B-99-002","CN","M&C 95-80182",3,1,"03_WSA","Arthropoda",,"Insecta",,"Plecoptera","Perlidae","Acroneuriinae"
+"Actinobdella",FALSE,,"NRSA",,"NRSA",,7.3,"NRSA","Annelida",,"Hirudinea","Hirudinea","Rhynchobdellida","Glossiphoniidae",
+"Aeshnidae",FALSE,"PR","Jacobi","CB","M&C 95-80182",4,3,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Odonata","Aeshnidae",
+"Allonais",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Tubificida","Naididae",
+"Ambrysus",FALSE,"PR","EPA 841-B-99-002","CN","M&C 95-80182",4,5,"03_WSA","Arthropoda",,"Insecta",,"Hemiptera","Naucoridae","Ambrysinae"
+"Ambrysus mormon",FALSE,"PR","Jacobi",,,4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Hemiptera","Naucoridae","Ambrysinae"
+"Ameletus",FALSE,"CG","Jacobi","SW","EPA 841-B-99-002",2,,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Ameletidae",
+"Amercaenis",FALSE,,"NRSA",,"NRSA",,4,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Caenidae",
+"Americamysis",FALSE,,,,,,,,"Arthropoda",,"Malacostraca",,"Mysida","Mysidae",
+"Americorophium",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda",,"Malacostraca",,"Amphipoda","Gammaridae",
+"Amphipoda",FALSE,,,,,,,,"Arthropoda",,"Malacostraca",,"Amphipoda",,
+"Amphizoidae",FALSE,"PR","Jacobi",,,2,1,"Jacobi","Arthropoda",,"Insecta",,"Coleoptera","Amphizoidae",
+"Anacaena",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda",,"Insecta",,"Coleoptera","Hydrophilidae",
+"Anagapetus",FALSE,"SC","Jacobi","CN","EPA 841-B-99-002",2,,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Glossosomatidae","Glossosomatinae"
+"Ancylidae",FALSE,"SC","Jacobi","CB","03_WSA",4,6,"Jacobi","Mollusca",,"Gastropoda",,"Basommatophora","Ancylidae",
+"Anisoptera",FALSE,"PR","EPA 841-B-99-002",,,,6,"03_WSA","Arthropoda",,"Insecta",,"Odonata",,
+"Antocha",FALSE,"CG","05_NM1999","CN","M&C 95-80182",3,3,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Limoniinae"
+"Antocha monticola",FALSE,"CG","Jacobi",,,3,3,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Limoniinae"
+"Apedilum",FALSE,,"AZ DEQ","CN","AZ DEQ",5,6,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Apobaetis",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Arachnida",FALSE,,,,,4,,,"Arthropoda",,"Arachnida",,,,
+"Arcteonais",FALSE,,"NRSA",,"NRSA",,,"NRSA","Annelida",,"Oligochaeta",,"Tubificida","Naididae",
+"Arctopsyche grandis",FALSE,"CF","Jacobi","CN","EPA 841-B-99-002",3,2,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae","Arctopsychinae"
+"Argia",FALSE,"PR","Jacobi","CN","M&C 95-80182",4,7,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Coenagrionidae",
+"Argulus",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda","Crustacea","Maxillopoda",,"Arguloida","Argulidae",
+"Arigomphus",FALSE,,"NRSA",,"NRSA",,1,"NRSA","Arthropoda",,"Insecta",,"Trichoptera","Gomphidae",
+"Arrenurus",FALSE,"PR","AZ DEQ",,,4,,,"Arthropoda",,"Arachnida","Acarina","Trombidiformes","Arrenuridae",
+"Asheum",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Asioplax",FALSE,,,"SP","03_WSA",4,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Leptohyphidae",
+"Atherix",FALSE,"PR","EPA 841-B-99-002","SP","M&C 95-80182",3,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Athericidae",
+"Atherix pachypus",FALSE,"PR","Jacobi",,,3,4,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Athericidae",
+"Atractides",FALSE,"PR","AZ DEQ",,,4,8,"03_WSA","Arthropoda",,"Arachnida","Acarina","Acariformes","Hygrobatidae",
+"Atrichopogon",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Ceratopogonidae","Forcipomyiinae"
+"Atylotus/tabanus",FALSE,"PR","AZ DEQ",,,4,,"5","Arthropoda",,"Insecta",,"Diptera","Tabanidae","Tabaninae"
+"Aulodrilus",FALSE,,,,,5,,,"Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida","Tubificidae",
+"Axarus",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Baetidae",FALSE,"CG","03_WSA","SW","M&C 95-80182",4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Baetis",FALSE,"CG","Jacobi","SW","EPA 841-B-99-002/M&C 95-80182",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Baetis flavistriga",FALSE,"CG","03_WSA","CN","03_WSA",4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Baetis notos",FALSE,,"AZ DEQ",,,4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Baetis tricaudatus",FALSE,"CG","Jacobi","SW","EPA 841-B-99-002",4,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Baetodes",FALSE,"SC","EPA 841-B-99-002","CN","M&C 95-80182",3,4,"AZ DEQ","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Baetodes edmundsi",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Belostomatidae",FALSE,"PR","03_WSA","CB","M&C 95-80182",4,5,"03_WSA","Arthropoda",,"Insecta",,"Hemiptera","Belostomatidae",
+"Berosus",FALSE,"CG","M&C 95-80182","SW","M&C 95-80182",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Hydrophilidae","Berosinae"
+"Bezzia/palpomyia",FALSE,"PR","03_WSA","SP","03_WSA",3,6,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Ceratopogonidae","Ceratopogoninae"
+"Bivalvia",FALSE,,"NRSA",,"NRSA",,,"NRSA","Mollusca",,"Bivalvia",,,,
+"Blephariceridae",FALSE,"SC","EPA 841-B-99-002","CN","M&C 95-80182",2,,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Blephariceridae",
+"Bothrioneurum",FALSE,,"NRSA",,"NRSA",,,"NRSA","Annelida",,"Oligochaeta",,"Haplotaxida","Tubificidae",
+"Brachycentrus",FALSE,"CF","Jacobi","CN","M&C 95-80182",3,1,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Brachycentridae",
+"Brachycentrus (oligoplectrodes) americanus",FALSE,"CF","Jacobi",,,3,1,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Brachycentridae",
+"Brachycentrus (sphinctogaster) occidentalis",FALSE,"CF","Jacobi","CN","EPA 841-B-99-002",3,1,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Brachycentridae",
+"Brachycentrus occidentalis",FALSE,"CF","MC 96","CN","North Dakota",3,5,"07_CO1994","Arthropoda",,"Insecta",,"Trichoptera","Brachycentridae",
+"Brachycercus",FALSE,,"NRSA",,"NRSA",,7,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Caenidae",
+"Branchiobdellida",FALSE,"CG","03_WSA",,,5,8,"03_WSA","Annelida",,"Hirudinea","Hirudinea","Branchiobdellida","Cambarincolidae",
+"Branchiura",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Haplotaxida","Tubificidae",
+"Bratislavia",FALSE,,"NRSA",,"NRSA",,,"NRSA","Annelida",,"Oligochaeta",,"Tubificida","Naididae",
+"Brillia",FALSE,"SH","Jacobi","BU","M&C 95-80182",3,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Caecidotea",FALSE,"CG","Jacobi","SP","03_WSA",4,8,"Jacobi","Arthropoda",,"Malacostraca",,"Isopoda","Asellidae",
+"Caenidae",FALSE,"CG","03_WSA","SP","03_WSA",,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Caenidae",
+"Caenis",FALSE,"CG","Jacobi","SP","EPA 841-B-99-002",4,7,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Caenidae",
+"Callibaetis",FALSE,"CG","03_WSA","SW","EPA 841-B-99-002",5,9,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Calopterygidae",FALSE,"PR","EPA 841-B-99-002","CB","EPA 841-B-99-002",4,5,"03_WSA","Arthropoda",,"Insecta",,"Odonata","Calopterygidae",
+"Cambaridae",FALSE,"CG","03_WSA","SP","03_WSA",,6,"03_WSA","Arthropoda",,"Malacostraca",,"Decapoda","Cambaridae",
+"Cambarincolidae",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Branchiobdellida","Cambarincolidae",
+"Camelobaetidius",FALSE,"CG","03_WSA","SW","M&C 95-80182",4,4,"03_WSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Camelobaetidius musseri",FALSE,,"AZ DEQ",,,4,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Camelobaetidius warreni",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Capniidae",FALSE,"SH","Jacobi","SP","EPA 841-B-99-002",3,1,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Capniidae",
+"Carabidae",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Coleoptera","Carabidae",
+"Cardiocladius",FALSE,"PR","Jacobi","CN","EPA 841-B-99-002",3,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Centroptilum",FALSE,"CG","Jacobi","CN","WY DEQ",,2,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Ceraclea",FALSE,"SH","Jacobi","SP","M&C 95-80182",3,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Leptoceridae","Leptocerinae"
+"Ceratopogonidae",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Ceratopogonidae",
+"Ceratopogoninae",FALSE,"PR","03_WSA","BU","03_WSA",4,6,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Ceratopogonidae","Ceratopogoninae"
+"Ceratopsyche oslari",FALSE,"CF","Jacobi",,,3,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae","Hydropsychinae"
+"Ceratopsyche venada",FALSE,"CF","Jacobi",,,2,5,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae","Hydropsychinae"
+"Cercobrachys",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Caenidae",
+"Chaetarthria",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda",,"Insecta",,"Coleoptera","Hydrophilidae",
+"Chaetocladius",FALSE,"CG","Jacobi","SP","WY DEQ",4,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Chaetogaster",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Haplotaxida","Naididae",
+"Chaoborus",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chaoboridae",
+"Chelifera",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Empididae","Hemerodromiinae"
+"Chernovskiia",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Cheumatopsyche",FALSE,"CF","Jacobi","CN","M&C 95-80182",4,5,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae","Hydropsychinae"
+"Chimarra",FALSE,"CF","Jacobi","CN","EPA 841-B-99-002",4,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Philopotamidae","Chimarrinae"
+"Chironomidae",FALSE,"CG","Jacobi","BU","EPA 841-B-99-002",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Chironomini",FALSE,"CG","03_WSA","BU","03_WSA",5,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Chironomus",FALSE,"CG","Jacobi","BU","EPA 841-B-99-002",5,10,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Chloroperlidae",FALSE,"PR","Jacobi","CN","EPA 841-B-99-002",3,1,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Chloroperlidae",
+"Choroterpes",FALSE,"CG;PR","03_WSA","CN","EPA 841-B-99-002",4,2,"03_WSA","Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Chrysops",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tabanidae","Chrysopsinae"
+"Cinygmula",FALSE,"SC","Jacobi","CN","EPA 841-B-99-002",3,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Claassenia sabulosa",FALSE,"PR","Jacobi","CN","EPA 841-B-99-002",3,1,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlidae","Perlinae"
+"Cladocera",FALSE,"CF","03_WSA","SP","AZ DEQ",,8,"03_WSA","Arthropoda",,"Branchiopoda",,"Diplostraca","Cladocera",
+"Cladopelma",FALSE,,"NRSA",,"NRSA",,5,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Cladotanytarsus",FALSE,"CF","EPA 841-B-99-002","CB","EPA 841-B-99-002",3,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Cleptelmus addenda",FALSE,"SC","EPA 841-B-99-002","CN","M&C 95-80182",3,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Climacia",FALSE,,"NRSA",,"NRSA",,8.4,"NRSA","Arthropoda",,"Insecta",,"Neuroptera","Sisyridae",
+"Clinotanypus",FALSE,,"NRSA",,"NRSA",,6.3,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Cnidaria",FALSE,,,,,,,,"Cnidaria",,,,,,
+"Coelotanypus",FALSE,"PR","EPA 841-B-99-002","BU","M&C 95-80182",4,8,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Coenagrion/enallagma",FALSE,"PR","03_WSA","CB","03_WSA",,8,"03_WSA","Arthropoda",,"Insecta",,"Odonata","Coenagrionidae",
+"Coenagrionidae",FALSE,"PR","Jacobi","CB","EPA 841-B-99-002",4,9,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Coenagrionidae",
+"Coleoptera",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Coleoptera",,
+"Collembola",FALSE,,,,,,,,"Arthropoda",,"Collembola",,"Collembola",,
+"Conchapelopia",FALSE,"PR","EPA 841-B-99-002","SP","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Constempellina",FALSE,"CG",,"CB","03_WSA",4,6,"AL SOP 99","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Copelatus",FALSE,"PR","EPA 841-B-99-002","SW","M&C 95-80182",4,5,"03_WSA","Arthropoda",,"Insecta",,"Coleoptera","Dytiscidae","Colymbetinae"
+"Copepoda",FALSE,"CF","Jacobi","CN","AZ DEQ",,8,"Jacobi","Arthropoda",,"Maxillipoda",,"Copepoda",,
+"Corbicula",FALSE,"CF","Jacobi","BU","03_WSA",6,6,"Jacobi","Mollusca",,"Bivalvia","Heterodonta","Veneroida","Corbiculidae",
+"Corbicula fluminea",FALSE,"CF","03_WSA","BU","03_WSA",6,6,"03_WSA","Mollusca",,"Bivalvia","Heterodonta","Veneroida","Corbiculidae",
+"Corduliidae",FALSE,,"NRSA",,"NRSA",,3.9,"NRSA","Mollusca",,"Bivalvia","Heterodonta","Veneroida","Corduliidae",
+"Corixidae",FALSE,"PR","EPA 841-B-99-002","SW","EPA 841-B-99-002",5,10,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Hemiptera","Corixidae",
+"Corticacarus",FALSE,,,,,4,,,"Arthropoda",,"Arachnida","Acarina","Acariformes","Hygrobatidae",
+"Corydalidae",FALSE,"PR","Jacobi","CN","EPA 841-B-99-002",3,3,"Jacobi","Arthropoda",,"Insecta",,"Megaloptera","Corydalidae",
+"Corydalus",FALSE,"PH;PR","BCG workgroup","CN",,3,3,"05_NM1999","Arthropoda",,"Insecta",,"Megaloptera","Corydalidae","Corydalinae"
+"Corydalus cornutus",FALSE,"PR","Jacobi","CN","EPA 841-B-99-002",3,3,"Jacobi","Arthropoda",,"Insecta",,"Megaloptera","Corydalidae","Corydalinae"
+"Corynoneura",FALSE,"CG","Jacobi","SP","M&C 95-80182",3,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Crangonyctidae",FALSE,,,,,4,,,"Arthropoda",,"Malacostraca",,"Amphipoda","Crangonyctidae",
+"Crangonyx",FALSE,,,,,4,,,"Arthropoda",,"Malacostraca",,"Amphipoda","Crangonyctidae",
+"Cricotopus",FALSE,"SH","Jacobi","CN","M&C 95-80182",4,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus (cricotopus)",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus (cricotopus) bicinctus",FALSE,,,,,5,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus (cricotopus) trifascia",FALSE,,,,,4,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus (isocladius)",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus (nostococladius) nostocicola",FALSE,"SH","Jacobi",,,3,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus bicinctus",FALSE,"SH","MC 96","BU","North Dakota",5,8,"NC SOP 97","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus bicinctus gr.",FALSE,"SH","AZ DEQ",,,5,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus trifascia",FALSE,,,,,3,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus trifascia gr.",FALSE,"SH","AZ DEQ",,,3,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Cricotopus/orthocladius",FALSE,"SH","03_WSA","SP","03_WSA",4,6,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Cryptochironomus",FALSE,"PR","Jacobi","SP","M&C 95-80182",5,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Cryptolabis",FALSE,"PR","Jacobi","BU","RBP2 1999",2,3,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Limoniinae"
+"Cryptotendipes",FALSE,"CG","Jacobi","BU","EPA 841-B-99-002",5,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Culoptila",FALSE,"SC","Jacobi","CN","WY DEQ",3,1,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Glossosomatidae","Protoptilinae"
+"Cultus",FALSE,"PR","EPA 841-B-99-002","CN","EPA 841-B-99-002",3,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Plecoptera","Perlodidae","Perlodinae"
+"Cyphomella",FALSE,,,"BU","M&C 95-80182",,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Cyrnellus",FALSE,,"NRSA",,"NRSA",,5.5,"NRSA","Arthropoda",,"Insecta",,"Trichoptera","Polycentropodidae",
+"Dasyhelea",FALSE,"CG","03_WSA","SP","03_WSA",5,6,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Ceratopogonidae","Dasyheleinae"
+"Dasyheleinae",FALSE,,,,,5,,,"Arthropoda",,"Insecta",,"Diptera","Ceratopogonidae","Dasyheleinae"
+"Decapoda",FALSE,,"NRSA",,"NRSA",,7.8,"NRSA","Arthropoda",,"Malacostraca",,"Decapoda",,
+"Demicryptochironomus",FALSE,,"NRSA",,"NRSA",,6,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Dero",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Haplotaxida","Naididae",
+"Diamesa",FALSE,"CG","Jacobi","SP","EPA 841-B-99-002",3,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Diamesinae"
+"Dicranota",FALSE,"PR","Jacobi","SP","M&C 95-80182",3,3,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Limoniinae"
+"Dicrotendipes",FALSE,"CF","M&C 95-80182","BU","M&C 95-80182",4,8,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Dineutus",FALSE,"PR","Jacobi","SW","M&C 95-80182",4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Gyrinidae","Gyrininae"
+"Diphetor",FALSE,,"NRSA",,"NRSA",,4.2,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Diphetor hageni",FALSE,"CG","Jacobi","CN","WY DEQ",3,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Diptera",FALSE,"CG","03_WSA","CB","03_WSA",,7,"03_WSA","Arthropoda",,"Insecta",,"Diptera",,
+"Djalmabatista",FALSE,"PR","EPA 841-B-99-002","SP","EPA 841-B-99-002",,9,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Dolichopodidae",FALSE,"PR","Jacobi","SP","M&C 95-80182",,4,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Dolichopodidae","Dolichopodinae"
+"Dreissena",FALSE,,"NRSA",,"NRSA",,,"NRSA","Mollusca",,"Bivalvia",,,"Dreissenidae",
+"Drunella doddsi",FALSE,"SC","Jacobi","CN","WY DEQ",3,1,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Drunella grandis",FALSE,"SC","Jacobi","CN","WY DEQ",2,1,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Dubiraphia",FALSE,"CG","Jacobi","CN","M&C 95-80182",4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Dytiscidae",FALSE,"PR","Jacobi","CB","MC 96",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Dytiscidae",
+"Elmidae",FALSE,"CG","Jacobi","CN","M&C 95-80182",3,4,"Jacobi","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Empididae",FALSE,"PR","Jacobi","SP","EPA 841-B-99-002",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Empididae",
+"Enallagma",FALSE,"PR","Jacobi","CB","EPA 841-B-99-002",4,9,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Coenagrionidae",
+"Enchytraeidae",FALSE,"CG","03_WSA","BU","03_WSA",5,9,"03_WSA","Annelida",,"Oligochaeta",,"Enchytraeida","Enchytraeidae",
+"Enchytraeus",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Enchytraeida","Enchytraeidae",
+"Endochironomus",FALSE,"SH","EPA 841-B-99-002","CN","M&C 95-80182",4,10,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Endotribelos",FALSE,"CG","03_WSA","BU","03_WSA",,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Enochrus",FALSE,"CG","03_WSA","BU","M&C 95-80182",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Hydrophilidae","Hydrobiinae"
+"Entomobryidae",FALSE,,,,,,,,"Arthropoda",,"Collembola",,"Collembola","Entomobryidae",
+"Epeorus",FALSE,"SC","EPA 841-B-99-002/M&C 95-80182","CN","EPA 841-B-99-002",3,,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Epeorus margarita",FALSE,"SC","AZ DEQ",,,3,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Ephemera",FALSE,,"NRSA",,"NRSA",,3.1,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemeridae",
+"Ephemerella",FALSE,"SC","EPA 841-B-99-002/M&C 95-80182","CN","EPA 841-B-99-002",3,1,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Ephemerella excrucians",FALSE,,,"CN",,3,1,,"Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Ephemerella inermis",FALSE,"SH","EPA 841-B-99-002","CN","WY DEQ",3,1,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Ephemerella inermis/infrequens",FALSE,,"AZ DEQ","CN","AZ DEQ",3,1,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Ephemerella infrequens",FALSE,"SH","Jacobi","CN","CO DPHEQ",3,1,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Ephemerellidae",FALSE,"CG","Jacobi","CN","M&C 95-80182",3,1,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Ephoron",FALSE,,"NRSA",,"NRSA",,2,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Polymitarcyidae",
+"Ephydridae",FALSE,"CG","Jacobi","BU","MC 96",5,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Ephydridae",
+"Erioptera",FALSE,"CG","03_WSA","BU;SP","03_WSA",4,6,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Limoniinae"
+"Erpetogomphus",FALSE,"PR","Jacobi","BU","M&C 95-80182",4,4,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Gomphidae",
+"Erpobdella",FALSE,"PR","Jacobi","SP","03_WSA",5,10,"Jacobi","Annelida",,"Hirudinea","Hirudinea","Arhynchobdellida","Erpobdellidae","Erpobdellinae"
+"Erpobdellidae",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Annelida",,"Hirudinea","Hirudinea","Arhynchobdellida","Erpobdellidae",
+"Eukiefferiella",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Eukiefferiella brehmi gr.",FALSE,,"07_CO1994",,,4,5,"07_CO1994","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Eukiefferiella devonica gr.",FALSE,,"07_CO1994",,,3,5,"07_CO1994","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Eukiefferiella gracei gr.",FALSE,,"07_CO1994",,,4,5,"07_CO1994","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Eukiefferiella pseudomontana gr.",FALSE,,"07_CO1994",,,4,6,"07_CO1994","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Eupera",FALSE,"CF",,,,,,,"Mollusca",,"Bivalvia",,"Veneroida","Pisidiidae",
+"Fallceon",FALSE,"CG","03_WSA","SW","M&C 95-80182",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Fallceon quilleri",FALSE,"CG","AZ DEQ","CN","AZ DEQ",4,4,"AZ DEQ","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Ferrissia",FALSE,"SC","Jacobi","CN","WY DEQ",4,6,"EPA 841-B-99-002","Mollusca",,"Gastropoda",,"Basommatophora","Ancylidae",
+"Forcipomyia",FALSE,"SC","AZ DEQ","BU","03_WSA",3,4,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Ceratopogonidae","Forcipomyiinae"
+"Fossaria",FALSE,"CG;SC","03_WSA","CB","03_WSA",4,6,"03_WSA","Mollusca",,"Gastropoda",,"Basommatophora","Lymnaeidae",
+"Galba",FALSE,,,,,,,,"Mollusca",,"Gastropoda",,"Basommatophora","Lymnaeidae",
+"Gammarus",FALSE,,"NRSA",,"NRSA",,5.7,"NRSA","Arthropoda",,"Malacostraca",,"Amphipoda","Gammaridae",
+"Gastropoda",FALSE,,"NRSA",,"NRSA",,7,"NRSA","Mollusca",,"Gastropoda",,,,
+"Geayia",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda",,"Arachnida",,"Trombidiformes","Krendowskiidae",
+"Gerridae",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Hemiptera","Gerridae",
+"Gillotia",FALSE,,,"BU","M&C 95-80182",,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Gloiobdella",FALSE,,"NRSA",,"NRSA",,8.4,"NRSA","Annelida",,"Hirudinea","Hirudinea","Rhynchobdellida","Glossiphoniidae",
+"Glossiphoniidae",FALSE,"PR","03_WSA","SP","03_WSA",5,7,"03_WSA","Annelida",,"Hirudinea","Hirudinea","Rhynchobdellida","Glossiphoniidae",
+"Glossosoma",FALSE,"SC","Jacobi","CN","WY DEQ",3,,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Glossosomatidae","Glossosomatinae"
+"Glossosomatidae",FALSE,"SC","EPA 841-B-99-002","CN","EPA 841-B-99-002",3,,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Trichoptera","Glossosomatidae",
+"Glyptotendipes",FALSE,"CG","Jacobi","BU","M&C 95-80182",4,10,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Goeldichironomus",FALSE,"CG","03_WSA","BU","M&C 95-80182",5,10,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Gomphidae",FALSE,"PR","Jacobi","BU","EPA 841-B-99-002",4,1,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Odonata","Gomphidae",
+"Gomphus",FALSE,"PR","Jacobi","BU","M&C 95-80182",,5,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Gomphidae",
+"Gonomyia",FALSE,,"NRSA",,"NRSA",,3,"NRSA","Arthropoda",,"Insecta",,"Diptera","Tipulidae",
+"Gordius",FALSE,"PR","Jacobi",,,,8,"Jacobi","Nematomorpha",,"Gordioida",,"Gordioidea","Gordiidae",
+"Graptocorixa",FALSE,"PR","Jacobi","SW","EPA 841-B-99-002",4,,,"Arthropoda",,"Insecta",,"Hemiptera","Corixidae","Corixinae"
+"Gyraulus",FALSE,"SC","Jacobi","CB","03_WSA",4,8,"Jacobi","Mollusca",,"Gastropoda",,"Basommatophora","Planorbidae",
+"Gyretes",FALSE,"PR","03_WSA","SP","AZ DEQ",4,5,"03_WSA","Arthropoda",,"Insecta",,"Coleoptera","Gyrinidae",
+"Gyrinus",FALSE,"PR","Jacobi","SW","M&C 95-80182",3,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Gyrinidae","Gyrininae"
+"Haliplidae",FALSE,,"NRSA",,"NRSA",,7,"NRSA","Arthropoda",,"Insecta",,"Coleoptera","Haliplidae",
+"Haplotaxida",FALSE,"CG","03_WSA",,,5,,,"Annelida",,"Oligochaeta",,"Haplotaxida",,
+"Hebetoncylus",FALSE,,,,,4,,,"Mollusca",,"Gastropoda",,"Basommatophora","Ancylidae",
+"Helichus",FALSE,"SH","Jacobi","CN","WY DEQ",3,5,"AZ DEQ","Arthropoda",,"Insecta",,"Coleoptera","Dryopidae",
+"Helicopsyche",FALSE,"SC","M&C 95-80182","CN","M&C 95-80182",4,3,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Trichoptera","Helicopsychidae",
+"Helicopsyche (feropsyche) borealis",FALSE,"SC","Jacobi",,,4,3,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Helicopsychidae",
+"Helisoma",FALSE,,"NRSA",,"NRSA",,5.7,"NRSA","Mollusca",,"Gastropoda",,"Basommatophora","Planorbidae",
+"Helobdella",FALSE,"PR","03_WSA","SP","03_WSA",5,8,"03_WSA","Annelida",,"Hirudinea",,"Rhynchobdellida","Glossiphoniidae",
+"Hemerodromia",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Empididae","Hemerodromiinae"
+"Heptagenia",FALSE,"SC","Jacobi","CN","EPA 841-B-99-002",4,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Heptageniidae",FALSE,"SC","Jacobi","CN","M&C 95-80182",3,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Hesperocorixa",FALSE,"PH;PR","03_WSA","SW","03_WSA",4,,,"Arthropoda",,"Insecta",,"Hemiptera","Corixidae","Corixinae"
+"Hesperoperla pacifica",FALSE,"PR","Jacobi","CN","EPA 841-B-99-002",3,1,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlidae","Acroneuriinae"
+"Hetaerina",FALSE,"PR","Jacobi","CB","EPA 841-B-99-002",4,6,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Calopterygidae",
+"Heterelmis",FALSE,"CG","Jacobi","CN","EPA 841-B-99-002",4,4,"Jacobi","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Heterlimnius corpulentus",FALSE,"CG","Jacobi","CN","EPA 841-B-99-002",3,4,"Jacobi","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Heteroceridae",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Coleoptera","Heteroceridae",
+"Heterocloeon",FALSE,,"NRSA",,"NRSA",,3.5,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Hexacylloepus",FALSE,,,"CN","M&C 95-80182",4,,,"Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Hexagenia",FALSE,"CG","03_WSA","BU","EPA 841-B-99-002",,5,"03_WSA","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemeridae",
+"Hexatoma",FALSE,"PR","Jacobi","BU","M&C 95-80182",3,2,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Limoniinae"
+"Hirudinea",FALSE,"PR","Jacobi","SP","03_WSA",5,10,"Jacobi","Annelida",,"Hirudinea","Hirudinea",,,
+"Homoeoneuria",FALSE,"CF;CG","03_WSA","BU","M&C 95-80182",2,2,"03_WSA","Arthropoda",,"Insecta",,"Ephemeroptera","Oligoneuriidae",
+"Homoleptohyphes",FALSE,,,,,3,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Leptohyphidae",
+"Hyalella",FALSE,"CG","05_NM1999","SP","03_WSA",4,8,"EPA 841-B-99-002","Arthropoda",,"Malacostraca",,"Amphipoda","Hyalellidae",
+"Hyalella azteca",FALSE,"CG","Jacobi","SP","03_WSA",4,8,"Jacobi","Arthropoda",,"Malacostraca",,"Amphipoda","Hyalellidae",
+"Hydracarina",FALSE,"PR",,,,,8,,"Arthropoda",,"Arachnida",,,,
+"Hydrachna",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Arthropoda",,"Arachnida",,,"Hydrachnidae",
+"Hydrachnidae",FALSE,"PR","Jacobi",,,4,8,"Jacobi","Arthropoda",,"Arachnida","Acarina","Trombidiformes","Hydrachnidae",
+"Hydraena",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Coleoptera","Hydraenidae",
+"Hydrobaenus",FALSE,,"NRSA",,"NRSA",,8.5,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Hydrobiidae",FALSE,"SC","EPA 841-B-99-002","CB","03_WSA",,5,"03_WSA","Mollusca",,"Gastropoda",,"Neotaenioglossa","Hydrobiidae",
+"Hydrocanthus",FALSE,,"NRSA",,"NRSA",,7,"NRSA","Arthropoda",,"Insecta",,"Coleoptera","Noteridae",
+"Hydrochus",FALSE,"CG","Jacobi","SW","RBP2 1999",4,6,"CO DPHEQ","Arthropoda",,"Insecta",,"Coleoptera","Hydrophilidae",
+"Hydrodroma",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Arthropoda",,"Arachnida",,"Trombidiformes","Hydrodromidae",
+"Hydrophilidae",FALSE,"PR","EPA 841-B-99-002","SW","EPA 841-B-99-002",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Hydrophilidae",
+"Hydroporus",FALSE,,"NRSA",,"NRSA",,5,"NRSA","Arthropoda",,"Insecta",,"Coleoptera","Dytiscidae",
+"Hydropsyche",FALSE,"CF","Jacobi","CN","M&C 95-80182",4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae","Hydropsychinae"
+"Hydropsyche occidentalis",FALSE,"CF","Jacobi",,,4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae","Hydropsychinae"
+"Hydropsychidae",FALSE,"CF","Jacobi","CN","M&C 95-80182",4,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae",
+"Hydroptila",FALSE,"SC","NM ED","CN","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Hydroptilidae",FALSE,"SC","NM ED","CN","RBP2 1999",4,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae",
+"Hygrobates",FALSE,"PR","AZ DEQ",,,4,,,"Arthropoda",,"Arachnida",,"Trombidiformes","Hygrobatidae",
+"Hygrotus",FALSE,"PR","EPA 841-B-99-002","SW","M&C 95-80182",4,4,"03_WSA","Arthropoda",,"Insecta",,"Coleoptera","Dytiscidae","Hydroporinae"
+"Hypogasturidae",FALSE,,,,,,,,"Arthropoda",,"Collembola",,"Collembola","Hypogasturidae",
+"Ischnura",FALSE,,"NRSA",,"NRSA",,9,"NRSA","Arthropoda",,"Insecta",,"Odonata","Coenagrionidae",
+"Isogenoides",FALSE,"PR","Jacobi","CN","03_WSA",3,,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlodidae","Perlodinae"
+"Isogenoides elongatus",FALSE,"PR","Jacobi",,,3,,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlodidae","Perlodinae"
+"Isonychia",FALSE,"CF","Jacobi","SW","EPA 841-B-99-002",3,2,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Isonychiidae",
+"Isoperla",FALSE,"PR","Jacobi","CN","M&C 95-80182",3,2,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlodidae","Isoperlinae"
+"Isopoda",FALSE,"CG","03_WSA",,,,8,"03_WSA","Arthropoda",,"Malacostraca",,"Isopoda",,
+"Ithytrichia",FALSE,"SC","Jacobi","CN","M&C 95-80182",4,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Koenikea",FALSE,,,,,,,,"Arthropoda",,"Arachnida",,"Trombidiformes","Unionicolidae",
+"Krendowskia",FALSE,,,,,,,,"Arthropoda",,"Arachnida",,"Trombidiformes","Krendowskiidae",
+"Labiobaetis",FALSE,"CG","03_WSA","SW","EPA 841-B-99-002",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Labrundinia",FALSE,"PR","EPA 841-B-99-002","SP","M&C 95-80182",4,6,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Laccobius",FALSE,"PR","EPA 841-B-99-002",,,4,7,"03_WSA","Arthropoda",,"Insecta",,"Coleoptera","Hydrophilidae","Hydrophilinae"
+"Laccophilus",FALSE,"PR","Jacobi","SW","M&C 95-80182",,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Dytiscidae","Laccophilinae"
+"Larsia",FALSE,"PR","EPA 841-B-99-002","SP","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Lebertia",FALSE,"PR","AZ DEQ",,,4,8,"03_WSA","Arthropoda",,"Arachnida","Acarina","Acariformes","Lebertiidae",
+"Lepidoptera",FALSE,,"NRSA",,"NRSA",,6.7,"NRSA","Arthropoda",,"Insecta","Pterygota","Lepidoptera",,
+"Lepidostoma",FALSE,"SH","Jacobi","CB","M&C 95-80182",3,1,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Lepidostomatidae","Lepidostomatinae"
+"Leptoceridae",FALSE,"CG","Jacobi","CB","EPA 841-B-99-002",4,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Leptoceridae",
+"Leptohyphes",FALSE,"CG","Jacobi","CN","EPA 841-B-99-002",4,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Leptohyphidae",
+"Leptohyphidae",FALSE,"CG","Jacobi",,,4,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Leptohyphidae",
+"Leptophlebia",FALSE,"CG","03_WSA","SW","EPA 841-B-99-002/M&C 95-80182",4,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Leptophlebiidae",FALSE,"CG","03_WSA","SW","M&C 95-80182",4,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Leucotrichia",FALSE,"SC","Jacobi","CN","EPA 841-B-99-002",3,2,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Leucrocuta",FALSE,,"NRSA",,"NRSA",,2.6,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Libellula",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,9,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Libellulidae",
+"Libellulidae",FALSE,"PR","Jacobi","SP","EPA 841-B-99-002",4,9,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Libellulidae",
+"Limnephilidae",FALSE,"SH","Jacobi","CB","M&C 95-80182",3,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Limnephilidae",
+"Limnephilus",FALSE,"SH","Jacobi","CB","M&C 95-80182",4,3,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Limnephilidae","Limnephilinae"
+"Limnesia",FALSE,,,,,4,,,"Arthropoda",,"Arachnida",,"Trombidiformes","Limnesiidae",
+"Limnocoris",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Hemiptera","Naucoridae",
+"Limnodrilus",FALSE,"CG","Jacobi","CN","BCG Workgroup",5,8,"Jacobi","Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida","Tubificidae",
+"Limnophora",FALSE,"PR","Jacobi","BU","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Muscidae","Coenosiinae"
+"Limnophyes",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Limonia",FALSE,"SH","Jacobi","BU","M&C 95-80182",4,3,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Limoniinae"
+"Liodessus",FALSE,"PR","EPA 841-B-99-002","SW","EPA 841-B-99-002",4,,,"Arthropoda",,"Insecta",,"Coleoptera","Dytiscidae","Hydroporinae"
+"Lopescladius",FALSE,"SH","BCG workgroup","SP","EPA 841-B-99-002",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Lumbricina",FALSE,,,,,5,,,"Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida",,
+"Lumbriculidae",FALSE,"CG","Jacobi","BU","WY DEQ",5,8,"Jacobi","Annelida",,"Oligochaeta","Oligochaeta","Lumbriculida","Lumbriculidae",
+"Lumbriculus",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Annelida",,"Oligochaeta","Oligochaeta","Lumbriculida","Lumbriculidae",
+"Lutrochus",FALSE,,"AZ DEQ",,,,,,"Arthropoda",,"Insecta",,"Coleoptera","Lutrochidae",
+"Lymnaea",FALSE,"SC","Jacobi","CB","03_WSA",4,6,"Jacobi","Mollusca",,"Gastropoda",,"Basommatophora","Lymnaeidae",
+"Lymnaeidae",FALSE,"SC","EPA 841-B-99-002","CB","03_WSA",4,6,"EPA 841-B-99-002","Mollusca",,"Gastropoda",,"Basommatophora","Lymnaeidae",
+"Maccaffertium",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Macrelmis",FALSE,"SC","AZ DEQ","CN","M&C 95-80182",,4,"AZ DEQ","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Macrobrachium",FALSE,,,,,,,,"Arthropoda",,"Malacostraca",,"Decapoda","Palaemonidae",
+"Macromia",FALSE,"PR","EPA 841-B-99-002","SP","EPA 841-B-99-002",,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Odonata","Corduliidae","Macromiinae"
+"Macronychus",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Macrostemum",FALSE,,"NRSA",,"NRSA",,3,"NRSA","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae",
+"Macrovelia",FALSE,"PR","Jacobi","CB","M&C 95-80182",,,,"Arthropoda",,"Insecta",,"Hemiptera","Macroveliidae",
+"Maruina",FALSE,"SC","Jacobi","CN","M&C 95-80182",3,1,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Psychodidae","Psychodinae"
+"Mayatrichia",FALSE,"SC","Jacobi","CN","M&C 95-80182",4,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Megarcys signata",FALSE,"PR","Jacobi",,,3,2,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlodidae","Perlodinae"
+"Melanoides",FALSE,,,,,6,,,"Mollusca",,"Gastropoda",,"Mesogastropoda","Thiaridae",
+"Menetus",FALSE,,"NRSA",,"NRSA",,7.6,"NRSA","Mollusca",,"Gastropoda",,"Basommatophora","Planorbidae",
+"Metrichia",FALSE,"SC","Jacobi","CN","03_WSA",,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Micrasema",FALSE,"SH","Jacobi","CN","M&C 95-80182",3,1,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Brachycentridae",
+"Microchironomus",FALSE,"CG","03_WSA","BU","M&C 95-80182",,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Microcylloepus",FALSE,"SC","Jacobi","CN","M&C 95-80182",4,4,"Jacobi","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Micropsectra",FALSE,"CG","Jacobi","CB","M&C 95-80182",3,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Microtendipes",FALSE,"CG","Jacobi","CN","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Microtendipes pedellus gr.",FALSE,"CF","07_CO1994",,,4,5,"07_CO1994","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Microtendipes rydalensis gr.",FALSE,,"AZ DEQ",,,4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Microvelia",FALSE,"PR","Jacobi","SK","M&C 95-80182",,6,"AZ DEQ","Arthropoda",,"Insecta",,"Hemiptera","Veliidae","Microvelinae"
+"Mideopsis",FALSE,,,,,4,,,"Arthropoda",,"Arachnida",,"Trombidiformes","Mideopsidae",
+"Monodiamesa",FALSE,"CG","Jacobi","SP","EPA 841-B-99-002",4,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Prodiamesinae"
+"Muscidae",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Muscidae",
+"Musculium",FALSE,,"NRSA",,"NRSA",,,"NRSA","Mollusca",,"Bivalvia",,"Veneroida","Pisidiidae",
+"Musculium transversum",FALSE,"CF",,,,,,,"Mollusca",,"Bivalvia",,"Veneroida","Pisidiidae",
+"Mysidae",FALSE,,,,,,,,"Arthropoda",,"Malacostraca",,"Mysida","Mysidae",
+"Myzobdella",FALSE,,,,,5,,,"Annelida",,"Hirudinea",,"Rhynchobdellae","Piscicolidae",
+"Naididae",FALSE,"CG","Jacobi","BU","WY DEQ",5,8,"Jacobi","Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida","Naididae",
+"Naididae (naidinae)",FALSE,,,,,5,,,"Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida","Naididae",
+"Naididae (tubificinae)",FALSE,,,,,5,,,"Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida","Naididae",
+"Nais",FALSE,"CG","PN 89","BU","03_WSA",5,8,"NC SOP 97","Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida","Naididae",
+"Nanocladius",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,3,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Narpus",FALSE,"SH","Jacobi","CN","M&C 95-80182",3,4,"Jacobi","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Nasiaeschna",FALSE,,"NRSA",,"NRSA",,8.1,"NRSA","Arthropoda",,"Insecta",,"Odonata","Aeshnidae",
+"Natarsia",FALSE,"PR","MC 96","SP","RBP2 1999",5,10,"NC SOP 97","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Naucoridae",FALSE,"PR","EPA 841-B-99-002","CN","EPA 841-B-99-002",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Hemiptera","Naucoridae",
+"Neanthes",FALSE,,"NRSA",,"NRSA",,,"NRSA","Annelida",,"Polychaeta",,,"Nereididae",
+"Nectopsyche",FALSE,"SH","Jacobi","CB","M&C 95-80182",4,3,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Leptoceridae","Leptocerinae"
+"Nemata",FALSE,"PR","Jacobi",,,4,8,"Jacobi","Nemata",,,,,,
+"Nematoda",FALSE,,,,,4,,,"Nematoda",,,,,,
+"Nematomorpha",FALSE,"PR","03_WSA","BU","03_WSA",4,5,"03_WSA","Nematomorpha",,,,,,
+"Nemotelus",FALSE,"CG","03_WSA","SP","03_WSA",,4,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Stratiomyidae","Nemotelinae"
+"Neochoroterpes",FALSE,,"AZ DEQ","CN","M&C 95-80182",4,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Neochoroterpes oklahoma",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Neoplasta",FALSE,"PR","AZ DEQ","SP","03_WSA",3,,,"Arthropoda",,"Insecta",,"Diptera","Empididae","Hemerodromiinae"
+"Neoplea",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Hemiptera","Pleidae",
+"Neotrichia",FALSE,"SC","Jacobi","CN","WY DEQ",4,2,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Neumania",FALSE,"PR","AZ DEQ",,,4,,,"Arthropoda",,"Arachnida",,"Trombidiformes","Unionicolidae",
+"Neureclipsis",FALSE,,"NRSA",,"NRSA",,4,"NRSA","Arthropoda",,"Insecta",,"Trichoptera","Polycentropodidae",
+"Nilothauma",FALSE,,"AZ DEQ",,,4,2,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Nixe",FALSE,"SC","Jacobi","CN","EPA 841-B-99-002",3,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Notaxon",FALSE,,,,,,,,,,,,,,
+"Notonectidae",FALSE,"PR","Jacobi",,,5,8,"CO DPHEQ","Arthropoda",,"Insecta",,"Hemiptera","Notonectidae",
+"Ochrotrichia",FALSE,"CG","Jacobi","CN","EPA 841-B-99-002",4,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Ochthebius",FALSE,"SC","03_WSA","CN","M&C 95-80182",4,4,"03_WSA","Arthropoda",,"Insecta",,"Coleoptera","Hydraenidae","Ochthebiinae"
+"Odonata",FALSE,,"NRSA",,"NRSA",,5,"NRSA","Arthropoda",,"Insecta",,"Odonata",,
+"Odontomesa",FALSE,"SC","Jacobi","SP","M&C 95-80182",4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Prodiamesinae"
+"Odontomyia",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,7,"CA F&G","Arthropoda",,"Insecta",,"Diptera","Stratiomyidae","Stratiomyinae"
+"Oecetis",FALSE,"PR","Jacobi","CN","M&C 95-80182",4,8,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Leptoceridae","Leptocerinae"
+"Oecetis avara",FALSE,"PR","AZ DEQ","CN","AZ DEQ",4,5,"AZ DEQ","Arthropoda",,"Insecta",,"Trichoptera","Leptoceridae","Leptocerinae"
+"Oecetis disjuncta",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Trichoptera","Leptoceridae","Leptocerinae"
+"Oligochaeta",FALSE,"CG","Jacobi","BU","03_WSA",5,5,"Jacobi","Annelida",,"Oligochaeta","Oligochaeta",,,
+"Oligophlebodes",FALSE,"SC","Jacobi","CN","M&C 95-80182",2,1,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Uenoidae","Thremmatinae"
+"Oliveiriella",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Ophidonais",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Haplotaxida","Naididae",
+"Ophiogomphus",FALSE,"PR","Jacobi","BU","EPA 841-B-99-002",4,1,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Gomphidae",
+"Optioservus",FALSE,"SC","Jacobi","CN","M&C 95-80182",4,4,"Jacobi","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Orconectes",FALSE,"CG","05_NM1999","SP","03_WSA",,6,"05_NM1999","Arthropoda",,"Malacostraca",,"Decapoda","Cambaridae","Cambarinae"
+"Orconectes virilis",FALSE,"CG","Jacobi",,,6,6,"Jacobi","Arthropoda",,"Malacostraca",,"Decapoda","Cambaridae",
+"Oribatei",FALSE,"PR","AZ DEQ",,,4,,,"Arthropoda",,"Arachnida","Acarina","Sarcoptiformes","Oribatidae",
+"Orthocladiinae",FALSE,"CG","Jacobi","BU","EPA 841-B-99-002",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Orthocladius",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Orthocladius (euorthocladius)",FALSE,,"AZ DEQ",,,4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Orthocladius (euorthocladius) rivulorum",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Orthocladius complex",FALSE,,"AZ DEQ",,,4,6,"AZ DEQ","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Orthotrichia",FALSE,,"NRSA",,"NRSA",,4,"NRSA","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae",
+"Ostracoda",FALSE,"CF","Jacobi",,,4,8,"Jacobi","Arthropoda",,"Ostracoda",,,,
+"Oxyethira",FALSE,,"Jacobi","CN","WY DEQ",4,3,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Pagastia",FALSE,"CG","Jacobi","SP","03_WSA",3,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Diamesinae"
+"Palaemonetes",FALSE,,"NRSA",,"NRSA",,5.1,"NRSA","Arthropoda",,"Malacostraca",,"Decapoda","Palaemonidae",
+"Palaemonidae",FALSE,,,,,,,,"Arthropoda",,"Malacostraca",,"Decapoda","Palaemonidae",
+"Parachaetocladius",FALSE,,"NRSA",,"NRSA",,7.2,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Parachironomus",FALSE,"PR","EPA 841-B-99-002","SP","M&C 95-80182",5,10,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Paracladius",FALSE,,,"SP","M&C 95-80182",4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Paracladopelma",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Paracloeodes",FALSE,"SC","EPA 841-B-99-002","SW","03_WSA",4,6,"03_WSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Paracloeodes minutus",FALSE,"SC",,,,4,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Parakiefferiella",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Paralauterborniella",FALSE,"CG","03_WSA","BU","M&C 95-80182",4,5,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Paraleptophlebia",FALSE,"CG","Jacobi","SW","EPA 841-B-99-002/M&C 95-80182",4,1,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Parametriocnemus",FALSE,"CG","Jacobi","SP","EPA 841-B-99-002",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Paranais",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Tubificida","Naididae",
+"Paraphaenocladius",FALSE,"CG","Jacobi","SP","EPA 841-B-99-002",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Paratanytarsus",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Paratendipes",FALSE,"CG","Jacobi","BU","M&C 95-80182",4,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Pelocoris",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Hemiptera","Naucoridae",
+"Peltodytes",FALSE,"SH","Jacobi","CB","M&C 95-80182",4,8,"AZ DEQ","Arthropoda",,"Insecta",,"Coleoptera","Haliplidae",
+"Pentagenia",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemeridae",
+"Pentaneura",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Pericoma",FALSE,"CG","Jacobi","BU","M&C 95-80182",3,4,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Psychodidae","Psychodinae"
+"Perlesta",FALSE,,"NRSA",,"NRSA",,3.1,"NRSA","Arthropoda",,"Insecta",,"Plecoptera","Perlidae",
+"Perlidae",FALSE,"PR","Jacobi","CN","M&C 95-80182",3,1,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlidae","Perlinae"
+"Perlodidae",FALSE,"PR","Jacobi","CN","EPA 841-B-99-002",3,2,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlodidae",
+"Perlodinae",FALSE,"PR","Jacobi",,,3,2,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Perlodidae","Perlodinae"
+"Petrophila",FALSE,"SH","05_NM1999","CB","03_WSA",3,5,"05_NM1999","Arthropoda",,"Insecta","Pterygota","Lepidoptera","Crambidae","Nymphulinae"
+"Petrophilia",FALSE,"SC","EPA 841-B-99-002","CN","M&C 95-80182",3,5,"Jacobi","Arthropoda",,"Insecta",,"Lepidoptera","Pyralidae","Nymphulinae"
+"Phaenopsectra",FALSE,"SC","Jacobi","BU","M&C 95-80182",4,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Phryganeidae",FALSE,,"NRSA",,"NRSA",,4.2,"NRSA","Arthropoda",,"Insecta",,"Trichoptera","Phryganeidae",
+"Physa",FALSE,"SC","Jacobi",,,5,8,"Jacobi","Mollusca",,"Gastropoda",,"Basommatophora","Physidae",
+"Physella",FALSE,"SC","Jacobi","CB","03_WSA",5,8,"Jacobi","Mollusca",,"Gastropoda",,"Basommatophora","Physidae","Physinae"
+"Physidae",FALSE,"SC","Jacobi","CB","03_WSA",5,8,"Jacobi","Mollusca",,"Gastropoda",,"Basommatophora","Physidae",
+"Piona",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Arthropoda",,"Arachnida",,"Trombidiformes","Pionidae",
+"Pisidiidae",FALSE,"CF","EPA 841-B-99-002",,,4,6,"Jacobi","Mollusca",,"Bivalvia",,"Veneroida","Pisidiidae",
+"Pisidium",FALSE,"CF","EPA 841-B-99-002","BU","03_WSA",4,6,"Jacobi","Mollusca",,"Bivalvia","Heterodonta","Veneroida","Pisidiidae","Pisidiinae"
+"Placobdella",FALSE,,"NRSA",,"NRSA",,7.6,"NRSA","Annelida",,"Hirudinea","Hirudinea","Rhynchobdellida","Glossiphoniidae",
+"Planorbella",FALSE,"SC","EPA 841-B-99-002","CB","03_WSA",,6,"EPA 841-B-99-002","Mollusca",,"Gastropoda",,"Basommatophora","Planorbidae",
+"Platysmittia",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Plauditus",FALSE,,"NRSA",,"NRSA",,4,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Plecoptera",FALSE,"PR","03_WSA","CN","03_WSA",3,3,"03_WSA","Arthropoda",,"Insecta",,"Plecoptera",,
+"Polycelis coronata",FALSE,"CG","Jacobi",,,,4,"Jacobi","Platyhelminthes",,"Turbellaria",,"Tricladida","Planariidae",
+"Polycentropodidae",FALSE,"CF","03_WSA","CN","EPA 841-B-99-002",3,5,"03_WSA","Arthropoda",,"Insecta",,"Trichoptera","Polycentropodidae",
+"Polycentropus",FALSE,"PR","Jacobi","CN","EPA 841-B-99-002",3,6,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Polycentropodidae","Polycentropodinae"
+"Polypedilum",FALSE,"SH","Jacobi","CB","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Postelichus",FALSE,"SH","AZ DEQ","CN","M&C 95-80182",4,5,"AZ DEQ","Arthropoda",,"Insecta",,"Coleoptera","Dryopidae",
+"Potamothrix",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Tubificida","Tubificidae",
+"Potamyia",FALSE,,"NRSA",,"NRSA",,3.2,"NRSA","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae",
+"Potthastia",FALSE,"CG","Jacobi","SP","M&C 95-80182",3,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Diamesinae"
+"Potthastia longimana gr.",FALSE,,,,,3,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Diamesinae"
+"Pristina",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Haplotaxida","Naididae",
+"Procambarus",FALSE,"CG","03_WSA",,,,6,"03_WSA","Arthropoda",,"Malacostraca",,"Decapoda","Cambaridae",
+"Procladius",FALSE,"PR","Jacobi","SP","EPA 841-B-99-002",5,9,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Procloeon",FALSE,"CG","03_WSA","SW","EPA 841-B-99-002",,9,"03_WSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Prodiamesinae",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Prodiamesinae"
+"Progomphus",FALSE,"PR","Jacobi","BU","EPA 841-B-99-002",4,3,"Jacobi","Arthropoda",,"Insecta",,"Odonata","Gomphidae",
+"Prostoma",FALSE,"PR","03_WSA",,,4,6,"03_WSA","Nemertea",,"Enopla",,"Hoplonemertea","Tetrastemmatidae",
+"Protoptila",FALSE,"SC","Jacobi","CN","WY DEQ",3,1,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Glossosomatidae","Protoptilinae"
+"Protzia",FALSE,"PR","AZ DEQ",,,4,,,"Arthropoda",,"Arachnida","Acarina","Acariformes","Protziidae",
+"Psectrocladius",FALSE,,"NRSA",,"NRSA",,7,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Psephenus",FALSE,"SC","05_NM1999","CN","03_WSA",3,4,"05_NM1999","Arthropoda",,"Insecta",,"Coleoptera","Psephenidae","Psepheninae"
+"Pseudocentroptiloides",FALSE,,"NRSA",,"NRSA",,2.8,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Pseudochironomini",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Pseudochironomus",FALSE,"CG","Jacobi","BU","M&C 95-80182",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Pseudocloeon",FALSE,"SC;SH","03_WSA","SW","03_WSA",,4,"03_WSA","Arthropoda",,"Insecta",,"Ephemeroptera","Baetidae",
+"Pseudosmittia",FALSE,"CG","Jacobi","SP","EPA 841-B-99-002",,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Psychodidae",FALSE,"CG","03_WSA","BU","M&C 95-80182",3,10,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Psychodidae",
+"Psychoglypha",FALSE,"CG","Jacobi","CN","WY DEQ",3,,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Limnephilidae","Limnephilinae"
+"Psychomyia",FALSE,"CG","Jacobi","CN","M&C 95-80182",3,2,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Psychomyiidae","Psychomiinae"
+"Psychoronia",FALSE,"SH","Jacobi","SP","M&C 95-80182",2,2,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Limnephilidae","Limnephilinae"
+"Pteronarcella badia",FALSE,"SH","Jacobi","CN","EPA 841-B-99-002",3,,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Pteronarcyidae","Pteronarcyinae"
+"Pteronarcys",FALSE,"SH","EPA 841-B-99-002","CN","M&C 95-80182",3,,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Plecoptera","Pteronarcyidae","Pteronarcyinae"
+"Quistradrilus",FALSE,,"NRSA",,"NRSA",,10,"NRSA","Annelida",,"Oligochaeta",,"Haplotaxida","Tubificidae",
+"Radotanypus",FALSE,"PR","Jacobi",,,4,1,"AZ DEQ","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Ranatra",FALSE,"PR","EPA 841-B-99-002","CB","M&C 95-80182",,,,"Arthropoda",,"Insecta",,"Hemiptera","Nepidae","Ranatrinae"
+"Rhabdomastix",FALSE,"PR","Jacobi","SP","EPA 841-B-99-002",3,3,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Limoniinae"
+"Rhantus",FALSE,"PR","M&C 95-80182","SW","M&C 95-80182",4,5,"03_WSA","Arthropoda",,"Insecta",,"Coleoptera","Dytiscidae","Colymbetinae"
+"Rheocricotopus",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Rheosmittia",FALSE,,"NRSA",,"NRSA",,6.8,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Rheotanytarsus",FALSE,"CG","Jacobi","CN","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Rhithrogena",FALSE,"SC","EPA 841-B-99-002","CN","EPA 841-B-99-002",3,,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Rhyacodrilus",FALSE,,,,,5,,,"Annelida",,"Oligochaeta",,"Haplotaxida","Tubificidae",
+"Rhyacophila",FALSE,,"NRSA",,"NRSA",,1.5,"NRSA","Arthropoda",,"Insecta",,"Trichoptera","Rhyacophilidae",
+"Rhyacophila coloradensis gr.",FALSE,"PR",,"CN",,2,,,"Arthropoda",,"Insecta",,"Trichoptera","Rhyacophilidae",
+"Rissooidea",FALSE,,,,,,,,"Mollusca",,"Gastropoda",,,"Hydrobiidae",
+"Robackia",FALSE,"CG","03_WSA","BU","M&C 95-80182",4,2,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Rotifera",FALSE,,,,,,,,"Rotifera",,,,,,
+"Sabellidae",FALSE,,"NRSA",,"NRSA",,,"NRSA","Annelida",,"Polychaeta",,,"Sabellidae",
+"Saetheria",FALSE,"CG","Jacobi","BU","CA F&G",4,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Saetheria tylus",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Sarcoptiformes",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Arthropoda",,"Arachnida","Acarina","Sarcoptiformes",,
+"Sciomyzidae",FALSE,"PR","MC 96","BU","RBP2 1999",4,10,"USEPA 1990","Arthropoda",,"Insecta",,"Diptera","Sciomyzidae",
+"Scirtidae",FALSE,"SC","03_WSA","CB","03_WSA",4,4,"03_WSA","Arthropoda",,"Insecta",,"Coleoptera","Scirtidae",
+"Serratella",FALSE,,"NRSA",,"NRSA",,1.7,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Serratella micheneri",FALSE,,"AZ DEQ",,,3,2,"AZ DEQ","Arthropoda",,"Insecta",,"Ephemeroptera","Ephemerellidae",
+"Sialis",FALSE,"PR","Jacobi","BU","WY DEQ",3,4,"Jacobi","Arthropoda",,"Insecta",,"Megaloptera","Sialidae",
+"Sigara",FALSE,"PR","EPA 841-B-99-002","SW","M&C 95-80182",5,9,"CO DPHEQ","Arthropoda",,"Insecta",,"Hemiptera","Corixidae","Corixinae"
+"Simuliidae",FALSE,"CG","Jacobi","CN","EPA 841-B-99-002",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Simuliidae",
+"Simulium",FALSE,"CG","Jacobi","CN","M&C 95-80182",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Simuliidae","Simuliinae"
+"Siphlonurus",FALSE,,"AZ DEQ","SW","EPA 841-B-99-002",3,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Siphlonuridae",
+"Skwala",FALSE,"PR","EPA 841-B-99-002","CN","03_WSA",3,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Plecoptera","Perlodidae","Perlodinae"
+"Slavina",FALSE,"CG",,,,5,6,"By Assoc. w/ species","Annelida",,"Oligochaeta",,"Haplotaxida","Naididae",
+"Smicridea",FALSE,"CF","Jacobi","CN","M&C 95-80182",4,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Trichoptera","Hydropsychidae","Smicrideinae"
+"Smittia",FALSE,"CG","03_WSA","BU","M&C 95-80182",,2,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Sparbarus",FALSE,,"NRSA",,"NRSA",,,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Caenidae",
+"Sperchon",FALSE,"PR","AZ DEQ",,,4,8,"03_WSA","Arthropoda",,"Arachnida","Acarina","Acariformes","Sperchonidae",
+"Sperchonopsis",FALSE,"PR","AZ DEQ",,,,8,"03_WSA","Arthropoda",,"Arachnida","Acarina","Acariformes","Sperchonidae",
+"Sphaerium",FALSE,"CF;CG","03_WSA","BU","03_WSA",,6,"EPA 841-B-99-002","Mollusca",,"Bivalvia",,"Veneroida","Pisidiidae",
+"Sphaeriusidae",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Coleoptera","Sphaeriusidae",
+"Stactobiella",FALSE,"CG","Jacobi","CB","EPA 841-B-99-002",2,4,"Jacobi","Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
+"Stagnicola",FALSE,,"NRSA",,"NRSA",,7,"NRSA","Mollusca",,"Gastropoda",,"Basommatophora","Lymnaeidae",
+"Staphylinidae",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Coleoptera","Staphylinidae",
+"Stelechomyia",FALSE,,"NRSA",,"NRSA",,4.6,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Stempellina",FALSE,,"NRSA",,"NRSA",,0,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Stempellinella",FALSE,"CG","Jacobi","CN","WY DEQ",3,2,"NMED","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Stenacron",FALSE,,"NRSA",,"NRSA",,4.4,"NRSA","Arthropoda",,"Insecta",,"Ephemeroptera","Heptageniidae",
+"Stenelmis",FALSE,"SC","M&C 95-80182","CN","M&C 95-80182",4,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Stenochironomus",FALSE,"CG;SH","03_WSA","BU","03_WSA",4,5,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Stictochironomus",FALSE,"CG","Jacobi","BU","EPA 841-B-99-002",5,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Stilobezzia",FALSE,"PR","03_WSA","SP","03_WSA",3,,,"Arthropoda",,"Insecta",,"Diptera","Ceratopogonidae","Ceratopogoninae"
+"Stratiomyidae",FALSE,"CG","Jacobi","SP","M&C 95-80182",,8,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Stratiomyidae",
+"Stratiomys",FALSE,"CG","03_WSA","SP","M&C 95-80182",4,,,"Arthropoda",,"Insecta",,"Diptera","Stratiomyidae","Stratiomyinae"
+"Stylaria",FALSE,,"NRSA",,"NRSA",,7,"NRSA","Annelida",,"Oligochaeta",,"Tubificida","Naididae",
+"Stylurus",FALSE,"PR","EPA 841-B-99-002","SP","EPA 841-B-99-002",4,5,"03_WSA","Arthropoda",,"Insecta",,"Odonata","Gomphidae",
+"Sublettea",FALSE,"CG","Jacobi",,,4,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Synorthocladius",FALSE,"CG","Jacobi",,,3,2,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Tabanidae",FALSE,"PR","Jacobi","SP","EPA 841-B-99-002",4,6,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tabanidae",
+"Tabanus",FALSE,"PR","Jacobi","SP","M&C 95-80182",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Tabanidae","Tabaninae"
+"Taeniopteryx",FALSE,"SC","Jacobi","SP","WY DEQ",3,2,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Taeniopterygidae","Taeniopteryginae"
+"Tanypodinae",FALSE,"PR","EPA 841-B-99-002","BU","EPA 841-B-99-002",4,7,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Tanypus",FALSE,"PR","EPA 841-B-99-002","SP","M&C 95-80182",5,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Tanytarsini",FALSE,"CF","03_WSA","BU","03_WSA",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Tanytarsus",FALSE,"CG","Jacobi","CB","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Taphromysis",FALSE,,,,,,,,"Arthropoda",,"Malacostraca",,"Mysida","Mysidae",
+"Telopelopia",FALSE,"PR","M&C 95-80182","SP","M&C 95-80182",4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Testudacarus",FALSE,"PR","AZ DEQ",,,3,,,"Arthropoda",,"Arachnida","Acarina","Acariformes","Torrenticolidae",
+"Thienemanniella",FALSE,"CG","Jacobi","SP","M&C 95-80182",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Thienemannimyia",FALSE,"PR","Jacobi","SP","EPA 841-B-99-002",4,6,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Thienemannimyia genus gr.",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Thienemannimyia gr.",FALSE,"PR","M&C 95-80182","SP","M&C 95-80182",4,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Tanypodinae"
+"Thraulodes",FALSE,"CG","Jacobi","CN","M&C 95-80182",4,2,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Thraulodes brunneus",FALSE,,,,,4,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Thysanoptera",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Thysanoptera",,
+"Tipula",FALSE,"SH","Jacobi","BU","M&C 95-80182",4,4,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tipulidae","Tipulinae"
+"Tipulidae",FALSE,"SH","Jacobi","BU","M&C 95-80182",4,3,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Tipulidae",
+"Torrenticola",FALSE,"PR","AZ DEQ",,,4,8,,"Arthropoda",,"Arachnida","Acarina","Acariformes","Torrenticolidae",
+"Traverella",FALSE,"CF","Jacobi","CN","M&C 95-80182",4,4,"Jacobi","Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Traverella albertana",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Leptophlebiidae",
+"Trepaxonemata",FALSE,,,,,4,,,"Platyhelminthes",,"Turbellaria",,,,
+"Tribelos",FALSE,"CG","Jacobi","BU","WY DEQ",4,8,"Jacobi","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Trichocorixa",FALSE,"PR","Jacobi","SW","CA F&G",5,5,"CA F&G","Arthropoda",,"Insecta",,"Hemiptera","Corixidae","Corixinae"
+"Trichoptera",FALSE,"CG","03_WSA","SP","03_WSA",,4,"03_WSA","Arthropoda",,"Insecta",,"Trichoptera",,
+"Tricladida",FALSE,"CG","Jacobi",,,,4,"Jacobi","Platyhelminthes",,"Turbellaria",,"Tricladida",,
+"Tricorythodes",FALSE,"CG","Jacobi","SP","EPA 841-B-99-002",4,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Ephemeroptera","Leptohyphidae",
+"Tropisternus",FALSE,"CG","Jacobi","CB","M&C 95-80182",5,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Hydrophilidae","Hydrophilinae"
+"Tubifex",FALSE,,"NRSA",,"NRSA",,,"NRSA","Annelida",,"Oligochaeta",,"Haplotaxida","Tubificidae",
+"Tubificidae",FALSE,"CG","Jacobi","BU","WY DEQ",5,10,"EPA 841-B-99-002","Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida","Tubificidae",
+"Tubificinae",FALSE,,,,,5,,,"Annelida",,"Oligochaeta","Oligochaeta","Haplotaxida","Tubificidae",
+"Turbellaria",FALSE,"PR","M&C 95-80182","SP","03_WSA",4,4,"Jacobi","Platyhelminthes",,"Turbellaria",,,,
+"Tvetenia",FALSE,"CG","Jacobi","SP","M&C 95-80182",3,5,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Tvetenia bavarica gr.",FALSE,"CG","07_CO1994",,,3,6,"07_CO1994","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Tvetenia discoloripes gr.",FALSE,"CG","07_CO1994",,,3,6,"07_CO1994","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Tvetenia tshernovskii",FALSE,,,,,3,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Tvetenia vitracies",FALSE,,,,,3,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae","Orthocladiinae"
+"Tyrrellia",FALSE,,,,,,,,"Arthropoda",,"Arachnida",,"Trombidiformes","Limnesiidae",
+"Unionicola",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Arthropoda",,"Arachnida",,"Trombidiformes","Unionicolidae",
+"Unionicolidae",FALSE,,"NRSA",,"NRSA",,8,"NRSA","Arthropoda",,"Arachnida",,"Trombidiformes","Unionicolidae",
+"Unionoida",FALSE,,"NRSA",,"NRSA",,,"NRSA","Mollusca",,"Bivalvia",,"Unionoida",,
+"Vacupernius",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Ephemeroptera","Leptohyphidae",
+"Valvata",FALSE,,"NRSA",,"NRSA",,,"NRSA","Mollusca",,"Gastropoda",,,"Valvatidae",
+"Veliidae",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Hemiptera","Veliidae",
+"Xenochironomus",FALSE,,,,,2,,,"Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Xestochironomus",FALSE,"PR","03_WSA","BU","03_WSA",,2,"03_WSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae","Chironominae"
+"Ylodes",FALSE,,,,,,,,"Arthropoda",,"Insecta",,"Trichoptera","Leptoceridae",
+"Zaitzevia",FALSE,"SC","05_NM1999","CN","M&C 95-80182",3,4,"EPA 841-B-99-002","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Zaitzevia parvulus",FALSE,"SC","Jacobi",,,3,4,"Jacobi","Arthropoda",,"Insecta",,"Coleoptera","Elmidae",
+"Zapada",FALSE,"SH","Jacobi","SP","WY DEQ",3,2,"Jacobi","Arthropoda",,"Insecta",,"Plecoptera","Nemouridae","Nemourinae"
+"Zavreliella",FALSE,,"NRSA",,"NRSA",,4.7,"NRSA","Arthropoda",,"Insecta",,"Diptera","Chironomidae",
+"Zumatrichia notosa",FALSE,,,,,3,,,"Arthropoda",,"Insecta",,"Trichoptera","Hydroptilidae","Hydroptilinae"
