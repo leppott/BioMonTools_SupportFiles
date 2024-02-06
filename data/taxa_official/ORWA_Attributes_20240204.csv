@@ -1,0 +1,897 @@
+Taxon_AttributeTable,NonTarget,BCG_attr,FFG,Life_Cycle,Habitat,Noteworthy,LONGLIVED,Thermal_indicator,ThermalPref_ALL,ThermTol_Less30,MWMT_WAopt,MWMT_PCT90,Therm_TopIndicator,ThermVar,TSN,Kingdom,Phylum,SubPhylum,Class,SubClass,Order,SubOrder,SuperFamily,Family,SubFamily,Tribe,GenusGroup,Genus,SubGenus,SpeciesGroup,SpeciesSubGroup,SpeciesComplex,Species,Taxon_Group
+Ablabesmyia,FALSE,5,PR,multi,GENE,,FALSE,warm,Warm,,21.52460115,25.945,,,128079,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Ablabesmyia,,,,,,Chironomidae
+Acalyptonotus,FALSE,,,,,,FALSE,,,,,,,,83508,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Acalyptonotidae,,,,Acalyptonotus,,,,,,Other Non-Insect
+Acamptocladius,FALSE,,,,,,FALSE,,,,,,,,128460,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Acamptocladius,,,,,,Chironomidae
+Acari,FALSE,,,,,,FALSE,,Eurythermal,,17.9104217,22.397,,yes,733321,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,,,,,,,,,,,,,,Other Non-Insect
+Acentrella,FALSE,4,CG,multi,RHEO,,FALSE,warm,Warm,,20.11017415,24.913,,,100801,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Acentrella,,,,,,Ephemeroptera
+Acentrella insignificans,FALSE,4,CG,multi,RHEO,,FALSE,warm,Warm,,23.55654785,28.936,,,568572,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Acentrella,,,,,insignificans,Ephemeroptera
+Acentrella turbida,FALSE,4,CG,multi,RHEO,,FALSE,warm,Warm,,20.3337399,24.838,,,568574,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Acentrella,,,,,turbida,Ephemeroptera
+Acerpenna,FALSE,,,,,,FALSE,,,Less30,,,,,568546,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Acerpenna,,,,,,Ephemeroptera
+Acerpenna pygmaea,FALSE,,,,,,FALSE,,,Less30,,,,,206620,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Acerpenna,,,,,pygmaea,Ephemeroptera
+Achaeta,FALSE,,,,,,FALSE,,,Less30,,,,,68560,Animalia,Annelida,,Clitellata,Oligochaeta,Enchytraeida,,,Enchytraeidae,,,,Achaeta,,,,,,Oligochaeta
+Acilius,FALSE,,,,,,FALSE,,,Less30,,,,,112074,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Dytiscinae,Aciliini,,Acilius,,,,,,Coleoptera
+Acneus,FALSE,2,SC,semi,SPEC,TRUE,FALSE,cool,Cool,,17.44839373,20.27,,,114082,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Psephenidae,Eubriinae,,,Acneus,,,,,,Coleoptera
+Acricotopus,FALSE,,,,,,FALSE,,,Less30,,,,,128463,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Acricotopus,,,,,,Chironomidae
+Aeshna/Rhionaeschna,FALSE,3,PR,semi,GENE,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Aeshnidae,,,,Aeshna/Rhionaeschna,,,,,,Odonata
+Aeshnidae,FALSE,3,PR,semi,GENE,,FALSE,warm,Warm,,20.56192453,24.266,,,101596,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Aeshnidae,,,,,,,,,,Odonata
+Afghanurus,FALSE,3,SC,uni,RHEO,,FALSE,warm,Warm,,20.9564776,23.852,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Afghanurus,,,,,,Ephemeroptera
+Afghanurus criddlei,FALSE,,,,,,FALSE,cowa,Cool-Warm,,20.7091543,22.92,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Afghanurus,,,,,criddlei,Ephemeroptera
+Agabinae,FALSE,,,,,,FALSE,cowa,Cool-Warm,,18.98697305,22.212,,,728212,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Agabinae,,,,,,,,,Coleoptera
+Agabinus,FALSE,,,,,,FALSE,,,Less30,,,,,112068,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Agabinae,Agabini,,Agabinus,,,,,,Coleoptera
+Agabus,FALSE,3,PR,uni,GENE,,FALSE,cowa,Cool-Warm,,19.2482872,22.264,,,111966,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Agabinae,Agabini,,Agabus,,,,,,Coleoptera
+Agapetus,FALSE,3,SC,uni,RHEO,,FALSE,cowa,Cool-Warm,,19.44226464,22.33,,,117121,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Glossosomatidae,Agapetinae,,,Agapetus,,,,,,Trichoptera
+Agathon,FALSE,3,SC,uni,RHEO,,FALSE,,,Less30,,,,,121230,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Blephariceridae,Blepharicerinae,Blepharicerini,,Agathon,,,,,,Diptera
+Agathon comstocki,FALSE,,,,,,FALSE,,,,,,,,121237,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Blephariceridae,Blepharicerinae,Blepharicerini,,Agathon,,,,,comstocki,Diptera
+Agraylea,FALSE,2,PH,uni,SPEC,TRUE,FALSE,cold,Cold,,15.0733353,18.857,,,115635,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Hydroptilinae,Hydroptilini,,Agraylea,,,,,,Trichoptera
+Albertathyas,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Albertathyas,,,,,,Other Non-Insect
+Albertathyas montana,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Albertathyas,,,,,montana,Other Non-Insect
+Allocladius,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Allocladius,,,,,,Chironomidae
+Allocosmoecus partitus,FALSE,2,SC,uni,HEAD,TRUE,FALSE,cool,Cool,,17.02025575,20.46,,,115969,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Allocosmoecus,,,,,,Trichoptera
+Allognosta,FALSE,,,,,,FALSE,,,,,,,,130160,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Stratiomyidae,Beridinae,,,Allognosta,,,,,,Diptera
+Allomyia,FALSE,1i,,,,,FALSE,,,Less30,,,,,116438,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Apataniidae,,,,Allomyia,,,,,,Trichoptera
+Alloperla,FALSE,,,,,,FALSE,,,Less30,,,,,103203,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Chloroperlidae,Chloroperlinae,,,Alloperla,,,,,,Plecoptera
+Alotanypus,FALSE,5,PR,multi,GENE,,FALSE,warm,Warm,,20.8418904,24.193,,,206646,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Coelotanypodini,,Alotanypus,,,,,,Chironomidae
+Altmanella,FALSE,,,,,,FALSE,,,Less30,,,,,974298,Animalia,Annelida,,Clitellata,Oligochaeta,Lumbriculida,,,Lumbriculidae,,,,Altmanella,,,,,,Oligochaeta
+Ameletus,FALSE,3,SC,uni,RHEO,,FALSE,cool,Cool,,14.95163018,20.01,Cool,,100996,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Ameletidae,,,,Ameletus,,,,,,Ephemeroptera
+Americorophium,FALSE,NA,CG,multi,BRAC,,FALSE,,,Less30,,,,,656484,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Corophiidae,,,,Americorophium,,,,,,Other Non-Insect
+Ametor,FALSE,2,PR,semi,GENE,TRUE,FALSE,cool,Cool,,17.62559042,21.38,,,112890,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Sperchopsini,,Ametor,,,,,,Coleoptera
+Ametropus,FALSE,,,,,,FALSE,,,,,,,,101074,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Ametropodidae,,,,Ametropus,,,,,,Ephemeroptera
+Amiocentrus,FALSE,3,CG,uni,RHEO,,FALSE,cowa,Cool-Warm,,19.26524638,22.374,,,116933,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Brachycentridae,,,,Amiocentrus,,,,,,Trichoptera
+Amphicosmoecus,FALSE,,,,,,FALSE,,,Less30,,,,,116253,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Amphicosmoecus,,,,,,Trichoptera
+Amphipoda,FALSE,5,CG,UNKN,GENE,,FALSE,,Warm,,20.67083228,25.06,,yes,93294,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,,,,,,,,,,,,,Other Non-Insect
+Amphizoa,FALSE,1i,PR,semi,SPEC,TRUE,FALSE,,,Less30,,,,,111953,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Amphizoidae,,,,Amphizoa,,,,,,Coleoptera
+Ampumixis,FALSE,2,CG,semi,RHEO,,TRUE,cool,Cool,,17.89781861,20.694,,,114196,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Ampumixis,,,,,,Coleoptera
+Ampumixis dispar,FALSE,2,CG,semi,RHEO,,TRUE,cool,Cool,,17.89781861,20.694,,,114196,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Ampumixis,,,,,,Coleoptera
+Anacaena,FALSE,NA,PR,uni,GENE,,FALSE,,,Less30,,,,,112878,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Anacaenini,,Anacaena,,,,,,Coleoptera
+Anafroptilum/Procloeon,FALSE,3,CG,multi,DEPO,,FALSE,warm,Warm,,20.31843565,24.404,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Anafroptilum/Procloeon,,,,,,Ephemeroptera
+Anagapetus,FALSE,2,SC,uni,RHEO,TRUE,FALSE,cold,Cold,,14.41193666,18.47992367,,,117154,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Glossosomatidae,Glossosomatinae,Anagapetini,,Anagapetus,,,,,,Trichoptera
+Anax,FALSE,,,,,,FALSE,,,Less30,,,,,101597,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Aeshnidae,,,,Anax,,,,,,Odonata
+Ancylidae,FALSE,5,SC,multi,GENE,,FALSE,,,,,,,,76568,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Ancylidae,,,,,,,,,,Other Non-Insect
+Anisogammaridae,FALSE,,,,,,FALSE,cowa,Cool-Warm,,19.79104836,21.958,,,203113,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Anisogammaridae,,,,,,,,,,Other Non-Insect
+Anisoptera,FALSE,4,PR,UNKN,GENE,,FALSE,,Warm,,20.29102018,24.52,,yes,101594,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,,,,,,,,,,,Odonata
+Anodonta,FALSE,,,,,,FALSE,,,,,,,,79930,Animalia,Mollusca,,Bivalvia,Palaeoheterodonta,Unionoida,,,Unionidae,,,,Anodonta,,,,,,Other Non-Insect
+Anopheles,FALSE,NA,,,,,FALSE,,,Less30,,,,,125956,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Culicidae,Anophelinae,,,Anopheles,,,,,,Diptera
+Antocha,FALSE,4,CG,multi,RHEO,,FALSE,cowa,Cool-Warm,,19.29468343,22.8,Cool-Warm,,119656,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limoniinae,,,Antocha,,,,,,Diptera
+Apatania,FALSE,2,SC,uni,RHEO,TRUE,TRUE,cold,Cold,,16.99629756,19.858,,,115935,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Apataniidae,Apataniinae,Apataniini,,Apatania,,,,,,Trichoptera
+Apataniidae,FALSE,2,UNKN,UNKN,RHEO,,FALSE,cold,Cold,,16.66388255,19.74,,,598182,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Apataniidae,,,,,,,,,,Trichoptera
+Apedilum,FALSE,5,CG,multi,GENE,,FALSE,warm,Warm,,22.93779108,26.732,,,206655,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Apedilum,,,,,,Chironomidae
+Apobaetis,FALSE,,,,,,FALSE,,,,,,,,100936,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Apobaetis,,,,,,Ephemeroptera
+Apsectrotanypus,FALSE,NA,PR,multi,GENE,,FALSE,,,Less30,,,,,128021,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Macropelopiini,,Apsectrotanypus,,,,,,Chironomidae
+Araeopidius monachus,FALSE,NA,,,,,FALSE,,,Less30,,,,,708487,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Ptilodactylidae,Araeopidiinae,,,Araeopidius,,,,,monachus,Coleoptera
+Archilestes,FALSE,,,,,,FALSE,,,Less30,,,,,102059,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,Lestidae,,,,Archilestes,,,,,,Odonata
+Arcteonais,FALSE,,,,,,FALSE,,,,,,,,68975,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Arcteonais,,,,,,Oligochaeta
+Arctopsyche,FALSE,3,PR,semi,RHEO,,TRUE,cool,Cool,,17.02430189,20.518,,,115529,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Arctopsychinae,,,Arctopsyche,,,,,,Trichoptera
+Arctopsychinae,FALSE,3,PR,semi,RHEO,,TRUE,,Cool,,15.86335494,19.99,,yes,568763,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Arctopsychinae,,,,,,,,,Trichoptera
+Argia,FALSE,4,PR,uni,RHEO,,FALSE,stenow,Warm Stenotherm,,24.06609594,27.92,Warm Stenotherm,,102139,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,Coenagrionidae,,,,Argia,,,,,,Odonata
+Arhynchobdellida,FALSE,,,,,,FALSE,,Warm,,21.68450719,26.89,,yes,568835,Animalia,Annelida,,Clitellata,Hirudinea,Arhynchobdellida,,,,,,,,,,,,,Other Non-Insect
+Arrenuridae,FALSE,,,,,,FALSE,,,,,,,,82862,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Arrenuridae,,,,,,,,,,Other Non-Insect
+Arrenurus,FALSE,,,,,,FALSE,cowa,Cool-Warm,,18.36406556,24.34217685,,,82864,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Arrenuridae,,,,Arrenurus,,,,,,Other Non-Insect
+Asellidae,FALSE,,,,,,FALSE,,,,,,,,92657,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Isopoda,Asellota,,Asellidae,,,,,,,,,,Other Non-Insect
+Asellus,FALSE,,,,,,FALSE,,,,,,,,92658,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Isopoda,Asellota,,Asellidae,,,,Asellus,,,,,,Other Non-Insect
+Asioplax,FALSE,,,,,,FALSE,,,Less30,,,,,609510,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptohyphidae,,,,Asioplax,,,,,,Ephemeroptera
+Assia,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Nemertea,,Chromadorea,Chromadoria,Plectida,Plectina,Leptolaimoidea,Aphanolaimidae,Anochinae,,,,,,,,,Other Non-Insect
+Astacidae,FALSE,,,,,,FALSE,,,,,,,,97324,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Decapoda,Pleocyemata,,Astacidae,,,,,,,,,,Other Non-Insect
+Atherix,FALSE,3,PR,uni,RHEO,,FALSE,warm,Warm,,21.9818226,25.4,,,130929,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Athericidae,,,,Atherix,,,,,,Diptera
+Athienemanniidae,FALSE,,,,,,FALSE,cold,Cold,,15.60700622,18.253,,,83514,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Athienemanniidae,,,,,,,,,,Other Non-Insect
+Atractelmis,FALSE,,,,,,FALSE,,,Less30,,,,,114251,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Atractelmis,,,,,,Coleoptera
+Atractides,FALSE,,,,,,FALSE,cool,Cool,,18.54058268,21.95,,,83282,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hygrobatidae,,,,Atractides,,,,,,Other Non-Insect
+Attenella,FALSE,3,CG,uni,RHEO,,FALSE,,Cool,,17.87337689,21.268,,yes,101338,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Attenella,,,,,,Ephemeroptera
+Attenella delantala,FALSE,3,CG,uni,RHEO,,FALSE,cool,Cool,,17.3517978,20.108,,,101345,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Attenella,,,,,delantala,Ephemeroptera
+Attenella margarita,FALSE,4,CG,uni,RHEO,,FALSE,cowa,Cool-Warm,,19.95437169,22.87,,,101343,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Attenella,,,,,margarita,Ephemeroptera
+Aturidae,FALSE,,,,,,FALSE,,,Less30,,,,,82973,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Aturidae,,,,,,,,,,Other Non-Insect
+Aturus,FALSE,,,,,,FALSE,,,Less30,,,,,82974,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Aturidae,,,,Aturus,,,,,,Other Non-Insect
+Aulodrilus,FALSE,,,,,,FALSE,warm,Warm,,23.30042623,25.831,,,68679,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,Aulodrilus,,,,,,Oligochaeta
+Austrolimnophila,FALSE,NA,UNKN,uni,UNKN,TRUE,FALSE,,,Less30,,,,,120037,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Austrolimnophila,,,,,,Diptera
+Baetidae,FALSE,4,CG,multi,UNKN,,FALSE,,Eurythermal,,17.21110442,22.35,,yes,100755,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,,,,,,,Ephemeroptera
+Baetis,FALSE,4,CG,multi,RHEO,,FALSE,,Eurythermal,,16.84987042,22.25,,yes,100800,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,,,,,Ephemeroptera
+Baetis alius,FALSE,2,CG,multi,RHEO,TRUE,FALSE,cool,Cool,,15.91964121,20.677,,,100803,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,Alius Gr.,,,alius,Ephemeroptera
+Baetis bicaudatus complex,FALSE,2,CG,multi,RHEO,,FALSE,stenoc,Cold Stenotherm,,12.32738854,17.008,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,Rhodani Gr.,,bicaudatus complex,,Ephemeroptera
+Baetis flavistriga complex,FALSE,4,CG,multi,RHEO,,FALSE,warm,Warm,,19.88605649,24.678,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,Fuscatus Gr.,,flavistriga complex,,Ephemeroptera
+Baetis notos,FALSE,4,CG,multi,RHEO,,FALSE,warm,Warm,,22.09859522,24.74,,,568579,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,Fuscatus Gr.,,,notos,Ephemeroptera
+Baetis piscatoris complex,FALSE,4,CG,multi,RHEO,,FALSE,cold,Cold,,14.53812136,18.842,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,Rhodani Gr.,,piscatoris complex,,Ephemeroptera
+Baetis Rhodani Group,FALSE,4,CG,multi,RHEO,,FALSE,eurythermal,Eurythermal,,15.48503852,23.618,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,Rhodani Gr.,,,,Ephemeroptera
+Baetis tricaudatus complex,FALSE,4,CG,multi,RHEO,,FALSE,eurythermal,Eurythermal,,18.12650686,22.918,Eurythermal,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,Rhodani Gr.,,tricaudatus complex,,Ephemeroptera
+Baetisca,FALSE,,,,,,FALSE,,,,,,,,101494,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Carapacea,,Baetiscidae,,,,Baetisca,,,,,,Ephemeroptera
+Baetodes,FALSE,,,,,,FALSE,,,,,,,,100938,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetodes,,,,,,Ephemeroptera
+Bandakiopsis,FALSE,,,,,,FALSE,,,Less30,,,,,83532,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Anisitsiellidae,,,,Bandakiopsis,,,,,,Other Non-Insect
+Banksiola,FALSE,,,,,,FALSE,,,,,,,,115911,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Phryganeidae,Phryganeinae,,,Banksiola,,,,,,Trichoptera
+Berosus,FALSE,NA,PH,uni,GENE,,FALSE,,,Less30,,,,,112812,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Berosini,,Berosus,,,,,,Coleoptera
+Bethbilbeckia,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,,,,,,,,,,Chironomidae
+Bibiocephala,FALSE,3,SC,uni,RHEO,,FALSE,,,Less30,,,,,121250,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Blephariceridae,Blepharicerinae,Blepharicerini,,Bibiocephala,,,,,,Diptera
+Bilyjomyia,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Macropelopiini,,Bilyjomyia,,,,,,Chironomidae
+Bisancora,FALSE,,,,,,FALSE,,,,,,,,103300,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Chloroperlidae,Chloroperlinae,,,Bisancora,,,,,,Plecoptera
+Bittacomorpha,FALSE,,,,,,FALSE,,,,,,,,125765,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Ptychopteridae,Bittacomorphinae,,,Bittacomorpha,,,,,,Diptera
+Bivalvia,FALSE,,,,,,TRUE,,Warm,,19.80348116,23.594,,yes,79118,Animalia,Mollusca,,Bivalvia,,,,,,,,,,,,,,,Other Non-Insect
+Blepharicera,FALSE,3,SC,uni,RHEO,,FALSE,,,Less30,,,,,121255,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Blephariceridae,Blepharicerinae,Blepharicerini,,Blepharicera,,,,,,Diptera
+Blephariceridae,FALSE,3,SC,uni,RHEO,,FALSE,eurythermal,Eurythermal,,19.75025669,23.23,,,121227,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Blephariceridae,,,,,,,,,,Diptera
+Bolshecapnia,FALSE,,,,,,FALSE,,,Less30,,,,,102763,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Capniidae,Capniinae,,,Bolshecapnia,,,,,,Plecoptera
+Boreochlus,FALSE,3,CG,multi,SPEC,TRUE,FALSE,cold,Cold,,16.86433016,19.999,,,127954,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Podonominae,Boreochlini,,Boreochlus,,,,,,Chironomidae
+Boreoheptagyia,FALSE,3,CG,multi,RHEO,,FALSE,cold,Cold,,14.2240358,19.388,,,128343,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Boreoheptagyiini,,Boreoheptagyia,,,,,,Chironomidae
+Boreonectes,FALSE,NA,PR,uni,GENE,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,Hydroporini,,Boreonectes,,,,,,Coleoptera
+Bothrioneurum,FALSE,,,,,,FALSE,,,Less30,,,,,68778,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Rhyacodrilinae,,,Bothrioneurum,,,,,,Oligochaeta
+Brachinus americanus,FALSE,,,,,,FALSE,,,,,,,,111792,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Carabidae,,,,Brachinus,,,,,americanus,Coleoptera
+Brachycentridae,FALSE,3,UNKN,UNKN,RHEO,,FALSE,,Cool,,17.50971993,21.598,,yes,116905,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Brachycentridae,,,,,,,,,,Trichoptera
+Brachycentrus,FALSE,3,OM,uni,RHEO,,FALSE,,Warm,,20.12161139,24.185,,yes,116906,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Brachycentridae,,,,Brachycentrus,,,,,,Trichoptera
+Brachycentrus americanus,FALSE,3,OM,uni,RHEO,,FALSE,eurythermal,Eurythermal,,18.35456354,22.17,,,116912,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Brachycentridae,,,,Brachycentrus,Oligoplectrodes,,,,americanus,Trichoptera
+Brachycentrus occidentalis,FALSE,3,OM,uni,RIVE,,FALSE,warm,Warm,,21.29191842,27.495,,,116918,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Brachycentridae,,,,Brachycentrus,Sphinctogaster,,,,occidentalis,Trichoptera
+Brachycera,FALSE,,,,,,FALSE,,Eurythermal,,17.81625685,22.319,,yes,130052,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,,,,,,,,,,,Diptera
+Brachycercus,FALSE,,,,,,FALSE,,,,,,,,101468,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Caenidae,Brachycercinae,Brachycercini,,Brachycercus,,,,,,Ephemeroptera
+Brachypoda,FALSE,,,,,,FALSE,,,Less30,,,,,83444,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Aturidae,Axonopsinae,,,Brachypoda,,,,,,Other Non-Insect
+Branchiobdellida,FALSE,,,,,,FALSE,warm,Warm,,19.72683394,23.682,,,69168,Animalia,Annelida,,Clitellata,Lumbriculata,Branchiobdellida,,,,,,,,,,,,,Other Non-Insect
+Branchiura,FALSE,,,,,,FALSE,,,,,,,,68619,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Rhyacodrilinae,,,Branchiura,,,,,,Oligochaeta
+Brillia,FALSE,4,SH,multi,RHEO,,FALSE,cool,Cool,,17.32444661,20.9,,,128477,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Brillia,,,,,,Chironomidae
+Brundiniella,FALSE,4,PR,multi,RHEO,,FALSE,cool,Cool,,18.89692443,21.667,,,128026,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Macropelopiini,,Brundiniella,,,,,,Chironomidae
+Brychius,FALSE,4,SC,semi,RHEO,,FALSE,warm,Warm,,22.15906393,24.66,,,111947,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Haliplidae,,,,Brychius,,,,,,Coleoptera
+Bryelmis,FALSE,1i,CG,semi,SPEC,TRUE,FALSE,cold,Cold,,14.97318332,18.43,,,945749,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Bryelmis,,,,,,Coleoptera
+Bryophaenocladius,FALSE,NA,UNKN,multi,GENE,,FALSE,,,Less30,,,,,128488,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Bryophaenocladius,,,,,,Chironomidae
+Caecidotea,FALSE,5,OM,multi,GENE,,FALSE,warm,Warm,,22.08084258,24.7,,,92686,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Isopoda,Asellota,,Asellidae,,,,Caecidotea,,,,,,Other Non-Insect
+Caenidae,FALSE,,,,,,FALSE,,,,,,,,101467,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Caenidae,,,,,,,,,,Ephemeroptera
+Caenis,FALSE,5,CG,multi,GENE,,FALSE,stenow,Warm Stenotherm,,24.19407711,27.184,,,101478,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Caenidae,Caeninae,,,Caenis,,,,,,Ephemeroptera
+Calasellus/Salmasellus,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Isopoda,Asellota,Aselloidea,Asellidae,,,,Calasellus/Salmasellus,,,,,,Other Non-Insect
+Calineuria californica,FALSE,3,PR,semi,RHEO,,TRUE,cowa,Cool-Warm,,18.92733894,22.253,Cool-Warm,,102986,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlidae,Acroneuriinae,Acroneuriini,,Calineuria,,,,,californica,Plecoptera
+Callibaetis,FALSE,4,CG,multi,GENE,,FALSE,warm,Warm,,21.66448236,25.782,,,100903,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Callibaetis,,,,,,Ephemeroptera
+Calliperla,FALSE,,,,,,FALSE,,,Less30,,,,,103156,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlioidae,,,,Calliperla,,,,,,Plecoptera
+Caloparyphus,FALSE,4,CG,semi,GENE,,FALSE,warm,Warm,,23.2497278,25.436,,,130409,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Stratiomyidae,Stratiomyinae,Oxycerini,,Caloparyphus,,,,,,Diptera
+Calopterygidae,FALSE,,,,,,FALSE,,,Less30,,,,,102043,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,Calopterygidae,,,,,,,,,,Odonata
+Calopteryx,FALSE,4,PR,uni,RHEO,,FALSE,,,Less30,,,,,102052,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,Calopterygidae,,,,Calopteryx,,,,,,Odonata
+Cambaridae,FALSE,,,,,,FALSE,,,,,,,,97336,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Decapoda,Pleocyemata,,Cambaridae,,,,,,,,,,Other Non-Insect
+Camelobaetidius,FALSE,,,,,,FALSE,,,Less30,,,,,568548,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Camelobaetidius,,,,,,Ephemeroptera
+Capniidae,FALSE,3,SH,uni,RHEO,,FALSE,cool,Cool,,16.2628611,20.695,,,102643,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Capniidae,,,,,,,,,,Plecoptera
+Cardiocladius,FALSE,3,PR,multi,RHEO,,FALSE,warm,Warm,,22.15241917,26.161,,,128511,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Cardiocladius,,,,,,Chironomidae
+Cascadoperla,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Isoperlinae,,,Cascadoperla,,,,,,Plecoptera
+Caudatella,FALSE,2,CG,uni,RHEO,,FALSE,,Cold,,13.19012862,18.442,,yes,101347,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Caudatella,,,,,,Ephemeroptera
+Caudatella edmundsi,FALSE,1i,CG,uni,RHEO,TRUE,FALSE,,,Less30,,,,,568631,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Caudatella,,,,,edmundsi,Ephemeroptera
+Caudatella heterocaudata complex,FALSE,,,,,,FALSE,cold,Cold,,16.87597272,19.565,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Caudatella,,,,heterocaudata complex,,Ephemeroptera
+Caudatella hystrix,FALSE,2,SC,uni,RHEO,,FALSE,stenoc,Cold Stenotherm,,12.54918976,17.64,,,101348,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Caudatella,,,,,hystrix,Ephemeroptera
+Caudatella jacobi,FALSE,1i,UNKN,uni,RHEO,TRUE,FALSE,,,Less30,,,,,568632,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Caudatella,,,,,jacobi,Ephemeroptera
+Ceraclea,FALSE,3,OM,uni,RIVE,TRUE,FALSE,,,Less30,,,,,116684,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Leptoceridae,Leptocerinae,Athripsodini,,Ceraclea,,,,,,Trichoptera
+Ceratopogonidae,FALSE,4,,uni,GENE,,FALSE,,Cool,,18.1465275,21.88,,yes,127338,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Ceratopogonidae,,,,,,,,,,Diptera
+Ceratopogoninae,FALSE,4,PR,uni,GENE,,FALSE,cool,Cool,,18.26890559,21.91,,,127338,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Ceratopogonidae,Ceratopogoninae,,,,,,,,,Diptera
+Cercobrachys,FALSE,,,,,,FALSE,,,,,,,,568556,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Caenidae,Brachycercinae,Cercobrachini,,Cercobrachys,,,,,,Ephemeroptera
+Cernosvitoviella,FALSE,,,,,,FALSE,,,Less30,,,,,68534,Animalia,Annelida,,Clitellata,Oligochaeta,Enchytraeida,,,Enchytraeidae,,,,Cernosvitoviella,,,,,,Oligochaeta
+Chaetocladius,FALSE,4,CG,multi,GENE,,FALSE,cool,Cool,,15.40707098,20.22014344,,,128520,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Chaetocladius,,,,,,Chironomidae
+Chaetogaster,FALSE,,,,,,FALSE,,,Less30,,,,,68934,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Chaetogaster,,,,,,Oligochaeta
+Chamaedrilus,FALSE,,,,,,FALSE,cold,Cold,,16.57103594,19.618,,,,Animalia,Annelida,,Clitellata,Oligochaeta,Enchytraeida,,,Enchytraeidae,,,,Chamaedrilus,,,,,,Oligochaeta
+Chaoboridae,FALSE,NA,,,,,FALSE,,,Less30,,,,,125886,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chaoboridae,,,,,,,,,,Diptera
+Chaoborus,FALSE,,,,,,FALSE,,,Less30,,,,,125904,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chaoboridae,Chaoborinae,,,Chaoborus,,,,,,Diptera
+Cheilotrichia,FALSE,,,,,,FALSE,,,Less30,,,,,120420,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Cheilotrichia,,,,,,Diptera
+Chelifera/Metachela,FALSE,4,PR,uni,RHEO,,FALSE,cool,Cool,,17.61649706,21.723,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Hemerodromiinae,Hemerodromiini,,Chelifera/Metachela,,,,,,Diptera
+Chelomideopsis,FALSE,,,,,,FALSE,,,Less30,,,,,83517,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Athienemanniidae,,,,Chelomideopsis,,,,,,Other Non-Insect
+Cheumatopsyche,FALSE,5,CF,multi,RHEO,,FALSE,stenow,Warm Stenotherm,,24.45488954,27.14,Warm Stenotherm,,115408,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Hydropsychinae,,,Cheumatopsyche,,,,,,Trichoptera
+Chimarra,FALSE,,,,,,FALSE,stenow,Warm Stenotherm,,27.29328656,28.96,,,115273,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Philopotamidae,Chimarrinae,,,Chimarra,,,,,,Trichoptera
+Chironomidae,FALSE,4,CG,multi,GENE,,FALSE,,Eurythermal,,18.09121405,22.47,,yes,127917,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,,,,,,,,,,Chironomidae
+Chironominae,FALSE,4,CG,multi,GENE,,FALSE,,Eurythermal,,18.67763835,22.614,,yes,129228,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,,,,,,,,,Chironomidae
+Chironomini,FALSE,4,CG,multi,GENE,,FALSE,,Warm,,20.33479956,23.54,,yes,129229,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,,,,,,,Chironomidae
+Chironomus,FALSE,5,CG,multi,GENE,,FALSE,warm,Warm,,20.40450929,24.23,,,129254,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Chironomus,,,,,,Chironomidae
+Chloroperlidae,FALSE,4,PR,uni,RHEO,,FALSE,,Cool,,16.78017691,21.223,,yes,103202,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Chloroperlidae,,,,,,,,,,Plecoptera
+Choroterpes,FALSE,,,,,,FALSE,,,Less30,,,,,101108,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptophlebiidae,,,,Choroterpes,,,,,,Ephemeroptera
+Chyrandra,FALSE,,,,,,FALSE,,,Less30,,,,,568778,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Stenophylacini,,Chyrandra,,,,,,Trichoptera
+Cinygma,FALSE,4,SC,uni,DEPO,,FALSE,cold,Cold,,16.11326335,19.88,,,100598,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Cinygma,,,,,,Ephemeroptera
+Cinygmula,FALSE,3,SC,uni,RHEO,,FALSE,cool,Cool,,15.85949506,20.088,Cool,,100557,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Cinygmula,,,,,,Ephemeroptera
+Cipangopaludina,FALSE,,,,,,FALSE,,,,,,,,70328,Animalia,Mollusca,,Gastropoda,Prosobranchia,Architaenioglossa,,,Viviparidae,,,,Cipangopaludina,,,,,,Other Non-Insect
+Claassenia sabulosa,FALSE,,,,,,TRUE,warm,Warm,,20.46583165,25.9,,,102930,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlidae,Perlinae,Perlini,,Claassenia,,,,,,Plecoptera
+Cladopelma,FALSE,,,,,,FALSE,,,Less30,,,,,129350,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Cladopelma,,,,,,Chironomidae
+Cladotanytarsus,FALSE,3,CG,multi,GENE,,FALSE,warm,Warm,,19.5830692,23.85,,,129873,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Cladotanytarsus,,,,,,Chironomidae
+Cleptelmis addenda,FALSE,4,CG,semi,RHEO,,TRUE,cowa,Cool-Warm,,19.82578079,23,,,114164,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Cleptelmis,,,,,,Coleoptera
+Clinocera,FALSE,3,PR,uni,RHEO,,FALSE,cool,Cool,,15.64696022,20.305,,,135849,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Clinocerinae,,,Clinocera,,,,,,Diptera
+Clinocerinae,FALSE,NA,PR,uni,RHEO,,FALSE,,Cool,,15.9403812,20.61,,yes,135844,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Clinocerinae,,,,,,,,,Diptera
+Clinotanypus,FALSE,,,,,,FALSE,,,Less30,,,,,127996,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Coelotanypodini,,Clinotanypus,,,,,,Chironomidae
+Clostoeca,FALSE,,,,,,FALSE,,,Less30,,,,,116013,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Stenophylacini,,Clostoeca,,,,,,Trichoptera
+Coelotanypodini,FALSE,,,,,,FALSE,warm,Warm,,20.84573203,24.186,,,127995,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Coelotanypodini,,,,,,,,Chironomidae
+Coenagrionidae,FALSE,4,PR,uni,GENE,,FALSE,stenow,Warm Stenotherm,,23.74752232,27.45,,,102077,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,Coenagrionidae,,,,,,,,,,Odonata
+Coleoptera,FALSE,,,,,,FALSE,,Eurythermal,,19.58254875,22.772,,yes,109216,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,,,,,,,,,,,,,Coleoptera
+Colymbetinae,FALSE,,,,,,FALSE,,,,,,,,678403,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Colymbetinae,,,,,,,,,Coleoptera
+Compterosmittia,FALSE,NA,UNKN,multi,HEAD,,FALSE,,,Less30,,,,,128559,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Compterosmittia,,,,,,Chironomidae
+Constempellina,FALSE,4,CG,multi,RHEO,,FALSE,cool,Cool,,17.55615421,20.399,,,129884,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Constempellina,,,,,,Chironomidae
+Coptotomus,FALSE,,,,,,FALSE,,,Less30,,,,,112371,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Coptotominae,Coptotomini,,Coptotomus,,,,,,Coleoptera
+Corbicula,FALSE,6,CF,semi,GENE,,TRUE,,,Less30,,,,,81385,Animalia,Mollusca,,Bivalvia,Heterodonta,Veneroida,,,Corbiculidae,,,,Corbicula,,,,,,Other Non-Insect
+Corbiculoidea,FALSE,4,CF,semi,GENE,,FALSE,warm,Warm,,19.79652208,23.592,,,566875,Animalia,Mollusca,,Bivalvia,Heterodonta,Veneroida,,,,,,,,,,,,,Other Non-Insect
+Cordulegaster,FALSE,2,PR,semi,DEPO,TRUE,FALSE,cowa,Cool-Warm,,19.6654073,22.54,,,102027,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Cordulegastridae,,,,Cordulegaster,,,,,,Odonata
+Cordulegastridae,FALSE,,,,,,FALSE,,,,,,,,102026,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Cordulegastridae,,,,,,,,,,Odonata
+Corduliidae,FALSE,,,,,,FALSE,,,Less30,,,,,102020,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Corduliidae,,,,,,,,,,Odonata
+Corticacarus,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hygrobatidae,,,,Coticacarus,,,,,,Other Non-Insect
+Corydalidae,FALSE,2,PR,semi,RHEO,TRUE,FALSE,cool,Cool,,16.67650127,19.258,,,115023,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Megaloptera,,,Corydalidae,,,,,,,,,,Megaloptera
+Corynoneura,FALSE,4,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,18.38191137,22.897,,,128563,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Corynoneura,,,,,,Chironomidae
+Crangonyctidae,FALSE,5,CG,multi,GENE,,FALSE,cowa,Cool-Warm,,19.94643719,23.112,,,95080,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Crangonyctidae,,,,,,,,,,Other Non-Insect
+Crangonyx,FALSE,5,CG,multi,GENE,,FALSE,cowa,Cool-Warm,,19.95292243,23.132,,,95081,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Crangonyctidae,,,,Crangonyx,,,,,,Other Non-Insect
+Crenitis,FALSE,NA,PR,uni,GENE,,FALSE,,,Less30,,,,,113220,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Anacaenini,,Crenitis,,,,,,Coleoptera
+Cricotopus,FALSE,4,MH,multi,GENE,,FALSE,,Warm,,20.28846399,25.06,,yes,128575,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Cricotopus,,,,,,Chironomidae
+Cricotopus (Isocladius),FALSE,4,MH,multi,RHEO,,FALSE,warm,Warm,,21.18771911,27.04,,,568515,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Cricotopus,Isocladius,,,,,Chironomidae
+Cricotopus (Nostococladius),FALSE,2,MH,multi,SPEC,TRUE,FALSE,eurythermal,Eurythermal,,19.31915743,23.43,,,568516,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Cricotopus,Nostococladius,,,,,Chironomidae
+Cricotopus Bicinctus Group,FALSE,5,MH,multi,GENE,,FALSE,warm,Warm,,21.61907409,25.86,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Cricotopus,Cricotopus,Bicinctus Gr.,,,,Chironomidae
+Cricotopus Tremulus Group,FALSE,NA,MH,multi,GENE,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Cricotopus,Cricotopus,Tremulus Gr.,,,,Chironomidae
+Cricotopus Trifascia Group,FALSE,4,MH,multi,GENE,,FALSE,warm,Warm,,23.43238533,26.484,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Cricotopus,Cricotopus,Trifascia Gr.,,,,Chironomidae
+Crustacea,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Crustacea,,,,,,,,,,,,,,,,Other Non-Insect
+Cryptochia,FALSE,3,SH,semi,SPEC,TRUE,TRUE,cold,Cold,,13.64827716,17.727,,,115907,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Cryptochia,,,,,,Trichoptera
+Cryptochironomus,FALSE,5,PR,multi,GENE,,FALSE,warm,Warm,,22.33791563,25.96,,,129368,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Cryptochironomus,,,,,,Chironomidae
+Cryptolabis,FALSE,3,SH,multi,DEPO,,FALSE,warm,Warm,,21.32707497,26.357,,,120488,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Cryptolabis,,,,,,Diptera
+Cryptotendipes,FALSE,4,CG,multi,GENE,,FALSE,,,Less30,,,,,129394,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Cryptotendipes,,,,,,Chironomidae
+Culicidae,FALSE,NA,,,,,FALSE,,,Less30,,,,,125930,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Culicidae,,,,,,,,,,Diptera
+Culoptila,FALSE,,,,,,FALSE,,,Less30,,,,,115236,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Glossosomatidae,Protoptilinae,,,Culoptila,,,,,,Trichoptera
+Cultus,FALSE,3,PR,uni,RHEO,,FALSE,,,Less30,,,,,103137,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Diploperlini,,Cultus,,,,,,Plecoptera
+Cymbiodyta,FALSE,,,,,,FALSE,,,Less30,,,,,113017,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Hydrophilini,,Cymbiodyta,,,,,,Coleoptera
+Cystobranchus salmositicus,FALSE,,,,,,FALSE,,,Less30,,,,,69309,Animalia,Annelida,,Clitellata,Hirudinea,Rhynchobdellida,,,Piscicolidae,Piscicolinae,,,Cystobranchus,,,,,salmositicus,Other Non-Insect
+Dactylolabis,FALSE,,,,,,FALSE,,,Less30,,,,,120049,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Dactylolabinae,,,Dactylolabis,,,,,,Diptera
+Dasyhelea,FALSE,5,CG,uni,GENE,,FALSE,warm,Warm,,19.51135559,24.883,,,127278,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Ceratopogonidae,Dasyheleinae,,,Dasyhelea,,,,,,Diptera
+Decapoda,FALSE,4,,UNKN,UNKN,,TRUE,,Warm,,19.84045614,23.926,,yes,95599,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Decapoda,,,,,,,,,,,,,Other Non-Insect
+Demicryptochironomus,FALSE,3,CG,multi,GENE,,FALSE,,,Less30,,,,,129421,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Demicryptochironomus,,,,,,Chironomidae
+Dero,FALSE,,,,,,FALSE,,,Less30,,,,,68898,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Dero,,,,,,Oligochaeta
+Derotanypus,FALSE,NA,PR,multi,GENE,TRUE,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,,,Derotanypus,,,,,,Chironomidae
+Despaxia augusta,FALSE,3,SH,uni,RHEO,,FALSE,cool,Cool,,16.54365113,19.9,,,102841,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Leuctridae,Leuctrinae,,,Despaxia,,,,,,Plecoptera
+Deuteronectes,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,Hydroporini,,Deuteronectes,,,,,,Coleoptera
+Deuterophlebia,FALSE,2,SC,uni,RHEO,TRUE,FALSE,,,Less30,,,,,121287,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Deuterophlebiidae,,,,Deuterophlebia,,,,,,Diptera
+Diamesa,FALSE,3,CG,multi,RHEO,,FALSE,cold,Cold,,9.440019925,20.637,,,128355,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Diamesini,,Diamesa,,,,,,Chironomidae
+Diamesinae,FALSE,3,CG,multi,GENE,,FALSE,,Eurythermal,,15.27881709,22.358,,yes,128341,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,,,,,,,,,Chironomidae
+Dicosmoecinae,FALSE,NA,,,,,FALSE,,Eurythermal,,16.25240049,22.023,,yes,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,,,,,,,Trichoptera
+Dicosmoecus,FALSE,3,SC,uni,RHEO,,FALSE,,Warm,,19.96147012,23.543,,yes,116265,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Dicosmoecus,,,,,,Trichoptera
+Dicosmoecus atripes,FALSE,2,PR,semi,GENE,TRUE,FALSE,cool,Cool,,19.22876834,21.427,,,116266,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Dicosmoecus,,,,,atripes,Trichoptera
+Dicosmoecus gilvipes,FALSE,3,SC,uni,RHEO,,FALSE,warm,Warm,,20.31658957,24.49,,,116268,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Dicosmoecus,,,,,gilvipes,Trichoptera
+Dicosmoecus pallicornis,FALSE,,,,,,FALSE,,,,,,,,116272,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Dicosmoecus,,,,,pallicornis,Trichoptera
+Dicranomyia,FALSE,4,SH,multi,GENE,,FALSE,cool,Cool,,17.01407378,20.646,,,119705,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limoniinae,,,Dicranomyia,,,,,,Diptera
+Dicranophragma,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Dicranophragma,,,,,,Diptera
+Dicranota,FALSE,4,PR,uni,GENE,,FALSE,cool,Cool,,17.47758428,21.066,,,121027,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Pediciidae,Pediciinae,,,Dicranota,,,,,,Diptera
+Dicrotendipes,FALSE,5,CG,multi,GENE,,FALSE,warm,Warm,,24.96669198,27.117,,,129428,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Dicrotendipes,,,,,,Chironomidae
+Dineutus,FALSE,,,,,,FALSE,,,,,,,,112653,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Gyrinidae,,,,,,,,,,Coleoptera
+Diphetor hageni,FALSE,4,CG,multi,RHEO,,FALSE,cowa,Cool-Warm,,19.16262157,22.81,Cool-Warm,,568550,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Diphetor,,,,,,Ephemeroptera
+Diplocladius,FALSE,5,CG,multi,GENE,,FALSE,cowa,Cool-Warm,,17.81264383,22.61,,,128670,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Diplocladius,,,,,,Chironomidae
+Diptera,FALSE,NA,UNKN,,GENE,,FALSE,,Eurythermal,,18.11157007,22.491,,yes,118831,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,,,,,,,,,,,,,Diptera
+Diura,FALSE,1i,PR,uni,RHEO,TRUE,FALSE,,,Less30,,,,,103094,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Perlodini,,Diura,,,,,,Plecoptera
+Dixa,FALSE,4,CG,multi,SPEC,,FALSE,cool,Cool,,17.07551304,20.725,,,125810,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Dixidae,,,,Dixa,,,,,,Diptera
+Dixella,FALSE,4,CG,multi,GENE,,FALSE,cowa,Cool-Warm,,20.4360572,22.244,,,125854,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Dixidae,,,,Dixella,,,,,,Diptera
+Dixidae,FALSE,NA,CG,multi,SPEC,,FALSE,,Cool,,17.43027025,20.896,,yes,125809,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Dixidae,,,,,,,,,,Diptera
+Dolichopodidae,FALSE,5,PR,multi,GENE,,FALSE,,,Less30,,,,,136824,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Dolichopodidae,,,,,,,,,,Diptera
+Dolophilodes,FALSE,2,CF,uni,RHEO,TRUE,FALSE,cold,Cold,,16.10402054,19.697,,,115319,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Philopotamidae,Philopotaminae,,,Dolophilodes,,,,,,Trichoptera
+Doncricotopus,FALSE,,,,,,FALSE,,,Less30,,,,,128680,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Doncricotopus,,,,,,Chironomidae
+Doroneuria,FALSE,2,PR,semi,RHEO,,TRUE,cold,Cold,,15.54620448,19.28,Cold,,103121,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlidae,Acroneuriinae,Acroneuriini,,Doroneuria,,,,,,Plecoptera
+Drunella,FALSE,3,UNKN,UNKN,RHEO,,FALSE,,Cool,,15.49813056,20.75,,yes,101365,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Drunella,,,,,,Ephemeroptera
+Drunella coloradensis/flavilinea,FALSE,3,SC,uni,RHEO,,FALSE,cold,Cold,,15.12527945,18.836,Cold,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Drunella,,,,,coloradensis/flavilinea,Ephemeroptera
+Drunella doddsii,FALSE,3,SC,semi,RHEO,,FALSE,cool,Cool,,15.50782231,20.49,Cool,,698494,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Drunella,,,,,doddsii,Ephemeroptera
+Drunella grandis/spinifera,FALSE,3,PR,semi,RHEO,,FALSE,cool,Cool,,15.67473356,20.647,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Drunella,,,,,grandis/spinifera,Ephemeroptera
+Drunella pelosa,FALSE,1i,SC,uni,HEAD,TRUE,FALSE,,,Less30,,,,,568634,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Drunella,,,,,pelosa,Ephemeroptera
+Dryopidae,FALSE,,,,,,FALSE,,,Less30,,,,,113999,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Dryopidae,,,,,,,,,,Coleoptera
+Dubiraphia,FALSE,5,CG,uni,GENE,,FALSE,stenow,Warm Stenotherm,,23.35822663,27.2,,,114126,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,Elminae,Elmini,,Dubiraphia,,,,,,Coleoptera
+Dysmicohermes,FALSE,,,,,,FALSE,,,Less30,,,,,115046,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Megaloptera,,,Corydalidae,Chauliodinae,,,Dysmicohermes,,,,,,Megaloptera
+Dytiscidae,FALSE,3,PR,uni,GENE,,FALSE,,Cool-Warm,,18.78139826,22.058,,yes,111963,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,,,,,,,,,,Coleoptera
+Ecclisocosmoecus scylla,FALSE,2,SH,semi,RHEO,TRUE,TRUE,stenoc,Cold Stenotherm,,14.25516322,17.455,,,116342,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Ecclisocosmoecus,,,,,scylla,Trichoptera
+Ecclisomyia,FALSE,2,OM,semi,GENE,,FALSE,stenoc,Cold Stenotherm,,14.4306806,17.809,,,116025,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Ecclisomyia,,,,,,Trichoptera
+Eclipidrilus,FALSE,,,,,,FALSE,cool,Cool,,18.66425787,21.32915383,,,68473,Animalia,Annelida,,Clitellata,Oligochaeta,Lumbriculida,,,Lumbriculidae,,,,Eclipidrilus,,,,,,Oligochaeta
+Ectemnia,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Simuliidae,Simuliinae,Prosimuliini,,Ectemnia,,,,,,Diptera
+Ellipteroides,FALSE,NA,CG,UNKN,SPEC,TRUE,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Ellipteroides,,,,,,Diptera
+Elmidae,FALSE,NA,CG,semi,RHEO,,TRUE,,Eurythermal,,19.5226259,22.79,,yes,114093,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,,,,,,,Coleoptera
+Eloeophila,FALSE,3,PR,uni,DEPO,,FALSE,cold,Cold,,16.08487826,19.976,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Eloeophila,,,,,,Diptera
+Empididae,FALSE,4,PR,uni,RHEO,,FALSE,,Eurythermal,,17.07492216,22.128,,yes,135830,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,,,,,,,,,,Diptera
+Empididae Genus A,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,,,,A,,,,,,Diptera
+Enchytraeidae,FALSE,,,,,,FALSE,,Cool,,15.76726475,20.705,,yes,68510,Animalia,Annelida,,Clitellata,Oligochaeta,Enchytraeida,,,Enchytraeidae,,,,,,,,,,Oligochaeta
+Enchytraeus,FALSE,,,,,,FALSE,cool,Cool,,17.88051793,21.292,,,68531,Animalia,Annelida,,Clitellata,Oligochaeta,Enchytraeida,,,Enchytraeidae,,,,Enchytraeus,,,,,,Oligochaeta
+Endochironomus,FALSE,5,MH,multi,GENE,,FALSE,,,Less30,,,,,129470,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Endochironomus,,,,,,Chironomidae
+Endotribelos,FALSE,,,,,,FALSE,,,,,,,,130046,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Endotribelos,,,,,,Chironomidae
+Enochrus,FALSE,,,,,,FALSE,,,Less30,,,,,112973,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Hydrophilini,,Enochrus,,,,,,Coleoptera
+Eobrachycentrus,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Brachycentridae,,,,Eobrachycentrus,,,,,,Trichoptera
+Eocosmoecus,FALSE,,,,,,FALSE,,,Less30,,,,,568777,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Eocosmoecus,,,,,,Trichoptera
+Eocosmoecus frontalis,FALSE,,,,,,FALSE,,,Less30,,,,,605199,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Eocosmoecus,,,,,frontalis,Trichoptera
+Epeorus,FALSE,3,SC,uni,RHEO,,FALSE,,Cool,,15.22671788,21.92,,yes,100626,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Epeorus,,,,,,Ephemeroptera
+Epeorus Albertae Group,FALSE,4,SC,uni,RHEO,,FALSE,eurythermal,Eurythermal,,18.54317421,24.83,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Epeorus,,Albertae Gr.,,,,Ephemeroptera
+Epeorus deceptivus,FALSE,2,SC,uni,RHEO,,FALSE,stenoc,Cold Stenotherm,,12.37860971,16.999,,,100632,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Epeorus,,,,,deceptivus,Ephemeroptera
+Epeorus Grandis Group,FALSE,2,SC,uni,RHEO,,FALSE,cold,Cold,,13.61842129,18.622,Cold,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Epeorus,,Grandis Gr.,,,,Ephemeroptera
+Epeorus longimanus,FALSE,3,SC,uni,RHEO,,FALSE,cool,Cool,,16.78427389,20.717,,,100637,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Epeorus,,Pleuralis Gr.,,,longimanus,Ephemeroptera
+Ephemera,FALSE,,,,,,FALSE,,,Less30,,,,,101526,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemeridae,,,,Ephemera,,,,,,Ephemeroptera
+Ephemerella,FALSE,3,CG,uni,RHEO,,FALSE,,Cool,,17.43456409,21.587,,yes,101233,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Ephemerella,,,,,,Ephemeroptera
+Ephemerella alleni,FALSE,2,CG,uni,RHEO,TRUE,FALSE,,,Less30,,,,,101251,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Ephemerella,Ephemerella,,,,alleni,Ephemeroptera
+Ephemerella aurivillii,FALSE,3,CG,uni,GENE,,FALSE,warm,Warm,,19.68626379,26.792,,,101255,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Ephemerella,Ephemerella,,,,aurivillii,Ephemeroptera
+Ephemerella Excrucians Group,FALSE,4,CG,uni,RHEO,,FALSE,cool,Cool,,17.23179412,20.84,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Ephemerella,Ephemerella,Excrucians Gr.,,,,Ephemeroptera
+Ephemerella needhami,FALSE,,,,,,FALSE,,,,,,,,101291,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Ephemerella,Draeconia,,,,needhami,Ephemeroptera
+Ephemerella tibialis,FALSE,4,CG,uni,RHEO,,FALSE,cool,Cool,,17.11673253,20.535,,,101401,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Ephemerella,Vittapallia,,,,tibialis,Ephemeroptera
+Ephemerella verruca,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Ephemerella,,,,,verruca,Ephemeroptera
+Ephemerellidae,FALSE,3,CG,uni,RHEO,,FALSE,,Cool,,15.7177632,21.425,,yes,101232,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,,,,,,,Ephemeroptera
+Ephemeridae,FALSE,NA,CG,semi,GENE,,FALSE,,,Less30,,,,,101525,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemeridae,,,,,,,,,,Ephemeroptera
+Ephemeroptera,FALSE,,,,,,FALSE,,Eurythermal,,16.65900343,22.421,,yes,100502,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,,,,,,,,,,,,,Ephemeroptera
+Ephoron,FALSE,,,,,,FALSE,,,Less30,,,,,101570,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Polymitarcyidae,,,,Ephoron,,,,,,Ephemeroptera
+Ephydridae,FALSE,4,CG,multi,GENE,,FALSE,warm,Warm,,23.29080332,24.706,,,146893,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Ephydridae,,,,,,,,,,Diptera
+Epiphragma,FALSE,,,,,,FALSE,,,,,,,,120081,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Epiphragma,,,,,,Diptera
+Epitheca,FALSE,,,,,,FALSE,,,,,,,,102035,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Corduliidae,Corduliinae,,,Epitheca,,,,,,Odonata
+Epoicocladius,FALSE,,,,,,FALSE,,,,,,,,128682,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Epoicocladius,,,,,,Chironomidae
+Eretmoptera,FALSE,NA,SC,multi,SPEC,,FALSE,,,Less30,,,,,128686,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eretmoptera,,,,,,Chironomidae
+Erioptera,FALSE,NA,CG,UNKN,SPEC,TRUE,FALSE,,,Less30,,,,,120503,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Erioptera,,,,,,Diptera
+Eristalis,FALSE,,,,,,FALSE,,,,,,,,140904,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Syrphidae,Eristalinae,Eristaliini,,Eristalis,,,,,,Diptera
+Erpetogomphus,FALSE,,,,,,FALSE,,,Less30,,,,,101725,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Gomphidae,,,,Erpetogomphus,,,,,,Odonata
+Erpobdella,FALSE,,,,,,TRUE,warm,Warm,,21.68450719,26.89,,,69444,Animalia,Annelida,,Clitellata,Hirudinea,Arhynchobdellida,Erpobdelliformes,,Erpobdellidae,Erpobdellinae,,,Erpobdella,,,,,,Other Non-Insect
+Erythemis,FALSE,,,,,,FALSE,,,,,,,,101865,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Libellulidae,,,,Erythemis,,,,,,Odonata
+Estelloxus,FALSE,,,,,,FALSE,cold,Cold,,15.57772299,18.381,,,83048,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Lebertiidae,,,,Estelloxus,,,,,,Other Non-Insect
+Eubrianax,FALSE,,,,,,FALSE,,,,,,,,114085,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Psephenidae,Eubrianacinae,,,Eubrianax,,,,,,Coleoptera
+Eucorethra,FALSE,NA,PR,uni,HEAD,TRUE,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chaoboridae,Eucorethrinae,,,Eucorethra,,,,,,Diptera
+Eukiefferiella,FALSE,4,CG,multi,GENE,,FALSE,,Eurythermal,,17.59925209,22.785,,yes,128689,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,,,,,Chironomidae
+Eukiefferiella Brehmi Group,FALSE,4,CG,multi,RHEO,,FALSE,eurythermal,Eurythermal,,19.31822769,24.621,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,Brehmi Gr.,,,,Chironomidae
+Eukiefferiella Brevicalcar Group,FALSE,NA,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,Brevicalcar Gr.,,,,Chironomidae
+Eukiefferiella Claripennis Group,FALSE,,,,,,FALSE,cowa,Cool-Warm,,18.3831369,23.261,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,Claripennis Gr.,,,,Chironomidae
+Eukiefferiella Coerulescens Group,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,Coerulescens Gr.,,,,Chironomidae
+Eukiefferiella Devonica Group,FALSE,3,CG,multi,RHEO,,FALSE,eurythermal,Eurythermal,,18.51271588,24.5,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,Devonica Gr.,,,,Chironomidae
+Eukiefferiella Gracei Group,FALSE,,,,,,FALSE,eurythermal,Eurythermal,,15.23867737,24.11,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,Gracei Gr.,,,,Chironomidae
+Eukiefferiella Pseudomontana Group,FALSE,4,CG,multi,RHEO,,FALSE,cowa,Cool-Warm,,18.63211881,21.83,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,Pseudomontana Gr.,,,,Chironomidae
+Eukiefferiella Tirolensis Group,FALSE,4,CG,multi,RHEO,,FALSE,cool,Cool,,17.4217084,18.88,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Eukiefferiella,,Brevicalcar Gr.,,,tirolensis,Chironomidae
+Euparyphus,FALSE,,,,,,FALSE,,,Less30,,,,,130436,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Stratiomyidae,Stratiomyinae,Oxycerini,,Euparyphus,,,,,,Diptera
+Euryhapsis,FALSE,NA,UNKN,multi,DEPO,,FALSE,,,Less30,,,,,128707,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Euryhapsis,,,,,,Chironomidae
+Eurylophella,FALSE,,,,,,FALSE,,,Less30,,,,,101324,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Eurylophella,,,,,,Ephemeroptera
+Eylais,FALSE,,,,,,FALSE,,,Less30,,,,,83152,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Eylaidae,,,,Eylais,,,,,,Other Non-Insect
+Fallceon,FALSE,5,CG,multi,RHEO,,FALSE,warm,Warm,,26.79722537,28.96,,,568551,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Fallceon,,,,,,Ephemeroptera
+Farula,FALSE,1i,SC,semi,SPEC,TRUE,FALSE,cool,Cool,,17.91795724,19.96,,,116331,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Uenoidae,Uenoinae,,,Farula,,,,,,Trichoptera
+Feltria,FALSE,,,,,,FALSE,,,Less30,,,,,83314,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Feltriidae,,,,Feltria,,,,,,Other Non-Insect
+Ferrissia,FALSE,5,SC,multi,GENE,,FALSE,warm,Warm,,22.75726909,26.52,Warm,,76569,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Planorbidae,,,,Ferrissia,,,,,,Other Non-Insect
+Fisherola nuttalli,FALSE,,,,,,FALSE,,,,,,,,76567,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Lymnaeidae,,,,Fisherola,,,,,nuttalli,Other Non-Insect
+Forcipomyiinae,FALSE,3,CG,uni,GENE,,FALSE,cool,Cool,,17.4715931,20.86,,,127112,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Ceratopogonidae,Forcipomyiinae,,,,,,,,,Diptera
+Forelia,FALSE,,,,,,FALSE,,,Less30,,,,,83331,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Pionidae,,,,Forelia,,,,,,Other Non-Insect
+Fridericia,FALSE,,,,,,FALSE,cold,Cold,,16.4272476,19.69,,,204785,Animalia,Annelida,,Clitellata,Oligochaeta,Enchytraeida,,,Enchytraeidae,,,,Fridericia,,,,,,Oligochaeta
+Frisonia picticeps,FALSE,1i,PR,uni,RHEO,TRUE,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Arcynopterygini,,Frisonia,,,,,picticeps,Plecoptera
+Frontipoda,FALSE,,,,,,FALSE,,,,,,,,83240,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Oxidae,,,,Frontipoda,,,,,,Other Non-Insect
+Gammaridae,FALSE,,,,,,FALSE,,,,,,,,93745,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Gammaridae,,,,,,,,,,Other Non-Insect
+Gammaridea,FALSE,,,,,,FALSE,,Warm,,20.71619973,25.32653054,,yes,,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,,,,,,,,,,,Other Non-Insect
+Gammarus,FALSE,5,SH,uni,GENE,,FALSE,warm,Warm,,21.76202526,26.186,,,93773,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Gammaridae,,,,Gammarus,,,,,,Other Non-Insect
+Gastropoda,FALSE,NA,UNKN,UNKN,UNKN,,FALSE,,Warm,,20.17084068,23.884,,yes,69459,Animalia,Mollusca,,Gastropoda,,,,,,,,,,,,,,,Other Non-Insect
+Georthocladius,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Georthocladius,,,,,,Chironomidae
+Georyssus,FALSE,,,,,,FALSE,,,,,,,,112754,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Georyssidae,,,,Georyssus,,,,,,Coleoptera
+Gereckea,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Pionidae,Huitfeldtiinae,,,Gereckea,,,,,,Other Non-Insect
+Glossiphonia,FALSE,,,,,,TRUE,,,Less30,,,,,69380,Animalia,Annelida,,Clitellata,Hirudinea,Rhynchobdellida,,,Glossiphoniidae,Glossiphoniinae,,,Glossiphonia,,,,,,Other Non-Insect
+Glossiphoniidae,FALSE,,,,,,TRUE,warm,Warm,,21.81617094,25.442,,,69357,Animalia,Annelida,,Clitellata,Hirudinea,Rhynchobdellida,,,Glossiphoniidae,,,,,,,,,,Other Non-Insect
+Glossosoma,FALSE,4,SC,multi,RHEO,,FALSE,cool,Cool,,17.91604393,21.541,,,117159,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Glossosomatidae,Glossosomatinae,Glossosomatini,,Glossosoma,,,,,,Trichoptera
+Glossosomatidae,FALSE,4,SC,UNKN,RHEO,,FALSE,,Cool,,17.83466104,21.73,,yes,117120,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Glossosomatidae,,,,,,,,,,Trichoptera
+Glutops,FALSE,3,PR,semi,DEPO,,TRUE,cool,Cool,,15.88529683,20.01,,,130915,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Pelecorhynchidae,,,,Glutops,,,,,,Diptera
+Glyptotendipes,FALSE,5,MH,multi,GENE,,FALSE,,,Less30,,,,,129483,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Glyptotendipes,,,,,,Chironomidae
+Gnorimosphaeroma,FALSE,,,,,,FALSE,,,,,,,,92295,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Isopoda,Flabellifera,,Sphaeromatidae,,,,Gnorimosphaeroma,,,,,,Other Non-Insect
+Goera archaon,FALSE,3,SC,uni,RHEO,TRUE,FALSE,warm,Warm,,21.91791326,23.904,,,116423,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Goeridae,Goerinae,,,Goera,,,,,archaon,Trichoptera
+Goeracea,FALSE,1i,SC,semi,RHEO,TRUE,FALSE,,,Less30,,,,,116298,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Goeridae,Goerinae,,,Goeracea,,,,,,Trichoptera
+Goeridae,FALSE,3,SC,UNKN,RHEO,TRUE,FALSE,warm,Warm,,21.05739704,23.876,,,115934,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Goeridae,,,,,,,,,,Trichoptera
+Gomphidae,FALSE,3,PR,semi,DEPO,,TRUE,,Warm,,20.07138278,24.098,,yes,101664,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Gomphidae,,,,,,,,,,Odonata
+Gomphus,FALSE,NA,PR,semi,RIVE,TRUE,FALSE,,,Less30,,,,,101665,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Gomphidae,,,,Gomphus,,,,,,Odonata
+Gonomyia,FALSE,NA,CG,UNKN,SPEC,TRUE,FALSE,,,Less30,,,,,120640,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Gonomyia,,,,,,Diptera
+Gonomyodes,FALSE,,,,,,FALSE,,,Less30,,,,,120722,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Gonomyodes,,,,,,Diptera
+Grammotaulius,FALSE,,,,,,FALSE,,,,,,,,116309,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Limnephilini,,Grammotaulius,,,,,,Trichoptera
+Guestphalinus,FALSE,,,,,,FALSE,,,Less30,,,,,68487,Animalia,Annelida,,Clitellata,Oligochaeta,Lumbriculida,,,Lumbriculidae,,,,Guestphalinus,,,,,,Oligochaeta
+Gumaga,FALSE,2,OM,semi,RHEO,,FALSE,cowa,Cool-Warm,,18.90715954,21.625,,,117003,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Sericostomatidae,,,,Gumaga,,,,,,Trichoptera
+Guttipelopia,FALSE,,,,,,FALSE,,,,,,,,128161,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Guttipelopia,,,,,,Chironomidae
+Gymnometriocnemus,FALSE,NA,UNKN,multi,GENE,,FALSE,,,Less30,,,,,128718,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Gymnometriocnemus,,,,,,Chironomidae
+Gyraulus,FALSE,4,SC,multi,GENE,,FALSE,warm,Warm,,21.55044711,27.18,,,76592,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Planorbidae,,,,Gyraulus,,,,,,Other Non-Insect
+Gyrinidae,FALSE,NA,PR,uni,GENE,,FALSE,,,Less30,,,,,112653,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Gyrinidae,,,,,,,,,,Coleoptera
+Haemonais,FALSE,,,,,,FALSE,,,,,,,,69003,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Haemonais,,,,,,Oligochaeta
+Haemopis,FALSE,,,,,,FALSE,,,,,,,,69408,Animalia,Annelida,,Clitellata,Hirudinea,Arhynchobdellida,Hirudiniformes,,Haemopidae,Haemopinae,,,Haemopis,,,,,,Other Non-Insect
+Halesochila taylori,FALSE,,,,,,FALSE,,,,,,,,116307,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,Limnephiloidea,Limnephilidae,Limnephilinae,Limnephilini,,Halesochila,,,,,taylori,Trichoptera
+Haliplidae,FALSE,4,UNKN,UNKN,GENE,,FALSE,warm,Warm,,21.47741457,24.452,,,111857,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Haliplidae,,,,,,,,,,Coleoptera
+Haliplus,FALSE,4,PH,uni,GENE,,FALSE,,,Less30,,,,,111858,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Haliplidae,,,,Haliplus,,,,,,Coleoptera
+Haplotaxis,FALSE,,,,,,FALSE,,,Less30,,,,,68505,Animalia,Annelida,,Clitellata,Oligochaeta,Haplotaxida,Haplotaxina,,Haplotaxidae,,,,Haplotaxis,,,,,,Oligochaeta
+Harnischia,FALSE,,,,,,FALSE,,,,,,,,129516,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Harnischia,,,,,,Chironomidae
+Heleniella,FALSE,3,CG,multi,GENE,,FALSE,cool,Cool,,16.57540448,20.72,,,128730,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Heleniella,,,,,,Chironomidae
+Helichus,FALSE,3,SC,semi,RHEO,,FALSE,,,Less30,,,,,114006,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Dryopidae,,,,Helichus,,,,,,Coleoptera
+Helicopsyche,FALSE,4,SC,multi,RHEO,,FALSE,stenow,Warm Stenotherm,,25.50329014,28.07,Warm Stenotherm,,117016,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Helicopsychidae,,,,Helicopsyche,,,,,,Trichoptera
+Helisoma,FALSE,4,SC,uni,GENE,,FALSE,,,Less30,,,,,76599,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Planorbidae,,,,Helisoma,,,,,,Other Non-Insect
+Helius,FALSE,NA,UNKN,uni,SPEC,TRUE,FALSE,,,Less30,,,,,119690,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limoniinae,,,Helius,,,,,,Diptera
+Helobdella,FALSE,,,,,,FALSE,,,Less30,,,,,69396,Animalia,Annelida,,Clitellata,Hirudinea,Rhynchobdellida,,,Glossiphoniidae,Haementeriinae,,,Helobdella,,,,,,Other Non-Insect
+Helochares,FALSE,,,,,,FALSE,,,Less30,,,,,113150,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Hydrophilini,,Helochares,,,,,,Coleoptera
+Helodon/Prosimulium,FALSE,,,,,,FALSE,stenoc,Cold Stenotherm,,13.58980758,17.106,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Simuliidae,,,,,,,,,,Diptera
+Helophorus,FALSE,NA,MH,uni,GENE,,FALSE,,,Less30,,,,,113106,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Helophoridae,,,,Helophorus,,,,,,Coleoptera
+Hemerodromia,FALSE,5,PR,multi,RHEO,,FALSE,warm,Warm,,22.3214464,26.711,Warm,,136327,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Hemerodromiinae,Hemerodromiini,,Hemerodromia,,,,,,Diptera
+Henlea,FALSE,,,,,,FALSE,,,Less30,,,,,68541,Animalia,Annelida,,Clitellata,Oligochaeta,Enchytraeida,,,Enchytraeidae,,,,Henlea,,,,,,Oligochaeta
+Heptageniidae,FALSE,3,SC,uni,RHEO,,FALSE,,Eurythermal,,16.03647453,22.018,,yes,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,,,,,,,Ephemeroptera
+Hesperoconopa,FALSE,3,CG,uni,SPEC,,FALSE,cool,Cool,,15.60220766,20.136,,,120732,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Hesperoconopa,,,,,,Diptera
+Hesperoperla pacifica,FALSE,3,PR,semi,RHEO,,TRUE,cowa,Cool-Warm,,18.96211823,22.1,Cool-Warm,,102971,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlidae,Acroneuriinae,Acroneuriini,,Hesperoperla,,,,,,Plecoptera
+Hesperophylax,FALSE,,,,,,FALSE,,,Less30,,,,,116001,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Limnephilini,,Hesperophylax,,,,,,Trichoptera
+Hetaerina,FALSE,,,,,,FALSE,,,,,,,,102048,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,Calopterygidae,,,,Hetaerina,,,,,,Odonata
+Heterelmis,FALSE,,,,,,FALSE,,,,,,,,114237,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Heterelmis,,,,,,Coleoptera
+Heterlimnius corpulentus,FALSE,3,SC,semi,RHEO,,TRUE,cool,Cool,,17.06294732,20.53,Cool,,114167,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Heterlimnius,,,,,,Coleoptera
+Heterocloeon,FALSE,,,,,,FALSE,,,,,,,,100794,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Heterocloeon,,,,,,Ephemeroptera
+Heteroplectron californicum,FALSE,2,SH,semi,DEPO,TRUE,FALSE,cool,Cool,,18.83344127,20.972,,,116537,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Calamoceratidae,Calamoceratinae,,,Heteroplectron,,,,,californicum,Trichoptera
+Heterosternuta,FALSE,NA,PR,uni,GENE,,FALSE,,,Less30,,,,,728249,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,Hydroporini,,Heterosternuta,,,,,,Coleoptera
+Heterotanytarsus,FALSE,3,CG,multi,GENE,,FALSE,,,Less30,,,,,128734,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Heterotanytarsus,,,,,,Chironomidae
+Heterotrissocladius,FALSE,,,,,,FALSE,cool,Cool,,17.98348349,21.75,,,128737,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Heterotrissocladius,,,,,,Chironomidae
+Heterotrissocladius Marcidus Group,FALSE,4,CG,multi,GENE,,FALSE,cool,Cool,,18.16362652,21.798,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Heterotrissocladius,,Marcidus Gr.,,,,Chironomidae
+Hexagenia,FALSE,,,,,,FALSE,,,Less30,,,,,101537,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemeridae,,,,Hexagenia,,,,,,Ephemeroptera
+Hexatoma,FALSE,3,PR,uni,DEPO,,FALSE,cowa,Cool-Warm,,17.90788755,21.764,,,120094,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Hexatoma,,,,,,Diptera
+Himalopsyche,FALSE,,,,,,FALSE,,,Less30,,,,,608146,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Himalopsyche,,,,,phryganea,Trichoptera
+Hirudinida,FALSE,,,,,,TRUE,warm,Warm,,21.30525329,25.54,,,69290,Animalia,Annelida,,Clitellata,Hirudinea,,,,,,,,,,,,,,Other Non-Insect
+Holorusia,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Tipulidae,Tipulinae,,,Holorusia,,,,,hespera,Diptera
+Homophylax,FALSE,,,,,,FALSE,,,Less30,,,,,116286,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Chilostigmini,,Homophylax,,,,,,Trichoptera
+Homoplectra,FALSE,,,,,,FALSE,,,Less30,,,,,115618,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Diplectroninae,,,Homoplectra,,,,,,Trichoptera
+Hornectes quadrimaculatus,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,Hydroporini,,Hornectes,,,,,quadrimaculatus,Coleoptera
+Hyalella,FALSE,5,CG,multi,GENE,,FALSE,warm,Warm,,22.80938705,27.044,,,94025,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Hyalellidae,,,,Hyalella,,,,,,Other Non-Insect
+Hydaticus,FALSE,,,,,,FALSE,,,,,,,,112172,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Dytiscinae,Hydaticini,,Hydaticus,,,,,,Coleoptera
+Hydatophylax,FALSE,,,,,,FALSE,cool,Cool,,18.59575718,20.316,,,115995,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Stenophylacini,,Hydatophylax,,,,,,Trichoptera
+Hydra,FALSE,,,,,,FALSE,cool,Cool,,18.97399169,20.865,,,50845,Animalia,Cnidaria,,Hydrozoa,,Hydroida,Hydrida,,Hydridae,,,,Hydra,,,,,,Other Non-Insect
+Hydrachna,FALSE,,,,,,FALSE,,,Less30,,,,,83123,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydrachnidae,,,,Hydrachna,,,,,,Other Non-Insect
+Hydrachnidae,FALSE,,,,,,FALSE,,,Less30,,,,,83122,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydrachnidae,,,,,,,,,,Other Non-Insect
+Hydraenidae,FALSE,3,PR,uni,GENE,,FALSE,cowa,Cool-Warm,,19.17653472,22.624,,,112756,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydraenidae,,,,,,,,,,Coleoptera
+Hydrobaenus,FALSE,3,SC,multi,GENE,,FALSE,cool,Cool,,13.41549603,20.154,,,128750,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Hydrobaenus,,,,,,Chironomidae
+Hydrobius,FALSE,4,PR,uni,GENE,,FALSE,,,Less30,,,,,113196,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Hydrophilini,,Hydrobius,,,,,,Coleoptera
+Hydrochus,FALSE,NA,MH,uni,UNKN,,FALSE,,,Less30,,,,,113166,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrochidae,,,,Hydrochus,,,,,,Coleoptera
+Hydrodroma,FALSE,,,,,,FALSE,,,Less30,,,,,83225,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydrodromidae,,,,Hydrodroma,,,,,,Other Non-Insect
+Hydrophilidae,FALSE,4,PR,uni,GENE,,FALSE,eurythermal,Eurythermal,,18.59291399,22.196,,,112811,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,,,,,,,,,,Coleoptera
+Hydrophiloidea,FALSE,,,,,,FALSE,,Eurythermal,,18.71379006,22.212,,yes,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,,,,,,,,,,,Coleoptera
+Hydroporinae,FALSE,NA,PR,uni,GENE,,FALSE,cowa,Cool-Warm,,18.90967336,22.1,,,678402,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,,,,,,,,,Coleoptera
+Hydropsyche,FALSE,4,CF,uni,RHEO,,FALSE,warm,Warm,,20.16358446,23.606,Warm,,115453,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Hydropsychinae,,,Hydropsyche,,,,,,Trichoptera
+Hydropsychidae,FALSE,4,UNKN,UNKN,RHEO,,FALSE,,Eurythermal,,19.72411107,22.66,,yes,115398,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,,,,,,,,,,Trichoptera
+Hydropsychoidea,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,,,,,,,,,,Trichoptera
+Hydroptila,FALSE,4,PH,multi,GENE,,FALSE,warm,Warm,,21.94923345,25.896,Warm,,115641,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Hydroptilinae,Hydroptilini,,Hydroptila,,,,,,Trichoptera
+Hydroptilidae,FALSE,4,UNKN,multi,RHEO,,FALSE,,Warm,,21.01474544,25.448,,yes,115629,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,,,,,,,,,,Trichoptera
+Hydrosmittia,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Hydrosmittia,,,,,,Chironomidae
+Hydrovolzia,FALSE,,,,,,FALSE,,,Less30,,,,,83119,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydrovolziidae,,,,Hydrovolzia,,,,,,Other Non-Insect
+Hydrovolziidae,FALSE,,,,,,FALSE,,,Less30,,,,,83118,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydrovolziidae,,,,,,,,,,Other Non-Insect
+Hydryphantes,FALSE,,,,,,FALSE,,,Less30,,,,,83213,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Hydryphantes,,,,,,Other Non-Insect
+Hydryphantidae,FALSE,,,,,,FALSE,cool,Cool,,15.48934552,20.33,,,83212,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,,,,,,,Other Non-Insect
+Hygrobates,FALSE,,,,,,FALSE,warm,Warm,,19.30391955,23.838,,,83297,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hygrobatidae,,,,Hygrobates,,,,,,Other Non-Insect
+Hygrobatidae,FALSE,,,,,,FALSE,,Eurythermal,,18.77171394,22.776,,yes,83281,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hygrobatidae,,,,,,,,,,Other Non-Insect
+Ilyodrilus,FALSE,,,,,,FALSE,,,,,,,,68660,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,Ilyodrilus,,,,,,Oligochaeta
+Integripalpia,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,,,,,,,,,,,Trichoptera
+Ironodes,FALSE,3,SC,uni,RHEO,,FALSE,cool,Cool,,16.6263909,20.36,,,100666,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Ironodes,,,,,,Ephemeroptera
+Isogenoides,FALSE,,,,,,FALSE,,,Less30,,,,,103124,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Perlodini,,Isogenoides,,,,,,Plecoptera
+Isonychia,FALSE,NA,CF,multi,RIVE,TRUE,FALSE,,,Less30,,,,,101041,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Isonychiidae,,,,Isonychia,,,,,,Ephemeroptera
+Isoperla,FALSE,3,PR,uni,RHEO,,FALSE,cool,Cool,,15.94140652,21.534,,,102995,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Isoperlinae,,,Isoperla,,,,,,Plecoptera
+Isopoda,FALSE,NA,,,,,FALSE,,Warm,,22.14549522,25.06862808,,yes,92120,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Isopoda,,,,,,,,,,,,,Other Non-Insect
+Iswaeon,FALSE,NA,CG,multi,RHEO,TRUE,FALSE,,,Less30,,,,,776928,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Iswaeon,,,,,,Ephemeroptera
+Juga,FALSE,4,OM,semi,RHEO,,TRUE,cowa,Cool-Warm,,20.05889862,22.74,,,71570,Animalia,Mollusca,,Gastropoda,,Neotaenioglossa,,,Pleuroceridae,,,,Juga,,,,,,Other Non-Insect
+Kathroperla,FALSE,2,PR,semi,SPEC,TRUE,TRUE,cold,Cold,,15.08708168,18.83,,,103236,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Chloroperlidae,Paraperlinae,,,Kathroperla,,,,,,Plecoptera
+Kiefferulus,FALSE,,,,,,FALSE,,,,,,,,129522,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Kiefferulus,,,,,,Chironomidae
+Kincaidiana,FALSE,,,,,,FALSE,,,Less30,,,,,68470,Animalia,Annelida,,Clitellata,Oligochaeta,Lumbriculida,,,Lumbriculidae,,,,Kincaidiana,,,,,,Oligochaeta
+Koenikea,FALSE,,,,,,FALSE,,,Less30,,,,,83093,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Unionicolidae,,,,Koenikea,,,,,,Other Non-Insect
+Kogotus/Rickera,FALSE,4,PR,uni,RHEO,,FALSE,cold,Cold,,16.10262511,19.716,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Diploperlini,,Kogotus/Rickera,,,,,,Plecoptera
+Kongsbergia,FALSE,,,,,,FALSE,,,,,,,,83000,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Aturidae,,,,Kongsbergia,,,,,,Other Non-Insect
+Krendowskia,FALSE,,,,,,FALSE,,,,,,,,83502,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Krendowskiidae,,,,Krendowskia,,,,,,Other Non-Insect
+Krendowskiidae,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Krendowskiidae,,,,,,,,,,Other Non-Insect
+Krenopelopia,FALSE,NA,PR,multi,GENE,,FALSE,,,Less30,,,,,128170,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Krenopelopia,,,,,,Chironomidae
+Krenopsectra,FALSE,NA,,,,,FALSE,,,Less30,,,,,129889,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Krenopsectra,,,,,,Chironomidae
+Krenosmittia,FALSE,3,CG,multi,SPEC,TRUE,FALSE,cold,Cold,,14.76324455,19.382,,,128771,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Krenosmittia,,,,,,Chironomidae
+Labiobaetis,FALSE,4,CG,multi,DEPO,TRUE,FALSE,cowa,Cool-Warm,,20.15874345,21.805,,,568552,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Labiobaetis,,,,,,Ephemeroptera
+Labrundinia,FALSE,NA,PR,multi,GENE,,FALSE,,,Less30,,,,,128173,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Labrundinia,,,,,,Chironomidae
+Laccobius,FALSE,4,PR,uni,GENE,,FALSE,,,Less30,,,,,112858,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Laccobiini,,Laccobius,,,,,,Coleoptera
+Laccophilus,FALSE,,,,,,FALSE,,,Less30,,,,,112278,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Laccophilinae,Laccophilini,,Laccophilus,,,,,,Coleoptera
+Lanx,FALSE,,,,,,FALSE,,,Less30,,,,,76477,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Lymnaeidae,,,,,,,,,,Other Non-Insect
+Lara,FALSE,4,XY,semi,SPEC,,TRUE,cool,Cool,,17.68613192,20.81,,,114137,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Lara,,,,,,Coleoptera
+Larsia,FALSE,3,PR,multi,GENE,,FALSE,eurythermal,Eurythermal,,17.49079065,22.302,,,128183,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Larsia,,,,,,Chironomidae
+Lauterborniella,FALSE,,,,,,FALSE,,,Less30,,,,,129525,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Lauterborniella,,,,,,Chironomidae
+Laversia,FALSE,,,,,,FALSE,,,,,,,,82971,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Laversiidae,,,,Laversia,,,,,,Other Non-Insect
+Lebertia,FALSE,,,,,,FALSE,eurythermal,Eurythermal,,18.2091266,22.072,,,83034,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Lebertiidae,,,,Lebertia,,,,,,Other Non-Insect
+Lebertiidae,FALSE,,,,,,FALSE,,Eurythermal,,18.02639351,21.95,,yes,83033,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Lebertiidae,,,,,,,,,,Other Non-Insect
+Lepidoptera,FALSE,4,MH,multi,UNKN,,FALSE,,Warm,,24.93628295,27.95,,yes,117232,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Lepidoptera,,,,,,,,,,,,,Lepidoptera
+Lepidostoma,FALSE,3,SH,uni,DEPO,,FALSE,eurythermal,Eurythermal,,18.83171357,22.02,,,116794,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Lepidostomatidae,Lepidostomatinae,,,Lepidostoma,,,,,,Trichoptera
+Leptoceridae,FALSE,4,UNKN,uni,GENE,,FALSE,,Warm,,23.17710433,27.296,,yes,116547,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Leptoceridae,,,,,,,,,,Trichoptera
+Leptohyphidae,FALSE,,,,,,FALSE,stenow,Warm Stenotherm,,24.22020522,27.616,,,568545,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptohyphidae,,,,,,,,,,Ephemeroptera
+Leptophlebiidae,FALSE,3,CG,uni,DEPO,,FALSE,,Eurythermal,,17.64307495,22.08,,yes,101095,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptophlebiidae,,,,,,,,,,Ephemeroptera
+Lestes,FALSE,,,,,,FALSE,,,,,,,,102061,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,Lestidae,,,,Lestes,,,,,,Odonata
+Lestidae,FALSE,,,,,,FALSE,,,Less30,,,,,102061,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,Lestidae,,,,,,,,,,Odonata
+Leucotrichia,FALSE,4,SC,multi,RHEO,,FALSE,warm,Warm,,22.45463596,27.002,,,115630,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Hydroptilinae,Leucotrichiini,,Leucotrichia,,,,,,Trichoptera
+Leucrocuta,FALSE,3,SC,uni,RHEO,,FALSE,,,Less30,,,,,100676,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Leucrocuta,,,,,,Ephemeroptera
+Leuctridae,FALSE,3,SH,uni,RHEO,,FALSE,,Cold,,15.35283437,19.662,,yes,102840,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Leuctridae,,,,,,,,,,Plecoptera
+Libellulidae,FALSE,NA,PR,uni,GENE,,FALSE,,,Less30,,,,,101797,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Libellulidae,,,,,,,,,,Odonata
+Limnephilidae,FALSE,3,UNKN,UNKN,UNKN,,FALSE,,Cool,,16.04420894,21.418,,yes,115933,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,,,,,,,,,,Trichoptera
+Limnephiloidea,FALSE,NA,UNKN,UNKN,UNKN,,FALSE,,Eurythermal,,16.9680582,22.05,,yes,598162,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,,,,,,,,,,,Trichoptera
+Limnephilus,FALSE,,,,,,FALSE,,,Less30,,,,,116069,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Limnephilini,,Limnephilus,,,,,,Trichoptera
+Limnesia,FALSE,,,,,,FALSE,warm,Warm,,20.12441661,24.365,,,83051,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Limnesiidae,,,,Limnesia,,,,,,Other Non-Insect
+Limnesiidae,FALSE,,,,,,FALSE,warm,Warm,,20.08907404,24.26,,,83050,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Limnesiidae,,,,,,,,,,Other Non-Insect
+Limnochares,FALSE,,,,,,FALSE,,,Less30,,,,,83146,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Limnocharidae,,,,Limnochares,,,,,,Other Non-Insect
+Limnodrilus,FALSE,,,,,,FALSE,,,Less30,,,,,68638,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,Limnodrilus,,,,,,Oligochaeta
+Limnophyes,FALSE,5,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,18.95992803,23.244,,,128776,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Limnophyes,,,,,,Chironomidae
+Limoniidae,FALSE,,,,,,FALSE,,Cool-Warm,,19.45541675,22.771,,yes,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,,,,,,,,,,Diptera
+Lipsothrix,FALSE,1i,XY,semi,SPEC,TRUE,FALSE,,,Less30,,,,,120749,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limoniinae,,,Lipsothrix,,,,,,Diptera
+Lirceus,FALSE,,,,,,FALSE,,,,,,,,92666,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Isopoda,Asellota,,Asellidae,,,,Lirceus,,,,,,Other Non-Insect
+Ljania,FALSE,,,,,,FALSE,,,,,,,,83449,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Aturidae,,,,Ljania,,,,,,Other Non-Insect
+Lopescladius,FALSE,3,CG,multi,SPEC,,FALSE,warm,Warm,,23.36830776,26.932,,,128811,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Lopescladius,,,,,,Chironomidae
+Lumbriculidae,FALSE,,,,,,TRUE,cool,Cool,,18.36323759,21.424,,,68440,Animalia,Annelida,,Clitellata,Oligochaeta,Lumbriculida,,,Lumbriculidae,,,,,,,,,,Oligochaeta
+Lutrochus,FALSE,,,,,,FALSE,,,Less30,,,,,114037,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Lutrochidae,,,,Lutrochus,,,,,,Coleoptera
+Lymnaeidae,FALSE,5,SC,uni,GENE,,FALSE,warm,Warm,,21.67354241,26.385,,,76483,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Lymnaeidae,,,,,,,,,,Other Non-Insect
+Maccaffertium,FALSE,5,,,,,FALSE,,,Less30,,,,,697957,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Maccaffertium,,,,,,Ephemeroptera
+Macromia,FALSE,,,,,,FALSE,,,Less30,,,,,101918,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Macromiidae,,,,Macromia,,,,,,Odonata
+Macromiidae,FALSE,,,,,,FALSE,,,Less30,,,,,102019,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Macromiidae,,,,,,,,,,Odonata
+Macropelopia,FALSE,3,PR,multi,RHEO,,FALSE,cool,Cool,,17.48659678,20.848,,,128034,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Macropelopiini,,Macropelopia,,,,,,Chironomidae
+Macropelopiini,FALSE,,,,,,FALSE,,Eurythermal,,18.80941866,22.262,,yes,128020,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Macropelopiini,,,,,,,,Chironomidae
+Malenka,FALSE,4,SH,uni,RHEO,,FALSE,cool,Cool,,18.30303736,21.438,,,102567,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Amphinemurinae,,,Malenka,,,,,,Plecoptera
+Margaritiferidae,FALSE,,,,,,TRUE,,,Less30,,,,,79914,Animalia,Mollusca,,Bivalvia,Palaeoheterodonta,Unionoida,,,Margaritiferidae,,,,,,,,,,Other Non-Insect
+Marilia,FALSE,,,,,,FALSE,,,Less30,,,,,116514,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Odontoceridae,Odontocerinae,,,Marilia,,,,,,Trichoptera
+Maruina,FALSE,3,SC,uni,SPEC,,FALSE,cowa,Cool-Warm,,19.51096521,23.215,,,125392,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Psychodidae,Psychodinae,,,Maruina,,,,,,Diptera
+Matriella teresa,FALSE,3,CG,uni,RHEO,,FALSE,cool,Cool,,19.06645627,21.67,,,776924,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Matriella,,,,,,Ephemeroptera
+Megaleuctra,FALSE,,,,,,FALSE,,,,,,,,102877,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Leuctridae,Megaleuctrinae,,,Megaleuctra,,,,,,Plecoptera
+Megaloptera,FALSE,,,,,,FALSE,,Cool-Warm,,19.41566802,23.13,,yes,115000,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Megaloptera,,,,,,,,,,,,,Megaloptera
+Megarcys,FALSE,2,PR,semi,RHEO,,TRUE,stenoc,Cold Stenotherm,,12.95348618,17.07,Cold Stenotherm,,103110,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Arcynopterygini,,Megarcys,,,,,,Plecoptera
+Menetus,FALSE,4,SC,multi,GENE,,FALSE,warm,Warm,,19.363361,24.215,,,76626,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Planorbidae,,,,Menetus,,,,,,Other Non-Insect
+Meringodixa,FALSE,3,CG,multi,SPEC,,FALSE,cool,Cool,,17.53695693,20.31,,,125873,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Dixidae,,,,Meringodixa,,,,,,Diptera
+Mesenchytraeus,FALSE,,,,,,FALSE,cold,Cold,,15.07057539,19.705,,,68544,Animalia,Annelida,,Clitellata,Oligochaeta,Enchytraeida,,,Enchytraeidae,,,,Mesenchytraeus,,,,,,Oligochaeta
+Mesobates,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hygrobatidae,Hygrobatinae,,,Mesobates,,,,,,Other Non-Insect
+Mesocricotopus,FALSE,NA,CG,multi,GENE,,FALSE,,,,,,,,128815,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Mesocricotopus,,,,,,Chironomidae
+Mesosmittia,FALSE,4,CG,multi,GENE,,FALSE,,,,,,,,128818,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Mesosmittia,,,,,,Chironomidae
+Metacnephia,FALSE,1i,CF,uni,HEAD,TRUE,FALSE,,,Less30,,,,,126687,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Simuliidae,Simuliinae,Prosimuliini,,Metacnephia,,,,,,Diptera
+Metriocnemus,FALSE,4,OM,multi,GENE,,FALSE,eurythermal,Eurythermal,,19.05610859,22.415,,,128821,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Metriocnemus,,,,,,Chironomidae
+Micrasema,FALSE,3,CG,semi,RHEO,,FALSE,cool,Cool,,16.67755003,20.829,,,116958,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Brachycentridae,,,,Micrasema,,,,,,Trichoptera
+Microchironomus,FALSE,,,,,,FALSE,,,Less30,,,,,129532,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Microchironomus,,,,,,Chironomidae
+Microcylloepus,FALSE,4,CG,semi,RHEO,,TRUE,stenow,Warm Stenotherm,,26.84036357,28.71,,,114146,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Microcylloepus,,,,,,Coleoptera
+Micropsectra,FALSE,4,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,17.73507182,22.151,Eurythermal,,129890,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Micropsectra,,,,,,Chironomidae
+Microtendipes,FALSE,4,CF,multi,GENE,,FALSE,,Warm,,20.31055476,23.584,,yes,129535,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Microtendipes,,,,,,Chironomidae
+Microtendipes Pedellus Group,FALSE,4,CF,multi,GENE,,FALSE,cowa,Cool-Warm,,20.16030303,23.49,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Microtendipes,,Pedellus Gr.,,,,Chironomidae
+Microtendipes Rydalensis Group,FALSE,4,CF,multi,GENE,,FALSE,cowa,Cool-Warm,,20.24341199,22.23,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Microtendipes,,Rydalensis Gr.,,,,Chironomidae
+Midea,FALSE,,,,,,FALSE,,,Less30,,,,,83466,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Mideidae,,,,Midea,,,,,,Other Non-Insect
+Mideopsidae,FALSE,,,,,,FALSE,eurythermal,Eurythermal,,18.80123845,22.256,,,83476,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Mideopsidae,,,,,,,,,,Other Non-Insect
+Mideopsis,FALSE,,,,,,FALSE,eurythermal,Eurythermal,,18.89205312,22.35,,,83479,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Mideopsidae,,,,Mideopsis,,,,,,Other Non-Insect
+Molanna,FALSE,,,,,,FALSE,,,,,,,,116474,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Molannidae,,,,Molanna,,,,,,Trichoptera
+Molophilus,FALSE,4,SH,uni,GENE,,FALSE,,,Less30,,,,,120758,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Molophilus,,,,,,Diptera
+Momonia,FALSE,,,,,,FALSE,,,,,,,,83474,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Momoniidae,,,,Momonia,,,,,,Other Non-Insect
+Momoniidae,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Momoniidae,,,,,,,,,,Other Non-Insect
+Monatractides,FALSE,,,,,,FALSE,cool,Cool,,17.83620003,21.802,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Torrenticolidae,,,,Monatractides,,,,,,Other Non-Insect
+Monodiamesa,FALSE,3,CG,multi,GENE,,FALSE,cool,Cool,,16.69533003,20.42,,,128440,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Prodiamesinae,,,Monodiamesa,,,,,,Chironomidae
+Monopelopia,FALSE,NA,PR,multi,SPEC,TRUE,FALSE,,,Less30,,,,,128199,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Monopelopia,,,,,,Chironomidae
+Monophylax mono,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Chilostigmini,,Monophylax,,,,,Monophylax mono,Trichoptera
+Moselia,FALSE,2,SH,uni,HEAD,TRUE,TRUE,cold,Cold,,14.60978719,19.005,Cold,,102909,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Leuctridae,Leuctrinae,,,Moselia,,,,,,Plecoptera
+Moselyana comosa,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Apataniidae,,,,Moselyana,,,,,comosa,Trichoptera
+Muscidae,FALSE,4,PR,multi,GENE,,FALSE,eurythermal,Eurythermal,,18.50760626,23.002,,,150025,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Muscidae,,,,,,,,,,Diptera
+Musculium,FALSE,,,,,,FALSE,,,Less30,,,,,81427,Animalia,Mollusca,,Bivalvia,Heterodonta,Veneroida,,,Sphaeriidae,,,,Musculium,,,,,,Other Non-Insect
+Mystacides,FALSE,4,OM,uni,GENE,,FALSE,warm,Warm,,21.08328213,24.7,,,116598,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Leptoceridae,Leptocerinae,Mystacidini,,Mystacides,,,,,,Trichoptera
+Naididae,FALSE,,,,,,FALSE,,Cool-Warm,,20.42798694,22.61,,yes,68854,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,,,,,,,,,,Oligochaeta
+Naidinae,FALSE,,,,,,FALSE,warm,Warm,,20.97614457,23.512,,,974284,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,,,,,,,Oligochaeta
+Nais,FALSE,,,,,,FALSE,cowa,Cool-Warm,,20.80907906,23.356,,,68946,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Nais,,,,,,Oligochaeta
+Najadicola,FALSE,,,,,,FALSE,,,Less30,,,,,83101,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Pionidae,,,,Najadicola,,,,,,Other Non-Insect
+Namamyia,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Odontoceridae,Odontocerinae,,,Namamyia,,,,,,Trichoptera
+Nanocladius,FALSE,5,CG,multi,GENE,,FALSE,warm,Warm,,20.03507739,25.936,,,128844,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Nanocladius,,,,,,Chironomidae
+Narpus,FALSE,4,CG,semi,RHEO,,TRUE,cool,Cool,,18.07526637,21.412,,,114142,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Narpus,,,,,,Coleoptera
+Natarsia,FALSE,4,PR,multi,GENE,,FALSE,cool,Cool,,19.30540603,21.816,,,128070,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Natarsiini,,Natarsia,,,,,,Chironomidae
+Nautarachna,FALSE,,,,,,FALSE,cool,Cool,,17.68310724,20.017,,,83326,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Nautarachnidae,,,,Nautarachna,,,,,,Other Non-Insect
+Nautarachnidae,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Nautarachnidae,,,,,,,,,,Other Non-Insect
+Neaviperla/Suwallia,FALSE,3,,,,,FALSE,cool,Cool,,17.98480692,21.23,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Chloroperlidae,Chloroperlinae,Suwalliini,,,,,,,,Plecoptera
+Nectoporus,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,Hydroporini,,Nectoporus,,,,,,Coleoptera
+Nectopsyche,FALSE,4,OM,uni,GENE,,FALSE,,,Less30,,,,,116651,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Leptoceridae,Leptocerinae,Nectopsychini,,Nectopsyche,,,,,,Trichoptera
+Nemata,FALSE,4,PA,uni,SPEC,,FALSE,eurythermal,Eurythermal,,17.46102488,22.3,,,563956,Animalia,Nemata,,,,,,,,,,,,,,,,,Other Non-Insect
+Nematocera,FALSE,,,,,,FALSE,,Eurythermal,,18.12199419,22.492,,yes,118832,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,,,,,,,,,,,Diptera
+Nematomorpha,FALSE,NA,PA,semi,SPEC,,FALSE,,,Less30,,,,,64183,Animalia,Nematomorpha,,,,,,,,,,,,,,,,,Other Non-Insect
+Nemotelus,FALSE,NA,CG,UNKN,SPEC,,FALSE,,,Less30,,,,,130694,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Stratiomyidae,Nemotelinae,,,Nemotelus,,,,,,Diptera
+Nemouridae,FALSE,4,SH,UNKN,RHEO,,FALSE,,Cool,,16.77021858,21.36,,yes,102517,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,,,,,,,,,,Plecoptera
+Neoacarus,FALSE,,,,,,FALSE,,,,,,,,82859,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Neoacaridae,,,,Neoacarus,,,,,,Other Non-Insect
+Neochoroterpes,FALSE,,,,,,FALSE,,,,,,,,568558,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptophlebiidae,,,,Neochoroterpes,,,,,,Ephemeroptera
+Neohermes,FALSE,,,,,,FALSE,,,,,,,,115048,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Megaloptera,,,Corydalidae,Chauliodinae,,,Neohermes,,,,,,Megaloptera
+Neoleptophlebia/Paraleptophlebia,FALSE,3,CG,uni,DEPO,,FALSE,eurythermal,Eurythermal,,17.61014583,22.096,Eurythermal,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptophlebiidae,,,,Neoleptophlebia/Paraleptophlebia,,,,,,Ephemeroptera
+Neophylax,FALSE,3,SC,uni,RHEO,,FALSE,,Cool,,16.45616476,20.967,,yes,116046,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Thremmatidae,,,,Neophylax,,,,,,Trichoptera
+Neophylax occidentis,FALSE,2,SC,uni,RHEO,,FALSE,,,Less30,,,,,116065,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Thremmatidae,,,,Neophylax,,,,,occidentis,Trichoptera
+Neophylax rickeri,FALSE,3,SC,uni,RHEO,,FALSE,cowa,Cool-Warm,,19.15799487,22.11,,,116054,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Thremmatidae,,,,Neophylax,,,,,rickeri,Trichoptera
+Neophylax splendens,FALSE,3,SC,uni,RHEO,,FALSE,cool,Cool,,17.05364978,20.448,,,116063,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Thremmatidae,,,,Neophylax,,,,,splendens,Trichoptera
+Neoplasta,FALSE,4,PR,uni,RHEO,,FALSE,cool,Cool,,17.84572491,21.388,,,136352,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Hemerodromiinae,Hemerodromiini,,Neoplasta,,,,,,Diptera
+Neoporus,FALSE,NA,PR,uni,GENE,,FALSE,,,Less30,,,,,728252,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,Hydroporini,,Neoporus,,,,,,Coleoptera
+Neothremma,FALSE,2,SC,semi,RHEO,,TRUE,stenoc,Cold Stenotherm,,12.86626507,17.814,Cold Stenotherm,,116388,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Uenoidae,Uenoinae,,,Neothremma,,,,,,Trichoptera
+Neotrichia,FALSE,3,SC,multi,RHEO,,FALSE,,,Less30,,,,,115833,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Hydroptilinae,Neotrichiini,,Neotrichia,,,,,,Trichoptera
+Nerophilus,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Odontoceridae,Odontocerinae,,,Nerophilus,,,,,,Trichoptera
+Neumania,FALSE,,,,,,FALSE,,,Less30,,,,,83103,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Unionicolidae,,,,Neumania,,,,,,Other Non-Insect
+Neureclipsis,FALSE,3,PR,uni,GENE,,FALSE,,,Less30,,,,,117095,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Polycentropodidae,Polycentropodinae,,,Neureclipsis,,,,,,Trichoptera
+Neuroptera,FALSE,,,,,,FALSE,,,,,,,,114999,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Neuroptera,,,,,,,,,,,,,Neuroptera
+Nilotanypus,FALSE,4,PR,multi,RHEO,,FALSE,warm,Warm,,20.97984118,24.89,,,128202,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Nilotanypus,,,,,,Chironomidae
+Nilothauma,FALSE,NA,CG,multi,GENE,,FALSE,,,Less30,,,,,129548,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Nilothauma,,,,,,Chironomidae
+Nootkadrilus,FALSE,,,,,,FALSE,,,Less30,,,,,974543,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Phallodrilinae,,,Nootkadrilus,,,,,,Oligochaeta
+Ochrotrichia,FALSE,2,PH,multi,RHEO,TRUE,FALSE,warm,Warm,,19.9755104,27.28,,,115714,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Hydroptilinae,Ochrotrichiini,,Ochrotrichia,,,,,,Trichoptera
+Octogomphus,FALSE,,,,,,TRUE,cowa,Cool-Warm,,19.04129032,21.833,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Gomphidae,,,,Octogomphus,,,,,,Odonata
+Octogomphus specularis,FALSE,,,,,,TRUE,cowa,Cool-Warm,,19.04129032,21.833,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Gomphidae,,,,Octogomphus,,,,,specularis,Odonata
+Ocybrachypoda,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Aturidae,,,,Ocybrachypoda,,,,,,Other Non-Insect
+Odonata,FALSE,,,,,,FALSE,,Warm,,21.64680307,25.541,,yes,101593,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,,,,,,,,,,,,,Odonata
+Odontoceridae,FALSE,,,,,,FALSE,,,Less30,,,,,116496,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Odontoceridae,,,,,,,,,,Trichoptera
+Odontomesa,FALSE,4,CG,multi,RHEO,,FALSE,cowa,Cool-Warm,,20.22685321,22.398,,,128446,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Prodiamesinae,,,Odontomesa,,,,,,Chironomidae
+Odontomyia,FALSE,,,,,,FALSE,,,Less30,,,,,130573,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Stratiomyidae,Stratiomyinae,Stratiomyini,,Odontomyia,,,,,,Diptera
+Oecetis,FALSE,4,PR,uni,GENE,,FALSE,stenow,Warm Stenotherm,,25.79974716,28.415,,,116607,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Leptoceridae,Leptocerinae,Oecetini,,Oecetis,,,,,,Trichoptera
+Oligochaeta,FALSE,4,CG,uni,GENE,,FALSE,,Eurythermal,,17.8478085,22.79,,yes,68422,Animalia,Annelida,,Clitellata,Oligochaeta,,,,,,,,,,,,,,Oligochaeta
+Oligophlebodes,FALSE,2,SC,uni,RHEO,TRUE,FALSE,cold,Cold,,14.31321176,18.361,,,116039,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Thremmatidae,,,,Oligophlebodes,,,,,,Trichoptera
+Onocosmoecus,FALSE,,,,,,FALSE,cowa,Cool-Warm,,19.66937416,23.229,,,116315,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Onocosmoecus,,,,,,Trichoptera
+Onocosmoecus unicolor,FALSE,,,,,,FALSE,cowa,Cool-Warm,,19.66937416,23.229,,,116315,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Dicosmoecinae,,,Onocosmoecus,,,,,unicolor,Trichoptera
+Ophidonais,FALSE,,,,,,FALSE,,,Less30,,,,,68995,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Ophidonais,,,,,,Oligochaeta
+Ophiogomphus,FALSE,3,PR,semi,DEPO,,FALSE,stenow,Warm Stenotherm,,25.26708362,27.904,,,101738,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Gomphidae,,,,Ophiogomphus,,,,,,Odonata
+Optioservus,FALSE,4,SC,semi,RHEO,,TRUE,warm,Warm,,20.9290148,23.82,Warm,,114177,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Optioservus,,,,,,Coleoptera
+Orconectes,FALSE,,,,,,FALSE,,,,,,,,97421,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Decapoda,Pleocyemata,,Cambaridae,Cambarinae,,,Orconectes,,,,,,Other Non-Insect
+Ordobrevia nubifera,FALSE,3,CG,semi,RHEO,TRUE,FALSE,warm,Warm,,20.29537524,25.34,,,114235,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Ordobrevia,,,,,,Coleoptera
+Oregonacarus,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Anisitsiellidae,,,,Oregonacarus,,,,,,Other Non-Insect
+Oreodytes,FALSE,NA,PR,uni,RHEO,,FALSE,cool,Cool,,18.76029366,21.819,,,112314,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,Hydroporini,,Oreodytes,,,,,,Coleoptera
+Oreogeton,FALSE,2,PR,semi,RHEO,TRUE,TRUE,stenoc,Cold Stenotherm,,12.97260499,17.674,,,136377,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Oreogetoninae,,,Oreogeton,,,,,,Diptera
+Oreoleptis torrenticola,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Oreoleptidae,,,,Oreoleptis,,,,,torrenticola,Diptera
+Oribatida,FALSE,4,PR,multi,UNKN,,FALSE,,Cool,,16.82437888,20.42,,yes,733326,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Sarcoptiformes,Oribatida,,,,,,,,,,,,Other Non-Insect
+Ormosia,FALSE,4,CG,uni,GENE,,FALSE,,,Less30,,,,,120830,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Ormosia,,,,,,Diptera
+Orohermes,FALSE,,,,,,TRUE,cool,Cool,,16.88394138,19.188,,,115044,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Megaloptera,,,Corydalidae,Chauliodinae,,,Orohermes,,,,,,Megaloptera
+Orohermes crepusculus,FALSE,,,,,,TRUE,cool,Cool,,16.88394138,19.188,,,115044,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Megaloptera,,,Corydalidae,Chauliodinae,,,Orohermes,,,,,crepusculus,Megaloptera
+Oropuella,FALSE,3,,,,,FALSE,stenoc,Cold Stenotherm,,13.50485209,17.485,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Oropuella,,,,,,Chironomidae
+Orthocladiinae,FALSE,4,CG,multi,GENE,,FALSE,,Eurythermal,,17.69249126,22.549,,yes,128457,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,,,,,,,Chironomidae
+Orthocladius,FALSE,4,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,17.06236212,22.55,,,128874,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Orthocladius,,,,,,Chironomidae
+Orthocladius (Euorthocladius),FALSE,NA,CG,multi,RHEO,,FALSE,,,Less30,,,,,568520,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Orthocladius,Euorthocladius,,,,,Chironomidae
+Orthocladius (Mesorthocladius),FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Orthocladius,Mesorthocladius,,,,,Chironomidae
+Orthocladius (Orthocladius),FALSE,,,,,,FALSE,,,Less30,,,,,128874,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Orthocladius,,,,,,Chironomidae
+Orthocladius (Symposiocladius),FALSE,3,UNKN,multi,SPEC,,FALSE,cold,Cold,,16.77290475,19.44,,,568523,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Orthocladius,Symposiocladius,,,,,Chironomidae
+Orthocladius complex,FALSE,4,CG,multi,GENE,,FALSE,warm,Warm,,20.84978088,25.574,,,128874,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Orthocladius,,,,,,Chironomidae
+Orthotrichia,FALSE,,,,,,FALSE,,,,,,,,115828,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Hydroptilinae,Orthotrichiini,,Orthotrichia,,,,,,Trichoptera
+Osobenus yakimae,FALSE,1i,PR,uni,RHEO,TRUE,FALSE,,,,,,,,103184,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Diploperlini,,Osobenus,,,,,yakimae,Plecoptera
+Ostracoda,FALSE,4,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,17.36454527,23.114,,,84195,Animalia,Arthropoda,Crustacea,Ostracoda,,,,,,,,,,,,,,,Other Non-Insect
+Oxidae,FALSE,,,,,,FALSE,cool,Cool,,17.15129821,21.181,,,83239,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Oxidae,,,,,,,,,,Other Non-Insect
+Oxus,FALSE,,,,,,FALSE,cool,Cool,,17.07003671,20.55,,,83244,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Oxidae,,,,Oxus,,,,,,Other Non-Insect
+Oxycera,FALSE,,,,,,FALSE,,,,,,,,130461,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Stratiomyidae,Stratiomyinae,Oxycerini,,Oxycera,,,,,,Diptera
+Oxyethira,FALSE,4,PH,multi,GENE,,FALSE,warm,Warm,,19.63367138,24.068,,,115779,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Hydroptilinae,Hydroptilini,,Oxyethira,,,,,,Trichoptera
+Pacifastacus,FALSE,4,OM,semi,GENE,,TRUE,warm,Warm,,19.88220909,23.735,,,97325,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Decapoda,Pleocyemata,,Astacidae,,,,Pacifastacus,,,,,,Other Non-Insect
+Pagastia,FALSE,3,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,16.38323369,22.05,,,128401,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Diamesini,,Pagastia,,,,,,Chironomidae
+Pagastiella,FALSE,NA,CG,multi,GENE,,FALSE,,,Less30,,,,,129561,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Pagastiella,,,,,,Chironomidae
+Palaeagapetus nearcticus,FALSE,1i,MH,uni,SPEC,TRUE,FALSE,cold,Cold,,16.1656186,19.67,,,115849,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Ptilocolepinae,,,Palaegapetus,,,,,,Trichoptera
+Panisopsis,FALSE,,,,,,FALSE,,,Less30,,,,,895838,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Panisopsis,,,,,,Other Non-Insect
+Panisus,FALSE,,,,,,FALSE,,,Less30,,,,,895807,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Panisus,,,,,,Other Non-Insect
+Parachaetocladius,FALSE,3,CG,multi,RHEO,,FALSE,cool,Cool,,15.03462407,21.22,,,128951,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Parachaetocladius,,,,,,Chironomidae
+Parachironomus,FALSE,NA,PR,multi,GENE,,FALSE,,,Less30,,,,,129564,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Parachironomus,,,,,,Chironomidae
+Paracladopelma,FALSE,4,CG,multi,GENE,,FALSE,cowa,Cool-Warm,,19.03701424,22.108,,,129597,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Paracladopelma,,,,,,Chironomidae
+Paracloeodes,FALSE,,,,,,FALSE,,,Less30,,,,,100899,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Paracloeodes,,,,,,Ephemeroptera
+Paracricotopus,FALSE,NA,CG,multi,RHEO,,FALSE,,,Less30,,,,,128962,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Paracricotopus,,,,,,Chironomidae
+Paracymus,FALSE,,,,,,FALSE,,,Less30,,,,,112909,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Anacaenini,,Paracymus,,,,,,Coleoptera
+Paradelphomyia,FALSE,,,,,,FALSE,,,Less30,,,,,120298,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Paradelphomyia,,,,,,Diptera
+Parakiefferiella,FALSE,4,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,19.75957045,22.684,,,128968,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Parakiefferiella,,,,,,Chironomidae
+Paralauterborniella,FALSE,4,CG,multi,GENE,,FALSE,,,Less30,,,,,129616,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Paralauterborniella,,,,,,Chironomidae
+Paraleptophlebia Bicornuta Group,FALSE,3,CG,uni,DEPO,,FALSE,warm,Warm,,19.47089484,23.86,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptophlebiidae,,,,Paraleptophlebia,,Bicornuta Gr.,,,,Ephemeroptera
+Paralimnophyes,FALSE,,,,,,FALSE,,,,,,,,128976,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Paralimnophyes,,,,,,Chironomidae
+Parametriocnemus,FALSE,4,CG,multi,RHEO,,FALSE,eurythermal,Eurythermal,,17.96659693,22.26,Eurythermal,,128978,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Parametriocnemus,,,,,,Chironomidae
+Paramideopsis,FALSE,,,,,,FALSE,,,,,,,,83494,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Nudomideopsidae,,,,Paramideopsis,,,,,,Other Non-Insect
+Paranais,FALSE,,,,,,FALSE,,,Less30,,,,,68862,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Paranais,,,,,,Oligochaeta
+Paraperla,FALSE,3,PR,semi,SPEC,,TRUE,cold,Cold,,16.15704293,19.354,,,103233,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Chloroperlidae,Paraperlinae,,,Paraperla,,,,,,Plecoptera
+Paraperlinae,FALSE,3,PR,semi,SPEC,,FALSE,cold,Cold,,15.58767557,19.228,,,609856,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Chloroperlidae,Paraperlinae,,,,,,,,,Plecoptera
+Paraphaenocladius,FALSE,4,CG,multi,GENE,,FALSE,cool,Cool,,15.47915957,20.634,,,128989,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Paraphaenocladius,,,,,,Chironomidae
+Parapsyche,FALSE,NA,PR,semi,RHEO,,TRUE,,Cold,,15.41133328,19.51,,yes,115556,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Arctopsychinae,,,Parapsyche,,,,,,Trichoptera
+Parapsyche almota,FALSE,5,PR,semi,RHEO,,TRUE,cowa,Cool-Warm,,18.12456743,22.265,,,115563,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Arctopsychinae,,,Parapsyche,,,,,almota,Trichoptera
+Parapsyche elsis,FALSE,2,PR,semi,RHEO,,TRUE,stenoc,Cold Stenotherm,,13.36293805,17.079,Cold Stenotherm,,115560,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Arctopsychinae,,,Parapsyche,,,,,elsis,Trichoptera
+Parapsyche turbinata,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydropsychidae,Arctopsychinae,,,Parapsyche,,,,,turbinata,Trichoptera
+Parasmittia,FALSE,,,,,,FALSE,,,,,,,,129003,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Parasmittia,,,,,,Chironomidae
+Paratanytarsus,FALSE,4,CG,multi,GENE,,FALSE,warm,Warm,,20.61495356,24.822,,,129935,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Paratanytarsus,,,,,,Chironomidae
+Paratendipes,FALSE,4,CG,multi,GENE,,FALSE,warm,Warm,,20.98359901,24.152,,,129623,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Paratendipes,,,,,,Chironomidae
+Parathyas,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,,Trombidiformes,,,Hydryphantidae,,,,,,,,,,Other Non-Insect
+Paratrissocladius,FALSE,,,,,,FALSE,,,,,,,,129010,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Paratrissocladius,,,,,,Chironomidae
+Parochlus,FALSE,NA,CG,multi,GENE,,FALSE,,,Less30,,,,,127987,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Podonominae,Podonomini,,Parochlus,,,,,,Chironomidae
+Parorthocladius,FALSE,3,CG,multi,RHEO,,FALSE,cold,Cold,,14.38835818,18.038,,,129011,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Parorthocladius,,,,,,Chironomidae
+Parthina,FALSE,1i,OM,semi,HEAD,TRUE,FALSE,,,Less30,,,,,116525,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Odontoceridae,Odontocerinae,,,Parthina,,,,,,Trichoptera
+Partnunia,FALSE,,,,,,FALSE,,,Less30,,,,,895799,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Protziidae,,,,Partnunia,,,,,,Other Non-Insect
+Pedicia,FALSE,3,PR,uni,SPEC,TRUE,TRUE,cold,Cold,,15.59868046,18.206,,,121118,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Pediciidae,Pediciinae,,,Pedicia,,,,,,Diptera
+Pediciidae,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Pediciidae,,,,,,,,,,Diptera
+Pedomoecus sierra,FALSE,1i,UNKN,semi,SPEC,TRUE,FALSE,cold,Cold,,14.56327502,17.254,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Apataniidae,,,,Pedomoecus,,,,,sierra,Trichoptera
+Peltodytes,FALSE,,,,,,FALSE,,,Less30,,,,,111923,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Haliplidae,,,,Peltodytes,,,,,,Coleoptera
+Peltoperlidae,FALSE,2,SH,semi,RHEO,,FALSE,,Cold,,14.30665979,19.634,,yes,102488,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Peltoperlidae,,,,,,,,,,Plecoptera
+Pentaneura,FALSE,4,PR,multi,GENE,,FALSE,warm,Warm,,22.83382559,27.035,,,128215,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Pentaneura,,,,,,Chironomidae
+Pentaneurini,FALSE,4,PR,multi,GENE,,FALSE,,Eurythermal,,19.26866161,23.328,,yes,128078,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,,,,,,,Chironomidae
+Pericomaini,FALSE,3,CG,uni,GENE,,FALSE,cool,Cool,,16.81868614,20.9,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Psychodidae,Psychodinae,Pericomaini,,,,,,,,Diptera
+Perlidae,FALSE,3,PR,semi,RHEO,,TRUE,,Eurythermal,,17.8843883,21.92,,yes,102914,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlidae,,,,,,,,,,Plecoptera
+Perlinodes aureus,FALSE,,,,,,FALSE,warm,Warm,,19.59017965,23.518,,,103135,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Arcynopterygini,,Perlinodes,,,,,aurea,Plecoptera
+Perlodidae,FALSE,3,PR,uni,RHEO,,FALSE,,Cool,,16.37300146,21.628,,yes,102994,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,,,,,,,,,Plecoptera
+Perlomyia,FALSE,,,,,,FALSE,,,Less30,,,,,103239,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Leuctridae,Leuctrinae,,,Perlomyia,,,,,,Plecoptera
+Petrophila,FALSE,4,SC,multi,RHEO,,FALSE,stenow,Warm Stenotherm,,25.37371513,28.173,,,117682,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Lepidoptera,,,Crambidae,Nymphulinae,Argyractini,,Petrophila,,,,,,Lepidoptera
+Phaenopsectra,FALSE,4,SC,multi,GENE,,FALSE,warm,Warm,,21.15088226,25.48,,,129637,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Phaenopsectra,,,,,,Chironomidae
+Philocasca,FALSE,,,,,,FALSE,,,Less30,,,,,115971,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Stenophylacini,,Philocasca,,,,,,Trichoptera
+Philopotamidae,FALSE,3,CF,UNKN,RHEO,,FALSE,,Eurythermal,,18.82916163,22.277,,yes,115257,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Philopotamidae,,,,,,,,,,Trichoptera
+Philopotamoidea,FALSE,,,,,,FALSE,,Eurythermal,,18.82916163,22.277,,yes,115257,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,,,,,,,,,,,Trichoptera
+Phryganeidae,FALSE,NA,PR,uni,GENE,TRUE,FALSE,,,Less30,,,,,115867,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Phryganeidae,,,,,,,,,,Trichoptera
+Physella,FALSE,5,CG,multi,GENE,,FALSE,warm,Warm,,22.73963686,26.076,,,76698,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Physidae,,,,Physella,,,,,,Other Non-Insect
+Pilaria,FALSE,NA,PR,uni,SPEC,TRUE,FALSE,,,Less30,,,,,120335,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Pilaria,,,,,,Diptera
+Piona,FALSE,,,,,,FALSE,,,Less30,,,,,83350,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Pionidae,,,,Piona,,,,,,Other Non-Insect
+Pionacercus,FALSE,,,,,,FALSE,,,Less30,,,,,83400,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Pionidae,,,,Pionacercus,,,,,,Other Non-Insect
+Pionidae,FALSE,,,,,,FALSE,,,Less30,,,,,83330,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Pionidae,,,,,,,,,,Other Non-Insect
+Piscicolidae,FALSE,,,,,,TRUE,,,Less30,,,,,69296,Animalia,Annelida,,Clitellata,Hirudinea,Rhynchobdellida,,,Piscicolidae,,,,,,,,,,Other Non-Insect
+Pisidium,FALSE,4,CF,semi,GENE,,TRUE,eurythermal,Eurythermal,,18.83678382,23,,,81400,Animalia,Mollusca,,Bivalvia,Heterodonta,Veneroida,,,Sphaeriidae,,,,Pisidium,,,,,,Other Non-Insect
+Planorbella,FALSE,4,SC,uni,GENE,,FALSE,,,Less30,,,,,76654,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Planorbidae,,,,Planorbella,,,,,,Other Non-Insect
+Planorbidae,FALSE,4,SC,multi,GENE,,FALSE,warm,Warm,,20.6879611,25.547,,,76591,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Planorbidae,,,,,,,,,,Other Non-Insect
+Platyhydracarus,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Athienemanniidae,,,,Platyhydracarus,,,,,,Other Non-Insect
+Platysmittia,FALSE,4,CG,multi,HEAD,TRUE,FALSE,,,Less30,,,,,129013,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Platysmittia,,,,,,Chironomidae
+Plauditus,FALSE,,,,,,FALSE,,,,,,,,568553,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Plauditus,,,,,,Ephemeroptera
+Plecoptera,FALSE,NA,UNKN,UNKN,RHEO,,FALSE,,Eurythermal,,16.45622341,22.095,,yes,102467,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,,,,,,,,,,,,,Plecoptera
+Podmosta,FALSE,,,,,,FALSE,,,Less30,,,,,102605,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Podmosta,,,,,,Plecoptera
+Podonominae,FALSE,3,CG,multi,GENE,,FALSE,cool,Cool,,16.77858597,20.346,,,127952,Animalia,ARTHROPODA,HEXAPODA,INSECTA,Pterygota,Diptera,Nematocera,,Chironomidae,Podonominae,,,,,,,,,Chironomidae
+Polycelis,FALSE,3,PR,multi,RHEO,,FALSE,cold,Cold,,14.46017037,19.906,,,54510,Animalia,Platyhelminthes,,Turbellaria,Archoophora,Tricladida,,,Planariidae,,,,Polycelis,,,,,,Other Non-Insect
+Polycentropodidae,FALSE,3,PR,uni,GENE,,FALSE,cool,Cool,,18.34176518,21.348,,,117043,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Polycentropodidae,,,,,,,,,,Trichoptera
+Polycentropus,FALSE,3,PR,uni,GENE,,FALSE,cool,Cool,,18.44845124,21.384,,,117044,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Polycentropodidae,Polycentropodinae,,,Polycentropus,,,,,,Trichoptera
+Polycentropus sensu lato,FALSE,3,PR,uni,GENE,,FALSE,cool,Cool,,18.44845124,21.384,,,117044,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Polycentropodidae,Polycentropodinae,,,Polycentropus,,,,,,Trichoptera
+Polypedilum,FALSE,4,OM,multi,GENE,,FALSE,warm,Warm,,19.63926397,23.504,,,129657,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Polypedilum,,,,,,Chironomidae
+Postelichus,FALSE,,,,,,FALSE,,,,,,,,193691,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Dryopidae,,,,Postelichus,,,,,,Coleoptera
+Potamanthidae,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,,,Potamanthidae,,,,,,,,,,Ephemeroptera
+Potamopyrgus antipodarum,FALSE,6,CG,uni,GENE,,FALSE,,,Less30,,,,,205006,Animalia,Mollusca,,Gastropoda,,Littorinimorpha,,Truncatelloidea,Hydrobiidae,,,,Potamopyrgus,,,,,antipodarum,Other Non-Insect
+Potamothrix,FALSE,,,,,,FALSE,,,Less30,,,,,68786,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,Potamothrix,,,,,,Oligochaeta
+Potthastia,FALSE,3,CG,multi,GENE,,FALSE,warm,Warm,,20.17232073,24.064,,,128408,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Diamesini,,Potthastia,,,,,,Chironomidae
+Potthastia Gaedii Group,FALSE,3,CG,multi,GENE,,FALSE,warm,Warm,,20.1462823,23.846,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Diamesini,,Potthastia,,Gaedii Gr.,,,,Chironomidae
+Potthastia Longimanus Group,FALSE,NA,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Diamesini,,Potthastia,,Longimanus Gr.,,,,Chironomidae
+Pristina,FALSE,,,,,,FALSE,warm,Warm,,21.50859625,24.734,,,68876,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Pristininae,,,Pristina,,,,,,Oligochaeta
+Pristinicola hemphilli,FALSE,3,SC,semi,RHEO,TRUE,TRUE,cool,Cool,,16.44617812,20.787,,,568126,Animalia,Mollusca,,Gastropoda,,Littorinimorpha,,Truncatelloidea,Hydrobiidae,,,,Pristinicola,,,,,hemphilli,Other Non-Insect
+Procladius,FALSE,5,PR,multi,GENE,,FALSE,warm,Warm,,20.10561088,25.06,,,128277,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Procladiini,,Procladius,,,,,,Chironomidae
+Proclinopyga,FALSE,,,,,,FALSE,cool,Cool,,17.69330372,20.386,,,135887,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Clinocerinae,,,Proclinopyga,,,,,,Diptera
+Prodiamesa,FALSE,5,CG,multi,GENE,,FALSE,cowa,Cool-Warm,,19.59194158,22.28,,,128452,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Prodiamesinae,,,Prodiamesa,,,,,,Chironomidae
+Prodiamesinae,FALSE,5,CG,multi,GENE,,FALSE,,Cool-Warm,,19.17112461,22.29,,yes,128437,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Prodiamesinae,,,,,,,,,Chironomidae
+Prosobranchia,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Mollusca,,Gastropoda,Prosobranchia,,,,,,,,,,,,,,Other Non-Insect
+Prostoia,FALSE,,,,,,FALSE,,,,,,,,102584,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Prostoia,,,,,,Plecoptera
+Prostoma,FALSE,5,PR,uni,DEPO,,FALSE,warm,Warm,,21.84108024,25.708,,,57577,Animalia,Nemertea,,Enopla,,Hoplonemertea,Monostilifera,,Tetrastemmatidae,,,,Prostoma,,,,,,Other Non-Insect
+Protanypus,FALSE,NA,CG,multi,GENE,,FALSE,,,Less30,,,,,128431,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Protanypini,,Protanypus,,,,,,Chironomidae
+Protochauliodes,FALSE,,,,,,FALSE,,,,,,,,115053,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Megaloptera,,,Corydalidae,Chauliodinae,,,Protochauliodes,,,,,,Megaloptera
+Protoptila,FALSE,4,SC,multi,RHEO,,FALSE,stenow,Warm Stenotherm,,23.60691861,29.65,,,115221,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Glossosomatidae,Protoptilinae,,,Protoptila,,,,,,Trichoptera
+Protzia,FALSE,,,,,,FALSE,cool,Cool,,15.38599679,20.408,,,83170,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Protzia,,,,,,Other Non-Insect
+Psectrocladius,FALSE,3,CG,multi,GENE,,FALSE,cowa,Cool-Warm,,18.90237035,23.18,,,129018,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Psectrocladius,,,,,,Chironomidae
+Psectrotanypus,FALSE,4,PR,multi,GENE,,FALSE,,,Less30,,,,,128048,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Macropelopiini,,Psectrotanypus,,,,,,Chironomidae
+Psephenidae,FALSE,NA,SC,semi,SPEC,,FALSE,,Warm,,21.15916701,25.29753054,,yes,114069,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Psephenidae,,,,,,,,,,Coleoptera
+Psephenus,FALSE,3,SC,semi,SPEC,,FALSE,stenow,Warm Stenotherm,,24.94793982,28.012,Warm Stenotherm,,114070,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Psephenidae,Psepheninae,,,Psephenus,,,,,,Coleoptera
+Pseudochironomini,FALSE,,,,,,FALSE,,,Less30,,,,,129850,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Pseudochironomini,,,,,,,,Chironomidae
+Pseudochironomus,FALSE,5,CG,multi,GENE,,FALSE,,,Less30,,,,,129851,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Pseudochironomini,,Pseudochironomus,,,,,,Chironomidae
+Pseudodiamesa,FALSE,3,CG,multi,GENE,,FALSE,stenoc,Cold Stenotherm,,13.09480754,16.828,,,128416,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Diamesini,,Pseudodiamesa,,,,,,Chironomidae
+Pseudofeltria,FALSE,,,,,,FALSE,,,Less30,,,,,83410,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Pionidae,,,,Pseudofeltria,,,,,,Other Non-Insect
+Pseudolimnophila,FALSE,NA,UNKN,uni,SPEC,TRUE,FALSE,,,Less30,,,,,120365,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Pseudolimnophila,,,,,,Diptera
+Pseudorthocladius,FALSE,NA,CG,multi,GENE,,FALSE,,,Less30,,,,,129052,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Pseudorthocladius,,,,,,Chironomidae
+Pseudosmittia,FALSE,3,UNKN,multi,GENE,,FALSE,cowa,Cool-Warm,,18.73385242,22.491,,,129071,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Pseudosmittia,,,,,,Chironomidae
+Pseudostenophylax,FALSE,1i,SH,uni,HEAD,TRUE,FALSE,,,Less30,,,,,115989,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Pseudostenophylacinae,,,Pseudostenophylax,,,,,,Trichoptera
+Psilometriocnemus,FALSE,4,CG,multi,RHEO,,FALSE,cold,Cold,,17.01068156,19.968,,,129083,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Psilometriocnemus,,,,,,Chironomidae
+Psychodidae,FALSE,3,CG,UNKN,GENE,,FALSE,,Cool,,17.36572171,21.83,,yes,125351,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Psychodidae,,,,,,,,,,Diptera
+Psychodini,FALSE,5,CG,multi,GENE,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Psychodidae,Psychodinae,Psychodini,,,,,,,,Diptera
+Psychoglypha,FALSE,3,OM,uni,DEPO,,FALSE,cool,Cool,,16.6769521,21.224,,,115974,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Chilostigmini,,Psychoglypha,,,,,,Trichoptera
+Psychoglypha bella,FALSE,3,OM,uni,DEPO,,FALSE,,,Less30,,,,,115977,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Chilostigmini,,Psychoglypha,,,,,bella,Trichoptera
+Psychoglypha subborealis,FALSE,3,OM,uni,GENE,,FALSE,,,Less30,,,,,115981,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Limnephilidae,Limnephilinae,Chilostigmini,,Psychoglypha,,,,,subborealis,Trichoptera
+Psychomyia,FALSE,3,SC,uni,RHEO,,FALSE,warm,Warm,,19.79852084,23.662,,,115335,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Psychomyiidae,Psychomyiinae,,,Psychomyia,,,,,,Trichoptera
+Psychomyiidae,FALSE,3,SC,uni,RHEO,,FALSE,warm,Warm,,19.77311494,23.96,,,115334,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Psychomyiidae,,,,,,,,,,Trichoptera
+Pteronarcella,FALSE,3,OM,semi,RHEO,,TRUE,cowa,Cool-Warm,,19.21554672,22.435,,,102485,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Pteronarcyidae,Pteronarcyinae,Pteronarcellini,,Pteronarcella,,,,,,Plecoptera
+Pteronarcyidae,FALSE,3,OM,semi,RHEO,,TRUE,,Eurythermal,,17.49432702,22.203,,yes,102470,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Pteronarcyidae,,,,,,,,,,Plecoptera
+Pteronarcys,FALSE,3,OM,semi,RHEO,,TRUE,,Eurythermal,,17.12738766,22.197,,yes,102471,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Pteronarcyidae,Pteronarcyinae,Pteronarcyini,,Pteronarcys,,,,,,Plecoptera
+Pteronarcys californica,FALSE,3,OM,semi,RHEO,TRUE,TRUE,warm,Warm,,20.869425,25.37,,,102473,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Pteronarcyidae,Pteronarcyinae,Pteronarcyini,,Pteronarcys,,,,,californica,Plecoptera
+Pteronarcys dorsata,FALSE,,,,,,TRUE,,,Less30,,,,,102478,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Pteronarcyidae,Pteronarcyinae,Pteronarcyini,,Pteronarcys,,,,,dorsata,Plecoptera
+Pteronarcys princeps,FALSE,3,OM,semi,RHEO,,TRUE,cold,Cold,,16.1801,19.4,,,102484,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Pteronarcyidae,Pteronarcyinae,Pteronarcyini,,Pteronarcys,,,,,princeps,Plecoptera
+Ptilodactylidae,FALSE,,,,,,FALSE,,,Less30,,,,,114265,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Ptilodactylidae,,,,,,,,,,Coleoptera
+Ptilostomis,FALSE,,,,,,FALSE,,,Less30,,,,,115868,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Phryganeidae,Phryganeinae,,,Ptilostomis,,,,,,Trichoptera
+Ptychoptera,FALSE,3,CG,uni,GENE,,FALSE,cowa,Cool-Warm,,18.54529106,21.33,,,125786,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Ptychopteridae,Ptychopterinae,,,Ptychoptera,,,,,,Diptera
+Ptychopteridae,FALSE,3,CG,uni,GENE,,FALSE,cowa,Cool-Warm,,18.55974341,21.332,,,125763,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Ptychopteridae,,,,,,,,,,Diptera
+Pulmonata,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Mollusca,,Gastropoda,,,,,,,,,,,,,,,Other Non-Insect
+Quistradrilus,FALSE,,,,,,FALSE,,,Less30,,,,,68793,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,Quistradrilus,,,,,,Oligochaeta
+Radix,FALSE,,,,,,FALSE,,,Less30,,,,,76525,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Lymnaeidae,,,,Radix,,,,,,Other Non-Insect
+Radotanypus,FALSE,4,PR,multi,GENE,,FALSE,warm,Warm,,20.65300063,23.71,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Macropelopiini,,Radotanypus,,,,,,Chironomidae
+Ramellogammarus,FALSE,4,SH,uni,BRAC,,FALSE,cowa,Cool-Warm,,19.79836757,22,,,93953,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Anisogammaridae,,,,Ramellogammarus,,,,,,Other Non-Insect
+Rhabdomastix,FALSE,3,SH,semi,SPEC,,FALSE,cold,Cold,,15.26121922,19.952,,,120968,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Rhabdomastix,,,,,,Diptera
+Rhabdomastix (Lurdia),FALSE,NA,SH,semi,SPEC,TRUE,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Chioneinae,,,Rhabdomastix,Lurdia,,,,,Diptera
+Rheocricotopus,FALSE,4,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,17.71400991,23.1,,,129086,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Rheocricotopus,,,,,,Chironomidae
+Rheosmittia,FALSE,NA,UNKN,multi,SPEC,TRUE,FALSE,,,Less30,,,,,129107,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Rheosmittia,,,,,,Chironomidae
+Rheotanytarsus,FALSE,4,CF,multi,RHEO,,FALSE,warm,Warm,,19.88107884,23.812,,,129952,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Rheotanytarsus,,,,,,Chironomidae
+Rhips,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Nemertea,,,,,,,,,,,,,,,,,Other Non-Insect
+Rhithrogena,FALSE,4,SC,uni,RHEO,,FALSE,cool,Cool,,15.87255388,21.51,,,100572,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Rhithrogena,,,,,,Ephemeroptera
+Rhizelmis,FALSE,1i,CG,semi,SPEC,TRUE,FALSE,,,Less30,,,,,114198,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,Elminae,Elmini,,Rhizelmis,,,,,,Coleoptera
+Rhyacodrilinae,FALSE,,,,,,FALSE,,,Less30,,,,,974287,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Rhyacodrilinae,,,,,,,,,Oligochaeta
+Rhyacodrilus,FALSE,,,,,,FALSE,,,Less30,,,,,68839,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Rhyacodrilinae,,,Rhyacodrilus,,,,,,Oligochaeta
+Rhyacophila,FALSE,3,PR,UNKN,RHEO,,FALSE,,Cool,,16.35384865,21.134,,yes,115097,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,,,,,Trichoptera
+Rhyacophila Alberta Group,FALSE,2,PR,semi,RHEO,TRUE,FALSE,cold,Cold,,15.01438778,18.838,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Alberta Gr.,,,,Trichoptera
+Rhyacophila Angelita Group,FALSE,3,PR,uni,RHEO,,FALSE,cool,Cool,,17.55549476,20.6,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Angelita Gr.,,,,Trichoptera
+Rhyacophila arnaudi,FALSE,3,PR,uni,RHEO,,FALSE,cool,Cool,,18.12706763,20.963,,,115165,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Leiftincki Gr.,,,arnaudi,Trichoptera
+Rhyacophila atrata complex,FALSE,3,PR,uni,RHEO,,FALSE,cold,Cold,,14.52122255,18.912,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Sibirica Gr.,mainensis sugroup,atrata complex,,Trichoptera
+Rhyacophila Basalis Group,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Basalis Gr.,,,,Trichoptera
+Rhyacophila Betteni Group,FALSE,3,PR,semi,RHEO,,FALSE,cool,Cool,,16.39476777,20.508,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Betteni Gr.,,,,Trichoptera
+Rhyacophila blarina,FALSE,3,PR,uni,RHEO,,FALSE,cool,Cool,,18.5794309,20.908,,,115153,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Sibirica Gr.,sibirica subgroup,minora complex,blarina,Trichoptera
+Rhyacophila Brunnea/Vemna Groups,FALSE,4,PR,semi,RHEO,,TRUE,cool,Cool,,16.50289421,20.48,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,,Brunnea/Vemna Gr.,,,Trichoptera
+Rhyacophila Coloradensis Group,FALSE,2,PR,uni,RHEO,TRUE,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Coloradensis Gr.,,,,Trichoptera
+Rhyacophila Grandis Group,FALSE,3,PR,semi,HEAD,TRUE,FALSE,cold,Cold,,16.41802583,19.48,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Grandis Gr.,,,,Trichoptera
+Rhyacophila Hyalinata Group,FALSE,2,PR,semi,RHEO,,FALSE,cool,Cool,,14.75062466,20.222,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Hyalinata Gr.,,,,Trichoptera
+Rhyacophila malkini,FALSE,3,PR,uni,RHEO,,FALSE,warm,Warm,,22.52187792,24.544,,,115181,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Betteni Gr.,,,malkini,Trichoptera
+Rhyacophila narvae,FALSE,3,PR,uni,RHEO,,FALSE,cool,Cool,,16.53536714,20.248,,,115155,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Sibirica Gr.,narvae subgroup,,narvae,Trichoptera
+Rhyacophila Nevadensis Group,FALSE,2,PR,uni,RHEO,TRUE,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Nevadensis Gr.,,,,Trichoptera
+Rhyacophila Oreta Group,FALSE,1i,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Oreta Gr.,,,,Trichoptera
+Rhyacophila Rotunda Group,FALSE,1i,PR,semi,HEAD,TRUE,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Rotunda Gr.,,,,Trichoptera
+Rhyacophila Sibirica Group,FALSE,3,,,,,FALSE,cold,Cold,,13.69993385,19.524,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Sibirica Gr.,,,,Trichoptera
+Rhyacophila Vagrita Group,FALSE,2,PR,uni,RHEO,,FALSE,stenoc,Cold Stenotherm,,14.63669718,17.858,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Vagrita Gr.,,,,Trichoptera
+Rhyacophila Verrula Group,FALSE,2,MH,semi,SPEC,TRUE,FALSE,stenoc,Cold Stenotherm,,12.07897166,18.78,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Verrula Gr.,,,,Trichoptera
+Rhyacophila vetina complex,FALSE,1i,PR,uni,HEAD,TRUE,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Sibirica Gr.,vetina subgroup,vetina complex,,Trichoptera
+Rhyacophila Viquaea Group,FALSE,1i,PR,semi,HEAD,TRUE,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Viquaea Gr.,,,,Trichoptera
+Rhyacophila Visor Group,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Visor Gr.,,,,Trichoptera
+Rhyacophila Vofixa Group,FALSE,2,PR,semi,RHEO,TRUE,TRUE,stenoc,Cold Stenotherm,,13.05281357,17.257,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Rhyacophilidae,,,,Rhyacophila,,Vofixa Gr.,,,,Trichoptera
+Rhynchelmis,FALSE,,,,,,FALSE,cool,Cool,,18.03862417,19.638,,,68463,Animalia,Annelida,,Clitellata,Oligochaeta,Lumbriculida,,,Lumbriculidae,,,,Rhynchelmis,,,,,,Oligochaeta
+Rhynchobdellida,FALSE,,,,,,FALSE,,,,21.40653417,25.34180492,,,69295,Animalia,Annelida,,Clitellata,Hirudinea,Rhynchobdellida,,,,,,,,,,,,,Other Non-Insect
+Robackia,FALSE,NA,CG,multi,RIVE,TRUE,FALSE,,,Less30,,,,,129730,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Robackia,,,,,,Chironomidae
+Roederiodes,FALSE,,,,,,FALSE,cool,Cool,,18.25915852,20.9,,,135893,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Clinocerinae,,,Roederiodes,,,,,,Diptera
+Saetheria,FALSE,NA,CG,multi,GENE,TRUE,FALSE,,,Less30,,,,,129735,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Saetheria,,,,,,Chironomidae
+Salmoperla sylvanica,FALSE,,,,,,FALSE,,,Less30,,,,,103192,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Arcynopterygini,,Salmoperla,,,,,sylvanica,Plecoptera
+Sanfilippodytes,FALSE,NA,PR,uni,GENE,,FALSE,cool,Cool,,18.41969906,21.291,,,728253,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Adephaga,,Dytiscidae,Hydroporinae,Hydroporini,,Sanfilippodytes,,,,,,Coleoptera
+Sciomyzidae,FALSE,4,PR,multi,GENE,,FALSE,,,Less30,,,,,144653,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Sciomyzidae,,,,,,,,,,Diptera
+Scirtidae,FALSE,NA,SC,uni,SPEC,TRUE,FALSE,,,Less30,,,,,113924,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Scirtidae,,,,,,,,,,Coleoptera
+Sergentia,FALSE,NA,CG,multi,GENE,,FALSE,,,Less30,,,,,129739,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Sergentia,,,,,,Chironomidae
+Serratella levis,FALSE,1m,CG,uni,RHEO,TRUE,FALSE,,,Less30,,,,,568638,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Serratella,,,,,levis,Ephemeroptera
+Serratella micheneri,FALSE,4,CG,uni,RHEO,,FALSE,,,Less30,,,,,568639,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Serratella,,,,,micheneri,Ephemeroptera
+Setvena,FALSE,1i,PR,semi,HEAD,TRUE,FALSE,stenoc,Cold Stenotherm,,10.63678118,14.56220916,,,103193,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Arcynopterygini,,Setvena,,,,,,Plecoptera
+Sialis,FALSE,4,PR,semi,GENE,,TRUE,warm,Warm,,19.802438,23.928,,,115002,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Megaloptera,,,Sialidae,,,,Sialis,,,,,,Megaloptera
+Sierraperla,FALSE,,,,,,FALSE,,,Less30,,,,,102514,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Peltoperlidae,Peltoperlinae,,,Sierraperla,,,,,,Plecoptera
+Simuliidae,FALSE,4,CF,uni,RHEO,,FALSE,,Eurythermal,,18.38004914,22.296,,yes,126640,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Simuliidae,,,,,,,,,,Diptera
+Simulium,FALSE,4,CF,multi,RHEO,,FALSE,eurythermal,Eurythermal,,18.63946158,22.533,Eurythermal,,126774,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Simuliidae,Simuliinae,Simuliini,,Simulium,,,,,,Diptera
+Siphlonuridae,FALSE,,,,,,FALSE,,,Less30,,,,,100951,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Siphlonuridae,,,,,,,,,,Ephemeroptera
+Siphlonurus,FALSE,NA,CG,uni,GENE,,FALSE,,,Less30,,,,,100953,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Siphlonuridae,,,,Siphlonurus,,,,,,Ephemeroptera
+Sisyridae,FALSE,,,,,,FALSE,,,,,,,,115085,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Neuroptera,Hemerobiiformia,,Sisyridae,,,,,,,,,,Neuroptera
+Skwala,FALSE,3,PR,uni,RHEO,,FALSE,cowa,Cool-Warm,,18.65795699,22.518,,,103102,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Perlodidae,Perlodinae,Arcynopterygini,,Skwala,,,,,,Plecoptera
+Slavina,FALSE,,,,,,FALSE,,,Less30,,,,,68855,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Slavina,,,,,,Oligochaeta
+Smittia,FALSE,NA,CG,multi,UNKN,,FALSE,,,Less30,,,,,129110,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Smittia,,,,,,Chironomidae
+Soliperla,FALSE,2,SH,semi,HEAD,TRUE,FALSE,cold,Cold,,16.09545455,19.77,,,103142,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Peltoperlidae,,,,Soliperla,,,,,,Plecoptera
+Soyedina,FALSE,3,SH,uni,RHEO,,FALSE,cool,Cool,,17.19387033,19.98,,,102556,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Soyedina,,,,,,Plecoptera
+Specaria,FALSE,,,,,,FALSE,,,Less30,,,,,68984,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Specaria,,,,,,Oligochaeta
+Sperchon,FALSE,,,,,,FALSE,eurythermal,Eurythermal,,18.16255385,22.982,,,83006,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Sperchontidae,,,,Sperchon,,,,,,Other Non-Insect
+Sperchonopsis,FALSE,,,,,,FALSE,cool,Cool,,17.65800651,21.492,,,83029,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Sperchontidae,,,,Sperchonopsis,,,,,,Other Non-Insect
+Sperchontidae,FALSE,,,,,,FALSE,,Eurythermal,,17.79357287,22.264,,yes,895710,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Sperchontidae,,,,,,,,,,Other Non-Insect
+Sphaeriidae,FALSE,4,CF,semi,GENE,,TRUE,eurythermal,Eurythermal,,19.73237414,23.466,,,81389,Animalia,Mollusca,,Bivalvia,Heterodonta,Veneroida,,,Sphaeriidae,,,,,,,,,,Other Non-Insect
+Sphaerium,FALSE,4,CF,semi,GENE,,TRUE,,,Less30,,,,,81391,Animalia,Mollusca,,Bivalvia,Heterodonta,Veneroida,,,Sphaeriidae,,,,Sphaerium,,,,,,Other Non-Insect
+Sphaeromatidae,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Isopoda,Flabellifera,,Sphaeomatidae,,,,,,,,,,Other Non-Insect
+Spirosperma,FALSE,,,,,,FALSE,eurythermal,Eurythermal,,17.5236485,23,,,68780,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,Spirosperma,,,,,,Oligochaeta
+Stactobiella,FALSE,,,,,,FALSE,,,Less30,,,,,115817,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Hydroptilidae,Hydroptilinae,Stactobiini,,Stactobiella,,,,,,Trichoptera
+Stegopterna,FALSE,,,,,,FALSE,,,Less30,,,,,126761,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Simuliidae,Simuliinae,Prosimuliini,,Stegopterna,,,,,,Diptera
+Stempellina,FALSE,3,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,17.59375641,22.999,,,129962,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Stempellina,,,,,,Chironomidae
+Stempellinella,FALSE,4,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,17.08346328,22.542,,,129969,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Stempellinella,,,,,,Chironomidae
+Stenacron,FALSE,,,,,,FALSE,,,Less30,,,,,100713,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Heptageniidae,,,,Stenacron,,,,,,Ephemeroptera
+Stenelmis,FALSE,,,,,,FALSE,,,Less30,,,,,114095,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Stenelmis,,,,,,Coleoptera
+Stenochironomus,FALSE,4,SH,multi,GENE,,FALSE,,,Less30,,,,,129746,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Stenochironomus,,,,,,Chironomidae
+Stictochironomus,FALSE,4,CG,multi,GENE,,FALSE,cowa,Cool-Warm,,21.51513595,23.262,,,129785,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Stictochironomus,,,,,,Chironomidae
+Stictocladius,FALSE,,,,,,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Stictocladius,,,,,,Chironomidae
+Stilocladius,FALSE,3,CG,multi,RHEO,,FALSE,cold,Cold,,15.78620287,19.624,,,129152,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Stilocladius,,,,,,Chironomidae
+Stratiomyidae,FALSE,4,CG,UNKN,RHEO,,FALSE,warm,Warm,,22.0199699,24.963,,,130150,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Stratiomyidae,,,,,,,,,,Diptera
+Stygobromus,FALSE,1i,CG,multi,SPEC,TRUE,FALSE,,,Less30,,,,,93861,Animalia,Arthropoda,Crustacea,Malacostraca,Eumalacostraca,Amphipoda,Gammaridea,,Crangonyctidae,,,,Stygobromus,,,,,,Other Non-Insect
+Stygomomonia,FALSE,,,,,,FALSE,,,Less30,,,,,83471,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Momoniidae,,,,Stygomomonia,,,,,,Other Non-Insect
+Stygothrombiidae,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Stygothrombiidae,,,,,,,,,,Other Non-Insect
+Stygothrombium,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Stygothrombiidae,,,,Stygothrombium,,,,,,Other Non-Insect
+Stylaria,FALSE,,,,,,FALSE,,,Less30,,,,,68871,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Stylaria,,,,,,Oligochaeta
+Stylodrilus,FALSE,,,,,,FALSE,cool,Cool,,18.00330504,20.578,,,68450,Animalia,Annelida,,Clitellata,Oligochaeta,Lumbriculida,,,Lumbriculidae,,,,Stylodrilus,,,,,,Oligochaeta
+Stylurus olivaceus,FALSE,,,,,,FALSE,,,,,,,,593023,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Anisoptera,,Gomphidae,,,,Stylurus,,,,,olivaceus,Odonata
+Sublettea,FALSE,3,UNKN,multi,DEPO,,FALSE,warm,Warm,,20.36210754,23.526,,,129975,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Sublettea,,,,,,Chironomidae
+Sweltsa,FALSE,4,PR,uni,RHEO,,TRUE,cool,Cool,,16.98094665,20.845,Cool,,103273,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Chloroperlidae,Chloroperlinae,,,Sweltsa,,,,,,Plecoptera
+Symbiocladius,FALSE,NA,PA,multi,RHEO,,FALSE,,,Less30,,,,,129156,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Symbiocladius,,,,,,Chironomidae
+Sympotthastia,FALSE,,,,,,FALSE,,,Less30,,,,,128426,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Diamesinae,Diamesini,,Sympotthastia,,,,,,Chironomidae
+Synorthocladius,FALSE,4,CG,multi,RHEO,,FALSE,cowa,Cool-Warm,,18.71723024,22.497,,,129161,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Synorthocladius,,,,,,Chironomidae
+Syrphidae,FALSE,NA,CG,UNKN,GENE,,FALSE,,,Less30,,,,,139621,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Syrphidae,,,,,,,,,,Diptera
+Tabanidae,FALSE,4,PR,uni,GENE,,FALSE,warm,Warm,,19.92268115,23.552,,,130934,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Tabanidae,,,,,,,,,,Diptera
+Taeniopterygidae,FALSE,2,SH,uni,RHEO,,FALSE,cold,Cold,,12.96611078,17.512,,,102788,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Taeniopterygidae,,,,,,,,,,Plecoptera
+Taeniopteryx,FALSE,NA,SH,uni,RHEO,,FALSE,,,Less30,,,,,102789,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Taeniopterygidae,Taeniopteryginae,,,Taeniopteryx,,,,,,Plecoptera
+Tanyderidae,FALSE,1i,UNKN,UNKN,SPEC,TRUE,FALSE,,,Less30,,,,,125799,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Tanyderidae,,,,,,,,,,Diptera
+Tanypodinae,FALSE,4,PR,multi,GENE,,FALSE,,Eurythermal,,18.92233141,22.881,,yes,127994,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,,,,,,,,,Chironomidae
+Tanypus,FALSE,NA,PR,multi,GENE,,FALSE,,,Less30,,,,,128324,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Tanypodini,,Tanypus,,,,,,Chironomidae
+Tanytarsini,FALSE,4,CF,multi,GENE,,FALSE,,Eurythermal,,18.47701528,23.148,,yes,129872,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,,,,,,,Chironomidae
+Tanytarsus,FALSE,4,CF,multi,GENE,,FALSE,warm,Warm,,19.80629934,24.225,,,129978,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Tanytarsus,,,,,,Chironomidae
+Tartarothyas,FALSE,,,,,,FALSE,,,Less30,,,,,895797,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Tartarothyas,,,,,,Other Non-Insect
+Telmatodrilus vejdovskyi,FALSE,,,,,,FALSE,,,Less30,,,,,68760,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Telmatodrilinae,,,Telmatodrilus,,,,,vejdovskyi,Oligochaeta
+Testudacarus,FALSE,,,,,,FALSE,cool,Cool,,14.27787952,20.26,,,83250,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Torrenticolidae,,,,Testudacarus,,,,,,Other Non-Insect
+Teutonia,FALSE,,,,,,FALSE,,,,,,,,83235,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Teutoniidae,,,,Teutonia,,,,,,Other Non-Insect
+Thaumaleidae,FALSE,3,SC,UNKN,SPEC,,FALSE,cold,Cold,,14.72874889,19.14,,,126624,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Thaumaleidae,,,,,,,,,,Diptera
+Thienemannia,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,,,,,,,Chironomidae
+Thienemanniella,FALSE,3,CG,multi,GENE,,FALSE,eurythermal,Eurythermal,,19.03870085,23.81,,,129182,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Thienemanniella,,,,,,Chironomidae
+Thienemannimyia Group,FALSE,4,PR,multi,GENE,,FALSE,warm,Warm,,19.97276826,23.662,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,Thienemannimyia Gr.,,,,,,,Chironomidae
+Thremmatidae,FALSE,3,SC,uni,RHEO,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Thremmatidae,,,,,,,,,,Trichoptera
+Thyas,FALSE,,,,,,FALSE,,,Less30,,,,,83190,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Thyasidae,,,,Thyas,,,,,,Other Non-Insect
+Thyasidae,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Thyasidae,,,,,,,,,,Other Non-Insect
+Thyopsella,FALSE,,,,,,FALSE,,,Less30,,,,,83202,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Thyopsella,,,,,,Other Non-Insect
+Thyopsis,FALSE,,,,,,FALSE,,,Less30,,,,,83205,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Hydryphantidae,,,,Thyopsis,,,,,,Other Non-Insect
+Timpanoga hecuba,FALSE,3,CG,uni,DEPO,TRUE,FALSE,cowa,Cool-Warm,,18.68715662,22.008,,,101317,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,Timpanoga,,,,,,Ephemeroptera
+Timpanoginae,FALSE,,,,,,FALSE,,,,,,,,101317,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Ephemerellidae,,,,,,,,,,Ephemeroptera
+Tinodes,FALSE,,,,,,FALSE,,,Less30,,,,,115350,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Psychomyiidae,Psychomyiinae,,,Tinodes,,,,,,Trichoptera
+Tipula,FALSE,4,SH,semi,GENE,,TRUE,eurythermal,Eurythermal,,18.39306345,22.339,,,119037,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Tipulidae,Tipulinae,,,Tipula,,,,,,Diptera
+Tipulidae,FALSE,4,UNKN,semi,GENE,,FALSE,,Cool,,18.13277925,21.999,,yes,118840,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Tipulidae,,,,,,,,,,Diptera
+Tokunagaia,FALSE,,,,,,FALSE,,,Less30,,,,,129194,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Tokunagaia,,,,,,Chironomidae
+Torrenticola,FALSE,,,,,,FALSE,cool,Cool,,17.46574912,21.475,,,83254,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Torrenticolidae,,,,Torrenticola,,,,,,Other Non-Insect
+Torrenticolidae,FALSE,,,,,,FALSE,cool,Cool,,17.32983446,21.419,,,83249,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Torrenticolidae,,,,,,,,,,Other Non-Insect
+Traverella,FALSE,,,,,,FALSE,,,,,,,,101096,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptophlebiidae,,,,Traverella,,,,,,Ephemeroptera
+Trepaxonemata,FALSE,4,PR,multi,RHEO,,FALSE,cool,Cool,,15.01033387,21.123,,,914204,Animalia,Platyhelminthes,Rhabditophora,Trepaxonemata,,,,,,,,,,,,,,,Other Non-Insect
+Triaenodes,FALSE,,,,,,FALSE,,,Less30,,,,,116565,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Leptoceridae,Leptocerinae,Triaenodini,,Triaenodes,,,,,,Trichoptera
+Tribelos,FALSE,4,CG,multi,GENE,,FALSE,warm,Warm,,19.37124781,24.613,,,129820,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Tribelos,,,,,,Chironomidae
+Trichoclinocera,FALSE,4,PR,uni,RHEO,,FALSE,eurythermal,Eurythermal,,19.81949177,22.562,,,135903,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Clinocerinae,,,Trichoclinocera,,,,,,Diptera
+Trichoptera,FALSE,NA,UNKN,UNKN,UNKN,,FALSE,,Eurythermal,,18.05778279,22.43,,yes,115095,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,,,,,,,,,,,Trichoptera
+Tricorythodes,FALSE,4,CG,multi,DEPO,,FALSE,stenow,Warm Stenotherm,,24.17969228,27.63,Warm Stenotherm,,101405,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Furcatergalia,,Leptohyphidae,,,,Tricorythodes,,,,,,Ephemeroptera
+Trissopelopia,FALSE,NA,PR,multi,GENE,,FALSE,,,,,,,,128251,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Trissopelopia,,,,,,Chironomidae
+Trombidiformes,FALSE,4,PR,multi,UNKN,,FALSE,,Eurythermal,,17.71733921,22.1,,yes,82769,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,,,,,,,,,,,,,Other Non-Insect
+Tropisternus,FALSE,4,PR,uni,GENE,,FALSE,,,Less30,,,,,112938,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Hydrophilidae,Hydrophilinae,Hydrophilini,,Tropisternus,,,,,,Coleoptera
+Truncatelloidea,FALSE,4,SC,semi,RHEO,TRUE,TRUE,,Cool-Warm,,19.80363746,23.613,,yes,,Animalia,Mollusca,,Gastropoda,,Littorinimorpha,,Truncatelloidea,,,,,,,,,,,Other Non-Insect
+Tubifex,FALSE,,,,,,FALSE,,,Less30,,,,,68622,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,Tubifex,,,,,,Oligochaeta
+Tubificinae,FALSE,,,,,,FALSE,,Warm,,20.46697309,23.836,,yes,974289,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,,,,,,,Oligochaeta
+Tvetenia,FALSE,4,CG,multi,RHEO,,FALSE,cool,Cool,,17.26546355,21.37,,,129197,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Tvetenia,,,,,,Chironomidae
+Tvetenia Bavarica Group,FALSE,4,CG,multi,RHEO,,FALSE,cool,Cool,,17.46887274,21.38,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Tvetenia,,Bavarica Gr.,,,,Chironomidae
+Tvetenia Discoloripes Group,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Tvetenia,,Discoloripes Gr.,,,,Chironomidae
+Twinnia,FALSE,,,,,,FALSE,,,Less30,,,,,126767,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Simuliidae,Simuliinae,Prosimuliini,,Twinnia,,,,,,Diptera
+Tyrrellia,FALSE,,,,,,FALSE,,,,,,,,83068,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Limnesiidae,,,,Tyrrellia,,,,,,Other Non-Insect
+Uenoidae,FALSE,2,SC,semi,RHEO,,FALSE,,Cool,,14.89896884,20.69,,yes,568757,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Uenoidae,,,,,,,,,,Trichoptera
+Ulomorpha,FALSE,NA,PR,uni,SPEC,TRUE,FALSE,,,Less30,,,,,120387,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Limoniidae,Limnophilinae,,,Ulomorpha,,,,,,Diptera
+Uncinais,FALSE,,,,,,FALSE,,,,,,,,68990,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Uncinais,,,,,,Oligochaeta
+Unionicola,FALSE,,,,,,FALSE,,,Less30,,,,,83073,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Unionicolidae,,,,Unionicola,,,,,,Other Non-Insect
+Unionicolidae,FALSE,,,,,,FALSE,,,Less30,,,,,83072,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Unionicolidae,,,,,,,,,,Other Non-Insect
+Unionoidea,FALSE,,,,,,TRUE,,,Less30,,,,,79914,Animalia,Mollusca,,Bivalvia,Palaeoheterodonta,Unionoida,Unionoidea,,,,,,,,,,,,Other Non-Insect
+Utaxatax,FALSE,,,,,,FALSE,,,Less30,,,,,83534,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Anisitsiellidae,,,,Utaxatax,,,,,,Other Non-Insect
+Valvata,FALSE,NA,SC,uni,GENE,TRUE,FALSE,,,Less30,,,,,70346,Animalia,Mollusca,,Gastropoda,,Heterostropha,,,Valvatidae,,,,Valvata,,,,,,Other Non-Insect
+Varichaetadrilus,FALSE,,,,,,FALSE,,,Less30,,,,,68812,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Tubificinae,,,Varichaetadrilus,,,,,,Oligochaeta
+Vejdovskyella,FALSE,,,,,,FALSE,,,Less30,,,,,69009,Animalia,Annelida,,Clitellata,Oligochaeta,Tubificida,,,Naididae,Naidinae,,,Vejdovskyella,,,,,,Oligochaeta
+Veneroida,FALSE,,,,,,FALSE,,Warm,,19.79652208,23.592,,yes,80384,Animalia,Mollusca,,Bivalvia,Heterodonta,Veneroida,,,,,,,,,,,,,Other Non-Insect
+Visoka cataractae,FALSE,2,SH,semi,RHEO,TRUE,TRUE,stenoc,Cold Stenotherm,,13.67756994,17.674,Cold Stenotherm,,102614,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Visoka,,,,,,Plecoptera
+Volsellacarus,FALSE,,,,,,FALSE,,,Less30,,,,,,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Neoacaridae,,,,Volsellacarus,,,,,,Other Non-Insect
+Vorticifex,FALSE,NA,SC,uni,GENE,,FALSE,,,Less30,,,,,76673,Animalia,Mollusca,,Gastropoda,,Basommatophora,,,Planorbidae,,,,Vorticifex,,,,,,Other Non-Insect
+Wandesia,FALSE,,,,,,FALSE,cold,Cold,,14.44890872,19.07,,,83172,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Protziidae,,,,Wandesia,,,,,,Other Non-Insect
+Wiedemannia,FALSE,,,,,,FALSE,cold,Cold,,14.96497649,19.697,,,135920,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Brachycera,,Empididae,Clinocerinae,,,Wiedemannia,,,,,,Diptera
+Woolastookia,FALSE,,,,,,FALSE,,,,,,,,83461,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Aturidae,,,,Woolastookia,,,,,,Other Non-Insect
+Wormaldia,FALSE,4,CF,multi,RHEO,,FALSE,cowa,Cool-Warm,,18.79851655,22.2,Cool-Warm,,115258,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Philopotamidae,Philopotaminae,,,Wormaldia,,,,,,Trichoptera
+Xenochironomus xenolabis,FALSE,,,,,,FALSE,,,,,,,,129837,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Chironomini,,Xenochironomus,,,,,xenolabis,Chironomidae
+Xylotopus,FALSE,,,,,,FALSE,,,,,,,,129208,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Orthocladiinae,,,Xylotopus,,,,,,Chironomidae
+Xystonotus,FALSE,,,,,,FALSE,,,Less30,,,,,83489,Animalia,Arthropoda,Chelicerata,Arachnida,Acari,Trombidiformes,Prostigmata,,Mideopsidae,,,,Xystonotus,,,,,,Other Non-Insect
+Yoraperla,FALSE,2,SH,semi,RHEO,,TRUE,cold,Cold,,14.26445935,19.58,Cold,,102510,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Peltoperlidae,Peltoperlinae,,,Yoraperla,,,,,,Plecoptera
+Yoraperla mariana,FALSE,,,,,,FALSE,stenoc,Cold Stenotherm,,12.73296994,14.206,,,103312,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Systellognatha,,Peltoperlidae,Peltoperlinae,,,Yoraperla,,,,,mariana,Plecoptera
+Yphria,FALSE,,,,,,FALSE,,,Less30,,,,,115922,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Trichoptera,,,Phryganeidae,Yphriinae,,,Yphria,,,,,,Trichoptera
+Zaitzevia,FALSE,4,CG,semi,RHEO,,TRUE,warm,Warm,,20.79311425,23.463,,,114205,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Coleoptera,Polyphaga,,Elmidae,,,,Zaitzevia,,,,,,Coleoptera
+Zapada,FALSE,3,SH,UNKN,RHEO,,FALSE,,Cool,,16.55944866,21.251,,yes,102591,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Zapada,,,,,,Plecoptera
+Zapada cinctipes,FALSE,4,SH,uni,RHEO,,FALSE,cool,Cool,,17.98055449,21.756,,,102594,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Zapada,,,,,cinctipes,Plecoptera
+Zapada columbiana,FALSE,2,SH,semi,RHEO,,TRUE,stenoc,Cold Stenotherm,,12.77203134,17.886,Cold Stenotherm,,102596,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Zapada,,,,,columbiana,Plecoptera
+Zapada frigida,FALSE,2,SH,uni,RHEO,TRUE,TRUE,cold,Cold,,15.36568717,19.024,,,102601,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Zapada,,,,,frigida,Plecoptera
+Zapada Oregonensis Group,FALSE,3,SH,semi,RHEO,,TRUE,cold,Cold,,15.73730776,19.565,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Plecoptera,Euholognatha,,Nemouridae,Nemourinae,,,Zapada,,Oregonensis Gr.,,,,Plecoptera
+Zavrelia,FALSE,NA,,,,,FALSE,,,Less30,,,,,130038,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Zavrelia,,,,,,Chironomidae
+Zavrelimyia,FALSE,4,PR,multi,GENE,,FALSE,cool,Cool,,17.76067088,21.36,,,128259,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Zavrelimyia,,,,,,Chironomidae
+Zygoptera,FALSE,NA,PR,uni,GENE,,FALSE,,Warm Stenotherm,,23.74648404,27.45,,yes,102042,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,,,,,,,,,,,Odonata
