@@ -1,0 +1,2 @@
+project,dir_results,filename,taxaid,calc,calc_taxaid,col_drop,taxaid_drop,metadata_filename,attributes_metadata_filename,attributes_filename,attributes_taxaid
+FL Coral BCG,BCG,FLCoral_BCG_Taxa_Translator_20240320.csv,TaxaID,BCG,OTU_BCG,,DNI,FLCoral_BCG_Taxa_Translator_Metadata_20240320.csv,FLCoral_BCG_Attributes_Metadata_20240320.csv,FLCoral_BCG_Attributes_20240320.csv,TaxaID
