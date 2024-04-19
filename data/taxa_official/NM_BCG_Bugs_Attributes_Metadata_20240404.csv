@@ -1,0 +1,66 @@
+Version,4/4/2024
+Primary contact,Jen Stamp (Jen.Stamp@tetratech.com)
+,
+TaxaID,taxon name (after translation; see taxa translator table)
+RANK,level of taxonomic resolution
+NONTARGET,FALSE = target (ok to include in calculations). TRUE = nontarget (not appropriate to include in the NM sandy bottom BCG calculation).
+BCG_ATTR,"Biological Condition Gradient (BCG) taxa attribute assignments for the NM sandy bottom BCG: 2, 3, 4, 5, 6. 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = highly tolerant; 6 = nonnative"
+FFG,"Functional Feeding Group used for the NM sandy bottom BCG metric calculations: Collector-Gatherer (CG), Collector-Filterer (CF), Piercer-Predator (PH;PR), Predator (PR), Scraper (SC), or Shredder (SH). Multiple entries are allowed and should be separated with a SEMICOLON rather than a comma or space."
+FFGSource_BCG,Source of FFG assignment used for the NM sandy bottom BCG metric calculations
+Habit,"Habit types used for the NM sandy bottom BCG metric calculations: Burrowers (BU), Climbers (CB), Clingers (CN), Skaters (SK), Sprawlers (SP), and Swimmers (SW). Multiple entries are allowed and should be separated with a SEMICOLON rather than a comma or space"
+HabitSource_BCG,Source of habit assignment used for the NM sandy bottom BCG metric calculations
+TolVal,Taxa with tolerance values ranging from 0 to 3 are considered ‘intolerant’ to anthropogenic disturbance and are included in the ‘intolerant’ metric calculations. Those with values ranging from 7 to 10 are included in the ‘tolerant’ metrics.
+TolValSource_BCG,Source of TolVal assignment (compiled for the NM sandy bottom BCG project but not used in the BCG rules)
+PHYLUM,taxonomic hierarchy
+SUBPHYLUM,taxonomic hierarchy. Only populated with Crustacea
+CLASS,taxonomic hierarchy
+SUBCLASS,taxonomic hierarchy. Only populated with Oligochaeta and Hirudinea
+ORDER,taxonomic hierarchy
+SUPERFAMILY,taxonomic hierarchy. Note: may not be fully populated.
+FAMILY,taxonomic hierarchy
+SUBFAMILY,taxonomic hierarchy. Only populated with Chironomidae
+TRIBE,taxonomic hierarchy. Only populated with Chironomidae
+GENUS,taxonomic hierarchy
+AUTHOR,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TSN,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+PARTSN,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+BENTAXAID,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVAL_NM,"Tolerance value. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALSOURCE_NM,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVAL_ED,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALSOURCE_ED,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALWI,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALKANOD,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALKAAP,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALKAHM,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALKAPOC,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALKASA,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALKASSS,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALKASOURCE,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALIDSS,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TOLVALIDSSSOURCE,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+FFG_NM,"Functional Feeding Group. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+FFGSOURCE_NM,"Functional Feeding Group Source. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+FFG_ED,"Functional Feeding GroupSource file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+FFGSECONDARY,"Functional Feeding Group. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+FFGTERTIARY,"Functional Feeding Group. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+FFGSOURCE_ED,"Functional Feeding Group Source. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+HABIT_NM,"Habit. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+HABITSECONDARY,"Habit. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+HABITTERTIARY,"Habit. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+HABITSOURCE,"Habit Source. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+HABITATPRIMARY,"Habit. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+HABITATSECONDARY,"Habit. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+HABITATTERTIARY,"Habit. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+HABITATSOURCE,"Habit Source. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+LIFECYCLE_NM,"Life cycle (voltinism). Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+LIFECYCLESOURCE,"Life cycle (voltinism). Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+LIFECYCLE1,"Life cycle (voltinism). Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+LIFECYCLE1SOURCE,"Life cycle (voltinism). Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+LIFECYCLE2,"Life cycle (voltinism). Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+LIFECYCLE2SOURCE,"Life cycle (voltinism). Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TEMPTOLERANCE,"Thermal tolerance assignment. Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+TEMPTOLERANCESOURCE,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+COMMENTS_NM,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+JACOBI_ID,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+NM_TAXON_ID,"Source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."

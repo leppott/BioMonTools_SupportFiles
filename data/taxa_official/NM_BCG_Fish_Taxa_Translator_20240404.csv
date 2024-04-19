@@ -1,0 +1,224 @@
+SciName_orig,OTU_BCG,Modified,Rationale,CommonName
+Acanathogobius flavimanus,Acanathogobius flavimanus,FALSE,,Yellowfin goby
+Acrocheilus alutaceus,Acrocheilus alutaceus,FALSE,,Chiselmouth
+Agosia chrysogaster,Agosia chrysogaster,FALSE,,Longfin dace
+Ambloplites rupestris,Ambloplites rupestris,FALSE,,Rock bass
+Ameiurus,Ameiurus,FALSE,,Bullhead
+Ameiurus catus,Ameiurus catus,FALSE,,White catfish
+Ameiurus melas,Ameiurus melas,FALSE,,Black bullhead
+Ameiurus natalis,Ameiurus natalis,FALSE,,Yellow bullhead
+Ameiurus nebulosus,Ameiurus nebulosus,FALSE,,Brown bullhead
+Amia calva,Amia calva,FALSE,,Bowfin
+Ammocrypta vivax,Ammocrypta vivax,FALSE,,Scaly sand darter
+Anguilla rostrata,Anguilla rostrata,FALSE,,American eel
+Aphredoderus sayanus,Aphredoderus sayanus,FALSE,,Pirate perch
+Aplodinotus grunniens,Aplodinotus grunniens,FALSE,,Freshwater drum
+Astyanax mexicanus,Astyanax mexicanus,FALSE,,Mexican tetra
+Awaous banana,Awaous banana,FALSE,,River goby
+Campostoma,Campostoma,FALSE,,Unknown campostoma
+Campostoma anomalum,Campostoma anomalum,FALSE,,Central stoneroller
+Carassius auratus,Carassius auratus,FALSE,,Goldfish
+Carpiodes carpio,Carpiodes carpio,FALSE,,River carpsucker
+Carpioides cyprinus,Carpiodes cyprinus,TRUE,spelling,Quillback
+Catostomus catostomus,Catostomus catostomus,FALSE,,Longnose sucker
+Catostomus clarki,Catostomus clarki,FALSE,,Desert sucker
+Catostomus clarkii,Catostomus clarki,TRUE,spelling,Desert sucker
+Catostomus columbianus,Catostomus columbianus,FALSE,,Bridgelip sucker
+Catostomus commersonii,Catostomus commersonii,FALSE,,White sucker
+Catostomus discobolus,Catostomus discobolus,FALSE,,Bluehead sucker
+Catostomus discobolus discobolus,Catostomus discobolus,TRUE,removed subspecies,Bluehead sucker
+Catostomus discobolus x commersoni,Catostomus discobolus x commersoni,FALSE,,Bluehead sucker x white sucker
+Catostomus discobolus yarrowi,Catostomus discobolus yarrowi,FALSE,,Zuni bluehead sucker
+Catostomus insignis,Catostomus insignis,FALSE,,Sonora sucker
+Catostomus latipinnis,Catostomus latipinnis,FALSE,,Flannelmouth sucker
+Catostomus macrocheilus,Catostomus macrocheilus,FALSE,,Largescale sucker
+Catostomus occidentalis,Catostomus occidentalis,FALSE,,Sacramento sucker
+Catostomus platyrhynchus,Catostomus platyrhynchus,FALSE,,Mountain sucker
+Catostomus plebeius,Catostomus plebeius,FALSE,,Rio grande sucker
+Catostomus santaanae,Catostomus santaanae,FALSE,,Santa ana sucker
+Catostomus x Catostomus latipinnis,Catostomus x Catostomus latipinnis,FALSE,,Bluehead sucker x flannelmouth suc
+Centropomus parallelus,Centropomus parallelus,FALSE,,Fat snook
+Centropomus undecimalis,Centropomus undecimalis,FALSE,,Common snook
+Chaenobryttus gulosus,Chaenobryttus gulosus,FALSE,,Warmouth
+Cichlasoma cyanoguttatum,Cichlasoma cyanoguttatum,FALSE,,Rio grande cichlid
+Cottus asper,Cottus asper,FALSE,,Prickly sculpin
+Cottus bairdi,Cottus bairdii,TRUE,spelling,Mottled sculpin
+Cottus bairdii,Cottus bairdii,FALSE,,Mottled sculpin
+Cottus rhotheus,Cottus rhotheus,FALSE,,Torrent sculpin
+Ctenopharyngodon idella,Ctenopharyngodon idella,FALSE,,Grass carp
+Culaea inconstans,Culaea inconstans,FALSE,,Brook stickleback
+Cycleptus elongatus,Cycleptus elongatus,FALSE,,Blue sucker
+Cyprinella carpio,Cyprinus carpio,TRUE,nomenclature (invalid genus),Common carp
+Cyprinella formasa,Cyprinella formasa,FALSE,,Beautiful shiner
+Cyprinella lutrensis,Cyprinella lutrensis,FALSE,,Red shiner
+Cyprinella venustus,Cyprinella venustus,FALSE,,Blacktail shiner
+Cyprinidae,Cyprinidae,FALSE,,Cyprinidae
+Cyprinodon pecosensis,Cyprinodon pecosensis,FALSE,,Pecos pupfish
+Cyprinodon rubrofluviatilis,Cyprinodon rubrofluviatilis,FALSE,,Red river pupfish
+Cyprinodon tularosa,Cyprinodon tularosa,FALSE,,White sands pupfish
+Cyprinodon variegatus,Cyprinodon variegatus,FALSE,,Sheepshead minnow
+Cyprinus carpio,Cyprinus carpio,FALSE,,Common carp
+Cyrpinus carpio,Cyprinus carpio,TRUE,spelling,Common carp
+Dionda episcopa,Dionda episcopa,FALSE,,Roundnose minnow
+Dorosoma cepedianum,Dorosoma cepedianum,FALSE,,Gizzard shad
+Dorosoma petenense,Dorosoma petenense,FALSE,,Threadfin shad
+Esox lucius,Esox lucius,FALSE,,Northern pike
+Esox masquinongy,Esox masquinongy,FALSE,,Muskellunge
+Esox masquinongy × lucius,Esox masquinongy × lucius,FALSE,,Tiger muskellunge
+Esox samericanus americanus,Esox samericanus americanus,FALSE,,Redfin pickerel
+Etheostoma cragini,Etheostoma cragini,FALSE,,Arkansas darter
+Etheostoma exile,Etheostoma exile,FALSE,,Iowa darter
+Etheostoma gracile,Etheostoma gracile,FALSE,,Slough darter
+Etheostoma histrio,Etheostoma histrio,FALSE,,Harlequin darter
+Etheostoma lepidum,Etheostoma lepidum,FALSE,,Greenthroat darter
+Etheostoma nigrum,Etheostoma nigrum,FALSE,,Johnny darter
+Ethostoma asprigene,Ethostoma asprigene,FALSE,,Mud darter
+Ethostoma spectabile,Ethostoma spectabile,FALSE,,Orangethroat darter
+Fundulus,Fundulus,FALSE,,Unknown fundulus
+Fundulus grandis,Fundulus grandis,FALSE,,Gulf killifish
+Fundulus kansae,Fundulus kansae,FALSE,,Northern plains killifish
+Fundulus olivaceus,Fundulus olivaceus,FALSE,,Blackstripe topminnow
+Fundulus sciadicus,Fundulus sciadicus,FALSE,,Plains topminnow
+Fundulus zebrinus,Fundulus zebrinus,FALSE,,Plains killifish
+Gambusia affinis,Gambusia affinis,FALSE,,Western mosquitofish
+Gambusia nobilis,Gambusia nobilis,FALSE,,Pecos gambusia
+Gasterosteus aculeatus,Gasterosteus aculeatus,FALSE,,Threespine stickleback
+Gerres cinereus,Gerres cinereus,FALSE,,Yellowfin mojarra
+Gila cypha,Gila cypha,FALSE,,Humpback chub
+Gila intermedia,Gila intermedia,FALSE,,Gila chub
+Gila nigra,Gila nigra,FALSE,,Headwater chub
+Gila nigrescens,Gila nigrescens,FALSE,,Chihuahua chub
+Gila pandora,Gila pandora,FALSE,,Rio grande chub
+Gila robusta,Gila robusta,FALSE,,Roundtail chub
+Gila seminuda,Gila seminuda,FALSE,,Virgin chub
+Gobiomorus dormitor,Gobiomorus dormitor,FALSE,,Bigmouth sleeper
+Hybognathus amarus,Hybognathus amarus,FALSE,,Rio grande silvery minnow
+Hybognathus hankinsoni,Hybognathus hankinsoni,FALSE,,Brassy minnow
+Hybognathus nuchalis,Hybognathus nuchalis,FALSE,,Mississippi silvery minnow
+Hybognathus placitus,Hybognathus placitus,FALSE,,Plains minnow
+Hysterocarpus traskii,Hysterocarpus traskii,FALSE,,Tule perch
+Ictalurus furcatus,Ictalurus furcatus,FALSE,,Blue catfish
+Ictalurus lupus,Ictalurus lupus,FALSE,,Headwater catfish
+Ictalurus punctatus,Ictalurus punctatus,FALSE,,Channel catfish
+Ictiobus bubalus,Ictiobus bubalus,FALSE,,Smallmouth buffalo
+Ictiobus cyprinellus,Ictiobus cyprinellus,FALSE,,Bigmouth buffalo
+Labidesthes sicculus,Labidesthes sicculus,FALSE,,Brook silverside
+Lamprey,Lamprey,FALSE,,Lamprey ammocoete
+Lepiosteus oculatus,Lepisosteus oculatus,TRUE,spelling,Spotted gar
+Lepiosteus platostomus,Lepisosteus platostomus,TRUE,spelling,Shortnose gar
+Lepisosteus oculatus,Lepisosteus oculatus,FALSE,,Spotted gar
+Lepisosteus osseus,Lepisosteus osseus,FALSE,,Longnose gar
+Lepomis,Lepomis,FALSE,,Common sunfishes
+Lepomis auritus,Lepomis auritus,FALSE,,Redbreast sunfish
+Lepomis cyanellus,Lepomis cyanellus,FALSE,,Green sunfish
+Lepomis cyannelus x megalotis,Lepomis cyannelus x megalotis,FALSE,,Green sunfish x longear sunfish
+Lepomis gibbosus,Lepomis gibbosus,FALSE,,Pumpkinseed
+Lepomis humilus,Lepomis humilus,FALSE,,Orangespotted sunfish
+Lepomis macrochirus,Lepomis macrochirus,FALSE,,Bluegill
+Lepomis mcarochirus x megalotis,Lepomis mcarochirus x megalotis,FALSE,,Bluegill x longear sunfish
+Lepomis megalotis,Lepomis megalotis,FALSE,,Longear sunfish
+Lepomis microlophus,Lepomis microlophus,FALSE,,Redear sunfish
+Lepomis miniatus,Lepomis miniatus,FALSE,,Redspotted sunfish
+Lepomis sp.,Lepomis,TRUE,syntax (removed sp.),Unknown lepomis
+Lucania parva,Lucania parva,FALSE,,Rainwater killifish
+Lythrurus fumeus,Lythrurus fumeus,FALSE,,Ribbon shiner
+Lythrurus umbratilis,Lythrurus umbratilis,FALSE,,Redfin shiner
+Macrhybopsis aestivalis,Macrhybopsis aestivalis,FALSE,,Speckled chub
+Macrhybopsis aestivalis aestivalis,Macrhybopsis aestivalis,TRUE,removed subspecies,Speckled chub
+Macrhybopsis aestivalis tetranemus,Macrhybopsis aestivalis,TRUE,removed subspecies,Speckled chub
+Macrhybopsis australis,Macrhybopsis australis,FALSE,,Prairie chub
+Macrhybopsis hyostoma,Macrhybopsis hyostoma,FALSE,,Shoal chub
+Macrhybopsis storeiana,Macrhybopsis storeiana,FALSE,,Silver chub
+Meda fulgida,Meda fulgida,FALSE,,Spikedace
+Menidia beryllina,Menidia beryllina,FALSE,,Inland silverside
+Micropterus dolomieu,Micropterus dolomieu,FALSE,,Smallmouth bass
+Micropterus punctulatus,Micropterus punctulatus,FALSE,,Spotted bass
+Micropterus salmoides,Micropterus salmoides,FALSE,,Largemouth bass
+Minytrema melanops,Minytrema melanops,FALSE,,Spotted sucker
+Morone americana,Morone americana,FALSE,,White perch
+Morone chrysops,Morone chrysops,FALSE,,White bass
+Morone chrysops x saxatilis,Morone chrysops x saxatilis,FALSE,,Wiper
+Morone mississippiensis,Morone mississippiensis,FALSE,,Yellow bass
+Morone saxatilis,Morone saxatilis,FALSE,,Striped bass
+Moxostoma congestum,Moxostoma congestum,FALSE,,Gray redhorse
+Moxostoma erythrurum,Moxostoma erythrurum,FALSE,,Golden redhorse
+Moxostoma macrolepidotum,Moxostoma macrolepidotum,FALSE,,Shorthead redhorse
+Moxostoma poecilurum,Moxostoma poecilurum,FALSE,,Blacktail redhorse
+Mugil cephalus,Mugil cephalus,FALSE,,Striped mullet
+Mugil curema,Mugil curema,FALSE,,White mullet
+Mylocheilus caurinus,Mylocheilus caurinus,FALSE,,Peamouth
+Notemigonus crysoleucas,Notemigonus crysoleucas,FALSE,,Golden shiner
+Notropis,Notropis,FALSE,,Unknown notropis
+Notropis atherinoides,Notropis atherinoides,FALSE,,Emerald shiner
+Notropis bairdi,Notropis bairdi,FALSE,,Red river shiner
+Notropis blenniuis,Notropis blenniuis,FALSE,,River shiner
+Notropis buchanani,Notropis buchanani,FALSE,,Ghost shiner
+Notropis dorsalis,Notropis dorsalis,FALSE,,Bigmouth shiner
+Notropis girardi,Notropis girardi,FALSE,,Arkansas river shiner
+Notropis jemezanus,Notropis jemezanus,FALSE,,Rio grande shiner
+Notropis orca,Notropis orca,FALSE,,Phantom shiner
+Notropis potteri,Notropis potteri,FALSE,,Chub shiner
+Notropis sabinae,Notropis sabinae,FALSE,,Sabine shiner
+Notropis shumardi,Notropis shumardi,FALSE,,Silverband shiner
+Notropis simus pecosensis,Notropis simus pecosensis,FALSE,,Pecos bluntnose shiner
+Notropis simus simus,Notropis simus simus,FALSE,,Rio grande bluntnose shiner
+Notropis stramineus,Notropis stramineus,FALSE,,Sand shiner
+Notropis texanus,Notropis texanus,FALSE,,Weed shiner
+Notropis volucellus,Notropis volucellus,FALSE,,Mimic shiner
+Noturus flavus,Noturus flavus,FALSE,,Stonecat
+Noturus gyrinus,Noturus gyrinus,FALSE,,Tadpole madtom
+Noturus nocturnus,Noturus nocturnus,FALSE,,Freckled madtom
+Oncorhynchus clarki ssp.,Oncorhynchus clarki ssp.,FALSE,,Snake river cutthroat trout
+Oncorhynchus clarki virginalis,Oncorhynchus clarki virginalis,FALSE,,Rio grande cutthroat trout
+Oncorhynchus clarki x mykiss,Oncorhynchus clarki x mykiss,FALSE,,Cutbow
+Oncorhynchus clarkii virginalis,Oncorhynchus clarki virginalis,TRUE,spelling,Rio grande cutthroat trout
+Oncorhynchus gilae,Oncorhynchus gilae,FALSE,,Gila trout
+Oncorhynchus kisutch,Oncorhynchus kisutch,FALSE,,Coho salmon
+Oncorhynchus mykiss,Oncorhynchus mykiss,FALSE,,Rainbow trout
+Oncorhynchus nerka,Oncorhynchus nerka,FALSE,,Kokanee salmon
+Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,FALSE,,Chinook salmon
+Opsopoeodus emiliae,Opsopoeodus emiliae,FALSE,,Pugnose minnow
+Oreochromus aureus,Oreochromus aureus,FALSE,,Blue tilapia
+Perca flavescens,Perca flavescens,FALSE,,Yellow perch
+Perciformes,Perciformes,FALSE,,Unknown temperate bass
+Percina caprodes,Percina caprodes,FALSE,,Logperch
+Percina macrolepida,Percina macrolepida,FALSE,,Bigscale logperch
+Percina phoxocephala,Percina phoxocephala,FALSE,,Slenderhead darter
+Percina sciera,Percina sciera,FALSE,,Dusky darter
+Percopsis transmontana,Percopsis transmontana,FALSE,,Sand roller
+Phenacobius mirabilis,Phenacobius mirabilis,FALSE,,Suckermouth minnow
+Phoxinus erythrogaster,Phoxinus erythrogaster,FALSE,,Southern redbelly dace
+Pimephales notatus,Pimephales notatus,FALSE,,Bluntnose minnow
+Pimephales promelas,Pimephales promelas,FALSE,,Fathead minnow
+Pimephales tenellus,Pimephales tenellus,FALSE,,Slim minnow
+Pimephales vigilax,Pimephales vigilax,FALSE,,Bullhead minnow
+Plagopterus argentissimus,Plagopterus argentissimus,FALSE,,Woundfin
+Platygobio gracilis,Platygobio gracilis,FALSE,,Flathead chub
+Poecilia latipinna,Poecilia latipinna,FALSE,,Sailfin molly
+Pomoxis,Pomoxis,FALSE,,Crappie
+Pomoxis annularis,Pomoxis annularis,FALSE,,White crappie
+Pomoxis nigromaculatus,Pomoxis nigromaculatus,FALSE,,Black crappie
+Prosopium williamsoni,Prosopium williamsoni,FALSE,,Mountain whitefish
+Ptychocheilus grandis,Ptychocheilus grandis,FALSE,,Sacramento pikeminnow
+Ptychocheilus lucius,Ptychocheilus lucius,FALSE,,Colorado pikeminnow
+Ptychocheilus oregonensis,Ptychocheilus oregonensis,FALSE,,Northern pikeminnow
+Pylodictis olivaris,Pylodictis olivaris,FALSE,,Flathead catfish
+Pylodictus olivaris,Pylodictis olivaris,TRUE,spelling,Flathead catfish
+Rhinichthys cataractae,Rhinichthys cataractae,FALSE,,Longnose dace
+Rhinichthys cobitis,Rhinichthys cobitis,FALSE,,Loach minnow
+Rhinichthys osculus,Rhinichthys osculus,FALSE,,Speckled dace
+Richardsonius balteatus,Richardsonius balteatus,FALSE,,Redside shiner
+Salmo trutta,Salmo trutta,FALSE,,Brown trout
+Salvelinus fontinalis,Salvelinus fontinalis,FALSE,,Brook trout
+Salvelinus namaycush,Salvelinus namaycush,FALSE,,Lake trout
+Sander canadensis,Sander canadensis,FALSE,,Sauger
+Sander vitreum,Sander vitreum,FALSE,,Walleye
+Scaphirhynchus platorynchus,Scaphirhynchus platorynchus,FALSE,,Shovelnose sturgeon
+Scartomyzon congestum,Scartomyzon congestum,FALSE,,Gray redhorse
+Semotilus atromaculatus,Semotilus atromaculatus,FALSE,,Creek chub
+Stizostedion vitreum,Stizostedion vitreum,FALSE,,Walleye
+Strongylura marina,Strongylura marina,FALSE,,Atlantic needlefish
+Tinca tinca,Tinca tinca,FALSE,,Tench
+Xyrauchen texanus,Xyrauchen texanus,FALSE,,Razorback sucker
+Carpiodes cyprinus,Carpiodes cyprinus,FALSE,,Quillback
+Lepisosteus platostomus,Lepisosteus platostomus,FALSE,,Shortnose gar
