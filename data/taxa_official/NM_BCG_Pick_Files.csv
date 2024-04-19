@@ -1,3 +1,3 @@
 project,dir_results,filename,taxaid,calc,calc_taxaid,col_drop,taxaid_drop,metadata_filename,attributes_metadata_filename,attributes_filename,attributes_taxaid
-NM BCG (Bugs),BCG,NM_BCG_Bugs_Taxa_Translator_20240404.csv,TaxaID,BCG,OTU_BCG,,DNI,NM_BCG_Bugs_Taxa_Translator_Metadata_20240404.csv,NM_BCG_Bugs_Attributes_Metadata_20240404.csv,NM_BCG_Bugs_Attributes_20240404.csv,TaxaID
-NM BCG (Fish),BCG,NM_BCG_Fish_Taxa_Translator_20240404.csv,TaxaID,BCG,OTU_BCG,,DNI,NM_BCG_Fish_Taxa_Translator_Metadata_20240404.xlsx,NM_BCG_Fish_Attributes_Metadata_20240404.csv,NM_BCG_Fish_Attributes_20240404.csv,TaxaID
+NM BCG (Bugs),BCG,NM_BCG_Bugs_Taxa_Translator_20240404.csv,TaxaID_orig,BCG,OTU_BCG,,DNI,NM_BCG_Bugs_Taxa_Translator_Metadata_20240404.csv,NM_BCG_Bugs_Attributes_Metadata_20240404.csv,NM_BCG_Bugs_Attributes_20240404.csv,TaxaID
+NM BCG (Fish),BCG,NM_BCG_Fish_Taxa_Translator_20240404.csv,SciName_orig,BCG,OTU_BCG,,DNI,NM_BCG_Fish_Taxa_Translator_Metadata_20240404.xlsx,NM_BCG_Fish_Attributes_Metadata_20240404.csv,NM_BCG_Fish_Attributes_20240404.csv,TaxaID
