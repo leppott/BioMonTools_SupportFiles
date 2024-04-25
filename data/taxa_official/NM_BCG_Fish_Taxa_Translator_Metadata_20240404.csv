@@ -1,0 +1,8 @@
+Version,4/4/2024
+Primary contact,Jen Stamp (Jen.Stamp@tetratech.com)
+,
+SciName_orig,Scientific name from the original source file
+OTU_BCG,"original taxon name translated to an ID that harmonizes differences across datasets (such as syntax, changes in nomenclature, misspellings, etc.). Used for the NM sandy bottom BCG metric calculations. DNI (do not include) = NonTarget."
+Modified,TRUE = TaxaID_orig is different from the OTU_BCG; FALSE = TaxaID_orig is the same as the OTU_BCG
+Rationale,"reason for change (e.g., formatting, spelling)"
+CommonName,self-explanatory
