@@ -110,8 +110,8 @@ Bratislavia,FALSE,4,4_middle,CG,"BU,CN",,,,FALSE,Annelida,Oligochaeta,Tubificida
 Brillia,FALSE,4,4_middle,SH,BU,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Brillia,4,Shredder,Sprawler,1600,128477,128457
 Brundiniella,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Macropelopiini,Brundiniella,3,Predator,Sprawler,6274,128026,
 Brychius,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Haliplidae,,,Brychius,5,Scraper,Clinger,58,111947,111857
-Caecidotea,FALSE,4,4_worse,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,Caecidotea,8,Scraper,Clinger,1503,92686,92657
-Caecidotea intermedia,FALSE,4,4_worse,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,Caecidotea,6,Scraper,Clinger,1504,92711,92686
+Caecidotea,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,Caecidotea,8,Scraper,Clinger,1503,92686,92657
+Caecidotea intermedia,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,Caecidotea,6,Scraper,Clinger,1504,92711,92686
 Caenidae,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,,6,Collector,Sprawler,213,101467,101459
 Caenis,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,Caenis,7,Collector,Sprawler,60,101478,101467
 Callibaetis,FALSE,4,4_worse,CG,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Callibaetis,7,Collector,Swimmer,1966,100903,100755
@@ -317,8 +317,8 @@ Erythemis,FALSE,4,4_middle,PR,"CB,SP",RM,root_mat,"multi,uni",FALSE,Arthropoda,I
 Eukiefferiella,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Eukiefferiella,8,Collector,Sprawler,77,128689,128457
 Eukiefferiella claripennis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Eukiefferiella,8,Collector,Sprawler,1645,128693,
 Euparyphus,FALSE,,,CG,SP,,,uni,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,Euparyphus,8,Predator,Sprawler,1947,130436,130436
-Fallceon,FALSE,4,4_worse,"CG,SH",SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Fallceon,5,Collector,Sprawler,3234,568551,568551
-Fallceon quilleri,FALSE,4,4_worse,"CG,SH",SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Fallceon,5,Collector,Sprawler,6236,568601,568551
+Fallceon,FALSE,4,4_middle,"CG,SH",SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Fallceon,5,Collector,Sprawler,3234,568551,568551
+Fallceon quilleri,FALSE,4,4_middle,"CG,SH",SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Fallceon,5,Collector,Sprawler,6236,568601,568551
 Faxonius,FALSE,4,4_better,CG,NA,,,,FALSE,Arthropoda,Decapoda,,,,,,,,,16306,,
 Ferrissia,FALSE,4,4_middle,SC,CB,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Ancylidae,,,Ferrissia,8,Scraper,Clinger,2194,76569,76568
 Ferrissia rivularis,FALSE,4,4_middle,SC,CB,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Ancylidae,,,Ferrissia,8,Scraper,Clinger,2193,76572,76569
@@ -938,7 +938,7 @@ Tritogonia verrucosa,FALSE,,,,,,,,FALSE,Mollusca,Bivalvia,Unionida,Unionidae,,,T
 Tropisternus,FALSE,4,4_middle,PR,CB,RM,root_mat,multi,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Tropisternus,5,Predator,Climber,152,112938,112811
 Tubifex tubifex,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Tubifex,10,Collector,Burrower,153,68623,68622
 Tubificidae,FALSE,4,4_middle,CG,"BU,CN",,,,FALSE,Annelida,Oligochaeta,Haplotaxida,Tubificidae,,,,,,,,,
-Tubificinae,FALSE,4,4_middle,CG,"BU,CN",,,,FALSE,Annelida,Oligochaeta,Haplotaxida,Tubificidae,Tubificinae,,,10,,,14447,,
+Tubificinae,FALSE,4,4_worse,CG,"BU,CN",,,,FALSE,Annelida,Oligochaeta,Haplotaxida,Tubificidae,Tubificinae,,,10,,,14447,,
 Turbellaria,FALSE,4,4_middle,NA,SP,,,,FALSE,Platyhelminthes,Turbellaria,,,,,Turbellaria,5,Unidentified,Sprawler,2292,53964,63963
 Tvetenia,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Tvetenia,5,Collector,Sprawler,1891,129197,128457
 Tvetenia Bavarica Group,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Tvetenia,5,Collector,Sprawler,1890,129205,129197
