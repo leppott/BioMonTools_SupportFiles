@@ -79,11 +79,13 @@ Baetidae,Baetidae,FALSE,,BAETIDAE
 Baetis,Baetis,FALSE,,BAETIS
 Baetis brunneicolor,Baetis brunneicolor,FALSE,,BAETIS BRUNNEICOLOR
 Baetis flavistriga complex,Baetis flavistriga complex,FALSE,,
+Baetis Fuscatus Group,Baetis Fuscatus Group,FALSE,,BAETIS FUSCATUS GROUP
 Baetis fuscatus,Baetis Fuscatus Group,TRUE,formatting (CAPS). PacNW - Baetis flavistriga complex,BAETIS FUSCATUS GROUP
 Baetis Fuscatus Gr.,Baetis Fuscatus Group,TRUE,formatting (CAPS). PacNW - Baetis flavistriga complex,BAETIS FUSCATUS GROUP
 Baetis intercalaris,Baetis intercalaris complex,TRUE,complex,BAETIS INTERCALARIS
 Baetis intercalaris complex,Baetis intercalaris complex,FALSE,,BAETIS INTERCALARIS
 Baetis magnus,Baetis magnus,FALSE,,BAETIS MAGNUS
+Baetis Rhodani Group,Baetis Rhodani Group,FALSE,,BAETIS RHODANI GROUP
 Baetis Rhodani Gr.,Baetis Rhodani Group,TRUE,CAPS and group,BAETIS RHODANI GROUP
 Baetis tricaudatus,Baetis tricaudatus complex,TRUE,complex,BAETIS TRICAUDATUS COMPLEX
 Baetis tricaudatus complex,Baetis tricaudatus complex,FALSE,,BAETIS TRICAUDATUS COMPLEX
@@ -983,3 +985,12 @@ Zavreliella marmorata,Zavreliella marmorata,FALSE,,ZAVRELIELLA MARMORATA
 Zavrelimyia,Zavrelimyia,FALSE,,ZAVRELIMYIA
 Zealeuctra claasseni,Zealeuctra claasseni,FALSE,,ZEALEUCTRA CLAASSENI
 Zygoptera,Zygoptera,FALSE,,ZYGOPTERA
+Cricotopus Tremulus Group,Cricotopus Tremulus Group,FALSE,,CRICOTOPUS TREMULUS GROUP
+Cricotopus/Orthocladius,Cricotopus/Orthocladius,FALSE,,CRICOTOPUS/ORTHOCLADIUS
+Polypedilum Fallax Group,Polypedilum Fallax Group,FALSE,,POLYPEDILUM FALLAX GROUP
+Polypedilum Halterale Group,Polypedilum Halterale Group,FALSE,,POLYPEDILUM HALTERALE GROUP
+Polypedilum Illinoense Group,Polypedilum Illinoense Group,FALSE,,POLYPEDILUM ILLINOENSE GROUP
+Polypedilum Scalaenum Group,Polypedilum Scalaenum Group,FALSE,,POLYPEDILUM SCALAENUM GROUP
+Quistadrilus,Quistadrilus,FALSE,,QUISTADRILUS
+Thienemannimyia Group,Thienemannimyia Group,FALSE,,THIENEMANNIMYIA GROUP
+Tvetenia Bavarica Group,Tvetenia Bavarica Group,FALSE,,TVETENIA BAVARICA GROUP
