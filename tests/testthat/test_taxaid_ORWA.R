@@ -12,6 +12,11 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # 20231206, added 6th test
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# 20240606, DNI messes up stuff
+# wrote generic "tests" in 
+# BioMonTools/_tests/QC_TaxaID_betweenFiles_Project.R
+# mimics the tests here
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # duplicate names ----
 test_that("ORWA, trans, dups1", {

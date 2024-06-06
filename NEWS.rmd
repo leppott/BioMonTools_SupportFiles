@@ -17,6 +17,15 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9061
+===========
+Released - 2024-06-06
+
+* refactor: Update ORWA files
+   + Taxa Translator, Attributes
+   + Updates from Sean then QC edits (non-ACII and mismatches)
+* refactor: Update _pick_files.csv for updated ORWA files
+
 BioMonTools_SupportFiles 0.0.1.9060
 ===========
 Released - 2024-02-06

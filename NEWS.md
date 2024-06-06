@@ -4,7 +4,16 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-02-06 09:01:01.670406
+    #> Last Update: 2024-06-06 08:59:49.465124
+
+# BioMonTools_SupportFiles 0.0.1.9061
+
+Released - 2024-06-06
+
+- refactor: Update ORWA files
+  - Taxa Translator, Attributes
+  - Updates from Sean then QC edits (non-ACII and mismatches)
+- refactor: Update \_pick_files.csv for updated ORWA files
 
 # BioMonTools_SupportFiles 0.0.1.9060
 
