@@ -17,6 +17,14 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9062
+===========
+Released - 2024-06-06
+
+* refactor: Update GP files
+    + MO Attributes (20240531)
+    + GreatPlains_BCG_Pick_Files
+
 BioMonTools_SupportFiles 0.0.1.9061
 ===========
 Released - 2024-06-06

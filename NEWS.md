@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-06 08:59:49.465124
+    #> Last Update: 2024-06-06 15:50:38.996705
+
+# BioMonTools_SupportFiles 0.0.1.9062
+
+Released - 2024-06-06
+
+- refactor: Update GP files
+  - MO Attributes (20240531)
+  - GreatPlains_BCG_Pick_Files
 
 # BioMonTools_SupportFiles 0.0.1.9061
 
