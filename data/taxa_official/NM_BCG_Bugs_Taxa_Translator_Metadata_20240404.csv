@@ -1,0 +1,25 @@
+Version,4/4/2024
+Primary contact,Jen Stamp (Jen.Stamp@tetratech.com)
+,
+TaxaID_orig,taxon name from the original source file
+OTU_BCG,"original taxon name translated to an ID that harmonizes differences across datasets (such as syntax, changes in nomenclature, misspellings, etc.). Used for the NM sandy bottom BCG metric calculations. DNI (do not include) = NonTarget."
+Modified,TRUE = TaxaID_orig is different from the OTU_BCG; FALSE = TaxaID_orig is the same as the OTU_BCG
+Rationale,"reason for change (e.g., formatting - removed subgenus)"
+Notes_ORWA,"notes from the Oregon/Washington BCG project that may warrant consideration (e.g., updated nomenclature, nontarget designations)"
+NM_FINALID,"taxon name from the FINALID column in the NM source file: BENTHIC_FISH_MASTER_TAXA_02022024, 'Benthic Macros' worksheet. Provided by Zeigler, Meredith, ENV <Meredith.Zeigler@env.nm.gov> on February 2, 2024."
+RANK,level of taxonomic resolution
+PHYLUM,taxonomic hierarchy
+SUBPHYLUM,taxonomic hierarchy. Note: may not be completely populated
+CLASS,taxonomic hierarchy. Note: 'polished' version is in the Attribute table
+SUBCLASS,taxonomic hierarchy. Note: 'polished' version is in the Attribute table (this version may not be completely populated)
+ORDER,taxonomic hierarchy. Note: 'polished' version is in the Attribute table
+SUBORDER,taxonomic hierarchy. Note: may not be completely populated
+INFRAORDER,taxonomic hierarchy. Note: may not be completely populated
+SUPERFAMILY,taxonomic hierarchy. Note: 'polished' version is in the Attribute table (this version may not be completely populated)
+FAMILY,taxonomic hierarchy. Note: 'polished' version is in the Attribute table
+SUBFAMILY,taxonomic hierarchy. Note: 'polished' version is in the Attribute table (this version may not be completely populated)
+TRIBE,taxonomic hierarchy. Note: 'polished' version is in the Attribute table (this version may not be completely populated)
+GENUS,taxonomic hierarchy. Note: 'polished' version is in the Attribute table (this version may not be completely populated)
+SUBGENUS,taxonomic hierarchy. Note: may not be completely populated
+SPECIES,taxonomic hierarchy. Note: may not be completely populated
+SUBSPECIES,taxonomic hierarchy. Note: may not be completely populated

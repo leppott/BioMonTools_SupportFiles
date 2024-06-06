@@ -1,0 +1,968 @@
+TaxaID,NonTarget,BCG_Attr,BCG_Attr2,FFG,HABIT,HABSTRUCT,HABSTRUCT_Trans,LIFE_CYCLE,AirBreather,Phylum,Class,Order,Family,Subfamily,Tribe,Genus,TolVal_NE,FFG_NE,Habit_NE,BenTaxaID,TSN,ParTSN
+Ablabesmyia,FALSE,4,4_middle,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,,8,Filterer,Burrower,330,128079,
+Acari,FALSE,,,PR,CN,,,,FALSE,Arthropoda,Arachnida,,,,,,6,,,14443,,
+Acarina,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,,,,,,6,Predator,Climber,353,82754,
+Acentrella,FALSE,4,4_middle,CG,"SW,CN",CS,coarse,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Acentrella,4,Collector,Clinger,388,100801,
+Acentrella insignificans,FALSE,4,4_middle,CG,"SW,CN",CS,coarse,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Acentrella,4,Collector,Clinger,10664,568572,
+Acentrella parvula,FALSE,4,4_middle,CG,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Acentrella,4,Collector,Clinger,10665,609530,
+Acerpenna,FALSE,4,4_middle,CG,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Acerpenna,4,Shredder,Swimmer,214,568546,100755
+Acilius,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Acilius,6,Predator,Swimmer,1517,112074,
+Acricotopus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Acricotopus,6,Collector,Sprawler,8156,128463,
+Acroneuria,FALSE,3,,PR,CN,,,semi,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Acroneuria,1,Predator,Clinger,1746,102917,
+Acroneuria abnormis,FALSE,3,,PR,CN,,,semi,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Acroneuria,1,Predator,Clinger,1745,102919,
+Actinobdella,FALSE,,,,,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Actinobdella,2,Predator,Clinger,1391,69384,
+Actinobdella inequiannulata,FALSE,,,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Actinobdella,2,Predator,Clinger,1390,69386,69384
+Actinonaias ligamentina,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Actionaias,1,Filterer,Burrower,2212,80193,
+Aedes,FALSE,4,4_middle,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Aedes,8,Filterer,Swimmer,1900,126234,126234
+Aedes vexans,FALSE,4,4_middle,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Aedes,8,Filterer,Swimmer,1903,126403,
+Aeshna,FALSE,4,4_middle,PR,CB,,,semi,FALSE,Arthropoda,Insecta,Odonata,Aeshnidae,,,Aeshna,6,Predator,Climber,2098,101603,101603
+Aeshnidae,FALSE,4,4_middle,PR,"CB,CN",,,uni,FALSE,Arthropoda,Insecta,Odonata,Aeshnidae,,,Aeschnidae,6,Predator,Climber,2104,101596,101596
+Agabinae,FALSE,,,PR,SW,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,Agabinae,,,,,,,,
+Agabus,FALSE,4,4_middle,PR,SW,RM,root_mat,semi,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Agabus,5,Predator,Swimmer,223,111966,111963
+Agnetina,FALSE,3,,PR,CN,,,semi,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Agnetina,5,Predator,Clinger,3256,102975,
+Agraylea,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Agraylea,4,Predator,Climber,1805,115635,115629
+Albia,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Aturidae,,,Albia,6,Predator,Climber,10667,83435,
+Alisotrichia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Alisotrichia,4,Predator,Clinger,1806,181197,
+Allocladius,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,,Allocladius,8,Collector,Burrower,16298,,
+Allognosta,FALSE,4,4_worse,CG,SP,,,,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,Allognosta,8,Collector,Sprawler,15647,,
+Alotanypus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Alotanypus,,,,,,
+Amblema plicata,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Amblema,5,Filterer,Burrower,2215,80035,
+Ambrysus,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Hemiptera,Naucoridae,,,Ambrysus,4,Predator,Swimmer,2049,103614,
+Amercaenis,FALSE,4,4_middle,"CF,CG",SP,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,Amercaenis,7,Collector,Sprawler,3266,568555,
+Amercaenis ridens,FALSE,4,4_middle,"CF,CG",SP,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,Amercaenis,7,Collector,Sprawler,10668,568623,
+Amiocentrus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Brachycentridae,,,Amiocentrus,4,Collector,Clinger,1769,116933,
+Amnicola,FALSE,4,4_middle,SC,CB,,,,FALSE,Mollusca,Gastropoda,Prosobranchia,Bulimidae,,,Amnicola,6,Scraper,Sprawler,2184,70747,
+Amphiagrion,FALSE,,,PR,"CN,CB",,,,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Amphiagrion,8,Predator,Climber,2110,102093,
+Amphichaeta,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Amphichaeta,8,Collector,Clinger,1398,68979,
+Amphichaeta leydigi,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Amphichaeta,8,Collector,Clinger,1399,68980,
+Amphinemura,FALSE,3,,SH,"SP,CN",CS,coarse,uni,FALSE,Arthropoda,Insecta,Plecoptera,Nemouridae,,,Amphinemura,1,Scraper,Sprawler,1738,102540,
+Amphipoda,FALSE,,,CG,SP,,,,FALSE,Arthropoda,Crustacea,Amphipoda,,,,,,Collector,Swimmer,1492,93294,89802
+Anacaena,FALSE,4,4_middle,PR,BU,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Anacaena,8,Predator,Swimmer,1545,112878,
+Anafroptilum,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Anafroptilum,4,Collector,Sprawler,16299,,
+Anax,FALSE,4,4_worse,PR,"CB,CN",,,"multi,uni",FALSE,Arthropoda,Insecta,Odonata,Aeshnidae,,,Anax,8,Predator,Climber,2100,101597,
+Anax junius,FALSE,4,4_worse,PR,"CB,CN",,,"multi,uni",FALSE,Arthropoda,Insecta,Odonata,Aeshnidae,,,Anax,8,Predator,Climber,2099,101598,101597
+Ancyronyx,FALSE,4,4_middle,CG,CN,,,"semi,uni",FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Ancyronyx,2,Collector,Clinger,231,114193,114093
+Anisoptera,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,,,,,6,Predator,Clinger,16300,,
+Annelida,FALSE,,,"CG,PR",BU,,,,FALSE,Annelida,,,,,,Annelida,,Collector,Burrower,1482,64357,
+Anodonta grandis,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Anodonta,7,Filterer,Burrower,2216,79936,
+Anopheles,FALSE,4,4_middle,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Anopheles,9,Filterer,Swimmer,1909,125956,
+Anopheles pseudopunctipennis,FALSE,4,4_middle,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Anopheles,9,Filterer,Swimmer,1906,125995,125956
+Anopheles walkeri,FALSE,4,4_middle,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Anopheles,9,Filterer,Swimmer,1910,125982,125956
+Anthomyiidae,FALSE,,,PR,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Anthomyiidae,,,,6,Predator,Sprawler,1577,148685,
+Antocha,FALSE,3,,CG,CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Antocha,3,Collector,Sprawler,51,119656,119655
+Antocha obtusa,FALSE,3,,CG,CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Antocha,,,,,,
+Apedilum,FALSE,,,CG,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Apedilum,5,Collector,Burrower,3238,206655,
+Apobaetis,FALSE,,,CG,"SW,CN",NF,pool,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Apobaetis,4,Collector,Clinger,4035,100936,
+Apobaetis lakota,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Apobaetis,4,Collector,Clinger,4036,609535,100936
+Apsectrotanypus,FALSE,,,PR,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Apsectrotanypus,2,Predator,Swimmer,1595,128021,128021
+Arachnida,FALSE,,,"CG,PR",CB,,,,FALSE,Arthropoda,Arachnida,,,,,Arachnida,6,Collector,Climber,1483,82708,82708
+Archilestes,FALSE,4,4_middle,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Odonata,Lestidae,,,Archilestes,6,Predator,Climber,1711,102059,102059
+Archilestes grandis,FALSE,4,4_middle,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Odonata,Lestidae,,,Archilestes,6,Predator,Climber,1710,102060,102059
+Argia,FALSE,4,4_worse,PR,"CB,CN",,,uni,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Argia,8,Predator,Climber,2113,102139,102139
+Arigomphus,FALSE,4,4_middle,PR,BU,,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Arigomphus,6,Predator,Burrower,1698,101770,101770
+Arrenurus,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Arrenuridae,,,Arrenurus,5,Predator,Clinger,6537,82864,
+Asellidae,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,,6,Scraper,Sprawler,1506,92657,
+Asellus,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,Asellus,6,Scraper,Sprawler,1502,92658,92657
+Asellus intermedius,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,Asellus,6,Scraper,Sprawler,1501,92712,92658
+Astacidae,FALSE,,,,,,,,FALSE,Arthropoda,Crustacea,Decapoda,Astacidae,,,Astacidae,8,Scraper,Sprawler,1493,97324,97306
+Asynarchus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Asynarchus,1,Shredder,Clinger,1833,116221,
+Athericidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Athericidae,,,,10,Predator,Burrower,337,130928,
+Atherix,FALSE,4,4_better,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Athericidae,,,Atherix,4,Predator,Burrower,54,130929,130928
+Atherix lantha,FALSE,4,4_better,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Athericidae,,,Atherix,4,Predator,Burrower,1578,130930,130929
+Atractides,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Hygrobatidae,,,Atractides,5,Predator,Clinger,7926,83282,
+Atrichopogon,FALSE,4,4_middle,"CG,PR","CN,SP",SG,,multi,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Atrichopogon,6,Predator,Burrower,389,127003,127112
+Aulodrilus,FALSE,4,4_middle,CG,"BU,SP",NF,pool,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Aulodrilis,8,Collector,Burrower,1454,68679,68679
+Aulodrilus pigueti,FALSE,4,4_middle,CG,"BU,SP",NF,pool,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Aulodrilis,8,Collector,Burrower,1452,68680,68679
+Axarus,FALSE,4,4_better,CG,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Axarus,3,Collector,Sprawler,1597,129236,129236
+Axarus scopula,FALSE,4,4_better,CG,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Axarus,3,Collector,Sprawler,1596,129242,129236
+Baetidae,FALSE,4,4_middle,CG,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,,4,Collector,Sprawler,55,100755,100503
+Baetis,FALSE,4,4_middle,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Baetis,5,Collector,Sprawler,56,100800,100755
+Baetis brunneicolor,FALSE,4,4_middle,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Baetis,5,Collector,Sprawler,6277,100825,
+Baetis flavistriga complex,FALSE,4,4_middle,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Baetis,,,,,,
+Baetis Fuscatus Group,FALSE,4,4_middle,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Baetis,4,Collector,Swimmer,15648,,
+Baetis intercalaris complex,FALSE,4,4_middle,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Baetis,5,Collector,Sprawler,3246,100808,100800
+Baetis magnus,FALSE,4,4_middle,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Baetis,4,Collector,Sprawler,16301,,
+Baetis Rhodani Group,FALSE,4,4_middle,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Baetis,4,Collector,Sprawler,16302,,
+Baetis tricaudatus complex,FALSE,4,4_middle,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Baetis,5,Collector,Sprawler,7991,100817,100817
+Baetisca,FALSE,4,4_middle,CG,"SP,SW",,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetiscidae,,,Baetisca,2,Collector,Swimmer,1975,101494,101494
+Beckidia tethys,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Beckidia,4,Collector,Sprawler,1599,129247,
+Belostoma,FALSE,4,4_middle,PR,CB,RM,root_mat,"multi,uni",TRUE,Arthropoda,Insecta,Hemiptera,Belostomatidae,,,Belostoma,8,Predator,Swimmer,2024,103684,103684
+Belostomatidae,FALSE,4,4_middle,PR,CB,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Belostomatidae,,,,8,Predator,Swimmer,2028,103683,
+Berosus,FALSE,4,4_middle,"PH,CG",SW,,,multi,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Berosus,8,Predator,Swimmer,3231,112812,112812
+Berosus styliferus,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Berosus,6,Predator,Swimmer,1546,112822,
+Bezzia,FALSE,4,4_middle,PR,SP,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Bezzia,6,Predator,Sprawler,1582,127778,127778
+Bezzia/Palpomyia,FALSE,4,4_middle,PR,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,,,,14558,,
+Bidessus,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Bidessus,8,Predator,Swimmer,1518,112322,111963
+Bittacomorpha,FALSE,,,CG,BU,,,uni,TRUE,Arthropoda,Insecta,Diptera,Ptychopteridae,,,Bittacomorpha,,,,,,
+Boreonectes,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Boreonectes,5,Predator,Swimmer,15745,,
+Boyeria,FALSE,4,4_middle,PR,"CB,CN",RM,root_mat,multi,FALSE,Arthropoda,Insecta,Odonata,Aeshnidae,,,Boyeria,6,Predator,Climber,2101,101645,101645
+Brachycentridae,FALSE,4,4_middle,CF,CB,,,semi,FALSE,Arthropoda,Insecta,Trichoptera,Brachycentridae,,,,1,Filterer,Climber,1772,116905,
+Brachycentridae occidentalis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Tricoptera,Brachycentridae,,,Brachycentrus,1,,,14559,,
+Brachycentrus,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Brachycentridae,,,Brachycentrus,1,Filterer,Climber,1771,116906,116906
+Brachycentrus numerosus,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Brachycentridae,,,Brachycentrus,1,Filterer,Climber,1770,116910,116906
+Brachycentrus occidentalis,FALSE,3,,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Brachycentridae,,,Brachycentrus,1,Filterer,Climber,10669,116918,
+Brachycercinae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,Brachycercinae,,,,,,,,
+Brachycercus,FALSE,4,4_middle,CG,SP,NF,pool,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,Brachycercus,3,Collector,Sprawler,412,101468,101467
+Branchiobdellida,FALSE,4,4_middle,CG,CB,,,,FALSE,Annelida,Oligochaeta,Branchiobdellida,,,,,6,Collector,Clinger,1395,69168,68422
+Branchiobdellidae,FALSE,4,4_middle,CG,CB,,,,FALSE,Annelida,Oligochaeta,Branchiobdellida,Branchiobdellidae,,,,6,Collector,Clinger,1394,69169,69168
+Branchiura sowerbyi,FALSE,4,4_middle,CG,CB,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Branchiura,10,Collector,Clinger,1455,68621,89404
+Bratislavia,FALSE,4,4_middle,CG,"BU,CN",,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Bratislavia,6,Collector,Clinger,1400,69021,
+Brillia,FALSE,4,4_middle,SH,BU,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Brillia,4,Shredder,Sprawler,1600,128477,128457
+Brundiniella,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Macropelopiini,Brundiniella,3,Predator,Sprawler,6274,128026,
+Brychius,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Haliplidae,,,Brychius,5,Scraper,Clinger,58,111947,111857
+Caecidotea,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,Caecidotea,8,Scraper,Clinger,1503,92686,92657
+Caecidotea intermedia,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Isopoda,Asellidae,,,Caecidotea,6,Scraper,Clinger,1504,92711,92686
+Caenidae,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,,6,Collector,Sprawler,213,101467,101459
+Caenis,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,Caenis,7,Collector,Sprawler,60,101478,101467
+Callibaetis,FALSE,4,4_worse,CG,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Callibaetis,7,Collector,Swimmer,1966,100903,100755
+Callicorixa,FALSE,,,PR,SW,,,,TRUE,Arthropoda,Insecta,Hemiptera,Corixidae,,,Callicorixa,10,Predator,Swimmer,3245,103514,
+Caloparyphus,FALSE,4,4_worse,CG,SP,,,uni,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,Caloparyphus,8,Predator,Sprawler,1946,130409,130409
+Calopterygidae,FALSE,4,4_middle,PR,CB,,,,FALSE,Arthropoda,Insecta,Odonata,Calopterygidae,,,,,,,2109,102043,
+Calopteryx,FALSE,4,4_worse,PR,CB,RM,root_mat,uni,FALSE,Arthropoda,Insecta,Odonata,Calopterygidae,,,Calopteryx,4,Predator,Climber,2106,102052,
+Cambaridae,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Decapoda,Cambaridae,,,,6,Scraper,Sprawler,1499,97336,97336
+Cambarincola,FALSE,4,4_middle,CG,CN,,,,FALSE,Annelida,Oligochaeta,Branchiobdellida,Branchiobdellidae,,,Cambarincola,6,Collector,Clinger,1393,69258,69258
+Cambarus,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Crustacea,Decapoda,Cambaridae,,,Cambarus,6,Scraper,Sprawler,1494,97337,97336
+Camelobaetidius,FALSE,4,4_middle,"CG,SH",SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Camelobaetidius,2,Shredder,Swimmer,3268,568548,
+Campeloma,FALSE,,,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Prosobranchia,Viviparidae,,,Campeloma,0,Scraper,Sprawler,2189,70311,331600
+Carabidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Coleoptera,Carabidae,,,Carabidae,6,Scraper,Clinger,1510,109234,109226
+Cardiocladius,FALSE,4,4_middle,PR,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cardiocladius,2,Collector,Clinger,1602,128511,128457
+Cardiocladius obscurus,FALSE,4,4_middle,PR,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cardiocladius,5,Collector,Clinger,1601,128515,128511
+Celithemis,FALSE,,,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Celithemis,8,Predator,Climber,1714,101840,
+Celithemis elisa,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Celithemis,8,Predator,Climber,1713,101843,
+Centroptilum,FALSE,4,4_middle,CG,SW,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Centroptilum,1,Collector,Swimmer,1967,100873,100755
+Ceraclea,FALSE,4,4_middle,CG,"CN,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Ceraclea,4,Collector,Climber,1820,116684,
+Ceratopogon,FALSE,,,PR,"BU,SP",,,uni,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Ceratopogon,6,Predator,Sprawler,1583,127564,
+Ceratopogonidae,FALSE,4,4_middle,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,6,Predator,Sprawler,1590,127076,127076
+Ceratopogoninae,FALSE,4,4_middle,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,,,6,,,14442,,
+Ceratopsyche,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Ceratopsyche,4,Filterer,Clinger,1780,115570,115398
+Ceratopsyche bronta,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Ceratopsyche,4,Filterer,Clinger,1782,115577,115570
+Ceratopsyche morosa,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Ceratopsyche,4,Filterer,Clinger,1783,115580,115570
+Ceratopsyche morosa bifida,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Ceratopsyche,4,Filterer,Clinger,3473,115580,115570
+Ceratopsyche slossonae,FALSE,3,,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Ceratopsyche,2,Filterer,Clinger,1785,115586,115570
+Ceratopsyche sparna,FALSE,3,,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Ceratopsyche,2,Filterer,Clinger,1786,115589,115570
+Cercobrachys,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,Cercobrachys,5,Collector,Sprawler,3243,568556,
+Cercyon,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Cercyon,5,Predator,Climber,1548,113039,
+Chaetarthria,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Chaetarthria,6,Collector,Climber,1550,112845,
+Chaetocladius,FALSE,4,4_middle,CG,SP,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Chaetocladius,6,Collector,Sprawler,1603,128520,128457
+Chaetogaster,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Chaetogaster,10,Collector,Clinger,339,68934,
+Chaetogaster diaphanus,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Chaetogaster,6,Collector,Clinger,1402,68935,68934
+Chaetogaster diastrophus,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Chaetogaster,6,Collector,Clinger,1403,68938,
+Chaoborus,FALSE,4,4_middle,PR,SP,NF,pool,uni,FALSE,Arthropoda,Insecta,Diptera,Chaoboridae,,,Chaoborus,8,Predator,Sprawler,1576,125904,125892
+Chaoborus punctipennis,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chaoboridae,,,Chaoborus,8,Predator,Sprawler,1593,125923,125904
+Chauliodes,FALSE,4,4_middle,PR,CN,,,semi,FALSE,Arthropoda,Insecta,Megaloptera,Corydalidae,,,Chauliodes,4,Predator,Climber,2087,115024,115023
+Chauliodes rastricornis,FALSE,4,4_middle,PR,CN,RM,root_mat,semi,FALSE,Arthropoda,Insecta,Megaloptera,Corydalidae,,,Chauliodes,4,Predator,Climber,2086,115025,115024
+Chelifera,FALSE,4,4_middle,PR,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Empididae,,,Chelifera,9,Collector,Sprawler,3247,136305,136305
+Chernovskiia,FALSE,,,CG,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Chernovskiia,4,Collector,Burrower,1606,129249,
+Chernovskiia amphitrite,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Chernovskiia,4,Collector,Burrower,1604,129250,
+Chernovskiia orbicus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Chernovskiia,4,Collector,Burrower,1605,129252,
+Cheumatopsyche,FALSE,4,4_worse,CF,CN,,,multi,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Cheumatopsyche,5,Filterer,Clinger,390,115408,115398
+Chimarra,FALSE,3,,CF,CN,CS,coarse,uni,FALSE,Arthropoda,Insecta,Trichoptera,Philopotamidae,,,Chimarra,1,Filterer,Clinger,2139,115273,115273
+Chioneinae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Limoniidae,Chioneinae,,,,,,,,
+Chironomidae,FALSE,4,4_middle,CG,BU,,,"uni,multi",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,,,6,Collector,Sprawler,63,127917,125808
+Chironomini,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,,8,Collector,Sprawler,1607,129229,
+Chironomus,FALSE,4,4_worse,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Chironomus,10,Collector,Burrower,64,129254,129229
+Chloroperlidae,FALSE,3,,PR,CN,CS,coarse,uni,FALSE,Arthropoda,Insecta,Plecoptera,Chloroperlidae,,,Chloroperlidae,1,Predator,Clinger,1735,103202,
+Choroterpes,FALSE,3,,CG,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,,,Choroterpes,1,Collector,Clinger,2005,101108,
+Chromagrion conditum,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Chromagrion,4,Predator,Climber,2114,102134,102133
+Chrysomelidae,FALSE,,,SH,CN,,,,FALSE,Arthropoda,Insecta,Coleoptera,Chrysomelidae,,,,6,Shredder,Clinger,229,114509,114496
+Chrysops,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tabanidae,,,Chrysops,6,Shredder,Burrower,1955,131078,
+Cladocera,FALSE,,,,,,,,FALSE,Arthropoda,Branchiopoda,,,,,,8,,,14562,,
+Cladopelma,FALSE,4,4_middle,CG,BU,NF,pool,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Cladopelma,8,Collector,Clinger,1610,129350,129229
+Cladotanytarsus,FALSE,4,4_middle,CG,CB,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Cladotanytarsus,7,Collector,Climber,391,129873,129872
+Clathrosperchon,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Rhynchohydracaridae,,,Clathrosperchon,6,Predator,Climber,10699,83177,
+Clinocera,FALSE,4,4_middle,PR,CN,CS,coarse,uni,FALSE,Arthropoda,Insecta,Diptera,Empididae,,,Clinocera,6,Predator,Sprawler,67,135849,135844
+Clinotanypus,FALSE,4,4_middle,PR,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Clinotanypus,8,Predator,Sprawler,424,127996,127995
+Cloeon,FALSE,,,CG,SW,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Cloeon,3,Collector,Clinger,1968,100756,100755
+Coelotanypus,FALSE,4,4_middle,PR,BU,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Coelotanypus,6,Predator,Sprawler,1613,128010,128010
+Coenagrion,FALSE,4,4_worse,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Coenagrion,6,Predator,Climber,2115,102155,102155
+Coenagrionidae,FALSE,4,4_worse,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,,6,Predator,Climber,2121,102077,
+Coleoptera,FALSE,,,NA,NA,,,,FALSE,Arthropoda,Insecta,Coleoptera,Coleoptera,,,,4,Predator,Swimmer,222,109216,109215
+Collembola,FALSE,4,4_middle,CG,NA,,,,FALSE,Arthropoda,Insecta,Collembola,Collembola,,,,10,Collector,Unidentified,211,99237,99209
+Colymbetes,FALSE,,,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Colymbetes,4,Predator,Swimmer,1519,112379,112379
+Conchapelopia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Conchapelopia,6,Predator,Sprawler,1614,128130,128078
+Constempellina,FALSE,,,CG,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Constempellina,6,Collector,Sprawler,1615,129884,129872
+Copelatus,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Copelatus,8,Predator,Swimmer,3267,112561,
+Copepoda,FALSE,,,,,,,,FALSE,Arthropoda,Copepoda,,,,,,8,,,14430,,
+Coptotomus,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Coptotomus,8,Predator,Swimmer,1520,112371,112371
+Corbicula fluminea,FALSE,6m,,CF,BU,,,multi,FALSE,Mollusca,Pelecypoda,Unionoida,Corbiculidae,,,Corbicula,6,Filterer,Burrower,2259,81387,81385
+Cordulia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,Corduliidae,,,Cordulia,4,Predator,Climber,1693,102014,102014
+Corduliidae,FALSE,4,4_middle,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Odonata,Corduliidae,,,,4,Predator,Climber,1697,102020,
+Cordylophora lacustris,FALSE,,,,,,,,FALSE,Coelenterata,Hydrozoa,Hydroida,Clavidae,,,Cordylophora,5,Filterer,Clinger,2163,48894,
+Corisella,FALSE,4,4_middle,PR,SW,,,multi,FALSE,Arthropoda,Insecta,Heteroptera,Corixidae,,,Corisell,9,Predator,Swimmer,3257,103484,
+Corixidae,FALSE,4,4_middle,PR,SW,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Corixidae,,,,10,Predator,Swimmer,2031,103364,103364
+Corydalidae,FALSE,4,4_middle,PR,CN,,,"semi,uni",FALSE,Arthropoda,Insecta,Megaloptera,Corydalidae,,,,4,Predator,Climber,2090,115023,
+Corydalus,FALSE,4,4_middle,PR,CN,CS,coarse,"semi,uni",FALSE,Arthropoda,Insecta,Megaloptera,Corydalidae,,,Corydalus,4,Predator,Climber,2089,115033,115023
+Corydalus cornutus,FALSE,4,4_middle,PR,CN,,,"semi,uni",FALSE,Arthropoda,Insecta,Megaloptera,Corydalidae,,,Corydalus,4,Predator,Climber,2088,115034,115033
+Corynoneura,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Corynoneura,3,Collector,Sprawler,1616,128563,128457
+Crambidae,FALSE,3,,SH,BU,,,,FALSE,Arthropoda,Insecta,Lepidoptera,Crambidae,,,,5,Shredder,Burrower,7860,693963,
+Crangonyx,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Crustacea,Amphipoda,Crangonyctidae,,,Crangonyx,2,Collector,Swimmer,1486,95081,95080
+Crangonyx gracilis,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Crustacea,Amphipoda,Crangonyctidae,,,Crangonyx,2,Collector,Swimmer,1485,95086,95081
+Cricotopus,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,7,Shredder,Sprawler,1623,128575,128457
+Cricotopus (Cricotopus),FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,,,,,,
+Cricotopus (Isocladius),FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,7,Scraper,Sprawler,1617,568515,128575
+Cricotopus bicinctus,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,7,Collector,Sprawler,1618,128583,128575
+Cricotopus cylindraceus,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,7,Collector,Sprawler,1619,128589,
+Cricotopus fuscus,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,8,Collector,Sprawler,1620,128669,128575
+Cricotopus intersectus,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,8,Collector,Sprawler,1621,128614,128575
+Cricotopus laricomalis,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,9,Collector,Sprawler,1622,128619,
+Cricotopus Sylvestris Group,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,8,Collector,Sprawler,1624,128645,128575
+Cricotopus tibialis,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,5,Collector,Sprawler,1625,128647,
+Cricotopus Tremulus Group,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,5,Shredder,Sprawler,1626,128651,128575
+Cricotopus triannulatus,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,6,Collector,Sprawler,1627,128653,128575
+Cricotopus tricinctus,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,4,Collector,Sprawler,1628,128656,128575
+Cricotopus trifascia,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,4,Collector,Sprawler,1629,128659,128575
+Cricotopus trifasciatus,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,6,Collector,Sprawler,1630,128661,
+Cricotopus vierriensis,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Cricotopus,4,Collector,Sprawler,1631,128666,128575
+Cricotopus/Orthocladius,FALSE,4,4_middle,"SH,CG",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,,,,,,,
+Cryphocricos,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Hemiptera,Naucoridae,,,Cryphocricos,6,Collector,Swimmer,2050,103675,
+Cryptochironomus,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Cryptochironomus,8,Predator,Sprawler,1633,1239368,129229
+Cryptochironomus fulvus,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Cryptochironomus,8,Predator,Sprawler,3232,129376,129368
+Cryptotendipes,FALSE,4,4_middle,CG,"BU,SP",NF,pool,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Cryptotendipes,6,Collector,Sprawler,1634,129394,129229
+Culex,FALSE,4,4_worse,CF,SW,RM,root_mat,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Culex,9,Filterer,Swimmer,1915,126455,126455
+Culex pipiens,FALSE,4,4_worse,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Culex,9,Filterer,Swimmer,1911,126488,
+Culex quinquefasciatus,FALSE,4,4_worse,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Culex,9,Filterer,Swimmer,1912,126490,126455
+Culex restuans,FALSE,4,4_worse,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Culex,9,Filterer,Swimmer,1913,126493,
+Culex salinarius,FALSE,4,4_worse,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Culex,9,Filterer,Swimmer,1914,126495,
+Culex tarsalis,FALSE,4,4_worse,CF,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Culex,9,Filterer,Swimmer,1916,126498,
+Culicidae,FALSE,4,4_middle,CG,SW,,,multi,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,,8,Predator,Swimmer,332,125930,125808
+Culicoides,FALSE,4,4_middle,PR,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Culicoides,8,Collector,Sprawler,1584,127340,
+Culoptila,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Glossosomatidae,,,Culoptila,,,,16303,,
+Cura foremanii,FALSE,,,"CG,PR",SP,,,,FALSE,Platyhelminthes,Turbellaria,Tricladida,Planariidae,,,Cura,1,Collector,Sprawler,2287,54554,
+Curculionidae,FALSE,4,4_middle,SH,CN,,,uni,FALSE,Arthropoda,Insecta,Coleoptera,Curculionidae,,,,6,Shredder,Climber,1513,114666,
+Cybister,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Cybister,5,Predator,Swimmer,224,112364,111963
+Cymbiodyta,FALSE,4,4_middle,CG,"BU,SW",,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Cymbiodyta,6,Collector,Burrower,1552,113017,
+Cymbiodyta toddi,FALSE,4,4_middle,CG,"BU,SW",,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Cymbiodyta,6,Collector,Burrower,1553,113024,113017
+Cyphomella,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Cyphomella,4,Collector,Sprawler,1635,129405,
+Cyphon,FALSE,4,4_middle,SC,CB,,,,TRUE,Arthropoda,Insecta,Coleoptera,Scirtidae,,,Cyphon,6,Scraper,Climber,1567,113948,113923
+Cyrnellus,FALSE,4,4_worse,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Polycentropodidae,,,Cyrnellus,4,Filterer,Clinger,2144,117091,
+Cyrnellus fraternus,FALSE,4,4_worse,CF,CN,SG,snag,uni,FALSE,Arthropoda,Insecta,Trichoptera,Polycentropodidae,,,Cyrnellus,4,Filterer,Clinger,2143,117092,117091
+Dactylobaetis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Dactylobaetis,2,Shredder,Swimmer,1969,100942,
+Dannella,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,,,,2,Scraper,Clinger,341,101360,
+Dasyhelea,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Dasyhelea,6,Collector,Sprawler,1585,127278,127278
+Dasyheleinae,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyheleinae,,,,,,,,
+Decapoda,FALSE,,,"SC,SH",SP,,,,FALSE,Arthropoda,Crustacea,Decapoda,,,,Decapoda,,Scraper,Sprawler,1500,95599,95495
+Demicryptochironomus,FALSE,,,CG,BU,CS,coarse,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Demicryptochironomus,3,Collector,Burrower,1636,129421,129229
+Dero,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Dero,9,Collector,Clinger,413,68898,68854
+Dero digitata,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Dero,9,Collector,Clinger,1405,68904,68898
+Dero dorsalis,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Dero,8,Collector,Clinger,1406,68906,
+Dero furcata,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Dero,9,Collector,Clinger,1407,68912,68898
+Dero lodeni,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Dero,6,Collector,Clinger,1408,68924,68898
+Dero nivea,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Dero,9,Collector,Clinger,1409,68900,68898
+Dero vaga,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Dero,6,Collector,Clinger,1411,68915,68898
+Deronectes,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Deronectes,6,Predator,Swimmer,1521,112153,111963
+Desmopachria,FALSE,4,4_middle,PR,SW,,,multi,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Desmopachria,4,Predator,Swimmer,10283,112145,
+Desserobdella picta,FALSE,,,,,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Desserobdella,6,Predator,Clinger,3926,69362,
+Diamesa,FALSE,3,,CG,SP,CS,coarse,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Diamesinae,,Diamesa,2,Collector,Sprawler,1637,128355,128351
+Dibolocelus,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Dibolocelus,8,Collector,Swimmer,1554,113085,
+Dicranomyia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Dicranomyia,,,,,,
+Dicranota,FALSE,4,4_middle,PR,"SP,BU",,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Dicranota,3,Predator,Sprawler,71,121027,121026
+Dicrotendipes,FALSE,4,4_worse,CG,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Dicrotendipes,6,Collector,Clinger,392,129428,129229
+Dicrotendipes neomodestus,FALSE,4,4_worse,CG,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Decrotendipes,6,Collector,Climber,3236,129450,129428
+Dictya,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Sciomyzidae,,,Dictya,6,Predator,Sprawler,1938,144789,
+Didymops,FALSE,4,4_middle,PR,SP,,,semi,FALSE,Arthropoda,Insecta,Odonata,Macromiidae,,,Didymops,6,Predator,Sprawler,1726,101851,101851
+Didymops transversa,FALSE,4,4_middle,PR,SP,,,semi,FALSE,Arthropoda,Insecta,Odonata,Macromiidae,,,Didymops,6,Predator,Sprawler,1727,101852,101851
+Dina,FALSE,,,,,,,,FALSE,Annelida,Hirudinea,Pharyngobdellida,Erpobdellidae,,,Dina,8,Predator,Clinger,1378,69439,69438
+Dineutus,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Gyrinidae,,,Dineutus,4,Predator,Skater,226,112711,112653
+Diplectrona,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Diplectrona,0,Filterer,Clinger,1787,115399,115398
+Diplocladius,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Diplocladius,8,Collector,Sprawler,1641,128670,128457
+Diplocladius cultriger,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Diplocladius,8,Collector,Sprawler,1640,128670,128670
+Diptera,FALSE,,,NA,CB,,,,FALSE,Arthropoda,Insecta,Diptera,Diptera,,,,10,,,329,118831,109215
+Disonycha,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Coleoptera,Chrysomelidae,,,Disonycha,8,Shredder,Clinger,3269,114615,
+Dixa,FALSE,3,,CG,CB,,,uni,FALSE,Arthropoda,Insecta,Diptera,Dixidae,,,Dixa,6,Collector,Sprawler,1919,125810,128510
+Dixella,FALSE,4,4_middle,CG,SW,RM,root_mat,uni,FALSE,Arthropoda,Insecta,Diptera,Dixidae,,,Dixella,6,Collector,Sprawler,1920,125854,125854
+Dixidae,FALSE,4,4_middle,CG,SW,,,,FALSE,Arthropoda,Insecta,Diptera,Dixidae,,,,6,Collector,Sprawler,1921,125809,
+Dolichopodidae,FALSE,4,4_middle,PR,"SP,BU",,,,TRUE,Arthropoda,Insecta,Diptera,Dolichopodidae,,,,5,Predator,Sprawler,1922,136824,
+Dromogomphus,FALSE,4,4_better,PR,BU,,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Dromogomphus,6,Predator,Burrower,1699,101730,101730
+Dryopidae,FALSE,4,4_middle,"SC,SH","CN,CB",,,,FALSE,Arthropoda,Insecta,Coleoptera,Dryopidae,,,,6,Shredder,Climber,1516,113999,
+Dubiraphia,FALSE,4,4_middle,"CG,SC",CN,,,"semi,uni",FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Dubiraphia,6,Collector,Clinger,72,114126,114093
+Dubiraphia vittata,FALSE,4,4_middle,"CG,SC",CN,,,"semi,uni",FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Dubiraphia,6,Collector,Clinger,3883,114131,114126
+Dugesia,FALSE,4,4_middle,"CG,PR",SP,,,,FALSE,Platyhelminthes,Turbellaria,Tricladida,Planariidae,,,Dugesia,8,Collector,Sprawler,2289,54503,54502
+Dugesia tigrina,FALSE,4,4_middle,"CG,PR",SP,,,,FALSE,Platyhelminthes,Turbellaria,Tricladida,Planariidae,,,Dugesia,8,Collector,Sprawler,2290,54504,54503
+Dytiscidae,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,,5,Predator,Swimmer,1534,111963,109226
+Dytiscus,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Dytiscus,4,Predator,Swimmer,1522,112118,
+Eccoptura,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Eccoptura,1,Predator,Clinger,1747,102939,
+Ecdyonurinae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Ecdyonurinae,,,,,,,,
+Einfeldia,FALSE,,,CG,BU,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Einfeldia,8,Collector,Sprawler,1642,129459,129229
+Elliptio dilatata,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Elliptio,4,Filterer,Burrower,2222,79953,
+Elmidae,FALSE,4,4_middle,CG,CN,,,semi,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Elmidae,5,Collector,Climber,1539,114093,113998
+Elodes,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Scirtidae,,,Elodes,6,Scraper,Climber,1568,113969,113923
+Empididae,FALSE,4,4_middle,PR,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Empididae,,,,8,Collector,Sprawler,1923,135830,
+Enallagma,FALSE,4,4_worse,PR,CB,RM,root_mat,multi,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Enallagma,9,Predator,Climber,2117,102102,102102
+Enallagma praevarum,FALSE,4,4_worse,PR,CB,,,multi,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Enallagma,9,Predator,Climber,2116,102127,
+Enchytraeidae,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Tubificida,Enchytraeidae,,,,9,Collector,Burrower,425,68510,68509
+Enchytraeus,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Enchytraeidae,,,Enchytraeus,9,Collector,Burrower,6559,68531,
+Endochironomus,FALSE,4,4_worse,SH,CN,SG,snag,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Endochironomus,9,Shredder,Sprawler,426,129470,129229
+Enochrus,FALSE,4,4_worse,CG,"BU,SW",SG,snag,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Enochrus,5,Collector,Burrower,1555,112973,112811
+Epeorus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Epeorus,0,Scraper,Clinger,74,100626,100504
+Ephemera,FALSE,4,4_middle,CG,BU,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemeridae,,,Ephemera,4,Collector,Burrower,1978,101526,101525
+Ephemerella,FALSE,3,,CG,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,,,Ephemerella,1,Collector,Clinger,75,101233,101232
+Ephemerella Excrucians Group,FALSE,3,,CG,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,,,Ephemerella,4,Collector,Sprawler,16305,,
+Ephemeroptera,FALSE,,,CG,NA,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemeroptera,,,,3,Collector,Clinger,76,100502,100500
+Ephoron,FALSE,4,4_middle,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Polymitarcyidae,,,Ephoron,2,Collector,Burrower,2016,101572,101570
+Ephoron album,FALSE,4,4_middle,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Polymitarcyidae,,,Ephoron,2,Collector,Burrower,2014,101571,101570
+Ephoron leukon,FALSE,4,4_middle,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Polymitarcyidae,,,Ephoron,2,Collector,Burrower,2015,101570,101570
+Ephydra,FALSE,5,,"CG,SH",BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Ephydridae,,,Ephydra,8,Collector,Sprawler,1924,147486,147486
+Ephydridae,FALSE,5,,CG,BU,,,,FALSE,Arthropoda,Insecta,Diptera,Ephydridae,,,,6,Collector,Sprawler,1928,146893,
+Epitheca,FALSE,4,4_middle,PR,CB,RM,,uni,FALSE,Arthropoda,Insecta,Odonata,Cordulegastridae,,,Epitheca,8,Predator,Sprawler,1691,102035,102035
+Epitheca princeps,FALSE,4,4_middle,PR,CB,RM,,uni,FALSE,Arthropoda,Insecta,Odonata,Cordulegastridae,,,Epitheca,8,Predator,Sprawler,1690,185985,102035
+Epoicocladius,FALSE,,,"CG,PA",,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Epiococladius,3,Collector,Sprawler,1644,128682,128682
+Erioptera,FALSE,4,4_middle,CG,"BU,SP",,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Erioptera,6,Shredder,Burrower,1959,120503,120503
+Eristalis,FALSE,,,CG,BU,,,,TRUE,Arthropoda,Insecta,Diptera,Syrphidae,,,Eristalis,10,Shredder,Burrower,1953,140904,
+Erpetogomphus,FALSE,4,4_middle,PR,BU,,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Erpetogomphus,6,Predator,Burrower,1701,101725,101729
+Erpobdella,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Arhynchobdellida,Erpobdellidae,,,Erpobdella,5,Predator,Clinger,1376,69444,69444
+Erpobdella microstoma,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Arhynchobdellida,Erpobdellidae,,,Erpobdella,10,Predator,Clinger,14445,,
+Erpobdella punctata,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Arhynchobdellida,Erpobdellidae,,,Erpobdella,8,Predator,Swimmer,343,69445,69444
+Erpobdellidae,FALSE,4,4_worse,PR,SP,,,uni,FALSE,Annelida,Hirudinea,Arhynchobdellida,Erpobdellidae,,,,10,Predator,Clinger,185,69438,69437
+Erythemis,FALSE,4,4_middle,PR,"CB,SP",RM,root_mat,"multi,uni",FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Erythemis,7,Predator,Climber,1715,101865,101865
+Eukiefferiella,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Eukiefferiella,8,Collector,Sprawler,77,128689,128457
+Eukiefferiella claripennis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Eukiefferiella,8,Collector,Sprawler,1645,128693,
+Euparyphus,FALSE,,,CG,SP,,,uni,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,Euparyphus,8,Predator,Sprawler,1947,130436,130436
+Fallceon,FALSE,4,4_middle,"CG,SH",SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Fallceon,5,Collector,Sprawler,3234,568551,568551
+Fallceon quilleri,FALSE,4,4_middle,"CG,SH",SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Fallceon,5,Collector,Sprawler,6236,568601,568551
+Faxonius,FALSE,4,4_better,CG,NA,,,,FALSE,Arthropoda,Decapoda,,,,,,,,,16306,,
+Ferrissia,FALSE,4,4_middle,SC,CB,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Ancylidae,,,Ferrissia,8,Scraper,Clinger,2194,76569,76568
+Ferrissia rivularis,FALSE,4,4_middle,SC,CB,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Ancylidae,,,Ferrissia,8,Scraper,Clinger,2193,76572,76569
+Forcipomyia,FALSE,4,4_middle,"SC,PR","BU,SP",SG,,uni,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Forcipomyia,6,Scraper,Sprawler,1586,127152,127152
+Forcipomyiinae,FALSE,4,4_middle,"SC,PR","BU,SP",SG,snag,uni,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,Forcipomyiinae,,,6,Scraper,Sprawler,14629,,
+Fossaria,FALSE,4,4_middle,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Fossaria,8,Scraper,Sprawler,2171,76497,76483
+Fossaria bulimoides,FALSE,,,,,,,,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Fossaria,8,Scraper,Sprawler,2168,76506,
+Fossaria humilis,FALSE,,,,,,,,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Fossaria,4,Scraper,Sprawler,2169,76513,76497
+Fossaria obrussa,FALSE,,,,,,,,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Fossaria,4,Scraper,Sprawler,2170,76504,76497
+Fredericella sultana,FALSE,,,,,,,,FALSE,Bryozoa,Ectoprocta,Phylactolaemata,Fredericellidae,,,Fredericella,6,Filterer,Clinger,2155,156723,
+Fridericia,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Enchytraeidae,,,Fridericia,9,Collector,Burrower,6556,204785,
+Fusconaia flava,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Fusconaia,4,Filterer,Burrower,2223,80041,
+Galba,FALSE,,,,,,,,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Galba,2,Scraper,Sprawler,14446,,
+Galerucella,FALSE,,,SH,SP,,,multi,FALSE,Arthropoda,Insecta,Coleoptera,Chrysomelidae,,,Galerucella,6,Shredder,Sprawler,1511,114541,
+Gammaridae,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Crustacea,Amphipoda,Gammaridae,,,,3,Collector,Swimmer,1490,93745,93295
+Gammarus,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Crustacea,Amphipoda,Gammaridae,,,Gammarus,3,Collector,Swimmer,1489,93773,93745
+Gammarus lacustris,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Crustacea,Amphipoda,Gammaridae,,,Gammarus,3,Collector,Swimmer,1488,93789,93773
+Gastropoda,FALSE,,,SC,CB,,,,FALSE,Mollusca,Gastropoda,,,,,,8,Scraper,Sprawler,2210,69459,69458
+Gelastocoridae,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Hemiptera,Gelastocoridae,,,,8,Predator,Skater,2034,103768,
+Gerridae,FALSE,4,4_middle,PR,SK,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Gerridae,,,,8,Predator,Skater,2042,103801,103801
+Gerris,FALSE,4,4_middle,PR,SK,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Gerridae,,,Gerris,8,Predator,Skater,2035,103829,103829
+Gillotia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Gillotia,6,Collector,Burrower,4025,129480,
+Glossiphonia,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Glossiphonia,6,Predator,Clinger,1389,69380,69380
+Glossiphonia complanata,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Glossiphonia,2,Predator,Clinger,1383,69381,69380
+Glossiphonia elegans,FALSE,4,4_worse,,,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Glossiphonia,6,Predator,Clinger,15744,,
+Glossiphoniidae,FALSE,4,4_worse,PR,SP,,,"multi,uni",FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,,8,Predator,Swimmer,187,69357,69295
+Glossosoma,FALSE,3,,SC,CN,,,multi,FALSE,Arthropoda,Insecta,Trichoptera,Glossosomatidae,,,Glossosoma,0,Scraper,Clinger,1773,117159,117159
+Glyptotendipes,FALSE,4,4_worse,"SH,CG,CF",BU,SG,snag,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Glyptotendipes,10,Filterer,Burrower,1646,129483,129229
+Goeldichironomus,FALSE,4,4_middle,CG,BU,SG,snag,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Goeldichironomus,10,Collector,Burrower,1647,129506,129229
+Gomphidae,FALSE,4,4_middle,PR,BU,,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Gomphidae,5,Predator,Burrower,1709,101664,
+Gomphurus,FALSE,4,4_middle,PR,BU,,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Gomphurus,6,Predator,Burrower,1702,101777,
+Gomphus,FALSE,4,4_middle,PR,BU,,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Gomphus,5,Predator,Burrower,393,101665,101664
+Gonomyia,FALSE,4,4_middle,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Limoniidae,,,Gonomyia,10,,,14600,,
+Gordiidae,FALSE,4,4_middle,PA,NA,,,,FALSE,Nematomorpha,Gordioda,Gordiidea,Gordiidae,,,,6,Unidentified,Unidentified,2276,64227,64227
+Gordius,FALSE,4,4_worse,PR,BU,,,,FALSE,Nematomorpha,Gordioda,Gordiidea,Gordiidae,,,Gordius,6,Unidentified,Unidentified,2275,64228,64228
+Graphoderus,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Graphoderus,4,Predator,Swimmer,363,112165,111963
+Gymnochthebius,FALSE,4,4_middle,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Hydraenidae,,,Gymnochthebius,4,Shredder,Clinger,10285,193637,
+Gyraulus,FALSE,4,4_worse,SC,CB,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Planorbidae,,,Gyraulus,4,Scraper,Sprawler,2202,76592,76591
+Gyraulus parvus,FALSE,4,4_worse,SC,CB,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Planorbidae,,,Gyraulus,4,Scraper,Sprawler,2201,76595,76592
+Gyrinidae,FALSE,4,4_middle,PR,SW,,,,TRUE,Arthropoda,Insecta,Coleoptera,Gyrinidae,,,,4,Predator,Swimmer,225,112653,109226
+Gyrinus,FALSE,4,4_middle,PR,SW,RM,root_mat,uni,TRUE,Arthropoda,Insecta,Coleoptera,Gyrinidae,,,Gyrinus,4,Predator,Swimmer,227,112654,112653
+Haemonais waldvogeli,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Haemonais,6,Collector,Clinger,1413,69004,69003
+Haemopis,FALSE,,,"PR,SH",SP,,,,FALSE,Annelida,Hirudinea,Gnathobdellida,Hirudinidae,,,Haemopis,5,Predator,Clinger,1368,69408,69407
+Haliplidae,FALSE,4,4_worse,PH,CN,,,multi,TRUE,Arthropoda,Insecta,Coleoptera,Haliplidae,,,,5,Scraper,Clinger,228,111857,109226
+Haliplus,FALSE,4,4_worse,"SH,PH",CB,,,multi,TRUE,Arthropoda,Insecta,Coleoptera,Haliplidae,,,Haliplus,5,Scraper,Clinger,82,111858,111857
+Halocladius,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Halocladius,2,Collector,Sprawler,1648,128725,
+Harnischia,FALSE,4,4_middle,CG,"CB,BU",NF,pool,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Harnischia,3,Collector,Sprawler,1649,129516,129229
+Heleniella,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Heleniella,1,Collector,Sprawler,1650,128730,128457
+Helichus,FALSE,4,4_middle,"SC,SH,CG",CN,,,semi,FALSE,Arthropoda,Insecta,Coleoptera,Dryopidae,,,Helichus,6,Shredder,Climber,1514,114006,114006
+Helicopsyche,FALSE,4,4_middle,SC,CN,CS,coarse,uni,FALSE,Arthropoda,Insecta,Trichoptera,Helicopsychidae,,,Helicopsyche,3,Scraper,Clinger,1778,117016,117016
+Helicopsyche borealis,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Helicopsychidae,,,Helicopsyche,3,Scraper,Clinger,1776,117020,117016
+Helisoma,FALSE,4,4_middle,SC,CB,,,"multi,uni",FALSE,Mollusca,Gastropoda,Pulmonata,Planorbidae,,,Helisoma,7,Scraper,Sprawler,2204,76599,76591
+Helisoma anceps,FALSE,4,4_middle,SC,CB,,,"multi,uni",FALSE,Mollusca,Gastropoda,Pulmonata,Planorbidae,,,Helisoma,7,Scraper,Sprawler,2203,76600,76599
+Helisoma trivolvis,FALSE,4,4_middle,,,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Planorbidae,,,Helisoma,7,Scraper,Sprawler,2205,76611,
+Helius,FALSE,4,4_middle,"CG,SH",BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Helius,6,Shredder,Burrower,1960,119690,
+Helobata,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Helobata,8,Collector,Swimmer,3241,113162,112811
+Helobdella,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Helobdella,8,Predator,Clinger,188,69396,69357
+Helobdella elongata,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Helobdella,10,Predator,Clinger,189,69397,69396
+Helobdella fusca,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Helobdella,6,Predator,Clinger,1380,69401,69396
+Helobdella papillata,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Helobdella,6,Predator,Clinger,10671,69403,
+Helobdella stagnalis,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Helobdella,6,Predator,Clinger,84,69398,69396
+Helobdella triserialis,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Helobdella,4,Predator,Clinger,1384,69399,69396
+Helochares,FALSE,4,4_middle,"PR,CG",CB,,,multi,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Helochares,8,Predator,Burrower,3250,113150,113150
+Helophorus,FALSE,4,4_worse,SH,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Helophorus,8,Shredder,Swimmer,1556,113106,113106
+Hemerodromia,FALSE,4,4_middle,PR,SP,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Empididae,,,Hemerodromia,6,Predator,Clinger,85,136327,136304
+Hemiptera,FALSE,,,PR,CB,,,,TRUE,Arthropoda,Insecta,Hemiptera,,,,Hemiptera,,Predator,Swimmer,2078,103359,
+Henlea,FALSE,,,,,,,,FALSE,Annelida,Clitellata,Haplotaxidae,Enchytraeidae,,,Henlea,,,,16307,,
+Heptagenia,FALSE,4,4_middle,SC,CN,SG,snag,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Heptagenia,4,Scraper,Clinger,86,100602,100504
+Heptagenia diabasia,FALSE,4,4_middle,SC,CN,SG,snag,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Heptagenia,3,Scraper,Clinger,1985,100608,100602
+Heptagenia flavescens,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Heptagenia,4,Scraper,Clinger,1987,100610,100602
+Heptagenia marginalis,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Heptagenia,4,Scraper,Clinger,1989,100616,100602
+Heptageniidae,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,,4,Scraper,Clinger,2004,100504,100503
+Hesperocorixa,FALSE,4,4_middle,PH,SW,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Corixidae,,,Hesperocorixa,10,Predator,Swimmer,3270,103444,
+Hesperophylax,FALSE,3,,SH,SP,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Hesperophylax,4,Shredder,Sprawler,1835,11600,11600
+Hetaerina,FALSE,4,4_middle,PR,"CB,CN",,,semi,FALSE,Arthropoda,Insecta,Odonata,Calopterygidae,,,Hetaerina,6,Predator,Climber,2108,102048,102048
+Hetaerina americana,FALSE,4,4_middle,PR,"CB,CN",,,semi,FALSE,Arthropoda,Insecta,Odonata,Calopterygidae,,,Hetaerina,6,Predator,Climber,2107,102050,102048
+Heterelmis,FALSE,4,4_middle,CG,CN,,,semi,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Heterelmis,4,Collector,Clinger,414,114237,114093
+Heterocloeon,FALSE,,,SC,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Heterocloeon,1,Scraper,Swimmer,1970,100794,
+Heteroptera,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Heteroptera,,,,Heteroptera,6,Predator,Sprawler,2079,103358,
+Heterosternuta,FALSE,4,4_middle,PR,SW,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Heterosternuta,5,,,14610,,
+Heterotrissocladius,FALSE,,,"CG,SC","SP,BU",,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Heterotrissocladius,1,Collector,Sprawler,1651,128737,128457
+Hexagenia,FALSE,4,4_middle,CG,BU,NF,pool,semi,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemeridae,,,Hexagenia,4,Scraper,Burrower,394,101537,101525
+Hexagenia atrocaudata,FALSE,4,4_middle,CG,BU,,,semi,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemeridae,,,Hexagenia,4,Scraper,Burrower,1979,101539,101537
+Hexagenia limbata,FALSE,4,4_middle,CG,BU,NF,pool,semi,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemeridae,,,Hexagenia,5,Scraper,Burrower,1981,101552,101537
+Hexatoma,FALSE,3,,PR,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Hexatoma,2,Predator,Burrower,88,120094,120030
+Hirudinea,FALSE,4,4_worse,PR,SP,,,semi,FALSE,Annelida,Hirudinea,Hirudinea,Hirudinea,,,,10,Predator,Clinger,89,69290,68422
+Hirudinidae,FALSE,,,PR,SP,,,,FALSE,Annelida,Hirudinea,Gnathobdellida,Hirudinidae,,,,6,Predator,Clinger,1367,69407,69406
+Homoeoneuria,FALSE,,,CF,BU,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Oligoneuriidae,,,Homoeoneuria,3,Collector,Clinger,2008,101036,101036
+Homoeoneuria ammophila,FALSE,,,CF,BU,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Oligoneuriidae,,,Homoeoneuria,3,Collector,Clinger,2007,101038,
+Homophylax,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Homophylax,1,Shredder,Sprawler,1836,116286,116286
+Hyalella,FALSE,4,4_worse,CG,SP,,,multi,FALSE,Arthropoda,Crustacea,Amphipoda,Talitridae,,,Hyalella,8,Collector,Clinger,14431,,
+Hyalella azteca,FALSE,4,4_worse,CG,SP,,,multi,FALSE,Arthropoda,Crustacea,Amphipoda,Talitridae,,,Hyalella,8,Collector,Clinger,395,94026,94025
+Hydaticus,FALSE,,,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Hydaticus,5,Predator,Swimmer,1523,112172,111963
+Hydatophylax,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Hydatophylax,1,Shredder,Sprawler,1837,115995,115995
+Hydra,FALSE,,,PR,CN,,,,FALSE,Coelenterata,Hydrozoa,Hydroida,Clavidae,,,Hydra,4,Collector,Clinger,2164,50845,50844
+Hydrachna,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Hydrachnidae,,,Hydrachna,5,Predator,Clinger,6538,83123,
+Hydraenidae,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Hydraenidae,,,Hydraenidae,4,Shredder,Clinger,1544,112756,
+Hydrellia,FALSE,,,"SH,CG",BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Ephydridae,,,Hydrellia,8,Collector,Sprawler,1925,147117,147117
+Hydrobaenus,FALSE,4,4_worse,SC,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Hydrobaenus,8,Scraper,Sprawler,1653,128750,128457
+Hydrobiomorpha,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Hydrobiomorpha,8,Predator,Swimmer,3264,113244,
+Hydrobius,FALSE,4,4_worse,PR,"CB,CN",,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Hydrobius,8,Predator,Swimmer,1557,113196,112811
+Hydrocanthus,FALSE,,,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Coleoptera,Noteridae,,,Hydrocanthus,7,Collector,Climber,1563,112623,112606
+Hydrochara,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Hydrochara,8,Predator,Swimmer,3263,113190,
+Hydrochus,FALSE,4,4_worse,SH,"CB,SW",SG,snag,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Hydrochus,8,Shredder,Swimmer,1558,113166,112811
+Hydrodroma,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Hydrodromidae,,,Hydrodroma,,,,,,
+Hydrometra,FALSE,4,4_middle,PR,SK,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Hydrometridae,,,Hydrometra,8,Predator,Skater,2045,103939,103939
+Hydrometridae,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Hemiptera,Hydrometridae,,,Hydrometridae,8,Predator,Skater,2046,103938,
+Hydrophilidae,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,,5,Predator,Swimmer,91,112811,112752
+Hydrophilus,FALSE,,,PR,"SW,CB",,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Hydrophilus,5,Predator,Swimmer,242,113204,112811
+Hydroporinae,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,,5,Predator,Swimmer,3248,678402,
+Hydroporus,FALSE,4,4_middle,PR,SW,,,semi,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Hydroporus,5,Predator,Swimmer,1524,112390,112390
+Hydroporus undulatus,FALSE,4,4_middle,PR,SW,,,semi,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Hydroporus,5,Predator,Swimmer,1525,112408,112390
+Hydropsyche,FALSE,4,4_worse,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,5,Filterer,Clinger,1798,115453,115398
+Hydropsyche arinale,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,4,Filterer,Clinger,1788,115456,115453
+Hydropsyche betteni,FALSE,4,4_worse,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,6,Filterer,Clinger,1789,115454,115453
+Hydropsyche bidens,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,5,Filterer,Clinger,1790,115458,115453
+Hydropsyche bifida,FALSE,,,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,,,,,,
+Hydropsyche cuanis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,4,Filterer,Clinger,1791,115461,115453
+Hydropsyche elissoma,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,4,Filterer,Clinger,1792,115488,115453
+Hydropsyche frisoni,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,4,Filterer,Clinger,1793,115468,115453
+Hydropsyche incommoda,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,5,Filterer,Clinger,1794,115471,115453
+Hydropsyche Morosa Gr.,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,,,,,,
+Hydropsyche occidentalis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,1,Filterer,Clinger,1795,115513,115453
+Hydropsyche orris,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,8,Filterer,Clinger,1796,115485,115453
+Hydropsyche scalaris,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,4,Filterer,Clinger,1797,115480,115453
+Hydropsyche simulans,FALSE,4,4_worse,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,4,Filterer,Clinger,415,115481,115453
+Hydropsyche venularis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Hydropsyche,4,Filterer,Clinger,1799,115484,115453
+Hydropsychidae,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,,5,Filterer,Clinger,1804,115398,
+Hydroptila,FALSE,4,4_middle,"SC,PH",CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Hydroptila,6,Scraper,Clinger,1807,115641,115629
+Hydroptilidae,FALSE,4,4_middle,"SC,PH",CB,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,,4,Scraper,Clinger,1818,115629,
+Hydrovatus,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Hydrovatus,5,Predator,Swimmer,1526,112259,112257
+Hydrozoa,FALSE,4,4_middle,NA,CN,,,,FALSE,Coelenterata,Hydrozoa,,,,,Hydrozoa,5,Collector,Clinger,2167,48739,
+Hydryphantidae,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Hydryphantidae,,,,6,Predator,Climber,10284,83212,
+Hygrobates,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Hygrobatidae,,,Hygrobates,5,Predator,Clinger,6543,83297,
+Hygrotus,FALSE,4,4_worse,PR,SW,,,multi,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Hygrotus,5,Predator,Swimmer,1527,112200,111963
+Hylogomphus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Hylogomphus,6,Predator,Burrower,1703,101791,
+Ilybius,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Ilybius,5,Predator,Swimmer,1528,112181,111963
+Ilyodrilus templetoni,FALSE,4,4_middle,CG,BU,NF,pool,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Ilyodrilus,8,Collector,Burrower,1458,68662,68660
+Ironoquia,FALSE,4,4_middle,SH,"CB,CN,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Ironoquia,3,Shredder,Sprawler,2124,116382,116382
+Ischnura,FALSE,4,4_worse,PR,CB,RM,root_mat,uni,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Ischnura,9,Predator,Climber,2118,102078,102078
+Isochaetides curvisetosus,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Isochaetides,9,Collector,Burrower,1460,68809,68808
+Isogenus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Plecoptera,Perlodidae,,,Isogenus,2,Predator,Clinger,1756,103070,
+Isonychia,FALSE,4,4_middle,CF,"SW,CN",CS,coarse,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Oligoneuriidae,,,Isonychia,2,Collector,Swimmer,220,101041,101029
+Isoperla,FALSE,3,,PR,CN,CS,coarse,uni,FALSE,Arthropoda,Insecta,Plecoptera,Perlodidae,,,Isoperla,2,Predator,Clinger,1757,102995,102995
+Isopoda,FALSE,,,CG,NA,,,,FALSE,Arthropoda,Crustacea,Isopoda,,,,Isopoda,6,Scraper,Clinger,1507,92121,89802
+Isotomidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Collembola,Isotomidae,,,,8,Collector,Clinger,212,99245,99238
+Isotomurus,FALSE,,,CG,SK,,,,FALSE,Arthropoda,Insecta,Collembola,Isotomidae,,,Isotomurus,8,Collector,Skater,1572,99246,99245
+Isotomurus palustris,FALSE,,,CG,SK,,,,FALSE,Arthropoda,Insecta,Collembola,Isotomidae,,,Isotomurus,8,Collector,Skater,1573,99247,99246
+Iswaeon,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Iswaeon,4,Scraper,Swimmer,6497,776928,
+Ithytrichia,FALSE,,,"SC,PR",CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Ithytrichia,,,,16308,,
+Kloosia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Kloosia,6,Collector,Sprawler,14630,,
+Koenikea,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Unionicolidae,,,Koenikea,,,,,,
+Krendowskia,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Krendowskiidae,,,Krendowskia,,,,,,
+Labiobaetis,FALSE,4,4_worse,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Labiobaetis,4,Collector,Clinger,3261,568552,
+Labrundinia,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Labrundinia,4,Predator,Sprawler,1655,128173,128078
+Laccobius,FALSE,4,4_worse,PH,CN,SG,snag,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Laccobius,4,Predator,Swimmer,1559,112858,112858
+Laccophilus,FALSE,4,4_worse,PR,SW,RM,root_mat,multi,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Laccophilus,8,Predator,Swimmer,1530,112278,111963
+Lachlania,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Oligoneuriidae,,,Lachlania,3,Collector,Clinger,2009,101030,101030
+Ladona,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Ladona,4,Predator,Sprawler,1716,99236,
+Lampsilis cardium,FALSE,,,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Lampsilis,4,Filterer,Burrower,9340,80016,
+Lampsilis radiata,FALSE,,,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Lampsilis,4,Filterer,Burrower,2226,79994,
+Lampsilis siliquoidea,FALSE,,,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Lampsilis,4,Filterer,Burrower,9276,80028,
+Lampsilis teres,FALSE,,,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Lampsilis,4,Filterer,Burrower,2229,80006,79986
+Larsia,FALSE,4,4_middle,PR,SP,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Larsia,6,Predator,Sprawler,1656,128183,128078
+Lasmigona complanata,FALSE,,,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Lasmigona,4,Filterer,Burrower,2230,80135,
+Lauterborniella,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Lauterborniella,6,Collector,Sprawler,1657,129525,129525
+Lebertia,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Lebertiidae,,,Lebertia,5,Predator,Clinger,6183,83034,
+Lepidoptera,FALSE,,,SH,SP,,,,FALSE,Arthropoda,Insecta,Lepidoptera,,,,,5,Collector,Sprawler,2082,117232,
+Lepidostoma,FALSE,3,,SH,CB,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Lepidostomatidae,,,Lepidostoma,1,Shredder,Climber,1819,116794,116794
+Leptoceridae,FALSE,4,4_middle,CG,CB,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Leptoceridae,4,Collector,Clinger,1832,116547,
+Leptocerus,FALSE,,,SH,SW,,,"multi,uni",FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Leptocerus,4,Collector,Clinger,1822,116677,116677
+Leptocerus americanus,FALSE,4,4_middle,CG,CB,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Leptocerus,4,Collector,Clinger,1821,116678,
+Leptodea fragilis,FALSE,,,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Leptodea,4,Filterer,Burrower,2233,80182,
+Leptophlebia,FALSE,4,4_better,CG,SW,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,,,Leptophlebia,1,Collector,Swimmer,2006,101148,101148
+Leptophlebiidae,FALSE,4,4_better,CG,"SW,CN,SP",,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,,,,2,Collector,Swimmer,101,101095,101094
+Lestes,FALSE,4,4_middle,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Odonata,Lestidae,,,Lestes,8,Predator,Climber,1712,102061,102061
+Lestidae,FALSE,,,PR,CB,,,uni,FALSE,Arthropoda,Insecta,Odonata,Lestidae,,,,8,Predator,Climber,15649,,
+Lethocerus,FALSE,,,PR,"SW,CB",,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Belostomatidae,,,Lethocerus,4,Predator,Swimmer,2026,103699,103699
+Leucorrhinia,FALSE,,,PR,"CB,SP",,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Leucorrhinia,6,Predator,Sprawler,1717,101885,101885
+Leucotrichia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Leucotrichia,4,Scraper,Clinger,1809,115630,115630
+Leucotrichia pictipes,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Leucotrichia,4,Scraper,Clinger,1808,115631,115630
+Leucrocuta,FALSE,3,,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Leucrocuta,2,Collector,Swimmer,1990,100676,100504
+Libellula,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Libellula,8,Predator,Sprawler,1719,101893,101893
+Libellula luctuosa,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Libellula,8,Predator,Sprawler,1718,101894,101893
+Libellulidae,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,,8,Predator,Sprawler,1725,101797,
+Ligumia,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Ligumia,4,Filterer,Burrower,2235,80194,
+Ligumia recta,FALSE,,,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Ligumia,4,Filterer,Burrower,2234,80196,
+Limnephilidae,FALSE,4,4_middle,SH,CB,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,,Shredder,Sprawler,2130,115933,115933
+Limnephilus,FALSE,4,4_middle,SH,"SP,CB",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Limnephilus,1,Shredder,Sprawler,2125,116069,116069
+Limnesia,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Limnesiidae,,,Limnesia,,,,,,
+Limnodrilus,FALSE,4,4_middle,CG,"BU,CN",,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Limnodrilus,9,Collector,Burrower,1463,68638,68585
+Limnodrilus cervix,FALSE,4,4_middle,CG,BU,NF,pool,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Limnodrilus,9,Collector,Burrower,1461,68652,68638
+Limnodrilus claparedianus,FALSE,4,4_middle,CG,BU,NF,pool,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Limnodrilus,9,Collector,Burrower,427,68654,68638
+Limnodrilus hoffmeisteri,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Limnodrilus,9,Collector,Burrower,428,68639,68638
+Limnodrilus profundicola,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Limnodrilus,9,Collector,Burrower,1462,68649,68638
+Limnodrilus udekemianus,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Limnodrilus,7,Collector,Burrower,1464,68644,68638
+Limnophila,FALSE,4,4_middle,PR,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Limnophila,2,Predator,Burrower,106,120164,120030
+Limnophora,FALSE,4,4_middle,PR,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Muscidae,,,Limnophora,8,Predator,Burrower,1929,150730,150730
+Limnophyes,FALSE,4,4_worse,CG,SP,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Limnophyes,3,Collector,Sprawler,1659,128776,128457
+Limnoporus,FALSE,,,PR,SK,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Gerridae,,,Limnoporus,8,Predator,Skater,2036,103872,103872
+Limonia,FALSE,4,4_middle,SH,BU,SG,snag,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Limonia,6,Shredder,Burrower,1961,119704,119704
+Limoniidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Limoniidae,,,,,,,,,
+Liodessus,FALSE,4,4_middle,PR,SW,,,"multi,uni",TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Liodessus,5,Predator,Swimmer,1532,112580,111963
+Liodessus affinis,FALSE,4,4_middle,PR,SW,,,"multi,uni",TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Liodessus,5,Predator,Swimmer,1531,112581,112580
+Lipogomphus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Heteroptera,Hebridae,,,Lipogomphus,8,Predator,Sprawler,3251,103986,103986
+Lopescladius,FALSE,4,4_middle,CG,"BU,SP",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Lopescladius,2,Scraper,Sprawler,1660,128811,128457
+Lumbricidae,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Tubificida,Lumbricidae,,,,8,Collector,Burrower,1397,69165,69069
+Lumbriculidae,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,,8,Collector,Burrower,107,68440,68439
+Lumbriculus,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,Lumbriculus,9,Collector,Burrower,1476,68441,68441
+Lumbriculus variegatus,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,Lumbriculus,9,Collector,Burrower,1477,68444,68441
+Lymnaea,FALSE,4,4_middle,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Lymnaea,2,Scraper,Sprawler,2172,76484,76483
+Lymnaea stagnalis,FALSE,4,4_middle,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Lymnaea,2,Scraper,Sprawler,2173,76487,
+Lymnaeidae,FALSE,4,4_middle,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,,2,Scraper,Sprawler,2177,76483,
+Lype,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Psychomyiidae,,,Lype,2,Scraper,Sprawler,2149,115391,115391
+Maccaffertium,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Maccaffertium,3,Scraper,Clinger,10672,697957,
+Maccaffertium exiguum,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Maccaffertium,2,Scraper,Clinger,4669,698216,
+Maccaffertium mexicanum,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Maccaffertium,3,Scraper,Clinger,4671,698470,
+Macrobdella,FALSE,,,,,,,,FALSE,Annelida,Hirudinea,Gnathobdellida,Hirudinidae,,,Macrobdella,6,Predator,Clinger,1366,69418,
+Macrobdella decora,FALSE,,,PR,SP,,,,FALSE,Annelida,Hirudinea,Gnathobdellida,Hirudinidae,,,Macrobdella,5,Predator,Clinger,1372,69419,
+Macrobdella ditetra,FALSE,,,,,,,,FALSE,Annelida,Hirudinea,Gnathobdellida,Hirudinidae,,,Macrobdella,5,Predator,Clinger,1374,69421,69418
+Macromia,FALSE,4,4_middle,PR,SP,,,semi,FALSE,Arthropoda,Insecta,Odonata,Macromiidae,,,Macromia,4,Predator,Climber,1728,101918,101918
+Macronychus,FALSE,4,4_middle,CG,CN,,,"semi,uni",FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Macronychus,4,Scraper,Sprawler,234,114212,114093
+Macronychus glabratus,FALSE,4,4_middle,CG,CN,SG,snag,"semi,uni",FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Macronychus,4,Scraper,Sprawler,3233,114213,114212
+Macropelopia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Macropelopia,6,Predator,Sprawler,1661,128034,128020
+Macropelopiini,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,,6,Predator,Sprawler,1662,128020,
+Malenka,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Plecoptera,Nemouridae,,,Malenka,2,Shredder,Sprawler,1739,102567,102567
+Mallochohelea,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Mallochohelea,6,Predator,Burrower,396,127702,
+Mayatrichia,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Mayatrichia,6,Scraper,Clinger,1811,115811,115811
+Megaloptera,FALSE,,,PR,NA,,,,FALSE,Arthropoda,Insecta,Megaloptera,,,,Megaloptera,,,,2092,115000,
+Mesenchytraeus,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Enchytraeidae,,,Mesenchytraeus,9,Collector,Burrower,11936,68544,
+Mesosmittia,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Mesosmittia,3,Collector,Sprawler,10673,128818,
+Mesovelia,FALSE,4,4_worse,PR,"SK,CB",RM,root_mat,multi,TRUE,Arthropoda,Insecta,Hemiptera,Mesoveliidae,,,Mesovelia,8,Predator,Skater,2047,103954,103954
+Metrichia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Metrichia,4,Scraper,Climber,3252,5986644,598644
+Metriocnemus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Metriocnemus,2,Collector,Sprawler,8211,128821,
+Metrobates,FALSE,4,4_middle,PR,SK,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Gerridae,,,Metrobates,6,Predator,Skater,2037,103857,103857
+Micracanthia,FALSE,4,4_middle,PR,CB,,,,TRUE,Arthropoda,Insecta,Hemiptera,Saldidae,,,Micracanthia,4,Predator,Climber,2068,104115,104115
+Microchironomus,FALSE,4,4_middle,CG,BU,NF,pool,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Microchironomus,6,Collector,Burrower,1663,129532,129532
+Microcylloepus,FALSE,3,,CG,CN,,,semi,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Microcylleopus,6,Collector,Clinger,1536,114146,114093
+Microcylloepus pusillus,FALSE,3,,CG,CN,,,semi,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Microcylloepus,6,Collector,Clinger,3237,114147,114146
+Micropsectra,FALSE,4,4_middle,CG,CB,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Micropsectra,8,Collector,Climber,1664,129890,129872
+Microtendipes,FALSE,3,,CF,CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Microtendipes,5,Collector,Sprawler,1665,129535,129229
+Microvelia,FALSE,4,4_middle,PR,SK,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Veliidae,,,Microvelia,8,Predator,Skater,2073,103900,103900
+Mideopsis,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Prostigmata,,,Mideopsis,5,Predator,Clinger,8119,83479,
+Molanna,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Molannidae,,,Molanna,1,Scraper,Sprawler,2133,116474,116474
+Molophilus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Molophilus,9,Shredder,Burrower,3242,120758,120397
+Mooreobdella,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Arhynchobdellida,Erpobdellidae,,,Mooreobdella,8,Predator,Clinger,186,69449,69438
+Mooreobdella fervida,FALSE,4,4_worse,,,,,,FALSE,Annelida,Hirudinea,Arhynchobdellida,Erpobdellidae,,,Mooreobdella,10,Predator,Clinger,362,69451,69449
+Mooreobdella microstoma,FALSE,4,4_worse,,,,,,FALSE,Annelida,Hirudinea,Pharyngobdellida,Erpobdellidae,,,Mooreobdella,5,Predator,Clinger,1377,69450,69449
+Moselyana,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Moselyana,4,Collector,Clinger,2126,116379,
+Muscidae,FALSE,4,4_middle,PR,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Muscidae,,,Muscidae,8,Predator,Sprawler,1930,150025,
+Musculium,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Pisidiidae,,,Musculium,5,Filterer,Unidentified,397,81427,81388
+Musculium securis,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Pisidiidae,,,Musculium,8,Filterer,Burrower,2262,81434,81427
+Musculium transversum,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Pisidiidae,,,Musculium,8,Filterer,Burrower,416,81428,81427
+Myzobdella,FALSE,,,,,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Piscicolidae,,,Myzobdella,7,Predator,Climber,1387,69315,
+Naididae,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,,8,Collector,Sprawler,110,68854,68509
+Naidinae,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,Naidinae,,,,,,,,
+Nais,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,9,Collector,Burrower,429,68946,
+Nais alpina,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,6,Collector,Climber,1414,68960,
+Nais barbata,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,8,Collector,Clinger,1415,68947,
+Nais behningi,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,6,Collector,Clinger,1416,68949,68946
+Nais bretscheri,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,6,Collector,Clinger,1417,68961,68946
+Nais communis,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,8,Collector,Clinger,1418,68950,68946
+Nais communis/variabilis complex,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,,,,,,
+Nais elinguis,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,9,Collector,Clinger,1419,68952,68946
+Nais pardalis,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,8,Collector,Clinger,1420,68954,68946
+Nais pseudobtusa,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,6,Collector,Clinger,1421,68956,68946
+Nais simplex,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,6,Collector,Clinger,1422,68957,68946
+Nais variabilis,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Nais,9,Collector,Clinger,1423,68959,68946
+Nanocladius,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Nanocladius,2,Collector,Sprawler,1666,128844,128457
+Nasiaeschna pentacantha,FALSE,4,4_middle,PR,CB,,root_mat,semi,FALSE,Arthropoda,Insecta,Odonata,Aeshnidae,,,Nasiaeschna,8,Predator,Climber,2103,101654,
+Natarsia,FALSE,3,,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Natarsia,4,Predator,Sprawler,7907,128070,
+Naucoridae,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Hemiptera,Naucoridae,,,Naucoridae,8,Predator,Clinger,2053,103613,
+Nebrioporus,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Nebrioporus,8,Predator,Swimmer,3255,728251,
+Nectopsyche,FALSE,4,4_middle,SH,"CB,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Nectopsyche,3,Scraper,Sprawler,417,116651,116547
+Nectopsyche candida,FALSE,4,4_middle,SH,"CB,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Nectopsyche,3,Scraper,Sprawler,1824,116661,116651
+Nectopsyche diarina,FALSE,4,4_worse,SH,"CB,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Nectopsyche,3,Scraper,Sprawler,1825,116663,116651
+Nectopsyche pavida,FALSE,4,4_middle,SH,"CB,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Nectopsyche,3,Scraper,Sprawler,1826,116660,
+Nehalennia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Nehalennia,8,Predator,Sprawler,2119,102135,102135
+Nemata,FALSE,4,4_middle,NA,BU,,,,FALSE,Nemata,,,,,,Nemata,5,Unidentified,Burrower,4678,563965,
+Nematoda,FALSE,4,4_middle,PA,BU,,,,FALSE,Nemata,,,,,,Nemata,5,Unidentified,Burrower,422,59490,202423
+Nematomorpha,FALSE,4,4_middle,PA,BU,,,,FALSE,Nematomorpha,,,,,,Nematomorpha,6,Unidentified,Unidentified,2279,64183,202423
+Nemotelus,FALSE,4,4_worse,CG,SP,,,uni,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,Nemotelus,8,Collector,Swimmer,3240,130694,130694
+Nemoura,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Plecoptera,Nemouridae,,,Nemoura,1,Shredder,Sprawler,1740,102526,
+Nemouridae,FALSE,3,,SH,"CN,SP",,,uni,FALSE,Arthropoda,Insecta,Plecoptera,Nemouridae,,,Nemouridae,1,Shredder,Sprawler,1743,102517,
+Neoacarus,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Neoacaridae,,,Neoacarus,,,,,,
+Neochoroterpes,FALSE,4,4_better,CG,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,,,Leptophlebia,2,Collector,Swimmer,6319,568558,
+Neoelmis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Neoelmis,4,Scraper,Clinger,113,114232,114093
+Neogerris hesione,FALSE,4,4_middle,PR,SK,,,"multi,uni",TRUE,Arthropoda,Insecta,Hemiptera,Gerridae,,,Neogerris,8,Predator,Skater,2039,103882,103881
+Neoperla,FALSE,4,4_better,PR,CN,,,uni,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Neoperla,2,Predator,Clinger,1749,102942,102942
+Neoperla clymene,FALSE,3,,PR,CN,,,uni,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Neoperla,2,Predator,Clinger,1748,102944,
+Neophylax,FALSE,3,,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Neophylax,4,Collector,Clinger,2127,116046,116046
+Neoplasta,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Empididae,,,Neoplasta,8,Predator,Sprawler,15650,,
+Neoplea,FALSE,4,4_worse,PR,"SW,CN",RM,root_mat,"multi,uni",TRUE,Arthropoda,Insecta,Hemiptera,Pleidae,,,Neoplea,8,Predator,Swimmer,2064,103603,103603
+Neoplea striola,FALSE,4,4_worse,PR,SW,,,"multi,uni",TRUE,Arthropoda,Insecta,Hemiptera,Pleidae,,,Neoplea,8,Predator,Swimmer,2065,103604,103603
+Neoporus,FALSE,4,4_worse,PR,SW,,,multi,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Neoporus,4,Predator,Swimmer,6247,728252,
+Neotrichia,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Neotrichia,4,Shredder,Clinger,1812,115833,115833
+Nepa,FALSE,4,4_worse,PR,CB,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Nepidae,,,Nepa,4,Predator,Clinger,2055,103765,103765
+Nepa apiculata,FALSE,4,4_worse,PR,CB,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Nepidae,,,Nepa,4,Predator,Clinger,2054,103766,103765
+Nepidae,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Hemiptera,Nepidae,,,Nepidae,6,Predator,Clinger,2061,103747,
+Nepticulidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Lepidoptera,Nepticulidae,,,Nepticulidae,6,Shredder,Climber,2083,118745,
+Neumania,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Unionicolidae,,,Neumania,5,Predator,Climber,15651,,
+Neureclipsis,FALSE,4,4_middle,CF,CN,SG,snag,uni,FALSE,Arthropoda,Insecta,Trichoptera,Polycentropodidae,,,Neureclipsis,6,Filterer,Clinger,2145,117095,117095
+Nigronia,FALSE,3,,PR,CN,,,semi,FALSE,Arthropoda,Insecta,Megaloptera,Corydalidae,,,Nigronia,4,Predator,Climber,3968,115028,
+Nilotanypus,FALSE,4,4_middle,PR,SP,CS,coarse,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Nilotanypus,4,Predator,Sprawler,1668,128202,128078
+Noctuidae,FALSE,,,SH,"BU,CB",,,,FALSE,Arthropoda,Insecta,Lepidoptera,Noctuidae,,,,6,Scraper,Climber,2084,117318,117318
+Noteridae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Coleoptera,Noteridae,,,Noteridae,6,Predator,Climber,1565,112606,
+Notonecta,FALSE,4,4_middle,PR,"SW,CB",,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Notonectidae,,,Notonecta,8,Predator,Swimmer,2062,103558,103558
+Notonectidae,FALSE,4,4_middle,PR,SW,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Notonectidae,,,,8,Predator,Swimmer,2063,103557,
+Nyctiophylax,FALSE,4,4_middle,PR,CN,SG,snag,uni,FALSE,Arthropoda,Insecta,Trichoptera,Polycentropodidae,,,Nyctiophylax,2,Filterer,Clinger,398,117104,117043
+Ochrotrichia,FALSE,4,4_middle,CG,"CN,CB",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Ochrotrichia,4,Scraper,Climber,1813,115714,115714
+Ochthebius,FALSE,4,4_worse,SC,CN,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydraenidae,,,Ochthebius,6,Shredder,Clinger,7879,112777,
+Odonata,FALSE,,,PR,CB,,,,FALSE,Arthropoda,Insecta,Odonata,,,,Odonata,,,,1731,101593,
+Odontoceridae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Odontoceridae,,,,5,Predator,Burrower,2135,116493,
+Odontomesa,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Diamesinae,,Odontomesa,0,Collector,Sprawler,1671,128446,128437
+Odontomyia,FALSE,4,4_worse,CG,SP,,,uni,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,Odontomyia,8,Predator,Burrower,1949,130573,130573
+Oecetis,FALSE,4,4_middle,PR,"CN,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Oecetis,3,Predator,Sprawler,399,116607,116547
+Oecetis avara,FALSE,4,4_middle,PR,"CN,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Oecetis,3,Predator,Climber,1827,116608,116607
+Oecetis cinerascens,FALSE,4,4_middle,PR,"CN,SP",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Oecetis,3,Predator,Climber,1828,116609,
+Oligochaeta,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,,,,,,5,,,118,68422,64357
+Oligoneuriidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Oligoneuriidae,,,,3,Collector,Clinger,2010,101029,
+Ophidonais serpentina,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Ophidonais,6,Collector,Burrower,119,68996,68995
+Ophiogomphus,FALSE,3,,PR,BU,,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Ophiogomphus,4,Predator,Burrower,1704,101738,101738
+Optioservus,FALSE,4,4_better,SC,CN,,,semi,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Optioservus,4,Scraper,Sprawler,121,114177,114093
+Orconectes,FALSE,4,4_middle,"CG,SH",SP,,,,FALSE,Arthropoda,Crustacea,Decapoda,Cambaridae,,,Orconectes,8,Scraper,Sprawler,1497,97421,97336
+Orconectes immunis,FALSE,4,4_middle,"CG,SH",SP,,,,FALSE,Arthropoda,Crustacea,Decapoda,Cambaridae,,,Orconectes,4,Scraper,Sprawler,1495,97446,97421
+Orconectes virilis,FALSE,4,4_middle,"CG,SH",SP,,,,FALSE,Arthropoda,Crustacea,Decapoda,Cambaridae,,,Orconectes,8,Scraper,Sprawler,1498,97425,97421
+Oreodytes,FALSE,4,4_middle,"PR,SH",SW,,,semi,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Oreodytes,7,Predator,Swimmer,3239,112314,111963
+Oribatida,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Sarcoptiformes,Euphthiracaroidae,,,Oribatatida,5,Predator,Clinger,6502,733326,
+Ormosia,FALSE,4,4_middle,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Ormosia,6,Shredder,Burrower,1963,120830,120830
+Ormosia arcuata,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Ormosia,6,Shredder,Burrower,1962,120843,
+Orthocladiinae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,,5,,,1672,128457,
+Orthocladius,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Orthocladius,6,Collector,Sprawler,1677,128874,128457
+Orthocladius lignicola,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Orthocladius,,,,,,
+Orthocladius mallochi,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Orthocladius,4,Collector,Sprawler,1674,128916,
+Orthocladius obumbratus,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Orthocladius,8,Collector,Sprawler,1676,128923,128874
+Orthocladius wiensi,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Orthocladius,4,Collector,Sprawler,1678,128935,
+Orthopodomyia,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Orthopodomyia,6,Filterer,Swimmer,1917,126532,
+Orthotrichia,FALSE,4,4_middle,PH,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Orthotrichia,4,Scraper,Clinger,1816,115828,115828
+Orthotrichia cristata,FALSE,4,4_middle,PH,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Orthotrichia,4,Scraper,Clinger,1815,115830,115828
+Ostracoda,FALSE,,,,,,,,FALSE,Arthropoda,Crustacea,Ostracoda,,,,,5,Filterer,Swimmer,11168,84195,
+Oulimnius,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Oulimnius,2,Scraper,Clinger,235,114244,114093
+Oxycera,FALSE,,,SC,SP,,,,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,Oxycera,8,Predator,Clinger,1950,130461,
+Oxyethira,FALSE,4,4_middle,CG,"CB,CN",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Hydroptilidae,,,Oxyethira,6,Scraper,Sprawler,1817,115779,115779
+Pagastia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Diamesinae,,Pagastia,1,Collector,Sprawler,1679,128401,128351
+Palaemon,FALSE,,,,,,,,FALSE,Arthropoda,Malacostraca,Decapoda,Palaemonidae,,,Palaemon,8,Collector,Swimmer,15652,,
+Palingeniidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Palingeniidae,,,Palingeniidae,3,Collector,Clinger,2013,101587,
+Palmacorixa,FALSE,4,4_worse,PR,SW,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Corixidae,,,Palmacorixa,10,Predator,Swimmer,2029,103491,103491
+Palpomyia,FALSE,4,4_middle,PR,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Palpomyia,6,Predator,Burrower,1575,127859,127859
+Pantala,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Pantala,6,Predator,Sprawler,1721,101800,101800
+Parachaetocladius,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Parachaetocladius,3,Collector,Sprawler,1680,128951,128457
+Parachironomus,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Parachironomus,8,Predator,Sprawler,1683,129564,129229
+Parachironomus abortivus,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Parachironomus,8,Predator,Sprawler,1681,1296565,129564
+Parachironomus directus,FALSE,4,4_worse,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Parachironomus,8,Predator,Sprawler,1682,129573,129564
+Paracladius,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Paracladius,1,Collector,Sprawler,1684,128956,128956
+Paracladopelma,FALSE,4,4_middle,CG,SP,NF,pool,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Paracladopelma,7,Collector,Clinger,400,129597,129229
+Paracloeodes,FALSE,4,4_middle,SC,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Paracloeodes,7,Scraper,Swimmer,1972,100899,
+Paracloeodes minutus,FALSE,4,4_middle,SC,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Paracloeodes,7,Scraper,Swimmer,1971,100901,100899
+Paracymus,FALSE,4,4_middle,PR,CN,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Paracymus,5,Predator,Clinger,1560,112909,112909
+Paragnetina,FALSE,3,,PR,CN,,,semi,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Paragnetina,1,Predator,Clinger,1750,102962,102962
+Paragordius,FALSE,,,PA,NA,,,,FALSE,Nematomorpha,Gordioda,Gordiidea,Gordiidae,,,Paragordius,6,Unidentified,Unidentified,2277,64223,64223
+Parakiefferiella,FALSE,4,4_middle,CG,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Parakiefferiella,4,Collector,Sprawler,1685,128968,128457
+Paralauterborniella,FALSE,4,4_middle,CG,BU,NF,pool,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Paralauterborniella,4,Collector,Sprawler,1687,129616,129616
+Paralauterborniella nigrohalterale,FALSE,4,4_middle,CG,BU,NF,pool,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Paralauterborniella,4,Collector,Sprawler,1686,129619,129616
+Paraleptophlebia,FALSE,3,,CG,SW,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,,,Paraleptophlebia,1,Collector,Swimmer,123,101187,101095
+Paralimnophyes,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Paralimnophyes,9,Collector,Sprawler,1688,128976,128976
+Paramerina,FALSE,4,4_middle,PR,SP,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Pramerina,7,Collector,Burrower,6215,128207,
+Parametriocnemus,FALSE,3,,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Parametriocnemus,2,Collector,Sprawler,1838,128457,128978
+Paranais,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Paranais,4,Collector,Clinger,15747,,
+Paranais frici,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Paranais,,,,,,
+Paraphaenocladius,FALSE,4,4_middle,CG,SP,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Paraphaenocladius,1,Collector,Sprawler,1839,128989,128457
+Paraplea,FALSE,,,PR,"SW,CB",,,,TRUE,Arthropoda,Insecta,Hemiptera,Pleidae,,,Paraplea,8,Predator,Swimmer,2066,103608,103608
+Paratanytarsus,FALSE,4,4_middle,CG,"CN,SP",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Paratanytarsus,6,Collector,Clinger,1840,129935,129872
+Paratendipes,FALSE,4,4_middle,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Paratendipes,6,Collector,Sprawler,1841,129623,129229
+Pedicia,FALSE,,,PR,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Pedicia,6,Predator,Burrower,124,121118,121026
+Pelecypoda,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,,,,,Pelecypoda,5,Filterer,Burrower,2274,79119,
+Pelocoris,FALSE,4,4_middle,PR,CB,SG,snag,uni,TRUE,Arthropoda,Insecta,Hemiptera,Naucoridae,,,Pelocoris,4,Predator,Clinger,2052,103665,103665
+Pelocoris femoratus,FALSE,4,4_middle,PR,CB,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Naucoridae,,,Pelocoris,4,Predator,Clinger,2051,103667,
+Peloscolex multisetosus,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Peloscolex,7,Collector,Burrower,1465,68601,
+Peloscolex superiorensis,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Peloscolex,7,Collector,Burrower,1467,68611,
+Peltodytes,FALSE,4,4_worse,"SH,PH","CB,CN",,,multi,TRUE,Arthropoda,Insecta,Coleoptera,Haliplidae,,,Peltdytes,8,Shredder,Unidentified,430,111923,111857
+Peltoperla,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Plecoptera,Peltoperlidae,,,Peltoperla,1,Predator,Clinger,1744,102489,
+Pentagenia,FALSE,4,4_middle,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Palingeniidae,,,Pentagenia,3,Collector,Burrower,2011,101588,101588
+Pentaneura,FALSE,4,4_middle,PR,SP,CS,coarse,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Pentaneura,6,Predator,Burrower,125,128215,128078
+Pericoma,FALSE,4,4_worse,CG,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Psychodidae,,,Pericoma,6,Collector,Burrower,1932,125514,125514
+Perithemis,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Perithemis,10,Predator,Sprawler,1722,101803,101803
+Perithemis tenera,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Perithemis,10,Predator,Sprawler,1723,101804,101803
+Perlesta,FALSE,4,4_middle,PR,CN,,,uni,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Perlesta,4,Predator,Clinger,1752,103251,103251
+Perlesta placida,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Perlesta,4,Predator,Clinger,1751,103253,103251
+Perlidae,FALSE,4,4_better,PR,CN,,,semi,FALSE,Arthropoda,Insecta,Plecoptera,Perlidae,,,Perlidae,4,Predator,Sprawler,1753,102914,
+Perlodidae,FALSE,3,,PR,CN,,,uni,FALSE,Arthropoda,Insecta,Plecoptera,Perlodidae,,,,2,Shredder,Clinger,1758,102994,102994
+Petrophila,FALSE,3,,SC,CB,,,multi,FALSE,Arthropoda,Insecta,Lepidoptera,Pyralidae,,,Petrophila,6,Scraper,Sprawler,2080,117682,117641
+Phaenopsectra,FALSE,4,4_middle,"CG,SC",CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Phaenopsectra,7,Collector,Sprawler,1842,129637,129229
+Phoridae,FALSE,,,CG,BU,,,,FALSE,Arthropoda,Insecta,Diptera,Phoridae,,,Phoridae,10,Collector,Burrower,1931,138921,
+Phryganea,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Phryganeidae,,,Phryganea,4,Collector,Clinger,2142,115892,
+Phryganeidae,FALSE,4,4_middle,SH,CB,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Phryganeidae,,,,4,Collector,Clinger,10675,115867,
+Physa,FALSE,5,,SC,CB,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Physidae,,,Physa,8,Scraper,Sprawler,401,76677,76676
+Physella,FALSE,5,,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Pulmonata,Physidae,,,Physella,9,Scraper,Sprawler,2198,76698,76676
+Physidae,FALSE,5,,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Pulmonata,Physidae,,,,9,Scraper,Sprawler,2199,76676,76437
+Pilaria,FALSE,4,4_middle,PR,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Pilaria,4,Collector,Burrower,1964,120335,120335
+Piona,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Astigmata,Pionidae,,,Piona,,,,16309,,
+Pisidiidae,FALSE,4,4_middle,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Veneroida,Pisidiidae,,,,7,Filterer,Burrower,2268,81388,80384
+Pisidium,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Pisidiidae,,,Pisidium,7,Filterer,Burrower,402,81400,81388
+Pisidium adamsi,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Pisidiidae,,,Pisidium,6,Filterer,Burrower,2263,81404,81400
+Pisidium casertanum,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Pisidiidae,,,Pisidium,8,Filterer,Burrower,2265,81405,81400
+Pisidium compressum,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Pisidiidae,,,Pisidium,8,Filterer,Burrower,2266,81406,81400
+Placobdella,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,,8,Predator,Clinger,190,69363,69357
+Placobdella montifera,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Placobdella,10,Predator,Clinger,371,69368,69363
+Placobdella multilineata,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Placobdella,7,Predator,Clinger,1385,69367,69363
+Placobdella ornata,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Placobdella,6,Predator,Clinger,1381,69366,69363
+Placobdella papillifera,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Placobdella,6,Predator,Clinger,191,69364,69363
+Placobdella parasitica,FALSE,4,4_worse,PR,SP,,,,FALSE,Annelida,Hirudinea,Rhynchobdellida,Glossiphoniidae,,,Placobdella,6,Predator,Clinger,1382,69365,69363
+Planariidae,FALSE,4,4_middle,CG,SP,,,,FALSE,Platyhelminthes,Turbellaria,Tricladida,Planariidae,,,,6,Collector,Sprawler,2291,54502,54468
+Planorbella,FALSE,4,4_worse,SC,CB,SG,snag,,FALSE,Mollusca,Gastropoda,Pulmonata,Planorbidae,,,Planorbella,6,Scraper,Sprawler,2206,76654,76654
+Planorbidae,FALSE,4,4_middle,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Pulmonata,Planorbidae,,,Planorbidae,6,Scraper,Sprawler,2209,76591,
+Platambus,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Platambus,5,Predator,Swimmer,11934,728241,
+Plathemis,FALSE,4,4_middle,PR,SP,NF,pool,,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Plathemis,6,Predator,Sprawler,403,101809,101808
+Platycentropus,FALSE,,,SH,CB,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Platycentropus,3,Collector,Clinger,2128,116407,116407
+Plauditus,FALSE,4,4_middle,CG,SW,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Plauditus,4,Scraper,Sprawler,3254,568553,568553
+Plecoptera,FALSE,,,PR,CN,,,,FALSE,Arthropoda,Insecta,Plecoptera,,,,Plecoptera,,,,1767,102467,
+Pleidae,FALSE,4,4_worse,PR,SW,,,"multi,uni",TRUE,Arthropoda,Insecta,Hemiptera,Pleidae,,,Pleidae,8,Predator,Swimmer,2067,103602,
+Plumatella,FALSE,,,,,,,,FALSE,Bryozoa,Ectoprocta,Phylactolaemata,Plumatellidae,,,Plumatella,6,Filterer,Clinger,2158,156691,156691
+Podura,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Collembola,Poduridae,,,Podura,8,Collector,Sprawler,1574,99240,99240
+Polycentropodidae,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Polycentropodidae,,,,4,Predator,Clinger,2148,117043,
+Polycentropus,FALSE,3,,PR,CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Polycentropodidae,,,Polycentropus,4,Predator,Clinger,2147,117044,117044
+Polypedilum,FALSE,4,4_middle,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,6,Shredder,Sprawler,431,129657,129229
+Polypedilum aviceps,FALSE,3,,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,4,Collector,Sprawler,1843,129666,129657
+Polypedilum bergi,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,6,,,14963,,
+Polypedilum convictum,FALSE,4,4_middle,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,4,Shredder,Sprawler,1844,129671,129657
+Polypedilum Fallax Group,FALSE,4,4_middle,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,6,Shredder,Sprawler,1845,129676,129657
+Polypedilum flavum,FALSE,4,4_middle,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,4,Shredder,Sprawler,14432,,
+Polypedilum Halterale Group,FALSE,4,4_middle,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,7,Shredder,Sprawler,1846,129684,129657
+Polypedilum Illinoense Group,FALSE,4,4_worse,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,6,Collector,Sprawler,418,129686,129657
+Polypedilum laetum,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,6,Shredder,Sprawler,1847,129692,129657
+Polypedilum Scalaenum Group,FALSE,4,4_middle,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,7,Shredder,Sprawler,1848,129708,129657
+Polypedilum simulans,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,8,Shredder,Sprawler,404,129711,
+Polypedilum trigonum,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,7,Shredder,Sprawler,1849,129718,129657
+Polypedilum trigonus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,,,,,,
+Polypedilum tritum,FALSE,4,4_middle,"SH,CG","CB,CN",,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Polypedilum,7,Shredder,Sprawler,1850,129719,129657
+Potamanthus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Potamanthidae,,,Potamanthus,4,Collector,Clinger,221,101510,101510
+Potamilus alatus,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Potamilus,4,Filterer,Burrower,2240,80282,
+Potamilus purpuratus,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Potamilus,4,Filterer,Burrower,2241,80289,
+Potamothrix bavaricus,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Potamothhrix,8,Collector,Burrower,1469,68787,
+Potamyia,FALSE,4,4_worse,CF,CN,,,multi,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Potamyia,6,Filterer,Clinger,1801,115551,115398
+Potamyia flava,FALSE,4,4_worse,CF,CN,,,multi,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Potamyia,6,Filterer,Clinger,1800,115552,115551
+Potthastia,FALSE,,,"CG,SC",SP,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Diamesinae,,Potthastia,0,Collector,Sprawler,1851,128408,128351
+Pristina,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Pristina,4,Collector,Clinger,1436,68876,68854
+Pristina aequiseta,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Pristina,4,Collector,Clinger,1427,68879,68876
+Pristina longiseta,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Pristina,4,Collector,Clinger,1431,68883,
+Pristina longisoma,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Pristina,8,Collector,Clinger,1433,68893,68876
+Pristina osborni,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Pristina,4,Collector,Clinger,1434,68887,68876
+Pristina sima,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Pristina,4,Collector,Clinger,1435,68878,68876
+Pristinella,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Pristinella,4,Collector,Clinger,1437,69024,68854
+Probezzia,FALSE,4,4_middle,PR,"BU,SP",,,multi,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Probezzia,4,Predator,Sprawler,419,127729,127683
+Procladius,FALSE,4,4_middle,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Procladius,9,Predator,Sprawler,405,128277,128277
+Procloeon,FALSE,4,4_middle,CG,SW,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Procloeon,2,Scraper,Sprawler,406,206622,206622
+Prodiamesa,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Diamesinae,,Prodiamesa,1,Collector,Clinger,1852,128452,128437
+Progomphus,FALSE,4,4_better,PR,BU,,,uni,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Progomphus,4,Predator,Burrower,1706,101718,101718
+Progomphus obscurus,FALSE,4,4_better,PR,BU,NF,pool,uni,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Progomphus,4,Predator,Burrower,1705,101720,101720
+Promenetus,FALSE,4,4_worse,SC,CB,,,,FALSE,Mollusca,Gastropoda,Pulmonata,Planorbidae,,,Promenetus,6,Scraper,Sprawler,2207,76621,76621
+Prostoma,FALSE,,,,,,,,FALSE,Nemertea,Enopla,Holonemertea,Tetrastemmatidae,,,Prostoma,6,Collector,Sprawler,2282,57577,57577
+Prostoma graecense,FALSE,,,,,,,,FALSE,Nemertea,Enopla,Holonemertea,Tetrastemmatidae,,,Prostoma,6,Collector,Sprawler,2280,57578,57577
+Protanypus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Diamesinae,,Protanypus,6,Collector,Burrower,372,128431,
+Protoptila,FALSE,,,"SC,PR",CN,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Glossosomatidae,,,Protoptila,1,Scraper,Clinger,1774,115221,115221
+Psectrocladius,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Psectrocladius,2,Collector,Sprawler,1853,129018,128457
+Psectrotanypus,FALSE,4,4_middle,PR,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Psectrotanypus,8,Predator,Sprawler,1854,128048,128020
+Psephenidae,FALSE,,,SC,CN,,,semi,FALSE,Arthropoda,Insecta,Coleoptera,Psephenidae,,,,4,Scraper,Clinger,238,114069,113998
+Pseudiron centralis,FALSE,,,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Pseudiron,6,Predator,Sprawler,1991,100674,
+Pseudochironomus,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Pseudochironomus,6,Predator,Sprawler,407,129851,
+Pseudocloeon,FALSE,4,4_worse,CG,"SW,CN",,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Baetidae,,,Pseudocloeon,4,Collector,Clinger,1973,100771,100755
+Pseudolimnophila,FALSE,3,,PR,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Pseudolimnophila,4,Shredder,,1965,120365,120365
+Pseudorthocladius,FALSE,,,CG,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Pseudorthocladius,0,Collector,,1855,129052,128457
+Pseudosmittia,FALSE,4,4_middle,CG,SP,SG,snag,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Pseudosmittia,6,Collector,Sprawler,134,129071,128457
+Pseudostenophylax,FALSE,,,SH,SP,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,Pseudostenophylax,1,Shredder,Sprawler,2129,115989,115989
+Pseudosuccinea columella,FALSE,4,4_worse,SC,CB,,,,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Pseudosuccinea,7,Scraper,Sprawler,2175,76529,76528
+Psilometriocnemus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Psilometicnemus,2,Collector,Sprawler,1856,129083,128457
+Psilometriocnemus triannulatus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Psilometicnemus,2,Collector,Sprawler,10676,129084,
+Psychoda,FALSE,4,4_worse,CG,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Psychodidae,,,Psychoda,9,Collector,Burrower,1933,125468,125468
+Psychodidae,FALSE,4,4_worse,CG,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Psychodidae,,,Psychodidae,9,Collector,Burrower,1934,125351,
+Pteronarcyidae,FALSE,4,4_better,SH,CN,,,semi,FALSE,Arthropoda,Insecta,Plecoptera,Pteronarcidae,,,Pteronarcyidae,1,Shredder,Sprawler,1763,102470,
+Pteronarcys,FALSE,4,4_better,SH,CN,,,semi,FALSE,Arthropoda,Insecta,Plecoptera,Pteronarcidae,,,Pteronarcys,1,Shredder,Sprawler,1762,102471,102471
+Pteronarcys californica,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Plecoptera,Pteronarcidae,,,Pteronarcys,1,Shredder,Sprawler,1759,102473,
+Pteronarcys dorsata,FALSE,4,4_better,SH,CN,,,semi,FALSE,Arthropoda,Insecta,Plecoptera,Pteronarcidae,,,Pteronarcys,1,Shredder,Sprawler,1760,102478,102471
+Ptilostomis,FALSE,4,4_middle,SH,CN,RM,root_mat,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephiloidae,,,Ptilostomis,3,Shredder,Sprawler,2131,115868,115868
+Ptychoptera,FALSE,,,CG,BU,,,"multi,uni",TRUE,Arthropoda,Insecta,Diptera,Ptychopteridae,,,Ptychoptera,7,Collector,Sprawler,1935,125786,125786
+Pycnopsyche,FALSE,4,4_middle,SH,SP,,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Limnephiloidae,,,Pycnopsyche,3,Shredder,Sprawler,2132,116409,116409
+Pyganodon grandis,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Pyganodon,4,Filterer,Burrower,6521,568179,
+Pyralidae,FALSE,3,,SH,SP,NF,pool,multi,FALSE,Arthropoda,Insecta,Lepidoptera,Pyralidae,,,,4,Shredder,Sprawler,2081,117641,117232
+Quadrula quadrula,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Quadrula,6,Filterer,Burrower,2251,80060,
+Quistadrilus,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Quistradrilus,,,,1473,68793,68793
+Quistadrilus multisetosus,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Quistradrilus,,,,1472,68794,68793
+Radotanypus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Macropelopiini,Radotanypus,6,,,14525,,
+Ranatra,FALSE,4,4_worse,PR,CN,,,"multi,uni",TRUE,Arthropoda,Insecta,Hemiptera,Nepidae,,,Ranatra,6,Predator,Clinger,2060,103748,103748
+Rhagovelia,FALSE,4,4_middle,PR,SK,CS,coarse,uni,TRUE,Arthropoda,Insecta,Hemiptera,Veliidae,,,Rhagovelia,10,Predator,Skater,2076,103886,103886
+Rhagovelia obesa,FALSE,4,4_middle,PR,SK,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Veliidae,,,Rhagovelia,10,Predator,Skater,2074,103887,103886
+Rhantus,FALSE,,,PR,SW,,,"multi,uni",TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Rhantus,9,Predator,Swimmer,3259,112086,
+Rheocricotopus,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Rheocricotopus,5,Predator,Sprawler,1857,129086,128457
+Rheosmittia,FALSE,4,4_middle,CG,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Rheosmittia,6,Collector,Sprawler,15746,,
+Rheotanytarsus,FALSE,4,4_middle,CF,CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Rheotanytarsus,6,Filterer,Clinger,408,129952,129872
+Rheotanytarsus akrina,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Rheotanytarsus,6,Filterer,Clinger,1858,129953,
+Rheotanytarsus distinctissimus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Rheotanytarsus,6,Filterer,Clinger,1859,129955,129952
+Rheumatobates,FALSE,4,4_middle,PR,SK,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Gerridae,,,Rheumatobates,6,Predator,Skater,2041,103802,103802
+Rheumatobates rileyi,FALSE,4,4_middle,PR,SK,,,uni,TRUE,Arthropoda,Insecta,Hemiptera,Gerridae,,,Rheumatobates,6,Predator,Skater,2040,103803,
+Rhithrogena,FALSE,,,CG,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Rhithrogena,2,Collector,Clinger,1992,100572,100504
+Rhyacophila,FALSE,3,,PR,CN,CS,coarse,uni,FALSE,Arthropoda,Insecta,Trichoptera,Rhyacophilidae,,,Rhyacophila,0,Predator,Clinger,2152,115097,115097
+Robackia,FALSE,4,4_middle,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Robackia,7,Collector,Burrower,1862,129730,129229
+Robackia demeijerei,FALSE,,,CG,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Robackia,7,Collector,Burrower,1861,129733,129730
+Roederiodes,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Empididae,,,Roederiodes,8,Predator,Clinger,15653,,
+Saetheria,FALSE,4,4_middle,CG,BU,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Saetheria,4,Collector,Burrower,1863,129735,129229
+Saetheria tylus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Saetheria,4,Collector,Burrower,1864,129737,129735
+Salda,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Hemiptera,Saldidae,,,Salda,8,Predator,Climber,2069,104080,104080
+Saldidae,FALSE,4,4_middle,PR,CB,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Saldidae,,,,8,Predator,Climber,2071,104063,
+Saldula,FALSE,4,4_middle,PR,CB,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Saldidae,,,Saldula,8,Predator,Climber,2070,104140,104140
+Sarcophagidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Sarcophagidae,,,,9,Collector,Sprawler,1937,151815,
+Sciomyzidae,FALSE,5,,PR,BU,,,multi,FALSE,Arthropoda,Insecta,Diptera,Sciomyzidae,,,,6,Predator,Sprawler,1939,144653,
+Scirtes,FALSE,4,4_middle,SC,CB,,,,TRUE,Arthropoda,Insecta,Coleoptera,Scirtidae,,,Scirtes,6,Scraper,Clinger,3280,113929,113929
+Scirtidae,FALSE,4,4_middle,SC,CB,,,,TRUE,Arthropoda,Insecta,Coleoptera,Scirtidae,,,,6,Scraper,Clinger,1569,113924,113918
+Serratella,FALSE,2,,CG,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,,,Serratella,2,Predator,Clinger,218,101395,101232
+Serromyia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Serromyia,6,Predator,Sprawler,6263,127614,
+Sialidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Megaloptera,Sialidae,,,Sialidae,8,Predator,Climber,2091,115001,
+Sialis,FALSE,4,4_middle,PR,BU,,,uni,FALSE,Arthropoda,Insecta,Megaloptera,Sialidae,,,Sialis,8,Predator,Burrower,432,115002,115001
+Sigara,FALSE,4,4_middle,PH,SW,NF,pool,multi,TRUE,Arthropoda,Insecta,Hemiptera,Corixidae,,,Sigara,8,Predator,Swimmer,409,103369,
+Simuliidae,FALSE,4,4_middle,CF,CN,,,uni,FALSE,Arthropoda,Insecta,Diptera,Simuliidae,,,,6,Filterer,Clinger,140,126640,125808
+Simulium,FALSE,4,4_middle,CF,CN,,,multi,FALSE,Arthropoda,Insecta,Diptera,Simuliidae,,,Simulium,6,Filterer,Clinger,141,126774,126773
+Siphlonuridae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,,,,3,Collector,Swimmer,215,100951,100503
+Siphlonurus,FALSE,3,,CG,"SW,CB",,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,,,Siphlonurus,7,Collector,Swimmer,216,100953,
+Sisyridae,FALSE,3,,PR,CB,,,multi,FALSE,Arthropoda,Insecta,Neuroptera,Sisyridae,,,,6,Predator,Climber,2097,115085,
+Slavina appendiculata,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Slavina,6,Collector,Clinger,1438,68856,68855
+Smittia,FALSE,4,4_middle,CG,BU,,,"multi,uni",FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Smittia,4,Collector,Clinger,1865,129110,128457
+Somatochlora,FALSE,4,4_middle,PR,"SP,CB",,,"semi,uni",FALSE,Arthropoda,Insecta,Odonata,Corduliidae,,,Somatochlora,1,Predator,Climber,1695,101947,101947
+Sparbarus,FALSE,4,4_middle,CG,SP,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Caenidae,,,Sparbarus,3,Collector,Sprawler,10677,776922,
+Sperchon,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Sperchonidae,,,Sperchon,5,Predator,Clinger,6092,83006,
+Sperchonopsis,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Sperchonidae,,,Sperchonopsis,5,Predator,Clinger,8302,83029,
+Sperchontidae,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Sperchontidae,,,,6,,,14536,,
+Sperchopsis,FALSE,4,4_middle,"PR,CG",CN,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Sperchopsis,5,Predator,Clinger,243,112931,112811
+Sphaeridium,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Sphaeridium,8,Filterer,Burrower,1561,112933,112933
+Sphaeriidae,FALSE,4,4_middle,CF,BU,,,,FALSE,Mollusca,Pelecypoda,Veneroida,Sphaeriidae,,,Sphaeriidae,8,Filterer,Burrower,2273,112737,
+Sphaerium,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Sphaeriidae,,,Sphaerium,8,Filterer,Burrower,2271,81391,81388
+Sphaerium striatinum,FALSE,4,4_middle,CF,BU,,,uni,FALSE,Mollusca,Pelecypoda,Veneroida,Sphaeriidae,,,Sphaerium,8,Filterer,Burrower,2272,81398,81391
+Sphaeromias,FALSE,4,4_worse,PR,BU,,,,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Sphaeromias,6,Predator,Sprawler,1588,127761,127761
+Spirosperma,FALSE,4,4_middle,CG,BU,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Spirosperma,,,,,,
+Spongilla,FALSE,,,,,,,,FALSE,Porifera,Demospongia,Haplosclerina,Spongillidae,,,Spongilla,0,Filterer,Clinger,2293,47692,47691
+Stagnicola,FALSE,5,,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,,,Stagnicola,8,Scraper,Sprawler,2176,76534,76483
+Staphylinidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Coleoptera,Staphylinidae,,,,8,Predator,Clinger,1570,113265,
+Stelechomyia,FALSE,4,4_middle,CG,BU,SG,snag,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Stelechomyia,6,Collector,Burrower,1866,129743,129743
+Stempellina,FALSE,3,,CG,CB,NF,pool,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Stempellina,2,Collector,Climber,1868,129962,129872
+Stempellinella,FALSE,3,,CG,CB,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Stempellinella,4,Collector,Climber,1869,129969,129872
+Stenacron,FALSE,4,4_middle,CG,CN,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenacron,7,Scraper,Clinger,1994,100713,100504
+Stenacron interpunctatum,FALSE,4,4_worse,CG,CN,,,multi,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenacron,7,Scraper,Clinger,1993,100714,100713
+Stenelmis,FALSE,4,4_middle,SC,CN,,,"semi,uni",FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Stenelmis,5,Scraper,Clinger,142,114095,114093
+Stenelmis humerosa,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Stenelmis,6,Scraper,Clinger,1537,114105,114095
+Stenochironomus,FALSE,4,4_middle,"CG,SH",BU,SG,snag,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Stenochironomus,4,Shredder,Burrower,1870,129746,129229
+Stenonema,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenonema,5,Scraper,Clinger,143,100507,100504
+Stenonema bipunctatum,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Maccaffertium,3,Scraper,Clinger,1995,100512,
+Stenonema exiguum,FALSE,4,4_middle,SC,CN,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenonema,2,Scraper,Clinger,1996,100514,100507
+Stenonema femoratum,FALSE,4,4_better,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenonema,3,Scraper,Clinger,1997,100516,100507
+Stenonema integrum,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenonema,4,Scraper,Clinger,1998,100521,100507
+Stenonema mexicanum,FALSE,4,4_middle,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenonema,3,Scraper,Clinger,3249,100553,100507
+Stenonema pulchellum,FALSE,3,,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenonema,2,Scraper,Clinger,2001,100509,100507
+Stenonema terminatum,FALSE,4,4_worse,SC,CN,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Maccaffertium,3,Scraper,Clinger,2002,100542,100507
+Stenonema tripunctatum,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,,,Stenonema,3,Scraper,Clinger,2003,100543,100507
+Stictochironomus,FALSE,4,4_worse,CG,BU,NF,pool,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Stictochironomus,8,Collector,Burrower,1871,129785,129229
+Stictocladius,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,,Stictocladius,6,,,14964,,
+Stictotarsus,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Stictotarsus,6,Predator,Swimmer,6197,568826,
+Stilobezzia,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,Stilobezzia,6,Predator,Sprawler,1589,127619,127619
+Stilocladius,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Stilocladius,1,Collector,Sprawler,1873,129152,128457
+Stratiomyidae,FALSE,4,4_worse,CG,SP,,,,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,,8,Shredder,Burrower,1952,130150,
+Stratiomys,FALSE,4,4_worse,CG,SP,,,uni,TRUE,Arthropoda,Insecta,Diptera,Stratiomyidae,,,Stratiomys,8,Shredder,Sprawler,1951,130627,130627
+Strophitus undulatus,FALSE,,,,,,,,FALSE,Mollusca,Bivalvia,Unionoida,Unionidae,,,Strophitus,3,Filterer,Burrower,10678,80151,
+Stylaria,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Stylaria,8,Collector,Clinger,1445,68871,
+Stylaria fossularis,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Stylaria,8,Collector,Clinger,1443,68873,68871
+Stylaria lacustris,FALSE,4,4_middle,CG,"BU,SW",,,multi,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Stylaria,8,Collector,Clinger,1444,68872,68871
+Stylogomphus,FALSE,2,,PR,BU,,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Stylogomphus,6,Collector,Burrower,1707,101761,101761
+Stylurus,FALSE,4,4_middle,"PR,CG","BU,SP",,,semi,FALSE,Arthropoda,Insecta,Odonata,Gomphidae,,,Stylurus,6,Collector,Burrower,1708,101666,101666
+Sublettea,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Sublettea,2,Filterer,Climber,1874,129975,129872
+Sympetrum,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Odonata,Libellulidae,,,Sympetrum,9,Predator,Sprawler,1724,101976,101976
+Symphitopsyche,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Symphitopsyche,4,Collector,Clinger,1803,115566,115566
+Symphitopsyche piatrix,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Trichoptera,Hydropsychidae,,,Symphitopsyche,,,,,,
+Sympotthastia,FALSE,,,"CG,SC",SP,CS,coarse,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Diamesinae,,Sympotthastia,2,Collector,Sprawler,1876,128426,128351
+Syrphidae,FALSE,,,CG,BU,,,,TRUE,Arthropoda,Insecta,Diptera,Syrphidae,,,,10,Shredder,Burrower,1954,139621,
+Tabanidae,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tabanidae,,,,8,Predator,Sprawler,144,130934,130741
+Tabanus,FALSE,4,4_middle,PR,SP,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tabanidae,,,Tabanus,8,Shredder,Burrower,1956,131527,131527
+Taeniopteryx,FALSE,3,,SH,"SP,CN",,,uni,FALSE,Arthropoda,Insecta,Plecoptera,Taeniopterygidae,,,Taeniopteryx,2,Shredder,Clinger,1765,102789,102789
+Taeniopteryx burksi,FALSE,3,,SH,"SP,CN",,,uni,FALSE,Arthropoda,Insecta,Plecoptera,Taeniopterygidae,,,Taeniopteryx,2,Shredder,Clinger,1764,102791,102789
+Tanypodinae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,,7,Predator,Burrower,147,127994,127917
+Tanypodini,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanypodini,,5,Predator,Sprawler,1878,128323,
+Tanypus,FALSE,4,4_worse,PR,SP,NF,pool,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Tanypus,9,Predator,Sprawler,433,128324,128323
+Tanypus clavatus,FALSE,4,4_worse,PR,SP,NF,pool,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Tanypus,9,Predator,Sprawler,1879,128326,
+Tanypus punctipennis,FALSE,4,4_worse,PR,SP,NF,pool,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Tanypus,9,Predator,Sprawler,1880,128333,128324
+Tanytarsini,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,,5,Collector,Sprawler,3664,129872,
+Tanytarsus,FALSE,4,4_middle,"CF,CG",CN,,,uni,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Tanytarsus,6,Filterer,Climber,410,12978,129872
+Telebasis,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,Coenagrionidae,,,Telebasis,8,Predator,Climber,2120,102096,102096
+Telopelopia,FALSE,4,4_middle,PR,"BU,SP",,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Telopelopia,4,Predator,Sprawler,1884,128233,128233
+Telopelopia okoboji,FALSE,4,4_middle,PR,"BU,SP",,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Telopelopia,4,Predator,Sprawler,1883,128234,
+Thermonectus,FALSE,4,4_middle,PR,SW,,,uni,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Thermonectus,5,Predator,Swimmer,1533,112109,112109
+Thienemannia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Thienemannia,6,Collector,Sprawler,1885,129179,
+Thienemanniella,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Thienemanniella,6,Predator,Sprawler,1886,129182,128457
+Thienemannimyia Group,FALSE,4,4_middle,PR,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Thienemannimyia,6,Predator,Sprawler,1887,128236,128078
+Tipula,FALSE,4,4_middle,SH,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Tipula,4,Shredder,Burrower,149,119037,118841
+Tipulidae,FALSE,4,4_middle,SH,BU,,,uni,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,,3,Shredder,Burrower,150,118840,118839
+Tipuloidea,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,,,,,,,,,,
+Tortopus,FALSE,,,CG,BU,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Polymitarcyidae,,,Tortopus,2,Collector,Clinger,2017,101579,101579
+Toxorhynchites,FALSE,,,,,,,,TRUE,Arthropoda,Insecta,Diptera,Culicidae,,,Toxorhynchites,8,Filterer,Swimmer,1918,125932,
+Trepaxonemata,FALSE,,,,,,,,FALSE,Platyhelminthes,Turbellaria,Neophora,,,,,5,Scraper,Sprawler,11935,914204,
+Trepobates,FALSE,4,4_middle,PR,SK,,,"multi,uni",TRUE,Arthropoda,Insecta,Hemiptera,Gerridae,,,Trepobates,10,Predator,Climber,411,103811,103801
+Triaenodes,FALSE,3,,SH,"SW,CN",RM,root_mat,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Triaenodes,6,Shredder,Sprawler,1830,116565,116565
+Triaenodes tardus,FALSE,3,,SH,"SW,CN",,,uni,FALSE,Arthropoda,Insecta,Trichoptera,Leptoceridae,,,Triaenodes,6,Shredder,Sprawler,1831,116580,
+Tribelos,FALSE,4,4_middle,CG,BU,SG,snag,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Tribelos,5,Collector,Sprawler,1888,129820,129229
+Trichocorixa,FALSE,5,,PR,SW,,,multi,TRUE,Arthropoda,Insecta,Hemiptera,Corixidae,,,Trichocorixa,10,Predator,Swimmer,2030,103423,103423
+Trichoptera,FALSE,,,NA,SP,,,,FALSE,Arthropoda,Insecta,Trichoptera,,,,Trichoptera,5,,,2154,115095,
+Trichotanypus,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Podonominae,,Trichotanypus,2,Collector,Sprawler,1889,127979,
+Tricorythidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Ephemeroptera,Tricorythidae,,,Tricorythidae,8,Collector,Clinger,2023,101404,101094
+Tricorythodes,FALSE,4,4_worse,CG,SP,,,uni,FALSE,Arthropoda,Insecta,Ephemeroptera,Tricorythidae,,,Tricorythodes,4,Collector,Sprawler,420,101405,101404
+Tricyphona,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Tipulidae,,,Tricyphona,,,,,,
+Tridactylidae,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Orthoptera,Tridactylidae,,,,6,Shredder,Burrower,1733,102227,102227
+Trissopelopia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Trissopelopia,6,Predator,Burrower,3260,128251,
+Tritogonia verrucosa,FALSE,,,,,,,,FALSE,Mollusca,Bivalvia,Unionida,Unionidae,,,Tritogonia,5,Filterer,Burrower,15654,,
+Tropisternus,FALSE,4,4_middle,PR,CB,RM,root_mat,multi,TRUE,Arthropoda,Insecta,Coleoptera,Hydrophilidae,,,Tropisternus,5,Predator,Climber,152,112938,112811
+Tubifex tubifex,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Tubifex,10,Collector,Burrower,153,68623,68622
+Tubificidae,FALSE,4,4_middle,CG,"BU,CN",,,,FALSE,Annelida,Oligochaeta,Haplotaxida,Tubificidae,,,,,,,,,
+Tubificinae,FALSE,4,4_worse,CG,"BU,CN",,,,FALSE,Annelida,Oligochaeta,Haplotaxida,Tubificidae,Tubificinae,,,10,,,14447,,
+Turbellaria,FALSE,4,4_middle,NA,SP,,,,FALSE,Platyhelminthes,Turbellaria,,,,,Turbellaria,5,Unidentified,Sprawler,2292,53964,63963
+Tvetenia,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Tvetenia,5,Collector,Sprawler,1891,129197,128457
+Tvetenia Bavarica Group,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Tvetenia,5,Collector,Sprawler,1890,129205,129197
+Tvetenia vitracies,FALSE,4,4_middle,CG,SP,,,multi,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,,Tvetenia,5,Collector,Sprawler,3265,129203,
+Tyrrellia,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Limnesiidae,,,Tyrellia,5,Predator,Clinger,10679,83068,
+Uncinais uncinata,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Uncinais,8,Collector,Clinger,1447,68990,
+Uniomerus tetralasmus,FALSE,,,,,,,,FALSE,Mollusca,Bivalvia,Unionida,Unionidae,,,Uniomerua,5,Filterer,Burrower,15655,,
+Unionicola,FALSE,,,,,,,,FALSE,Arthropoda,Arachnida,Trombidiformes,Unionicolidae,,,Unionicola,5,Predator,Clinger,6188,83073,
+Unionidae,FALSE,4,4_middle,CF,BU,NF,pool,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,,5,Filterer,Burrower,2257,79913,79912
+Utterbackia imbecillis,FALSE,,,,,,,,FALSE,Mollusca,Pelecypoda,Unionoida,Unionidae,,,Utterbackia,6,Filterer,Burrower,2217,568432,567155
+Uvarus,FALSE,4,4_middle,PR,SW,,,,TRUE,Arthropoda,Insecta,Coleoptera,Dytiscidae,,,Uvarus,8,Predator,Swimmer,3262,112575,
+Valvata,FALSE,,,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Prosobranchia,Valvatidae,,,Valvata,3,Scraper,Sprawler,2186,70345,70346
+Valvata tricarinata,FALSE,,,SC,CB,,,multi,FALSE,Mollusca,Gastropoda,Prosobranchia,Valvatidae,,,Valvata,3,Scraper,Sprawler,2187,70354,
+Vejdovskyella,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Vejdovskyella,6,Scraper,Clinger,1448,69009,68854
+Veliidae,FALSE,4,4_middle,PR,SK,,,"multi,uni",TRUE,Arthropoda,Insecta,Hemiptera,Veliidae,,,,10,Predator,Skater,2077,103885,
+Wapsa mobilis,FALSE,,,,,,,,FALSE,Annelida,Oligochaeta,Tubificida,Naididae,,,Paranais,8,Collector,Clinger,1450,,
+Williamsonia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,Corduliidae,,,Williamsonia,1,Predator,Climber,1696,101827,
+Wormaldia,FALSE,3,,CF,CN,,,multi,FALSE,Arthropoda,Insecta,Trichoptera,Philopotamidae,,,Wormaldia,2,Filterer,Clinger,2140,115258,115258
+Xenochironomus,FALSE,3,,PR,BU,SG,snag,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Xenochironomus,1,Predator,Burrower,1892,129837,129229
+Xenochironomus xenolabis,FALSE,3,,PR,BU,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Xenochironomus,1,Predator,Burrower,10680,129838,
+Zaitzevia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Coleoptera,Elmidae,,,Zaitzevia,,,,,,
+Zapada cinctipes,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Plecoptera,Nemouridae,,,Zapada,1,Shredder,Sprawler,1742,102594,
+Zavrelia,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Tanytarsini,Zavrelia,6,Collector,Burrower,1893,130038,129872
+Zavreliella marmorata,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,,Chironomini,Zavreliella,6,Collector,Burrower,1895,189328,130040
+Zavrelimyia,FALSE,4,4_middle,PR,SP,,,,FALSE,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,,Zavrelimyia,8,Predator,Sprawler,1896,128259,128078
+Zealeuctra claasseni,FALSE,3,,SH,SP,,,uni,FALSE,Arthropoda,Insecta,Plecoptera,Leuctridae,,,Zealeuctra,6,Predator,Clinger,1736,102902,102900
+Zygoptera,FALSE,,,,,,,,FALSE,Arthropoda,Insecta,Odonata,,,,,,,,,,

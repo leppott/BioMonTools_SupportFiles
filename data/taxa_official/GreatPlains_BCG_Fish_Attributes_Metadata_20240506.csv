@@ -1,0 +1,16 @@
+Version Date,5/6/2024
+Primary contact,Ben Block (Ben.Block@tetratech.com)
+,
+TAXAID,Scientific name (after translation; see taxa translator table)
+FAMILY,taxonomic hierarchy
+GENUS,taxonomic hierarchy
+COMMONNAME,Common name of taxon
+BCG_ATTR,"Biological Condition Gradient (BCG) taxa attribute assignments for the Great Plains BCG: 2, 3, 4, 5. 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = highly tolerant."
+BCGATTR_ROMAN,Roman numeral equivalent of BCG_ATTR field.
+BCG_ATTR2,"BCG attribute assignments that accommodate sub-levels: 2_MIDDLE, 3_BETTER, 3_MIDDLE, 3_WORSE, 4_BETTER, 4_WORSE, 5_MIDDLE."
+BCG_ATTR2_ROMAN,Roman numeral equivalent of BCG_ATTR2 field.
+BCG_NUM,Continuous numerical equivalent of BCG_ATTR2 field.  2_MIDDLE = 2.0; 3_BETTER = 3.0;  3_MIDDLE = 3.0; 3_WORSE = 3.5; 4_BETTER = 4; 4_WORSE = 4.5; 5_MIDDLE = 5.0.
+NATIVE,"Specifies whether a taxon is native or non-native to the Great Plains region as a whole. Enter ""NATIVE"" for native taxa, and ""NON_NATIVE"" for non-native taxa."
+TROPHIC,"Trophic type: Herbivore (HB), Invertivore (IV), Omnivore (OM), top-carnivore (TC). A single taxon can only have one entry."
+HABITAT,"Habitat type: benthic (B), fluvial (F), and water-column (W). A single taxon can have multiple entries."
+REPRODUCTION,Reproduction type: BEARER; BROADCASTER; COMPLEX NEST;  LITHOPHIL; MIGRATORY; SIMPLE NEST. Only LITHOPHIL is used for metric calculations. A single taxon can have multiple entries.

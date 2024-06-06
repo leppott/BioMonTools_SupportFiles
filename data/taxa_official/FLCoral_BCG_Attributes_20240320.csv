@@ -1,0 +1,87 @@
+TaxaID,CommonName,Phylum,Class,SubClass,Order,Family,Genus,SubGenus,Species,LRBC,MorphConvFact,BCG_ATTR,Weedy
+Acropora cervicornis,Staghorn coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Acroporidae,Acropora,Anthozoa,cervicornis,TRUE,4,3,Never
+Acropora palmata,Elkhorn coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Acroporidae,Acropora,Anthozoa,palmata,TRUE,4,2,Never
+Acropora prolifera,Fused staghorn,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Acroporidae,Acropora,Anthozoa,prolifera,,4,3,Never
+Acropora,Thick staghorn coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Acroporidae,Acropora,,,TRUE,4,,Never
+Agaricia agaricites,Low relief lettuce coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,Agaricia,Anthozoa,agaricites,,1,4,Sometimes
+Agaricia fragilis,Fragile saucer coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,Agaricia,Anthozoa,fragilis,,1,3,Sometimes
+Agaricia grahamae,Dimpled sheet coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,Agaricia,Anthozoa,grahamae,,1,,Sometimes
+Agaricia humilis,Low relief lettuce coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,Agaricia,Anthozoa,humilis,,1,4,Sometimes
+Agaricia lamarcki,Whitestar sheet coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,Agaricia,Anthozoa,lamarcki,,1,3,Sometimes
+Agaricia,,,,,,,,,,,1,,Never
+Agaricia tenuifolia,Thin leaf lettuce coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,Agaricia,,,,3,4,Sometimes
+Agaricia undata,Scroll plate coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,Agaricia,,,,1,,Sometimes
+Caryophyllia,,,,,,,,,,,2,,Never
+Cladacora arbuscula,Tube coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Faviidae,,,,,4,5,Never
+Colpophyllia natans,Boulder brain coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Colpophyllia,Anthozoa,natans,TRUE,2,3,Never
+Colpophyllia,,,,,,Mussidae,,,,,2,3,Never
+Dendrogyra cylindrus,Pillar coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Meandrinidae,Dendrogyra,Anthozoa,cylindrus,,3,1,Never
+Dichocoenia stokesii,Elliptical star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Meandrinidae,Dichocoenia,Anthozoa,stokesii,,2,3,Never
+Diploria labyrinthiformis,Grooved brain coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Diploria,Anthozoa,labyrinthiformis,TRUE,2,3,Never
+Diploria,,,,,,Mussidae,,,,,2,,Never
+Eusmilia fastigiata,Smooth flower coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Meandrinidae,Eusmilia,Anthozoa,fastigiata,,3,3,Never
+Favia fragum,Golfball coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Favia,Anthozoa,fragum,,2,4,Never
+Helioseris cucullata,Sunray lettuce coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,,,,,1,3,Sometimes
+Isophyllastrea rigida,Rough cactus coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Isophyllastrea,Anthozoa,rigida,,2,2,Sometimes
+Isophyllia sinuosa,Sinuous cactus coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Isophyllia,Anthozoa,sinuosa,,2,2,Sometimes
+Isophyllia,,,,,,Mussidae,,,,,2,,Never
+Madracis auretenra,Yellow pencil coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Pocilloporidae,Madracis,Anthozoa,auretenra,,3,4,Sometimes
+Madracis carmabi,Ten ray finger coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Pocilloporidae,,,,,3,,Sometimes
+Madracis decactis,Ten ray star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Pocilloporidae,Madracis,Anthozoa,decactis,,3,5,Sometimes
+Madracis formosa,Eight-ray star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Pocilloporidae,Madracis,Anthozoa,formosa,,3,,Sometimes
+Madracis pharensis,,,,,,Pocilloporidae,,,,,3,,Never
+Madracis senaria,Six-ray star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Pocilloporidae,Madracis,Anthozoa,senaria,,3,5,Sometimes
+Madracis,,,,,,,,,,,3,,Never
+Manicina areolata,Rose coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Manicina,Anthozoa,areolata,,2,5,Sometimes
+Meandrina danae,Butterprint rose coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Meandrinidae,Meandrina,Anthozoa,,,2,2,Sometimes
+Meandrina jacksoni,White valley maze coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Meandrinidae,Meandrina,Anthozoa,jacksoni,TRUE,2,2,Sometimes
+Meandrina meandrites,Maze coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Meandrinidae,Meandrina,Anthozoa,meandrites,TRUE,2,2,Sometimes
+Meandrina,Maze coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Meandrinidae,,,,TRUE,2,2,Sometimes
+Millepora alcicornis,Branching fire hydrocoral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Milleporidae,Millepora,Hydrozoa,alcicornis,,4,,Never
+Millepora complanata,Blade fire hydrocoral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Milleporidae,Millepora,Hydrozoa,complanata,,4,3,Never
+Montastraea cavernosa,Great star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Montastraeidae,Montastraea,Anthozoa,cavernosa,TRUE,2,4,Never
+Mussa angulosa,Atlantic mushroom coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Mussa,Anthozoa,,,2,3,Sometimes
+Mycetophyllia aliciae,Knooby cactus coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Mycetophyllia,Anthozoa,aliciae,,1,4,Sometimes
+Mycetophyllia danaana,Deep valley cactus coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Mycetophyllia,Anthozoa,danaana,,1,3,Sometimes
+Mycetophyllia ferox,Rough cactus coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Mycetophyllia,Anthozoa,ferox,,1,2,Sometimes
+Mycetophyllia lamarckiana,Ridged cactus coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Mycetophyllia,Anthozoa,lamarckiana,,1,3,Sometimes
+Mycetophyllia reesi,Ridgeless cactus coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,,,,,1,,Sometimes
+Mycetophyllia,,,,,,,,,,,1,3,Never
+Oculina diffusa,Diffuse ivory coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Oculinidae,,,,,4,5,Sometimes
+Oculina robusta,Robust ivory coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Oculinidae,,,,,4,,Sometimes
+Oculina,,,,,,,,,,,4,,Never
+Oculina valenciennesi,Small ivory coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Oculinidae,,,,,4,,Sometimes
+Oculina varicosa,Large ivory coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Oculinidae,,,,,4,,Sometimes
+Orbicella annularis,Lobed star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Merulinidae,Orbicella,Anthozoa,annularis,TRUE,3,3,Never
+Orbicella faveolata,Mountainous star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Merulinidae,Orbicella,Anthozoa,faveolata,TRUE,2,3,Never
+Orbicella franksi,Boulder star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Merulinidae,Orbicella,Anthozoa,franksi,TRUE,2,4,Never
+Orbicella,,,,,,,,,,,2,,Never
+Other Coral Species,,,,,,,,,,,1,,Never
+Phyllangia americana,,,,,,,,,,,2,5,Never
+Porites astreoides,Mustard hill coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Poritidae,Porites,Anthozoa,astreoides,,2,5,Sometimes
+Porites branneri,Blue crust coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Poritidae,Porites,Anthozoa,branneri,,2,,Sometimes
+Porites colonensis,Honeycom plate coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Poritidae,Porites,Anthozoa,,,1,,Sometimes
+Porites divaricata,Thin finger coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Poritidae,Porites,Anthozoa,divaricata,,3,4,Sometimes
+Porites furcata,Branching finger coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Poritidae,Porites,Anthozoa,furcata,,3,4,Sometimes
+Porites porites,Clubtip finger coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Poritidae,Porites,Anthozoa,porites,,3,4,Sometimes
+Porites,,,,,,,,,,,2,,Never
+Pseudodiploria clivosa,Knobby brain coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Pseudodiploria,Anthozoa,clivosa,TRUE,2,4,Never
+Pseudodiploria,,,,,,Mussidae,,,,,2,,Never
+Pseudodiploria strigosa,Symmetrical brain coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Pseudodiploria,Anthozoa,strigosa,TRUE,2,3,Never
+Pseudopterogorgia americana,,Cnidaria,,,,,,,,,,,Never
+Scleractinia,,,,,,,,,,,1,,Never
+Scleractinia,,,,,,,,,,,,,Never
+Scolymia cubensis,Solitary disk corals,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,Scolymia,Anthozoa,cubensis,,2,5,Sometimes
+Scolymia lacera,Solitary disk corals,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,,,,,2,5,Sometimes
+Scolymia,,,,,,,,,,,2,5,Never
+Scolymia wellsi,Solitary disk corals,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Mussidae,,,,,2,,Sometimes
+Siderastrea radians,Lesser starlet coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Siderastreidae,Siderastrea,Anthozoa,radians,,2,5,Sometimes
+Siderastrea siderea,Massive starlet coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Siderastreidae,Siderastrea,Anthozoa,siderea,TRUE,2,4,Sometimes
+Siderastrea,,,,,,,,,,,2,4,Never
+Solenastrea bournoni,Smooth star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Faviidae,Solenastrea,Anthozoa,bournoni,,2,5,Never
+Solenastrea hyades,Knobby star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Faviidae,,,,,2,5,Never
+Solenastrea,,,,,,,,,,,2,,Never
+Stephanocoenia intersepta,Blushing star coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Astrocoeniidae,Stephanocoenia,Anthozoa,intersepta,,2,5,Sometimes
+Tubastraea coccinea,Orange cup coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Dendrophylliidae,Tubastraea,Anthozoa,coccinea,,4,6,Sometimes
+Undaria,,,,,,Agariciidae,,,,,1,,Never
+Undaria tenuifolia,Thin leaf lettuce coral,Cnidaria,Anthozoa,Cnidaria,Scleractinia,Agariciidae,,,,,3,,Sometimes
