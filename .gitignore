@@ -5,3 +5,4 @@
 BioMonTools_SupportFiles.Rproj
 *.json
 *.dcf
+_tests/

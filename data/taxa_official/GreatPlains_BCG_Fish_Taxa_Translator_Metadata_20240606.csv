@@ -1,0 +1,8 @@
+Version Date,6/5/2024
+Primary contact,Ben Block (Ben.Block@tetratech.com)
+,
+TaxaID_orig,taxon name from the original source file
+Name type,scientific or common name (we can accommodate either; common names will be translated to scientific names during the 'taxa translate' step)
+OTU_BCG,"TaxaID_orig translated to an ID that harmonizes differences across datasets (such as syntax, changes in nomenclature, misspellings, etc.). Used for the Great Plains BCG metric calculations"
+Modified_BCG,TRUE = TaxaID_orig is different from the OTU_BCG; FALSE = TaxaID_orig is the same as the OTU_BCG
+Rationale,"reason for change (e.g., formatting, spelling)"

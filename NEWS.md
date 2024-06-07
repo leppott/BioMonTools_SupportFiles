@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-06 15:50:38.996705
+    #> Last Update: 2024-06-07 14:20:42.667915
+
+# BioMonTools_SupportFiles 0.0.1.9063
+
+Released - 2024-06-06
+
+- refactor: Update GP Fish files
 
 # BioMonTools_SupportFiles 0.0.1.9062
 
