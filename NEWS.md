@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-07 14:20:42.667915
+    #> Last Update: 2024-06-11 09:02:28.97878
+
+# BioMonTools_SupportFiles 0.0.1.9064
+
+Released - 2024-06-11
+
+- refactor: Update GP Bug files
+- tests: Test that PickFiles info matches filenames and column names
 
 # BioMonTools_SupportFiles 0.0.1.9063
 

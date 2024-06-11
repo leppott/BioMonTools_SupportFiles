@@ -1,0 +1,42 @@
+Version,6/10/2024
+Primary contact Great Plains BCG,Jen Stamp <Jen.Stamp@tetratech.com>
+Primary contact Nebraska,Tom Heatherly <tom.heatherly@nebraska.gov>
+,
+TaxaID,taxon name (post-translation)
+NonTarget,FALSE = target (ok to include in calculations). TRUE = nontarget (not appropriate to include in the Great Plains BCG calculation)
+BCG_Attr,"Great Plains Biological Condition Gradient (BCG) taxa attribute assignments (2, 3, 4, 5, 6m). 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = highly tolerant; 6m = nonnative, moderately tolerant"
+BCG_Attr2,"Great Plains BCG attribute IV sub-level: 4_better, 4_middle, 4_worse"
+FFG,"Great Plains BCG Functional Feeding Group: collector-gatherer (CG), collector-filterer (CF), predator (PR), scraper (SC), shredder (SH), macrophyte herbivore (MH), omnivore (OM), parasite (PA), piercer-herbivore (PH), xylophage (XY). Multiple entries are allowed and are separated with a comma"
+HABIT,"Great Plains BCG Habit: burrowers (BU), climbers (CB), clingers (CN), sprawlers (SP), swimmers (SW). Multiple entries are allowed and are separated with a comma"
+HABSTRUCT,"Great Plains BCG. Habitat structure (abbreviated). Taxa that show a strong association with a particular habitat structure: CS = coarse substrate, RM = root mat, NF = pool, SG = snag. Based on an analysis of Missouri data. For more information, contact Randy Sarver (randy.sarver@dnr.mo.gov)"
+HABSTRUCT_Full,"Great Plains BCG. Habitat structure (written out). Taxa that show a strong association with a particular habitat structure (coarse substrate, root mat, pool, snag). Based on an analysis of Missouri data. For more information, contact Randy Sarver (randy.sarver@dnr.mo.gov)"
+LIFE_CYCLE,"Great Plains BCG Life Cycle: number of broods or generations of an organism in a year (also referred to as 'voltinism'): univoltine (UNI), semivoltine (SEMI), or multivoltine (MULTI). Multiple entries are allowed and are separated with a comma"
+AirBreather,"Great Plains BCG: TRUE = air breather, which include: Hemiptera (all families); Coleoptera - all adults other than Elmidae ande Dryopidae, and larvae of Dystiscidae, Hydrophilidae, Hydraenidae, Heteroceridae; Gyrinidae; Haliplidae; Scirtidae; Diptera (Culicidae larvae, Ptychopteridae larvae, Chaoboridae larvae (except Chaoborus sp.), Stratiomyidae, Dolichopodidae and Syrphidae"
+Taxon_Group,"major taxonomic groups - Other Non-Insect, Oligochaeta, Terrestrial, Coleoptera, Diptera, Chironomidae, Ephemeroptera, Heteroptera, Hemiptera, Lepidoptera, Megaloptera, Neuroptera, Odonata, Plecoptera, Trichoptera, Fish"
+TSN,"Taxonomic Serial Number - a unique, persistent, non-intelligent identifier for a scientific name in the context of the Integrated Taxonomic Information System (ITIS)."
+Synonyms,self-explanatory
+Kingdom,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+Phylum,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SubPhylum,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+Class,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SubClass,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+Order,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SubOrder,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SuperFamily,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+Family,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SubFamily,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+Tribe,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+GenusGroup,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+Genus,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SubGenus,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SpeciesGroup,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SpeciesSubGroup,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+SpeciesComplex,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+Species,"Great Plains BCG taxonomic hierarchy, as provided by Nebraska DEQ"
+Taxon Authority,provided by Rhithron (Sean Sullivan)
+Taxon Authority Source,provided by Rhithron (Sean Sullivan)
+Tetra Tech AddIn,not in Rhithron table; added in by Tetra Tech (Jen Stamp)
+TolVal_NE,"Nebraska DEQ. Tolerance to general disturbance, scaled from 0 (most intolerant) to 10 (most tolerant)"
+FFG_NE,Nebraska DEQ. Primary Functional Feeding Group (FFG)
+Habit_NE,Nebraska DEQ. Primary Habit Group
+BenTaxaID,Nebraska DEQ. unique taxonomic identification number

@@ -1,0 +1,10 @@
+Version,6/10/2024
+Primary contact,Jen Stamp <Jen.Stamp@tetratech.com>
+,
+TaxaID_orig,taxon name from the original source file
+modified_BCG,TRUE = modified during the translation; FALSE = unchanged
+OTU_BCG,Operational Taxonomic Unit (OTU) for the Kansas Great Plains BCG calculation
+Notes,reason for the change (blank if no change)
+OTU_MMI,OTU for the KS MMI calculation. DNI (do not include) = taxon is not included in the MMI calculation
+OTU_MMI_genus,Alternate OTU for the KS MMI calculation; differs from OTU_MMI in that species-level IDs are collapsed to genus or higher levels. DNI (do not include) = NonTarget.
+OTU_bcgTaxaTolAnal,OTU that was used for the regional taxa tolerance analysis for the Great Plains BCG taxa attribute assignments

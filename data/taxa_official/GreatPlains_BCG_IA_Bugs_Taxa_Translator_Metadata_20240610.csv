@@ -1,0 +1,8 @@
+Version,6/10/2024
+Primary contact,Jen Stamp <Jen.Stamp@tetratech.com>
+,
+orig_FinalID_IA,taxon name from the original source file
+OTU_BCG_IA,Operational Taxonomic Unit (OTU) for the Iowa Great Plains BCG calculation
+modified_BCG,TRUE = modified during the translation; FALSE = unchanged
+Notes,reason for the change (blank if no change)
+OTU_TaxaTolAnal,OTU that was used for the regional taxa tolerance analysis for the Great Plains BCG taxa attribute assignments

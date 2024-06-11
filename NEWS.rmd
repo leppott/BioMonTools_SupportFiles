@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9064
+===========
+Released - 2024-06-11
+
+* refactor: Update GP Bug files
+* tests: Test that PickFiles info matches filenames and column names
+
 BioMonTools_SupportFiles 0.0.1.9063
 ===========
 Released - 2024-06-06

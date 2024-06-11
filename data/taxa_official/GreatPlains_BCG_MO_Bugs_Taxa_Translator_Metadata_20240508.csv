@@ -1,5 +1,7 @@
-Placeholder file,
-Will update later,
+Version,6/10/2024
+Primary contact,Jen Stamp <Jen.Stamp@tetratech.com>
 ,
-,
-ColName,Description
+orig_TaxaID,taxon name from the original source file
+OTU_BCG_MO,Operational Taxonomic Unit (OTU) for the Missouri Great Plains BCG calculation
+ModifiedBCG,TRUE = modified during the translation; FALSE = unchanged
+Notes,reason for the change (blank if no change)

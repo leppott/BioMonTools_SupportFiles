@@ -1,0 +1,177 @@
+Date,TypeOfChange,Taxon_orig,Taxon_modified,Notes
+20240606,change OTU_BCG,ACARINA,ACARI,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,AEDES VEXANS,AEDES,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,AMERCAENIS,AMERCAENIS RIDENS,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,AMIOCENTRUS,BRACHYCENTRIDAE,questionable ID. Sean Sullivan
+20240606,change OTU_BCG,AMPHICHAETA LEYDIGI,AMPHICHAETA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ANODONTA GRANDIS,PYGANODON GRANDIS,nomenclature change
+20240606,change OTU_BCG,ANOPHELES PSEUDOPUNCTIPENNIS,ANOPHELES,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ANOPHELES WALKERI,ANOPHELES,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ANTOCHA OBTUSA,ANTOCHA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,APOBAETIS LAKOTA,APOBAETIS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ARCHILESTES GRANDIS,ARCHILESTES,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ASELLUS INTERMEDIUS,ASELLUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ATHERICIDAE,ATHERIX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ATHERIX LANTHA,ATHERIX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,AXARUS SCOPULA,AXARUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,BAETIS FUSCATUS,BAETIS FUSCATUS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,BAETIS FUSCATUS GR.,BAETIS FUSCATUS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,BAETIS INTERCALARIS COMPLEX,BAETIS INTERCALARIS,syntax recommended by Sean Sullivan
+20240606,change OTU_BCG,BAETIS RHODANI GR.,BAETIS RHODANI GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,BAETIS TRICAUDATUS,BAETIS TRICAUDATUS COMPLEX,syntax
+20240606,change OTU_BCG,BEZZIA,CERATOPOGONINAE,subfamily level recommended by Sean Sullivan
+20240606,change OTU_BCG,BEZZIA / PALPOMYIA,CERATOPOGONINAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,BRACHYCENTRIDAE OCCIDENTALIS,BRACHYCENTRUS OCCIDENTALIS,bad name combo (should be genus not family)
+20240606,change OTU_BCG,BRANCHIOBDELLIDAE,BRANCHIOBDELLIDA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,CAECIDOTEA INTERMEDIA,CAECIDOTEA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CAMBARINCOLA,BRANCHIOBDELLIDA,questionable ID
+20240606,change OTU_BCG,CARDIOCLADIUS OBSCURUS,CARDIOCLADIUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CELITHEMIS ELISA,CELITHEMIS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CENTROPTILUM,ANAFROPTILUM,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,CERATOPOGON,CERATOPOGONINAE,subfamily level recommended by Sean Sullivan
+20240606,change OTU_BCG,CHAETOGASTER DIAPHANUS,CHAETOGASTER,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CHAETOGASTER DIASTROPHUS,CHAETOGASTER,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CHAOBORUS PUNCTIPENNIS,CHAOBORUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CHAULIODES,CHAULIODES RASTRICORNIS,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,CHERNOVSKIIA AMPHITRITE,CHERNOVSKIIA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CHERNOVSKIIA ORBICUS,CHERNOVSKIIA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CHIONEINAE,LIMONIIDAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,CORDYLOPHORA LACUSTRIS,HYDROZOA,
+20240606,change OTU_BCG,CORYDALUS,CORYDALUS CORNUTUS,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,CRANGONYX GRACILIS,CRANGONYX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CRICOTOPUS / ORTHOCLADIUS,CRICOTOPUS/ORTHOCLADIUS,formatting (spaces)
+20240606,change OTU_BCG,CRICOTOPUS BICINCTUS,CRICOTOPUS BICINCTUS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,CRICOTOPUS SYLVESTRIS,CRICOTOPUS SYLVESTRIS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,CRICOTOPUS SYLVESTRIS GR.,CRICOTOPUS SYLVESTRIS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,CRICOTOPUS TREMULUS,CRICOTOPUS TREMULUS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,CRICOTOPUS TREMULUS GR.,CRICOTOPUS TREMULUS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,CRICOTOPUS TRIFASCIA,CRICOTOPUS TRIFASCIA GROUP,syntax recommended by Sean Sullivan
+20240606,change OTU_BCG,CRICOTOPUS TRIFASCIATUS,CRICOTOPUS TRIFASCIA GROUP,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,CULEX PIPIENS,CULEX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CULEX QUINQUEFASCIATUS,CULEX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CULEX RESTUANS,CULEX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CULEX SALINARIUS,CULEX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CULEX TARSALIS,CULEX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CYMBIODYTA TODDI,CYMBIODYTA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,CYRNELLUS FRATERNUS,CYRNELLUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DACTYLOBAETIS,CAMELOBAETIDIUS,nomenclature change
+20240606,change OTU_BCG,DASHYELEINAE,DASYHELEA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DASYHELEINAE,DASYHELEA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DERO DIGITATA,DERO,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DERO DORSALIS,DERO,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DERO FURCATA,DERO,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DERO LODENI,DERO,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DERO NIVEA,DERO,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DERO VAGA,DERO,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DESSEROBDELLA PICTA,PLACOBDELLA PICTA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,DIBOLOCELUS,HYDROPHILUS,nomenclature change and questionable ID
+20240606,change OTU_BCG,DINA,ERPOBDELLA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,DIPLOCLADIUS,DIPLOCLADIUS CULTRIGER,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,DUBIRAPHIA VITTATA,DUBIRAPHIA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,DUGESIA,TREPAXONEMATA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,DUGESIA TIGRINA,TREPAXONEMATA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,ECDYONURINAE,HEPTAGENIIDAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,ENALLAGMA PRAEVARUM,ENALLAGMA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,EPHEMERELLA EXCRUCIANS,EPHEMERELLA EXCRUCIANS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,EPHEMERELLA EXCRUCIANS GR.,EPHEMERELLA EXCRUCIANS GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,EUKIEFFERIELLA CLARIPENNIS,EUKIEFFERIELLA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,FALLCEON QUILLERI,FALLCEON,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,FERRISSIA RIVULARIS,FERRISSIA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,FORCIPOMYIA,FORCIPOMYIINAE,subfamily recommended by Sean Sullivan
+20240606,change OTU_BCG,FOSSARIA,GALBA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,FOSSARIA BULIMOIDES,GALBA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,FOSSARIA HUMILIS,GALBA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,FOSSARIA OBRUSSA,GALBA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,FREDERICELLA SULTANA,GALBA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,GAMMARUS LACUSTRIS,GAMMARUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,GLOSSIPHONIA COMPLANATA,GLOSSIPHONIA ELEGANS,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,GOMPHURUS,GOMPHIDAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,GOMPHUS,GOMPHIDAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,HELICOPSYCHE BOREALIS,HELICOPSYCHE,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,HYALELLA AZTECA,HYALELLA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,HYDROMETRIDAE,HYDROMETRA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,HYDROPSYCHE MOROSA GR.,HYDROPSYCHE MOROSA GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,LEPTOCERUS,LEPTOCERUS AMERICANUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,MACRONYCHUS,MACRONYCHUS GLABRATUS,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,MALLOCHOHELEA,CERATOPOGONINAE,subfamily level recommended by Sean Sullivan
+20240606,change OTU_BCG,MICROCYLLOEPUS PUSILLUS,MICROCYLLOEPUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,MOOREOBDELLA,ERPOBDELLA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,MOOREOBDELLA FERVIDA,ERPOBDELLA FERVIDA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,MOOREOBDELLA MICROSTOMA,ERPOBDELLA MICROSTOMA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,NEMATODA,NEMATA,phylum level recommended by Sean Sullivan
+20240606,change OTU_BCG,NEMOURA,NEMOURIDAE,questionable ID. Family-level recommended by Sean Sullivan
+20240606,change OTU_BCG,NEOPERLA CLYMENE,NEOPERLA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,NEOPLEA,NEOPLEA STRIOLA,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,NEPA APICULATA,NEPA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,OECETIS AVARA,OECETIS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,OECETIS CINERASCENS,OECETIS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ORCONECTES,FAXONIUS,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,ORCONECTES IMMUNIS,FAXONIUS IMMUNIS,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,ORCONECTES VIRILIS,FAXONIUS VIRILIS,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,ORMOSIA ARCUATA,ORMOSIA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ORTHOCLADIUS LIGNICOLA,ORTHOCLADIUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ORTHOCLADIUS MALLOCHI,ORTHOCLADIUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ORTHOCLADIUS OBUMBRATUS,ORTHOCLADIUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ORTHOCLADIUS WIENSI,ORTHOCLADIUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,ORTHOTRICHIA CRISTATA,ORTHOTRICHIA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,PARACHIRONOMUS ABORTIVUS,PARACHIRONOMUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,PARACHIRONOMUS DIRECTUS,PARACHIRONOMUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,PARACLOEODES,PARACLOEODES MINUTUS,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,PARALAUTERBORNIELLA,PARALAUTERBORNIELLA NIGROHALTERALE,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,PARALAUTERBORNIELLA NIGROHALTERALIS,PARALAUTERBORNIELLA NIGROHALTERALE,spelling
+20240606,change OTU_BCG,PARANAIS FRICI,PARANAIS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,PELECYPODA,BIVALVIA,nomenclature change
+20240606,change OTU_BCG,PELOSCOLEX MULTISETOSUS,QUISTADRILUS MULTISETOSUS,nomenclature change
+20240606,change OTU_BCG,PELOSCOLEX SUPERIORENSIS,TASSERKIDRILUS SUPERIORENSIS,nomenclature change
+20240606,change OTU_BCG,PERLESTA PLACIDA,PERLESTA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,PHYSA,PHYSIDAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,PHYSELLA,PHYSIDAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,PISIDIIDAE,SPHAERIIDAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,PISIDIUM ADAMSI,PISIDIUM,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,PISIDIUM CASERTANUM,PISIDIUM,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,PISIDIUM COMPRESSUM,PISIDIUM,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,POLYPEDILUM CONVICTUM,POLYPEDILUM CONVICTUM GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POLYPEDILUM FALLAX,POLYPEDILUM FALLAX GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POLYPEDILUM FALLAX GR.,POLYPEDILUM FALLAX GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POLYPEDILUM HALTERALE,POLYPEDILUM HALTERALE GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POLYPEDILUM HALTERALE GR.,POLYPEDILUM HALTERALE GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POLYPEDILUM ILLINOENSE,POLYPEDILUM ILLINOENSE GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POLYPEDILUM ILLINOENSE GR.,POLYPEDILUM ILLINOENSE GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POLYPEDILUM SCALAENUM,POLYPEDILUM SCALAENUM GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POLYPEDILUM SCALAENUM GR.,POLYPEDILUM SCALAENUM GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,POTAMYIA,POTAMYIA FLAVA,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,PRISTINA LONGISETA LONGISETA,PRISTINA LONGISETA,removed subspecies
+20240606,change OTU_BCG,PROSTOMA GRAECENSE,PROSTOMA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,QUISTRADRILUS,QUISTADRILUS MULTISETOSUS,correct spelling per itis.gov
+20240606,change OTU_BCG,QUISTRADRILUS MULTISETOSUS,QUISTADRILUS MULTISETOSUS,correct spelling per itis.gov
+20240606,change OTU_BCG,RHAGOVELIA OBESA,RHAGOVELIA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,RHEOTANYTARSUS AKRINA,RHEOTANYTARSUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,RHEOTANYTARSUS DISTINCTISSIMUS,RHEOTANYTARSUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,RHEUMATOBATES RILEYI,RHEUMATOBATES,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,SAETHERIA TYLUS,SAETHERIA,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,SPHAERIUM STRIATINUM,SPHAERIUM,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,STENACRON INTERPUNCTATUM,STENACRON,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,STENELMIS HUMEROSA,STENELMIS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,STENONEMA BIPUNCTATUM,MACCAFFERTIUM BIPUNCTATUM,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,STENONEMA EXIGUUM,MACCAFFERTIUM EXIGUUM,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,STENONEMA INTEGRUM,MACCAFFERTIUM INTEGRUM,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,STENONEMA MEXICANUM,MACCAFFERTIUM MEXICANUM,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,STENONEMA PULCHELLUM,MACCAFFERTIUM PULCHELLUM,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,STENONEMA TERMINATUM,MACCAFFERTIUM TERMINATUM,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,STENONEMA TRIPUNCTATUM,MACCAFFERTIUM TRIPUNCTATUM,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,STILOBEZZIA,CERATOPOGONINAE,subfamily level recommended by Sean Sullivan
+20240606,change OTU_BCG,SYMPHITOPSYCHE,CERATOPSYCHE,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,SYMPHITOPSYCHE PIATRIX,CERATOPSYCHE,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,TAENIOPTERYX BURKSI,TAENIOPTERYX,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,TANYPUS CLAVATUS,TANYPUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,TANYPUS PUNCTIPENNIS,TANYPUS,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,TELOPELOPIA,TELOPELOPIA OKOBOJI,One species in NE. Sean Sullivan
+20240606,change OTU_BCG,THIENEMANNIMYIA,THIENEMANNIMYIA GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,THIENEMANNIMYIA GR.,THIENEMANNIMYIA GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,TRIAENODES TARDUS,TRIAENODES,genus level recommended by Sean Sullivan
+20240606,change OTU_BCG,TRICORYTHIDAE,LEPTOHYPHIDAE,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,TURBELLARIA,TREPAXONEMATA,nomenclature change. Sean Sullivan
+20240606,change OTU_BCG,TVETENIA BAVARICA,TVETENIA BAVARICA GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,TVETENIA BAVARICA GR.,TVETENIA BAVARICA GROUP,formatting (CAPS and group)
+20240606,change OTU_BCG,WAPSA MOBILIS,PARANAIS,nomenclature change
+20240606,change OTU_BCG,XENOCHIRONOMUS,XENOCHIRONOMUS XENOLABIS,One species in NE. Sean Sullivan
