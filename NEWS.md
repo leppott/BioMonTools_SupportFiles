@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-11 09:02:28.97878
+    #> Last Update: 2024-06-12 17:03:23.79048
+
+# BioMonTools_SupportFiles 0.0.1.9065
+
+Released - 2024-06-12
+
+- refactor: Rename RedLakes to RedLake or MN
 
 # BioMonTools_SupportFiles 0.0.1.9064
 
