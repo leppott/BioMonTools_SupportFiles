@@ -1,0 +1,565 @@
+Taxon_Orig,Taxon_Group,NonTarget,source,Comment,FishTaxaID,OTU_BCG,OTU_IBI,SciID,Common,Kingdom,Phylum,Class,Order,Family,Genus,Species
+Salmo salar,,,MN BCG Access db,,2,Salmo salar,Salmo salar,Salmo salar,Atlantic Salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar
+Cottus cognatus,,,MN BCG Access db,,19,Cottus cognatus,Cottus cognatus,Cottus cognatus,Slimy Sculpin,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus
+Lethenteron appendix,,,MN BCG Access db,,21,Lethenteron appendix,Lethenteron appendix,Lethenteron appendix,American brook lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lethenteron,appendix
+Anguilla rostrata,,,MN BCG Access db,,22,Anguilla rostrata,Anguilla rostrata,Anguilla rostrata,American eel,Animalia,Chordata,Osteichthyes,Anguilliformes,Anguillidae,Anguilla,rostrata
+Etheostoma zonale,,,MN BCG Access db,,23,Etheostoma zonale,Etheostoma zonale,Etheostoma zonale,Banded darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,zonale
+Fundulus diaphanus,,,MN BCG Access db,,24,Fundulus diaphanus,Fundulus diaphanus,Fundulus diaphanus,Banded killifish,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,diaphanus
+Enneacanthus obesus,,,MN BCG Access db,,25,Enneacanthus obesus,Enneacanthus obesus,Enneacanthus obesus,Banded sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,obesus
+Pomoxis nigromaculatus,,,MN BCG Access db,,26,Pomoxis nigromaculatus,Pomoxis nigromaculatus,Pomoxis nigromaculatus,Black crappie,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus
+Rhinichthys obtusus,,,MN BCG Access db,,27,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,western blacknose dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+Lepomis macrochirus,,,MN BCG Access db,,28,Lepomis macrochirus,Lepomis macrochirus,Lepomis macrochirus,Bluegill,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,macrochirus
+Enneacanthus gloriosus,,,MN BCG Access db,,29,Enneacanthus gloriosus,Enneacanthus gloriosus,Enneacanthus gloriosus,Bluespotted sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,gloriosus
+Pimephales notatus,,,MN BCG Access db,,30,Pimephales notatus,Pimephales notatus,Pimephales notatus,Bluntnose minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,notatus
+Lampetra,,,MN BCG Access db,,31,Lampetra,Lampetra,Lampetra,Brook lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,
+Salvelinus fontinalis,,,MN BCG Access db,,32,Salvelinus fontinalis,Salvelinus fontinalis,Salvelinus fontinalis,Brook trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,fontinalis
+Ameiurus nebulosus,,,MN BCG Access db,,33,Ameiurus nebulosus,Ameiurus nebulosus,Ameiurus nebulosus,Brown bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,nebulosus
+Salmo trutta,,,MN BCG Access db,,34,Salmo trutta,Salmo trutta,Salmo trutta,Brown trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,trutta
+Campostoma anomalum,,,MN BCG Access db,,35,Campostoma anomalum,Campostoma anomalum,Campostoma anomalum,Central stoneroller,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,anomalum
+Esox niger,,,MN BCG Access db,,36,Esox niger,Esox niger,Esox niger,Chain pickerel,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,niger
+Ictalurus punctatus,,,MN BCG Access db,,37,Ictalurus punctatus,Ictalurus punctatus,Ictalurus punctatus,Channel catfish,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ictalurus,punctatus
+Cottus sp.,,,MN BCG Access db,,38,Cottus sp.,Cottus sp.,Cottus sp.,Checkered sculpin,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
+Notropis amoenus,,,MN BCG Access db,,39,Notropis amoenus,Notropis amoenus,Notropis amoenus,Comely shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,amoenus
+Cyrpinus carpio,,,MN BCG Access db,,40,Cyrpinus carpio,Cyrpinus carpio,Cyrpinus carpio,Common carp,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyrpinus,carpio
+Luxilus cornutus,,,MN BCG Access db,,41,Luxilus cornutus,Luxilus cornutus,Luxilus cornutus,Common shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+Semotilus atromaculatus,,,MN BCG Access db,,42,Semotilus atromaculatus,Semotilus atromaculatus,Semotilus atromaculatus,Creek chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+Erimyzon oblongus,,,MN BCG Access db,,43,Erimyzon oblongus,Erimyzon oblongus,Erimyzon oblongus,Creek chubsucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Erimyzon,oblongus
+Exoglossum maxillingua,,,MN BCG Access db,,44,Exoglossum maxillingua,Exoglossum maxillingua,Exoglossum maxillingua,Cutlips minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Exoglossum,maxillingua
+Gambusia holbrooki,,,MN BCG Access db,,45,Gambusia holbrooki,Gambusia holbrooki,Gambusia holbrooki,Eastern Mosquitofish,Animalia,Chordata,Osteichthyes,Atheriniformes,Poeciliidae,Gambusia,holbrooki
+Umbra pygmaea,,,MN BCG Access db,,46,Umbra pygmaea,Umbra pygmaea,Umbra pygmaea,Eastern mudminnow,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,pygmaea
+Hybognathus regius,,,MN BCG Access db,,47,Hybognathus regius,Hybognathus regius,Hybognathus regius,Eastern silvery minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,regius
+Semotilus corporalis,,,MN BCG Access db,,48,Semotilus corporalis,Semotilus corporalis,Semotilus corporalis,Fallfish,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,corporalis
+Etheostoma flabellare,,,MN BCG Access db,,49,Etheostoma flabellare,Etheostoma flabellare,Etheostoma flabellare,Fantail darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,flabellare
+Pimephales promelas,,,MN BCG Access db,,50,Pimephales promelas,Pimephales promelas,Pimephales promelas,Fathead minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+Centrarchus macropterus,,,MN BCG Access db,,51,Centrarchus macropterus,Centrarchus macropterus,Centrarchus macropterus,Flier,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Centrarchus,macropterus
+Dorosoma cepedianum,,,MN BCG Access db,,52,Dorosoma cepedianum,Dorosoma cepedianum,Dorosoma cepedianum,Gizzard shad,Animalia,Chordata,Osteichthyes,,Clupeidae,Dorosoma,cepedianum
+Etheostoma vitreum,,,MN BCG Access db,,53,Etheostoma vitreum,Etheostoma vitreum,Etheostoma vitreum,Glassy darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,vitreum
+Moxostoma erythrurum,,,MN BCG Access db,,54,Moxostoma erythrurum,Moxostoma erythrurum,Moxostoma erythrurum,Golden redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,erythrurum
+Notemigonus crysoleucas,,,MN BCG Access db,,55,Notemigonus crysoleucas,Notemigonus crysoleucas,Notemigonus crysoleucas,Golden shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas
+Carassius auratus,,,MN BCG Access db,,56,Carassius auratus,Carassius auratus,Carassius auratus,Goldfish,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Carassius,auratus
+Lepomis cyanellus,,,MN BCG Access db,,57,Lepomis cyanellus,Lepomis cyanellus,Lepomis cyanellus,Green sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,cyanellus
+Etheostoma blennioides,,,MN BCG Access db,,58,Etheostoma blennioides,Etheostoma blennioides,Etheostoma blennioides,Greenside darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,blennioides
+Menidia beryllina,,,MN BCG Access db,,59,Menidia beryllina,Menidia beryllina,Menidia beryllina,Inland silverside,Animalia,Chordata,Osteichthyes,,Atherinidae,Menidia,beryllina
+Notropis chalybaeus,,,MN BCG Access db,,60,Notropis chalybaeus,Notropis chalybaeus,Notropis chalybaeus,Ironcolor shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,chalybaeus
+Etheostoma nigrum,,,MN BCG Access db,,61,Etheostoma nigrum,Etheostoma nigrum,Etheostoma nigrum,Johnny darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+Micropterus salmoides,,,MN BCG Access db,,62,Micropterus salmoides,Micropterus salmoides,Micropterus salmoides,Largemouth bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,salmoides
+Lampetra aepyptera,,,MN BCG Access db,,63,Lampetra aepyptera,Lampetra aepyptera,Lampetra aepyptera,Least brook lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,aepyptera
+Percina caprodes,,,MN BCG Access db,,64,Percina caprodes,Percina caprodes,Percina caprodes,Logperch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,caprodes
+Lepomis megalotis,,,MN BCG Access db,,65,Lepomis megalotis,Lepomis megalotis,Lepomis megalotis,northern sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,megalotis
+Rhinichthys cataractae,,,MN BCG Access db,,66,Rhinichthys cataractae,Rhinichthys cataractae,Rhinichthys cataractae,Longnose dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae
+Lepisosteus osseus,,,MN BCG Access db,,67,Lepisosteus osseus,Lepisosteus osseus,Lepisosteus osseus,Longnose gar,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus
+Noturus insignis,,,MN BCG Access db,,68,Noturus insignis,Noturus insignis,Noturus insignis,Margined madtom,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,insignis
+Cottus bairdi,,,MN BCG Access db,,69,Cottus bairdi,Cottus bairdi,Cottus bairdi,Mottled sculpin,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,bairdi
+Acantharchus pomotis,,,MN BCG Access db,,70,Acantharchus pomotis,Acantharchus pomotis,Acantharchus pomotis,Mud sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Acantharchus,pomotis
+Fundulus heteroclitus,,,MN BCG Access db,,71,Fundulus heteroclitus,Fundulus heteroclitus,Fundulus heteroclitus,Mummichog,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,heteroclitus
+Hypentelium nigricans,,,MN BCG Access db,,72,Hypentelium nigricans,Hypentelium nigricans,Hypentelium nigricans,Northern hogsucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Hypentelium,nigricans
+Esox lucius,,,MN BCG Access db,,73,Esox lucius,Esox lucius,Esox lucius,Northern pike,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+Margariscus margarita,,,MN BCG Access db,,74,Margariscus margarita,Margariscus margarita,Margariscus margarita,northern pearl dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Margariscus,margarita
+Aphredoderus sayanus,,,MN BCG Access db,,75,Aphredoderus sayanus,Aphredoderus sayanus,Aphredoderus sayanus,Pirate perch,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus
+Cottus girardi,,,MN BCG Access db,,76,Cottus girardi,Cottus girardi,Cottus girardi,Potomic sculpin,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,girardi
+Lepomis gibbosus,,,MN BCG Access db,,77,Lepomis gibbosus,Lepomis gibbosus,Lepomis gibbosus,Pumpkinseed,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gibbosus
+Oncorhynchus mykiss,,,MN BCG Access db,,78,Oncorhynchus mykiss,Oncorhynchus mykiss,Oncorhynchus mykiss,Rainbow trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss
+Lucania parva,,,MN BCG Access db,,79,Lucania parva,Lucania parva,Lucania parva,Rainwater killifish,Animalia,Chordata,Osteichthyes,,Fundulidae,Lucania,parva
+Lepomis auritus,,,MN BCG Access db,,80,Lepomis auritus,Lepomis auritus,Lepomis auritus,Redbreast sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,auritus
+Esox americanus americanus,,,MN BCG Access db,,81,Esox americanus americanus,Esox americanus americanus,Esox americanus americanus,Redfin pickerel,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,americanus americanus
+Nocomis micropogon,,,MN BCG Access db,,82,Nocomis micropogon,Nocomis micropogon,Nocomis micropogon,River chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,micropogon
+Ambloplites rupestris,,,MN BCG Access db,,83,Ambloplites rupestris,Ambloplites rupestris,Ambloplites rupestris,Rock bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+Notropis rubellus,,,MN BCG Access db,,84,Notropis rubellus,Notropis rubellus,Notropis rubellus,Rosyface shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,rubellus
+Clinostomus funduloides,,,MN BCG Access db,,85,Clinostomus funduloides,Clinostomus funduloides,Clinostomus funduloides,Rosyside dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,funduloides
+Cyprinella analostana,,,MN BCG Access db,,86,Cyprinella analostana,Cyprinella analostana,Cyprinella analostana,Satinfin shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,analostana
+Percina peltata,,,MN BCG Access db,,87,Percina peltata,Percina peltata,Percina peltata,Shield darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,peltata
+Moxostoma macrolepidotum,,,MN BCG Access db,,88,Moxostoma macrolepidotum,Moxostoma macrolepidotum,Moxostoma macrolepidotum,Shorthead redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum
+Notropis buccatus,,,MN BCG Access db,,89,Notropis buccatus,Notropis buccatus,Notropis buccatus,Silverjaw minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,buccatus
+Micropterus dolomieu,,,MN BCG Access db,,91,Micropterus dolomieu,Micropterus dolomieu,Micropterus dolomieu,Smallmouth bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,dolomieu
+Leiostomus xanthurus,,,MN BCG Access db,,92,Leiostomus xanthurus,Leiostomus xanthurus,Leiostomus xanthurus,Spot,Animalia,Chordata,Osteichthyes,Perciformes,Sciaenidae,Leiostomus,xanthurus
+Cyprinella spiloptera,,,MN BCG Access db,,93,Cyprinella spiloptera,Cyprinella spiloptera,Cyprinella spiloptera,Spotfin shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera
+Notropis hudsonius,,,MN BCG Access db,,94,Notropis hudsonius,Notropis hudsonius,Notropis hudsonius,Spottail shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,hudsonius
+Noturus flavus,,,MN BCG Access db,,95,Noturus flavus,Noturus flavus,Noturus flavus,Stonecat,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,flavus
+Morone saxatilis,,,MN BCG Access db,,96,Morone saxatilis,Morone saxatilis,Morone saxatilis,Striped bass,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,saxatilis
+Fundulus majalis,,,MN BCG Access db,,97,Fundulus majalis,Fundulus majalis,Fundulus majalis,Striped killifish,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,majalis
+Luxilus chrysocephalus,,,MN BCG Access db,,98,Luxilus chrysocephalus,Luxilus chrysocephalus,Luxilus chrysocephalus,Striped shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,chrysocephalus
+Notropis procne,,,MN BCG Access db,,99,Notropis procne,Notropis procne,Notropis procne,Swallowtail shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,procne
+Etheostoma fusiforme,,,MN BCG Access db,,100,Etheostoma fusiforme,Etheostoma fusiforme,Etheostoma fusiforme,Swamp darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,fusiforme
+Noturus gyrinus,,,MN BCG Access db,,101,Noturus gyrinus,Noturus gyrinus,Noturus gyrinus,Tadpole madtom,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus
+Etheostoma olmstedi,,,MN BCG Access db,,102,Etheostoma olmstedi,Etheostoma olmstedi,Etheostoma olmstedi,Tesselated darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,olmstedi
+Lepomis gulosus,,,MN BCG Access db,,103,Lepomis gulosus,Lepomis gulosus,Lepomis gulosus,Warmouth,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus
+Osteichthyes,,,MN BCG Access db,,104,Osteichthyes,Osteichthyes,Osteichthyes,watercolumn fish,Animalia,Chordata,Osteichthyes,,,,
+Ameiurus catus,,,MN BCG Access db,,105,Ameiurus catus,Ameiurus catus,Ameiurus catus,White catfish,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,catus
+Pomoxis annularis,,,MN BCG Access db,,106,Pomoxis annularis,Pomoxis annularis,Pomoxis annularis,White crappie,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis
+Morone americana,,,MN BCG Access db,,107,Morone americana,Morone americana,Morone americana,White perch,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,americana
+Catostomus commersoni,,,MN BCG Access db,,108,Catostomus commersoni,Catostomus commersoni,Catostomus commersoni,White sucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+Ameiurus natalis,,,MN BCG Access db,add space to end of Taxon_Orig_Sci so not a duplicate,109,Ameiurus natalis,Ameiurus natalis,Ameiurus natalis,Yellow bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,natalis
+Perca flavescens,,,MN BCG Access db,,110,Perca flavescens,Perca flavescens,Perca flavescens,Yellow perch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+Ictiobus cyprinellus,,,MN BCG Access db,,111,Ictiobus cyprinellus,Ictiobus cyprinellus,Ictiobus cyprinellus,bigmouth buffalo,Animalia,,,,,Ictiobus,cyprinellus
+Notropis dorsalis,,,MN BCG Access db,,112,Notropis dorsalis,Notropis dorsalis,Notropis dorsalis,bigmouth shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,dorsalis
+Ictiobus niger,,,MN BCG Access db,,113,Ictiobus niger,Ictiobus niger,Ictiobus niger,black buffalo,Animalia,,,,,Ictiobus,niger
+Ameiurus melas,,,MN BCG Access db,,114,Ameiurus melas,Ameiurus melas,Ameiurus melas,black bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,melas
+Moxostoma duquesnei,,,MN BCG Access db,,115,Moxostoma duquesnei,Moxostoma duquesnei,Moxostoma duquesnei,black redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,duquesnei
+Notropis heterodon,,,MN BCG Access db,,116,Notropis heterodon,Notropis heterodon,Notropis heterodon,blackchin shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterodon
+Notropis heterolepis,,,MN BCG Access db,,117,Notropis heterolepis,Notropis heterolepis,Notropis heterolepis,blacknose shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterolepis
+Percina maculata,,,MN BCG Access db,,118,Percina maculata,Percina maculata,Percina maculata,blackside darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
+Cycleptus elongatus,,,MN BCG Access db,,119,Cycleptus elongatus,Cycleptus elongatus,Cycleptus elongatus,blue sucker,Animalia,,,,,Cycleptus,elongatus
+Amia calva,,,MN BCG Access db,,120,Amia calva,Amia calva,Amia calva,bowfin,Animalia,,,,,Amia,calva
+Hybognathus hankinsoni,,,MN BCG Access db,,121,Hybognathus hankinsoni,Hybognathus hankinsoni,Hybognathus hankinsoni,brassy minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,hankinsoni
+Labidesthes sicculus,,,MN BCG Access db,,122,Labidesthes sicculus,Labidesthes sicculus,Labidesthes sicculus,brook silverside,Animalia,,,,,Labidesthes,sicculus
+Culaea inconstans,,,MN BCG Access db,,123,Culaea inconstans,Culaea inconstans,Culaea inconstans,brook stickleback,Animalia,,,,,Culaea,inconstans
+Pimephales vigilax,,,MN BCG Access db,,124,Pimephales vigilax,Pimephales vigilax,Pimephales vigilax,bullhead minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,vigilax
+Lota lota,,,MN BCG Access db,,125,Lota lota,Lota lota,Lota lota,burbot,Animalia,,,,,Lota,lota
+Notropis percobromus,,,MN BCG Access db,,126,Notropis percobromus,Notropis percobromus,Notropis percobromus,carmine shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
+Umbra limi,,,MN BCG Access db,,127,Umbra limi,Umbra limi,Umbra limi,central mudminnow,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
+Notropis wickliffi,,,MN BCG Access db,,128,Notropis wickliffi,Notropis wickliffi,Notropis wickliffi,channel shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,wickliffi
+Ichthyomyzon castaneus,,,MN BCG Access db,,129,Ichthyomyzon castaneus,Ichthyomyzon castaneus,Ichthyomyzon castaneus,chestnut lamprey,Animalia,,,,,Ichthyomyzon,castaneus
+Oncorhynchus tshawytscha,,,MN BCG Access db,,130,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,chinook salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,tshawytscha
+Oncorhynchus kisutch,,,MN BCG Access db,,131,Oncorhynchus kisutch,Oncorhynchus kisutch,Oncorhynchus kisutch,coho salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,kisutch
+Crystallaria asprella,,,MN BCG Access db,,132,Crystallaria asprella,Crystallaria asprella,Crystallaria asprella,crystal darter,Animalia,,,,,Crystallaria,asprella
+Notropis atherinoides,,,MN BCG Access db,,133,Notropis atherinoides,Notropis atherinoides,Notropis atherinoides,emerald shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,atherinoides
+Clupeidae,,,MN BCG Access db,,134,Clupeidae,Clupeidae,Clupeidae,Fam: herrings,Animalia,Chordata,Osteichthyes,,Clupeidae,,
+Petromyzontidae,,,MN BCG Access db,,135,Petromyzontidae,Petromyzontidae,Petromyzontidae,Fam: lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+Cyprinidae,,,MN BCG Access db,,136,Cyprinidae,Cyprinidae,Cyprinidae,Fam: minnows,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,,
+Salmonidae,,,MN BCG Access db,,137,Salmonidae,Salmonidae,Salmonidae,Fam: trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,,
+Phoxinus neogaeus,,,MN BCG Access db,,138,Phoxinus neogaeus,Phoxinus neogaeus,Phoxinus neogaeus,finescale dace,Animalia,,,,,Phoxinus,neogaeus
+Pylodictis olivaris,,,MN BCG Access db,,139,Pylodictis olivaris,Pylodictis olivaris,Pylodictis olivaris,flathead catfish,Animalia,,,,,Pylodictis,olivaris
+Aplodinotus grunniens,,,MN BCG Access db,,140,Aplodinotus grunniens,Aplodinotus grunniens,Aplodinotus grunniens,freshwater drum,Animalia,,,,,Aplodinotus,grunniens
+Ictiobus,,,MN BCG Access db,,141,Ictiobus,Ictiobus,Ictiobus,Gen: buffalos,Animalia,,,,,Ictiobus,
+Ameiurus,,,MN BCG Access db,,142,Ameiurus,Ameiurus,Ameiurus,Gen: bullheads,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,
+Carpiodes,,,MN BCG Access db,,143,Carpiodes,Carpiodes,Carpiodes,Gen: carpsuckers,Animalia,,,,,Carpiodes,
+Catostomus,,,MN BCG Access db,,144,Catostomus,Catostomus,Catostomus,Gen: Catostomus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,
+Lepomis,,,MN BCG Access db,,145,Lepomis,Lepomis,Lepomis,Gen: common sunfishes,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,
+Etheostoma,,,MN BCG Access db,,146,Etheostoma,Etheostoma,Etheostoma,Gen: Etheostoma,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,
+Notropis,,,MN BCG Access db,,147,Notropis,Notropis,Notropis,Gen: Notropis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,
+Percina,,,MN BCG Access db,,148,Percina,Percina,Percina,Gen: Percina,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,
+Chrosomus,,,MN BCG Access db,,149,Chrosomus,Chrosomus,Chrosomus,Gen: Chrosomus,Animalia,,,,,Chrosomus,
+Moxostoma,,,MN BCG Access db,,150,Moxostoma,Moxostoma,Moxostoma,Gen: redhorses,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,
+Cottus,,,MN BCG Access db,,151,Cottus,Cottus,Cottus,Gen: sculpins,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
+Campostoma,,,MN BCG Access db,,152,Campostoma,Campostoma,Campostoma,Gen: stonerollers,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,
+Percina evides,,,MN BCG Access db,,153,Percina evides,Percina evides,Percina evides,gilt darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,evides
+Hiodon alosoides,,,MN BCG Access db,,154,Hiodon alosoides,Hiodon alosoides,Hiodon alosoides,goldeye,Animalia,,,,,Hiodon,alosoides
+Ctenopharyngodon idella,,,MN BCG Access db,,155,Ctenopharyngodon idella,Ctenopharyngodon idella,Ctenopharyngodon idella,grass carp,Animalia,,,,,Ctenopharyngodon,idella
+Erimystax x-punctatus,,,MN BCG Access db,,156,Erimystax x-punctatus,Erimystax x-punctatus,Erimystax x-punctatus,gravel chub,Animalia,,,,,Erimystax,x-punctatus
+Moxostoma valenciennesi,,,MN BCG Access db,,157,Moxostoma valenciennesi,Moxostoma valenciennesi,Moxostoma valenciennesi,greater redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,valenciennesi
+Carpiodes velifer,,,MN BCG Access db,,158,Carpiodes velifer,Carpiodes velifer,Carpiodes velifer,highfin carpsucker,Animalia,,,,,Carpiodes,velifer
+Nocomis biguttatus,,,MN BCG Access db,,159,Nocomis biguttatus,Nocomis biguttatus,Nocomis biguttatus,hornyhead chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
+Cyprinidae hybrid,,,MN BCG Access db,,160,Cyprinidae hybrid,Cyprinidae hybrid,Cyprinidae hybrid,hybrid minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,hybrid,
+Chrosomus hybrid,,,MN BCG Access db,,161,Chrosomus hybrid,Chrosomus hybrid,Chrosomus hybrid,hybrid Chrosomus,Animalia,,,,,Chrosomus,hybrid
+Lepomis hybrid,,,MN BCG Access db,,162,Lepomis hybrid,Lepomis hybrid,Lepomis hybrid,hybrid sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,hybrid
+Etheostoma exile,,,MN BCG Access db,,163,Etheostoma exile,Etheostoma exile,Etheostoma exile,Iowa darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,exile
+Couesius plumbeus,,,MN BCG Access db,,164,Couesius plumbeus,Couesius plumbeus,Couesius plumbeus,lake chub,Animalia,,,,,Couesius,plumbeus
+Coregonus artedi,,,MN BCG Access db,,165,Coregonus artedi,Coregonus artedi,Coregonus artedi,lake herring,Animalia,,,,,Coregonus,artedi
+Acipenser fulvescens,,,MN BCG Access db,,166,Acipenser fulvescens,Acipenser fulvescens,Acipenser fulvescens,lake sturgeon,Animalia,,,,,Acipenser,fulvescens
+Petromyzontidae larvae,,,MN BCG Access db,,167,Petromyzontidae larvae,Petromyzontidae larvae,Petromyzontidae larvae,lamprey ammocoete,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,larvae,
+Campostoma oligolepis,,,MN BCG Access db,,168,Campostoma oligolepis,Campostoma oligolepis,Campostoma oligolepis,largescale stoneroller,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,oligolepis
+Etheostoma microperca,,,MN BCG Access db,,169,Etheostoma microperca,Etheostoma microperca,Etheostoma microperca,least darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,microperca
+Catostomus catostomus,,,MN BCG Access db,,170,Catostomus catostomus,Catostomus catostomus,Catostomus catostomus,longnose sucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,catostomus
+Notropis volucellus,,,MN BCG Access db,,171,Notropis volucellus,Notropis volucellus,Notropis volucellus,mimic shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,volucellus
+Hybognathus nuchalis,,,MN BCG Access db,,172,Hybognathus nuchalis,Hybognathus nuchalis,Hybognathus nuchalis,Mississippi silvery minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,nuchalis
+Hiodon tergisus,,,MN BCG Access db,,173,Hiodon tergisus,Hiodon tergisus,Hiodon tergisus,mooneye,Animalia,,,,,Hiodon,tergisus
+Etheostoma asprigene,,,MN BCG Access db,,174,Etheostoma asprigene,Etheostoma asprigene,Etheostoma asprigene,mud darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,asprigene
+Esox masquinongy,,,MN BCG Access db,,175,Esox masquinongy,Esox masquinongy,Esox masquinongy,muskellunge,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,masquinongy
+Pungitius pungitius,,,MN BCG Access db,,176,Pungitius pungitius,Pungitius pungitius,Pungitius pungitius,ninespine stickleback,Animalia,,,,,Pungitius,pungitius
+Ichthyomyzon fossor,,,MN BCG Access db,,177,Ichthyomyzon fossor,Ichthyomyzon fossor,Ichthyomyzon fossor,northern brook lamprey,Animalia,,,,,Ichthyomyzon,fossor
+Phoxinus eos,,,MN BCG Access db,,178,Phoxinus eos,Phoxinus eos,Phoxinus eos,northern redbelly dace,Animalia,,,,,Phoxinus,eos
+Lepomis humilis,,,MN BCG Access db,,179,Lepomis humilis,Lepomis humilis,Lepomis humilis,orangespotted sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,humilis
+Notropis nubilus,,,MN BCG Access db,,180,Notropis nubilus,Notropis nubilus,Notropis nubilus,Ozark minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,nubilus
+Oncorhynchus gorbuscha,,,MN BCG Access db,,181,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,pink salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,gorbuscha
+Fundulus sciadicus,,,MN BCG Access db,,182,Fundulus sciadicus,Fundulus sciadicus,Fundulus sciadicus,plains topminnow,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,sciadicus
+Opsopoeodus emiliae,,,MN BCG Access db,,183,Opsopoeodus emiliae,Opsopoeodus emiliae,Opsopoeodus emiliae,pugnose minnow,Animalia,,,,,Opsopoeodus,emiliae
+Notropis anogenus,,,MN BCG Access db,,184,Notropis anogenus,Notropis anogenus,Notropis anogenus,pugnose shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,anogenus
+Carpiodes cyprinus,,,MN BCG Access db,,185,Carpiodes cyprinus,Carpiodes cyprinus,Carpiodes cyprinus,quillback,Animalia,,,,,Carpiodes,cyprinus
+Etheostoma caeruleum,,,MN BCG Access db,,186,Etheostoma caeruleum,Etheostoma caeruleum,Etheostoma caeruleum,rainbow darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,caeruleum
+Osmerus mordax,,,MN BCG Access db,,187,Osmerus mordax,Osmerus mordax,Osmerus mordax,rainbow smelt,Animalia,,,,,Osmerus,mordax
+Cyprinella lutrensis,,,MN BCG Access db,,188,Cyprinella lutrensis,Cyprinella lutrensis,Cyprinella lutrensis,red shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,lutrensis
+Lythrurus umbratilis,,,MN BCG Access db,,189,Lythrurus umbratilis,Lythrurus umbratilis,Lythrurus umbratilis,redfin shiner,Animalia,,,,,Lythrurus,umbratilis
+Clinostomus elongatus,,,MN BCG Access db,,190,Clinostomus elongatus,Clinostomus elongatus,Clinostomus elongatus,redside dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,elongatus
+Carpiodes carpio,,,MN BCG Access db,,191,Carpiodes carpio,Carpiodes carpio,Carpiodes carpio,river carpsucker,Animalia,,,,,Carpiodes,carpio
+Percina shumardi,,,MN BCG Access db,,192,Percina shumardi,Percina shumardi,Percina shumardi,river darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,shumardi
+Moxostoma carinatum,,,MN BCG Access db,,193,Moxostoma carinatum,Moxostoma carinatum,Moxostoma carinatum,river redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
+Notropis blennius,,,MN BCG Access db,,194,Notropis blennius,Notropis blennius,Notropis blennius,river shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,blennius
+Gymnocephalus cernuus,,,MN BCG Access db,,195,Gymnocephalus cernuus,Gymnocephalus cernuus,Gymnocephalus cernuus,ruffe,Animalia,,,,,Gymnocephalus,cernuus
+Notropis stramineus,,,MN BCG Access db,,196,Notropis stramineus,Notropis stramineus,Notropis stramineus,sand shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,stramineus
+Sander canadensis,,,MN BCG Access db,,197,Sander canadensis,Sander canadensis,Sander canadensis,sauger,Animalia,,,,,Sander,canadensis
+Petromyzon marinus,,,MN BCG Access db,,198,Petromyzon marinus,Petromyzon marinus,Petromyzon marinus,sea lamprey,Animalia,,,,,Petromyzon,marinus
+Macrhybopsis hyostoma,,,MN BCG Access db,,199,Macrhybopsis hyostoma,Macrhybopsis hyostoma,Macrhybopsis hyostoma,shoal chub,Animalia,,,,,Macrhybopsis,hyostoma
+Lepisosteus platostomus,,,MN BCG Access db,,200,Lepisosteus platostomus,Lepisosteus platostomus,Lepisosteus platostomus,shortnose gar,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,platostomus
+Scaphirhynchus platorynchus,,,MN BCG Access db,,201,Scaphirhynchus platorynchus,Scaphirhynchus platorynchus,Scaphirhynchus platorynchus,shovelnose sturgeon,Animalia,,,,,Scaphirhynchus,platorynchus
+Macrhybopsis storeriana,,,MN BCG Access db,,202,Macrhybopsis storeriana,Macrhybopsis storeriana,Macrhybopsis storeriana,silver chub,Animalia,,,,,Macrhybopsis,storeriana
+Ichthyomyzon unicuspis,,,MN BCG Access db,,203,Ichthyomyzon unicuspis,Ichthyomyzon unicuspis,Ichthyomyzon unicuspis,silver lamprey,Animalia,,,,,Ichthyomyzon,unicuspis
+Moxostoma anisurum,,,MN BCG Access db,,204,Moxostoma anisurum,Moxostoma anisurum,Moxostoma anisurum,silver redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,anisurum
+Percina phoxocephala,,,MN BCG Access db,,205,Percina phoxocephala,Percina phoxocephala,Percina phoxocephala,slenderhead darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,phoxocephala
+Ictiobus bubalus,,,MN BCG Access db,,206,Ictiobus bubalus,Ictiobus bubalus,Ictiobus bubalus,smallmouth buffalo,Animalia,,,,,Ictiobus,bubalus
+Ichthyomyzon gagei,,,MN BCG Access db,,207,Ichthyomyzon gagei,Ichthyomyzon gagei,Ichthyomyzon gagei,southern brook lamprey,Animalia,,,,,Ichthyomyzon,gagei
+Phoxinus erythrogaster,,,MN BCG Access db,,208,Phoxinus erythrogaster,Phoxinus erythrogaster,Phoxinus erythrogaster,southern redbelly dace,Animalia,,,,,Phoxinus,erythrogaster
+Salvelinus hybrid,,,MN BCG Access db,,209,Salvelinus hybrid,Salvelinus hybrid,Salvelinus hybrid,splake,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,hybrid
+Minytrema melanops,,,MN BCG Access db,,210,Minytrema melanops,Minytrema melanops,Minytrema melanops,spotted sucker,Animalia,,,,,Minytrema,melanops
+Salmoninae,,,MN BCG Access db,,211,Salmoninae,Salmoninae,Salmoninae,SubFam: salmonids,Animalia,,,,,Salmoninae,
+Phenacobius mirabilis,,,MN BCG Access db,,212,Phenacobius mirabilis,Phenacobius mirabilis,Phenacobius mirabilis,suckermouth minnow,Animalia,,,,,Phenacobius,mirabilis
+Gasterosteus aculeatus,,,MN BCG Access db,,213,Gasterosteus aculeatus,Gasterosteus aculeatus,Gasterosteus aculeatus,threespine stickleback,Animalia,,,,,Gasterosteus,aculeatus
+Esox hybrid,,,MN BCG Access db,,214,Esox hybrid,Esox hybrid,Esox hybrid,tiger musky,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,hybrid
+Salmonidae hybrid,,,MN BCG Access db,,215,Salmonidae hybrid,Salmonidae hybrid,Salmonidae hybrid,tiger trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,hybrid,
+Notropis topeka,,,MN BCG Access db,,216,Notropis topeka,Notropis topeka,Notropis topeka,Topeka shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,topeka
+Percopsis omiscomaycus,,,MN BCG Access db,,217,Percopsis omiscomaycus,Percopsis omiscomaycus,Percopsis omiscomaycus,trout-perch,Animalia,,,,,Percopsis,omiscomaycus
+Sander vitreus,,,MN BCG Access db,,218,Sander vitreus,Sander vitreus,Sander vitreus,walleye,Animalia,,,,,Sander,vitreus
+Notropis texanus,,,MN BCG Access db,,219,Notropis texanus,Notropis texanus,Notropis texanus,weed shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,texanus
+Ammocrypta clara,,,MN BCG Access db,,220,Ammocrypta clara,Ammocrypta clara,Ammocrypta clara,western sand darter,Animalia,,,,,Ammocrypta,clara
+Morone chrysops,,,MN BCG Access db,,221,Morone chrysops,Morone chrysops,Morone chrysops,white bass,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops
+Rhinichthys obtusus ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,Blacknose Dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+Petromyzontidae ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Petromyzontidae,Petromyzontidae,Petromyzontidae,Lamprey (larvae),Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+Percina maculata ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Percina maculata,Percina maculata,Percina maculata,Blackside Darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
+Notropis percobromus ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Notropis percobromus,Notropis percobromus,Notropis percobromus,Carmine shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
+Umbra limi ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Umbra limi,Umbra limi,Umbra limi,Central Mudminnow,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
+Luxilus cornutus ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Luxilus cornutus,Luxilus cornutus,Luxilus cornutus,Common Shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+Semotilus atromaculatus ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Semotilus atromaculatus,Semotilus atromaculatus,Semotilus atromaculatus,Creek Chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+Pimephales promelas ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Pimephales promelas,Pimephales promelas,Pimephales promelas,Fathead Minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+Nocomis biguttatus ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Nocomis biguttatus,Nocomis biguttatus,Nocomis biguttatus,Hornyhead Chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
+Etheostoma nigrum ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Etheostoma nigrum,Etheostoma nigrum,Etheostoma nigrum,Johnny Darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+Esox lucius ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Esox lucius,Esox lucius,Esox lucius,Northern Pike,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+Phoxinus eos ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Phoxinus eos,Phoxinus eos,Phoxinus eos,Northern Redbelly Dace,Animalia,,,,,Phoxinus,eos
+Moxostoma carinatum ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Moxostoma carinatum,Moxostoma carinatum,Moxostoma carinatum,River Redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
+Ambloplites rupestris  ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Ambloplites rupestris,Ambloplites rupestris,Ambloplites rupestris,Rock Bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+Catostomus commersoni ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Catostomus commersoni,Catostomus commersoni,Catostomus commersoni,White Sucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+Perca flavescens ,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Perca flavescens,Perca flavescens,Perca flavescens,Yellow Perch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+Salmo salar ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Salmo salar,Salmo salar,Salmo salar,Atlantic salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar
+Etheostoma zonale ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Etheostoma zonale,Etheostoma zonale,Etheostoma zonale,banded darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,zonale
+Fundulus diaphanus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Fundulus diaphanus,Fundulus diaphanus,Fundulus diaphanus,banded killifish,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,diaphanus
+Pomoxis nigromaculatus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Pomoxis nigromaculatus,Pomoxis nigromaculatus,Pomoxis nigromaculatus,black crappie,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus
+Lepomis macrochirus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepomis macrochirus,Lepomis macrochirus,Lepomis macrochirus,bluegill,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,macrochirus
+Pimephales notatus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Pimephales notatus,Pimephales notatus,Pimephales notatus,bluntnose minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,notatus
+Salvelinus fontinalis ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Salvelinus fontinalis,Salvelinus fontinalis,Salvelinus fontinalis,brook trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,fontinalis
+Ameiurus nebulosus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Ameiurus nebulosus,Ameiurus nebulosus,Ameiurus nebulosus,brown bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,nebulosus
+Salmo trutta ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Salmo trutta,Salmo trutta,Salmo trutta,brown trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,trutta
+Campostoma anomalum ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Campostoma anomalum,Campostoma anomalum,Campostoma anomalum,central stoneroller,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,anomalum
+Ictalurus punctatus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Ictalurus punctatus,Ictalurus punctatus,Ictalurus punctatus,channel catfish,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ictalurus,punctatus
+Cyrpinus carpio ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Cyrpinus carpio,Cyrpinus carpio,Cyrpinus carpio,common carp,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyrpinus,carpio
+Luxilus cornutus  ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Luxilus cornutus,Luxilus cornutus,Luxilus cornutus,common shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+Semotilus atromaculatus  ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Semotilus atromaculatus,Semotilus atromaculatus,Semotilus atromaculatus,creek chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+Etheostoma flabellare ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Etheostoma flabellare,Etheostoma flabellare,Etheostoma flabellare,fantail darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,flabellare
+Pimephales promelas  ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Pimephales promelas,Pimephales promelas,Pimephales promelas,fathead minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+Dorosoma cepedianum ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Dorosoma cepedianum,Dorosoma cepedianum,Dorosoma cepedianum,gizzard shad,Animalia,Chordata,Osteichthyes,,Clupeidae,Dorosoma,cepedianum
+Moxostoma erythrurum ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Moxostoma erythrurum,Moxostoma erythrurum,Moxostoma erythrurum,golden redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,erythrurum
+Notemigonus crysoleucas ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Notemigonus crysoleucas,Notemigonus crysoleucas,Notemigonus crysoleucas,golden shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas
+Carassius auratus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Carassius auratus,Carassius auratus,Carassius auratus,goldfish,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Carassius,auratus
+Lepomis cyanellus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepomis cyanellus,Lepomis cyanellus,Lepomis cyanellus,green sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,cyanellus
+Etheostoma nigrum  ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Etheostoma nigrum,Etheostoma nigrum,Etheostoma nigrum,johnny darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+Micropterus salmoides ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Micropterus salmoides,Micropterus salmoides,Micropterus salmoides,largemouth bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,salmoides
+Percina caprodes ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Percina caprodes,Percina caprodes,Percina caprodes,logperch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,caprodes
+Rhinichthys cataractae ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Rhinichthys cataractae,Rhinichthys cataractae,Rhinichthys cataractae,longnose dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae
+Lepisosteus osseus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepisosteus osseus,Lepisosteus osseus,Lepisosteus osseus,longnose gar,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus
+Cottus bairdi ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Cottus bairdi,Cottus bairdi,Cottus bairdi,mottled sculpin,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,bairdi
+Hypentelium nigricans ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Hypentelium nigricans,Hypentelium nigricans,Hypentelium nigricans,northern hogsucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Hypentelium,nigricans
+Esox lucius  ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Esox lucius,Esox lucius,Esox lucius,northern pike,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+Aphredoderus sayanus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Aphredoderus sayanus,Aphredoderus sayanus,Aphredoderus sayanus,pirate perch,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus
+Lepomis gibbosus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepomis gibbosus,Lepomis gibbosus,Lepomis gibbosus,pumpkinseed,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gibbosus
+Oncorhynchus mykiss ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Oncorhynchus mykiss,Oncorhynchus mykiss,Oncorhynchus mykiss,rainbow trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss
+Ambloplites rupestris ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Ambloplites rupestris,Ambloplites rupestris,Ambloplites rupestris,rock bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+Moxostoma macrolepidotum ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Moxostoma macrolepidotum,Moxostoma macrolepidotum,Moxostoma macrolepidotum,shorthead redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum
+Cottus cognatus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Cottus cognatus,Cottus cognatus,Cottus cognatus,slimy sculpin,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus
+Micropterus dolomieu ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Micropterus dolomieu,Micropterus dolomieu,Micropterus dolomieu,smallmouth bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,dolomieu
+Cyprinella spiloptera ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Cyprinella spiloptera,Cyprinella spiloptera,Cyprinella spiloptera,spotfin shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera
+Notropis hudsonius ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Notropis hudsonius,Notropis hudsonius,Notropis hudsonius,spottail shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,hudsonius
+Noturus flavus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Noturus flavus,Noturus flavus,Noturus flavus,stonecat,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,flavus
+Noturus gyrinus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Noturus gyrinus,Noturus gyrinus,Noturus gyrinus,tadpole madtom,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus
+Lepomis gulosus ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepomis gulosus,Lepomis gulosus,Lepomis gulosus,warmouth,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus
+Pomoxis annularis ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Pomoxis annularis,Pomoxis annularis,Pomoxis annularis,white crappie,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis
+Catostomus commersonii,,,"MN, case","add ""i"" to end of Taxon_Orig_Sci so not a duplicate",,Catostomus commersoni,Catostomus commersoni,Catostomus commersoni,white sucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+Ameiurus natalis ,,,"MN, case",,,Ameiurus natalis,Ameiurus natalis,Ameiurus natalis,yellow bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,natalis
+Perca flavescens  ,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Perca flavescens,Perca flavescens,Perca flavescens,yellow perch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+Rhinichthys atratulus,,,AWQMS_Fish_Data_Export,,,Rhinichthys atratulus,Rhinichthys atratulus,Rhinichthys atratulus,eastern blacknose dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,atratulus
+Ichthyomyzon,,,AWQMS_Fish_Data_Export,,,Ichthyomyzon,Ichthyomyzon,Petromyzontidae,Gen: lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+Ameiurus ,1,,"MN data, Sci",,,Ameiurus,Ameiurus,Ameiurus,Gen: bullheads,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,
+Campostoma ,1,,"MN data, Sci",,,Campostoma,Campostoma,Campostoma,Gen: stonerollers,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,
+Carpiodes ,1,,"MN data, Sci",,,Carpiodes,Carpiodes,Carpiodes,Gen: carpsuckers,Animalia,,,,,Carpiodes,
+Catostomus ,1,,"MN data, Sci",,,Catostomus,Catostomus,Catostomus,Gen: Catostomus ,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,
+Coregonus clupeaformis,1,,"MN data, Sci",,,Coregonus clupeaformis,Coregonus clupeaformis,Coregonus clupeaformis,lake whitefish,Animalia,,,,,Coregonus,clupeaformis
+Cottus ,1,,"MN data, Sci",,,Cottus,Cottus,Cottus,Gen: sculpins,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
+Cyprinidae ,1,,"MN data, Sci",,,Cyprinidae,Cyprinidae,Cyprinidae,Fam: minnows ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,,
+Etheostoma ,1,,"MN data, Sci",,,Etheostoma,Etheostoma,Etheostoma,Gen: Etheostoma ,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,
+Ictiobus ,1,,"MN data, Sci",,,Ictiobus,Ictiobus,Ictiobus,Gen: buffalos ,Animalia,,,,,Ictiobus,
+Lepomis ,1,,"MN data, Sci",,,Lepomis,Lepomis,Lepomis,Gen: common sunfishes ,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,
+Moxostoma ,1,,"MN data, Sci",,,Moxostoma,Moxostoma,Moxostoma,Gen: redhorses ,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,
+Notropis ,1,,"MN data, Sci",,,Notropis,Notropis,Notropis,Gen: Notropis ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,
+Percina ,1,,"MN data, Sci",,,Percina,Percina,Percina,Gen: Percina ,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,
+Pomoxis,1,,"MN data, Sci",,,Pomoxis,Pomoxis,Pomoxis,Gen: Pomoxis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,
+Rhinichthys obtusus  ,1,,"MN data, Sci",add space to end of Taxon_Orig_Sci so not a duplicate,,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,Blacknose Dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+Ictiobinae,1,,"MN data, Sci",,,Ictiobinae,Ictiobinae,Ictiobinae,SubFam: buffalo/carpsuckers,Animalia,,,,,,
+Rhinichthys obtusus (dup),,,"MN data, Sci",,,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,Blacknose Dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+SubFam: buffalo/carpsuckers,,,"MN data, Sci",,,Ictiobinae,Ictiobinae,Ictiobinae,SubFam: buffalo/carpsuckers,Animalia,,,,,,
+Chrosomus eos,,,AWQMS_Fish_Data_Export,Use MN master taxa list,,Phoxinus eos,Phoxinus eos,Phoxinus eos,Northern redbelly dace,Animalia,,,,,Phoxinus,eos
+Chrosomus neogaeus,,,AWQMS_Fish_Data_Export,Use MN master taxa list,,Phoxinus neogaeus,Phoxinus neogaeus,Phoxinus neogaeus,Finescale Dace,Animalia,,,,,Phoxinus,neogaeus
+Hybopsis dorsalis,,,AWQMS_Fish_Data_Export,Keep with MN master taxa list,,Notropis dorsalis,Notropis dorsalis,Notropis dorsalis,Bigmouth Shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,dorsalis
+Atlantic Salmon,,,MN BCG Access db,,2,Salmo salar,Salmo salar,Salmo salar,Atlantic Salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar
+Slimy Sculpin,,,MN BCG Access db,,19,Cottus cognatus,Cottus cognatus,Cottus cognatus,Slimy Sculpin,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus
+American brook lamprey,,,MN BCG Access db,,21,Lethenteron appendix,Lethenteron appendix,Lethenteron appendix,American brook lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lethenteron,appendix
+American eel,,,MN BCG Access db,,22,Anguilla rostrata,Anguilla rostrata,Anguilla rostrata,American eel,Animalia,Chordata,Osteichthyes,Anguilliformes,Anguillidae,Anguilla,rostrata
+Banded darter,,,MN BCG Access db,,23,Etheostoma zonale,Etheostoma zonale,Etheostoma zonale,Banded darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,zonale
+Banded killifish,,,MN BCG Access db,,24,Fundulus diaphanus,Fundulus diaphanus,Fundulus diaphanus,Banded killifish,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,diaphanus
+Banded sunfish,,,MN BCG Access db,,25,Enneacanthus obesus,Enneacanthus obesus,Enneacanthus obesus,Banded sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,obesus
+Black crappie,,,MN BCG Access db,,26,Pomoxis nigromaculatus,Pomoxis nigromaculatus,Pomoxis nigromaculatus,Black crappie,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus
+western blacknose dace,,,MN BCG Access db,,27,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,western blacknose dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+Bluegill,,,MN BCG Access db,,28,Lepomis macrochirus,Lepomis macrochirus,Lepomis macrochirus,Bluegill,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,macrochirus
+Bluespotted sunfish,,,MN BCG Access db,,29,Enneacanthus gloriosus,Enneacanthus gloriosus,Enneacanthus gloriosus,Bluespotted sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Enneacanthus,gloriosus
+Bluntnose minnow,,,MN BCG Access db,,30,Pimephales notatus,Pimephales notatus,Pimephales notatus,Bluntnose minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,notatus
+Brook lamprey,,,MN BCG Access db,,31,Lampetra,Lampetra,Lampetra,Brook lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,
+Brook trout,,,MN BCG Access db,,32,Salvelinus fontinalis,Salvelinus fontinalis,Salvelinus fontinalis,Brook trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,fontinalis
+Brown bullhead,,,MN BCG Access db,,33,Ameiurus nebulosus,Ameiurus nebulosus,Ameiurus nebulosus,Brown bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,nebulosus
+Brown trout,,,MN BCG Access db,,34,Salmo trutta,Salmo trutta,Salmo trutta,Brown trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,trutta
+Central stoneroller,,,MN BCG Access db,,35,Campostoma anomalum,Campostoma anomalum,Campostoma anomalum,Central stoneroller,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,anomalum
+Chain pickerel,,,MN BCG Access db,,36,Esox niger,Esox niger,Esox niger,Chain pickerel,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,niger
+Channel catfish,,,MN BCG Access db,,37,Ictalurus punctatus,Ictalurus punctatus,Ictalurus punctatus,Channel catfish,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ictalurus,punctatus
+Checkered sculpin,,,MN BCG Access db,,38,Cottus sp.,Cottus sp.,Cottus sp.,Checkered sculpin,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
+Comely shiner,,,MN BCG Access db,,39,Notropis amoenus,Notropis amoenus,Notropis amoenus,Comely shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,amoenus
+Common carp,,,MN BCG Access db,,40,Cyrpinus carpio,Cyrpinus carpio,Cyrpinus carpio,Common carp,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyrpinus,carpio
+Common shiner,,,MN BCG Access db,,41,Luxilus cornutus,Luxilus cornutus,Luxilus cornutus,Common shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+Creek chub,,,MN BCG Access db,,42,Semotilus atromaculatus,Semotilus atromaculatus,Semotilus atromaculatus,Creek chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+Creek chubsucker,,,MN BCG Access db,,43,Erimyzon oblongus,Erimyzon oblongus,Erimyzon oblongus,Creek chubsucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Erimyzon,oblongus
+Cutlips minnow,,,MN BCG Access db,,44,Exoglossum maxillingua,Exoglossum maxillingua,Exoglossum maxillingua,Cutlips minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Exoglossum,maxillingua
+Eastern Mosquitofish,,,MN BCG Access db,,45,Gambusia holbrooki,Gambusia holbrooki,Gambusia holbrooki,Eastern Mosquitofish,Animalia,Chordata,Osteichthyes,Atheriniformes,Poeciliidae,Gambusia,holbrooki
+Eastern mudminnow,,,MN BCG Access db,,46,Umbra pygmaea,Umbra pygmaea,Umbra pygmaea,Eastern mudminnow,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,pygmaea
+Eastern silvery minnow,,,MN BCG Access db,,47,Hybognathus regius,Hybognathus regius,Hybognathus regius,Eastern silvery minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,regius
+Fallfish,,,MN BCG Access db,,48,Semotilus corporalis,Semotilus corporalis,Semotilus corporalis,Fallfish,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,corporalis
+Fantail darter,,,MN BCG Access db,,49,Etheostoma flabellare,Etheostoma flabellare,Etheostoma flabellare,Fantail darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,flabellare
+Fathead minnow,,,MN BCG Access db,,50,Pimephales promelas,Pimephales promelas,Pimephales promelas,Fathead minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+Flier,,,MN BCG Access db,,51,Centrarchus macropterus,Centrarchus macropterus,Centrarchus macropterus,Flier,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Centrarchus,macropterus
+Gizzard shad,,,MN BCG Access db,,52,Dorosoma cepedianum,Dorosoma cepedianum,Dorosoma cepedianum,Gizzard shad,Animalia,Chordata,Osteichthyes,,Clupeidae,Dorosoma,cepedianum
+Glassy darter,,,MN BCG Access db,,53,Etheostoma vitreum,Etheostoma vitreum,Etheostoma vitreum,Glassy darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,vitreum
+Golden redhorse,,,MN BCG Access db,,54,Moxostoma erythrurum,Moxostoma erythrurum,Moxostoma erythrurum,Golden redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,erythrurum
+Golden shiner,,,MN BCG Access db,,55,Notemigonus crysoleucas,Notemigonus crysoleucas,Notemigonus crysoleucas,Golden shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas
+Goldfish,,,MN BCG Access db,,56,Carassius auratus,Carassius auratus,Carassius auratus,Goldfish,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Carassius,auratus
+Green sunfish,,,MN BCG Access db,,57,Lepomis cyanellus,Lepomis cyanellus,Lepomis cyanellus,Green sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,cyanellus
+Greenside darter,,,MN BCG Access db,,58,Etheostoma blennioides,Etheostoma blennioides,Etheostoma blennioides,Greenside darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,blennioides
+Inland silverside,,,MN BCG Access db,,59,Menidia beryllina,Menidia beryllina,Menidia beryllina,Inland silverside,Animalia,Chordata,Osteichthyes,,Atherinidae,Menidia,beryllina
+Ironcolor shiner,,,MN BCG Access db,,60,Notropis chalybaeus,Notropis chalybaeus,Notropis chalybaeus,Ironcolor shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,chalybaeus
+Johnny darter,,,MN BCG Access db,,61,Etheostoma nigrum,Etheostoma nigrum,Etheostoma nigrum,Johnny darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+Largemouth bass,,,MN BCG Access db,,62,Micropterus salmoides,Micropterus salmoides,Micropterus salmoides,Largemouth bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,salmoides
+Least brook lamprey,,,MN BCG Access db,,63,Lampetra aepyptera,Lampetra aepyptera,Lampetra aepyptera,Least brook lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,Lampetra,aepyptera
+Logperch,,,MN BCG Access db,,64,Percina caprodes,Percina caprodes,Percina caprodes,Logperch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,caprodes
+northern sunfish,,,MN BCG Access db,,65,Lepomis megalotis,Lepomis megalotis,Lepomis megalotis,northern sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,megalotis
+Longnose dace,,,MN BCG Access db,,66,Rhinichthys cataractae,Rhinichthys cataractae,Rhinichthys cataractae,Longnose dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae
+Longnose gar,,,MN BCG Access db,,67,Lepisosteus osseus,Lepisosteus osseus,Lepisosteus osseus,Longnose gar,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus
+Margined madtom,,,MN BCG Access db,,68,Noturus insignis,Noturus insignis,Noturus insignis,Margined madtom,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,insignis
+Mottled sculpin,,,MN BCG Access db,,69,Cottus bairdi,Cottus bairdi,Cottus bairdi,Mottled sculpin,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,bairdi
+Mud sunfish,,,MN BCG Access db,,70,Acantharchus pomotis,Acantharchus pomotis,Acantharchus pomotis,Mud sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Acantharchus,pomotis
+Mummichog,,,MN BCG Access db,,71,Fundulus heteroclitus,Fundulus heteroclitus,Fundulus heteroclitus,Mummichog,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,heteroclitus
+Northern hogsucker,,,MN BCG Access db,,72,Hypentelium nigricans,Hypentelium nigricans,Hypentelium nigricans,Northern hogsucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Hypentelium,nigricans
+Northern pike,,,MN BCG Access db,,73,Esox lucius,Esox lucius,Esox lucius,Northern pike,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+northern pearl dace,,,MN BCG Access db,,74,Margariscus margarita,Margariscus margarita,Margariscus margarita,northern pearl dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Margariscus,margarita
+Pirate perch,,,MN BCG Access db,,75,Aphredoderus sayanus,Aphredoderus sayanus,Aphredoderus sayanus,Pirate perch,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus
+Potomic sculpin,,,MN BCG Access db,,76,Cottus girardi,Cottus girardi,Cottus girardi,Potomic sculpin,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,girardi
+Pumpkinseed,,,MN BCG Access db,,77,Lepomis gibbosus,Lepomis gibbosus,Lepomis gibbosus,Pumpkinseed,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gibbosus
+Rainbow trout,,,MN BCG Access db,,78,Oncorhynchus mykiss,Oncorhynchus mykiss,Oncorhynchus mykiss,Rainbow trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss
+Rainwater killifish,,,MN BCG Access db,,79,Lucania parva,Lucania parva,Lucania parva,Rainwater killifish,Animalia,Chordata,Osteichthyes,,Fundulidae,Lucania,parva
+Redbreast sunfish,,,MN BCG Access db,,80,Lepomis auritus,Lepomis auritus,Lepomis auritus,Redbreast sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,auritus
+Redfin pickerel,,,MN BCG Access db,,81,Esox americanus americanus,Esox americanus americanus,Esox americanus americanus,Redfin pickerel,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,americanus americanus
+River chub,,,MN BCG Access db,,82,Nocomis micropogon,Nocomis micropogon,Nocomis micropogon,River chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,micropogon
+Rock bass,,,MN BCG Access db,,83,Ambloplites rupestris,Ambloplites rupestris,Ambloplites rupestris,Rock bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+Rosyface shiner,,,MN BCG Access db,,84,Notropis rubellus,Notropis rubellus,Notropis rubellus,Rosyface shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,rubellus
+Rosyside dace,,,MN BCG Access db,,85,Clinostomus funduloides,Clinostomus funduloides,Clinostomus funduloides,Rosyside dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,funduloides
+Satinfin shiner,,,MN BCG Access db,,86,Cyprinella analostana,Cyprinella analostana,Cyprinella analostana,Satinfin shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,analostana
+Shield darter,,,MN BCG Access db,,87,Percina peltata,Percina peltata,Percina peltata,Shield darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,peltata
+Shorthead redhorse,,,MN BCG Access db,,88,Moxostoma macrolepidotum,Moxostoma macrolepidotum,Moxostoma macrolepidotum,Shorthead redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum
+Silverjaw minnow,,,MN BCG Access db,,89,Notropis buccatus,Notropis buccatus,Notropis buccatus,Silverjaw minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,buccatus
+Smallmouth bass,,,MN BCG Access db,,91,Micropterus dolomieu,Micropterus dolomieu,Micropterus dolomieu,Smallmouth bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,dolomieu
+Spot,,,MN BCG Access db,,92,Leiostomus xanthurus,Leiostomus xanthurus,Leiostomus xanthurus,Spot,Animalia,Chordata,Osteichthyes,Perciformes,Sciaenidae,Leiostomus,xanthurus
+Spotfin shiner,,,MN BCG Access db,,93,Cyprinella spiloptera,Cyprinella spiloptera,Cyprinella spiloptera,Spotfin shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera
+Spottail shiner,,,MN BCG Access db,,94,Notropis hudsonius,Notropis hudsonius,Notropis hudsonius,Spottail shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,hudsonius
+Stonecat,,,MN BCG Access db,,95,Noturus flavus,Noturus flavus,Noturus flavus,Stonecat,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,flavus
+Striped bass,,,MN BCG Access db,,96,Morone saxatilis,Morone saxatilis,Morone saxatilis,Striped bass,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,saxatilis
+Striped killifish,,,MN BCG Access db,,97,Fundulus majalis,Fundulus majalis,Fundulus majalis,Striped killifish,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,majalis
+Striped shiner,,,MN BCG Access db,,98,Luxilus chrysocephalus,Luxilus chrysocephalus,Luxilus chrysocephalus,Striped shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,chrysocephalus
+Swallowtail shiner,,,MN BCG Access db,,99,Notropis procne,Notropis procne,Notropis procne,Swallowtail shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,procne
+Swamp darter,,,MN BCG Access db,,100,Etheostoma fusiforme,Etheostoma fusiforme,Etheostoma fusiforme,Swamp darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,fusiforme
+Tadpole madtom,,,MN BCG Access db,,101,Noturus gyrinus,Noturus gyrinus,Noturus gyrinus,Tadpole madtom,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus
+Tesselated darter,,,MN BCG Access db,,102,Etheostoma olmstedi,Etheostoma olmstedi,Etheostoma olmstedi,Tesselated darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,olmstedi
+Warmouth,,,MN BCG Access db,,103,Lepomis gulosus,Lepomis gulosus,Lepomis gulosus,Warmouth,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus
+watercolumn fish,,,MN BCG Access db,,104,Osteichthyes,Osteichthyes,Osteichthyes,watercolumn fish,Animalia,Chordata,Osteichthyes,,,,
+White catfish,,,MN BCG Access db,,105,Ameiurus catus,Ameiurus catus,Ameiurus catus,White catfish,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,catus
+White crappie,,,MN BCG Access db,,106,Pomoxis annularis,Pomoxis annularis,Pomoxis annularis,White crappie,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis
+White perch,,,MN BCG Access db,,107,Morone americana,Morone americana,Morone americana,White perch,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,americana
+White sucker,,,MN BCG Access db,,108,Catostomus commersoni,Catostomus commersoni,Catostomus commersoni,White sucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+Yellow bullhead,,,MN BCG Access db,add space to end of Taxon_Orig_Sci so not a duplicate,109,Ameiurus natalis,Ameiurus natalis,Ameiurus natalis,Yellow bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,natalis
+Yellow perch,,,MN BCG Access db,,110,Perca flavescens,Perca flavescens,Perca flavescens,Yellow perch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+bigmouth buffalo,,,MN BCG Access db,,111,Ictiobus cyprinellus,Ictiobus cyprinellus,Ictiobus cyprinellus,bigmouth buffalo,Animalia,,,,,Ictiobus,cyprinellus
+bigmouth shiner,,,MN BCG Access db,,112,Notropis dorsalis,Notropis dorsalis,Notropis dorsalis,bigmouth shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,dorsalis
+black buffalo,,,MN BCG Access db,,113,Ictiobus niger,Ictiobus niger,Ictiobus niger,black buffalo,Animalia,,,,,Ictiobus,niger
+black bullhead,,,MN BCG Access db,,114,Ameiurus melas,Ameiurus melas,Ameiurus melas,black bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,melas
+black redhorse,,,MN BCG Access db,,115,Moxostoma duquesnei,Moxostoma duquesnei,Moxostoma duquesnei,black redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,duquesnei
+blackchin shiner,,,MN BCG Access db,,116,Notropis heterodon,Notropis heterodon,Notropis heterodon,blackchin shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterodon
+blacknose shiner,,,MN BCG Access db,,117,Notropis heterolepis,Notropis heterolepis,Notropis heterolepis,blacknose shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,heterolepis
+blackside darter,,,MN BCG Access db,,118,Percina maculata,Percina maculata,Percina maculata,blackside darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
+blue sucker,,,MN BCG Access db,,119,Cycleptus elongatus,Cycleptus elongatus,Cycleptus elongatus,blue sucker,Animalia,,,,,Cycleptus,elongatus
+bowfin,,,MN BCG Access db,,120,Amia calva,Amia calva,Amia calva,bowfin,Animalia,,,,,Amia,calva
+brassy minnow,,,MN BCG Access db,,121,Hybognathus hankinsoni,Hybognathus hankinsoni,Hybognathus hankinsoni,brassy minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,hankinsoni
+brook silverside,,,MN BCG Access db,,122,Labidesthes sicculus,Labidesthes sicculus,Labidesthes sicculus,brook silverside,Animalia,,,,,Labidesthes,sicculus
+brook stickleback,,,MN BCG Access db,,123,Culaea inconstans,Culaea inconstans,Culaea inconstans,brook stickleback,Animalia,,,,,Culaea,inconstans
+bullhead minnow,,,MN BCG Access db,,124,Pimephales vigilax,Pimephales vigilax,Pimephales vigilax,bullhead minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,vigilax
+burbot,,,MN BCG Access db,,125,Lota lota,Lota lota,Lota lota,burbot,Animalia,,,,,Lota,lota
+carmine shiner,,,MN BCG Access db,,126,Notropis percobromus,Notropis percobromus,Notropis percobromus,carmine shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
+central mudminnow,,,MN BCG Access db,,127,Umbra limi,Umbra limi,Umbra limi,central mudminnow,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
+channel shiner,,,MN BCG Access db,,128,Notropis wickliffi,Notropis wickliffi,Notropis wickliffi,channel shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,wickliffi
+chestnut lamprey,,,MN BCG Access db,,129,Ichthyomyzon castaneus,Ichthyomyzon castaneus,Ichthyomyzon castaneus,chestnut lamprey,Animalia,,,,,Ichthyomyzon,castaneus
+chinook salmon,,,MN BCG Access db,,130,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,chinook salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,tshawytscha
+coho salmon,,,MN BCG Access db,,131,Oncorhynchus kisutch,Oncorhynchus kisutch,Oncorhynchus kisutch,coho salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,kisutch
+crystal darter,,,MN BCG Access db,,132,Crystallaria asprella,Crystallaria asprella,Crystallaria asprella,crystal darter,Animalia,,,,,Crystallaria,asprella
+emerald shiner,,,MN BCG Access db,,133,Notropis atherinoides,Notropis atherinoides,Notropis atherinoides,emerald shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,atherinoides
+Fam: herrings,,,MN BCG Access db,,134,Clupeidae,Clupeidae,Clupeidae,Fam: herrings,Animalia,Chordata,Osteichthyes,,Clupeidae,,
+Fam: lamprey,,,MN BCG Access db,,135,Petromyzontidae,Petromyzontidae,Petromyzontidae,Fam: lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+Fam: minnows,,,MN BCG Access db,,136,Cyprinidae,Cyprinidae,Cyprinidae,Fam: minnows,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,,
+Fam: trout,,,MN BCG Access db,,137,Salmonidae,Salmonidae,Salmonidae,Fam: trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,,
+finescale dace,,,MN BCG Access db,,138,Phoxinus neogaeus,Phoxinus neogaeus,Phoxinus neogaeus,finescale dace,Animalia,,,,,Phoxinus,neogaeus
+flathead catfish,,,MN BCG Access db,,139,Pylodictis olivaris,Pylodictis olivaris,Pylodictis olivaris,flathead catfish,Animalia,,,,,Pylodictis,olivaris
+freshwater drum,,,MN BCG Access db,,140,Aplodinotus grunniens,Aplodinotus grunniens,Aplodinotus grunniens,freshwater drum,Animalia,,,,,Aplodinotus,grunniens
+Gen: buffalos,,,MN BCG Access db,,141,Ictiobus,Ictiobus,Ictiobus,Gen: buffalos,Animalia,,,,,Ictiobus,
+Gen: bullheads,,,MN BCG Access db,,142,Ameiurus,Ameiurus,Ameiurus,Gen: bullheads,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,
+Gen: carpsuckers,,,MN BCG Access db,,143,Carpiodes,Carpiodes,Carpiodes,Gen: carpsuckers,Animalia,,,,,Carpiodes,
+Gen: Catostomus,,,MN BCG Access db,,144,Catostomus,Catostomus,Catostomus,Gen: Catostomus,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,
+Gen: common sunfishes,,,MN BCG Access db,,145,Lepomis,Lepomis,Lepomis,Gen: common sunfishes,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,
+Gen: Etheostoma,,,MN BCG Access db,,146,Etheostoma,Etheostoma,Etheostoma,Gen: Etheostoma,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,
+Gen: Notropis,,,MN BCG Access db,,147,Notropis,Notropis,Notropis,Gen: Notropis,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,
+Gen: Percina,,,MN BCG Access db,,148,Percina,Percina,Percina,Gen: Percina,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,
+Gen: Chrosomus,,,MN BCG Access db,,149,Chrosomus,Chrosomus,Chrosomus,Gen: Chrosomus,Animalia,,,,,Chrosomus,
+Gen: redhorses,,,MN BCG Access db,,150,Moxostoma,Moxostoma,Moxostoma,Gen: redhorses,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,
+Gen: sculpins,,,MN BCG Access db,,151,Cottus,Cottus,Cottus,Gen: sculpins,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,
+Gen: stonerollers,,,MN BCG Access db,,152,Campostoma,Campostoma,Campostoma,Gen: stonerollers,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,
+gilt darter,,,MN BCG Access db,,153,Percina evides,Percina evides,Percina evides,gilt darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,evides
+goldeye,,,MN BCG Access db,,154,Hiodon alosoides,Hiodon alosoides,Hiodon alosoides,goldeye,Animalia,,,,,Hiodon,alosoides
+grass carp,,,MN BCG Access db,,155,Ctenopharyngodon idella,Ctenopharyngodon idella,Ctenopharyngodon idella,grass carp,Animalia,,,,,Ctenopharyngodon,idella
+gravel chub,,,MN BCG Access db,,156,Erimystax x-punctatus,Erimystax x-punctatus,Erimystax x-punctatus,gravel chub,Animalia,,,,,Erimystax,x-punctatus
+greater redhorse,,,MN BCG Access db,,157,Moxostoma valenciennesi,Moxostoma valenciennesi,Moxostoma valenciennesi,greater redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,valenciennesi
+highfin carpsucker,,,MN BCG Access db,,158,Carpiodes velifer,Carpiodes velifer,Carpiodes velifer,highfin carpsucker,Animalia,,,,,Carpiodes,velifer
+hornyhead chub,,,MN BCG Access db,,159,Nocomis biguttatus,Nocomis biguttatus,Nocomis biguttatus,hornyhead chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
+hybrid minnow,,,MN BCG Access db,,160,Cyprinidae hybrid,Cyprinidae hybrid,Cyprinidae hybrid,hybrid minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,hybrid,
+hybrid Chrosomus,,,MN BCG Access db,,161,Chrosomus hybrid,Chrosomus hybrid,Chrosomus hybrid,hybrid Chrosomus,Animalia,,,,,Chrosomus,hybrid
+hybrid sunfish,,,MN BCG Access db,,162,Lepomis hybrid,Lepomis hybrid,Lepomis hybrid,hybrid sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,hybrid
+Iowa darter,,,MN BCG Access db,,163,Etheostoma exile,Etheostoma exile,Etheostoma exile,Iowa darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,exile
+lake chub,,,MN BCG Access db,,164,Couesius plumbeus,Couesius plumbeus,Couesius plumbeus,lake chub,Animalia,,,,,Couesius,plumbeus
+lake herring,,,MN BCG Access db,,165,Coregonus artedi,Coregonus artedi,Coregonus artedi,lake herring,Animalia,,,,,Coregonus,artedi
+lake sturgeon,,,MN BCG Access db,,166,Acipenser fulvescens,Acipenser fulvescens,Acipenser fulvescens,lake sturgeon,Animalia,,,,,Acipenser,fulvescens
+lamprey ammocoete,,,MN BCG Access db,,167,Petromyzontidae larvae,Petromyzontidae larvae,Petromyzontidae larvae,lamprey ammocoete,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,larvae,
+largescale stoneroller,,,MN BCG Access db,,168,Campostoma oligolepis,Campostoma oligolepis,Campostoma oligolepis,largescale stoneroller,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,oligolepis
+least darter,,,MN BCG Access db,,169,Etheostoma microperca,Etheostoma microperca,Etheostoma microperca,least darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,microperca
+longnose sucker,,,MN BCG Access db,,170,Catostomus catostomus,Catostomus catostomus,Catostomus catostomus,longnose sucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,catostomus
+mimic shiner,,,MN BCG Access db,,171,Notropis volucellus,Notropis volucellus,Notropis volucellus,mimic shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,volucellus
+Mississippi silvery minnow,,,MN BCG Access db,,172,Hybognathus nuchalis,Hybognathus nuchalis,Hybognathus nuchalis,Mississippi silvery minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Hybognathus,nuchalis
+mooneye,,,MN BCG Access db,,173,Hiodon tergisus,Hiodon tergisus,Hiodon tergisus,mooneye,Animalia,,,,,Hiodon,tergisus
+mud darter,,,MN BCG Access db,,174,Etheostoma asprigene,Etheostoma asprigene,Etheostoma asprigene,mud darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,asprigene
+muskellunge,,,MN BCG Access db,,175,Esox masquinongy,Esox masquinongy,Esox masquinongy,muskellunge,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,masquinongy
+ninespine stickleback,,,MN BCG Access db,,176,Pungitius pungitius,Pungitius pungitius,Pungitius pungitius,ninespine stickleback,Animalia,,,,,Pungitius,pungitius
+northern brook lamprey,,,MN BCG Access db,,177,Ichthyomyzon fossor,Ichthyomyzon fossor,Ichthyomyzon fossor,northern brook lamprey,Animalia,,,,,Ichthyomyzon,fossor
+northern redbelly dace,,,MN BCG Access db,,178,Phoxinus eos,Phoxinus eos,Phoxinus eos,northern redbelly dace,Animalia,,,,,Phoxinus,eos
+orangespotted sunfish,,,MN BCG Access db,,179,Lepomis humilis,Lepomis humilis,Lepomis humilis,orangespotted sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,humilis
+Ozark minnow,,,MN BCG Access db,,180,Notropis nubilus,Notropis nubilus,Notropis nubilus,Ozark minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,nubilus
+pink salmon,,,MN BCG Access db,,181,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,pink salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,gorbuscha
+plains topminnow,,,MN BCG Access db,,182,Fundulus sciadicus,Fundulus sciadicus,Fundulus sciadicus,plains topminnow,Animalia,Chordata,Osteichthyes,Atheriniformes,Fundulidae,Fundulus,sciadicus
+pugnose minnow,,,MN BCG Access db,,183,Opsopoeodus emiliae,Opsopoeodus emiliae,Opsopoeodus emiliae,pugnose minnow,Animalia,,,,,Opsopoeodus,emiliae
+pugnose shiner,,,MN BCG Access db,,184,Notropis anogenus,Notropis anogenus,Notropis anogenus,pugnose shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,anogenus
+quillback,,,MN BCG Access db,,185,Carpiodes cyprinus,Carpiodes cyprinus,Carpiodes cyprinus,quillback,Animalia,,,,,Carpiodes,cyprinus
+rainbow darter,,,MN BCG Access db,,186,Etheostoma caeruleum,Etheostoma caeruleum,Etheostoma caeruleum,rainbow darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,caeruleum
+rainbow smelt,,,MN BCG Access db,,187,Osmerus mordax,Osmerus mordax,Osmerus mordax,rainbow smelt,Animalia,,,,,Osmerus,mordax
+red shiner,,,MN BCG Access db,,188,Cyprinella lutrensis,Cyprinella lutrensis,Cyprinella lutrensis,red shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,lutrensis
+redfin shiner,,,MN BCG Access db,,189,Lythrurus umbratilis,Lythrurus umbratilis,Lythrurus umbratilis,redfin shiner,Animalia,,,,,Lythrurus,umbratilis
+redside dace,,,MN BCG Access db,,190,Clinostomus elongatus,Clinostomus elongatus,Clinostomus elongatus,redside dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Clinostomus,elongatus
+river carpsucker,,,MN BCG Access db,,191,Carpiodes carpio,Carpiodes carpio,Carpiodes carpio,river carpsucker,Animalia,,,,,Carpiodes,carpio
+river darter,,,MN BCG Access db,,192,Percina shumardi,Percina shumardi,Percina shumardi,river darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,shumardi
+river redhorse,,,MN BCG Access db,,193,Moxostoma carinatum,Moxostoma carinatum,Moxostoma carinatum,river redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
+river shiner,,,MN BCG Access db,,194,Notropis blennius,Notropis blennius,Notropis blennius,river shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,blennius
+ruffe,,,MN BCG Access db,,195,Gymnocephalus cernuus,Gymnocephalus cernuus,Gymnocephalus cernuus,ruffe,Animalia,,,,,Gymnocephalus,cernuus
+sand shiner,,,MN BCG Access db,,196,Notropis stramineus,Notropis stramineus,Notropis stramineus,sand shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,stramineus
+sauger,,,MN BCG Access db,,197,Sander canadensis,Sander canadensis,Sander canadensis,sauger,Animalia,,,,,Sander,canadensis
+sea lamprey,,,MN BCG Access db,,198,Petromyzon marinus,Petromyzon marinus,Petromyzon marinus,sea lamprey,Animalia,,,,,Petromyzon,marinus
+shoal chub,,,MN BCG Access db,,199,Macrhybopsis hyostoma,Macrhybopsis hyostoma,Macrhybopsis hyostoma,shoal chub,Animalia,,,,,Macrhybopsis,hyostoma
+shortnose gar,,,MN BCG Access db,,200,Lepisosteus platostomus,Lepisosteus platostomus,Lepisosteus platostomus,shortnose gar,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,platostomus
+shovelnose sturgeon,,,MN BCG Access db,,201,Scaphirhynchus platorynchus,Scaphirhynchus platorynchus,Scaphirhynchus platorynchus,shovelnose sturgeon,Animalia,,,,,Scaphirhynchus,platorynchus
+silver chub,,,MN BCG Access db,,202,Macrhybopsis storeriana,Macrhybopsis storeriana,Macrhybopsis storeriana,silver chub,Animalia,,,,,Macrhybopsis,storeriana
+silver lamprey,,,MN BCG Access db,,203,Ichthyomyzon unicuspis,Ichthyomyzon unicuspis,Ichthyomyzon unicuspis,silver lamprey,Animalia,,,,,Ichthyomyzon,unicuspis
+silver redhorse,,,MN BCG Access db,,204,Moxostoma anisurum,Moxostoma anisurum,Moxostoma anisurum,silver redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,anisurum
+slenderhead darter,,,MN BCG Access db,,205,Percina phoxocephala,Percina phoxocephala,Percina phoxocephala,slenderhead darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,phoxocephala
+smallmouth buffalo,,,MN BCG Access db,,206,Ictiobus bubalus,Ictiobus bubalus,Ictiobus bubalus,smallmouth buffalo,Animalia,,,,,Ictiobus,bubalus
+southern brook lamprey,,,MN BCG Access db,,207,Ichthyomyzon gagei,Ichthyomyzon gagei,Ichthyomyzon gagei,southern brook lamprey,Animalia,,,,,Ichthyomyzon,gagei
+southern redbelly dace,,,MN BCG Access db,,208,Phoxinus erythrogaster,Phoxinus erythrogaster,Phoxinus erythrogaster,southern redbelly dace,Animalia,,,,,Phoxinus,erythrogaster
+splake,,,MN BCG Access db,,209,Salvelinus hybrid,Salvelinus hybrid,Salvelinus hybrid,splake,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,hybrid
+spotted sucker,,,MN BCG Access db,,210,Minytrema melanops,Minytrema melanops,Minytrema melanops,spotted sucker,Animalia,,,,,Minytrema,melanops
+SubFam: salmonids,,,MN BCG Access db,,211,Salmoninae,Salmoninae,Salmoninae,SubFam: salmonids,Animalia,,,,,Salmoninae,
+suckermouth minnow,,,MN BCG Access db,,212,Phenacobius mirabilis,Phenacobius mirabilis,Phenacobius mirabilis,suckermouth minnow,Animalia,,,,,Phenacobius,mirabilis
+threespine stickleback,,,MN BCG Access db,,213,Gasterosteus aculeatus,Gasterosteus aculeatus,Gasterosteus aculeatus,threespine stickleback,Animalia,,,,,Gasterosteus,aculeatus
+tiger musky,,,MN BCG Access db,,214,Esox hybrid,Esox hybrid,Esox hybrid,tiger musky,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,hybrid
+tiger trout,,,MN BCG Access db,,215,Salmonidae hybrid,Salmonidae hybrid,Salmonidae hybrid,tiger trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,hybrid,
+Topeka shiner,,,MN BCG Access db,,216,Notropis topeka,Notropis topeka,Notropis topeka,Topeka shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,topeka
+trout-perch,,,MN BCG Access db,,217,Percopsis omiscomaycus,Percopsis omiscomaycus,Percopsis omiscomaycus,trout-perch,Animalia,,,,,Percopsis,omiscomaycus
+walleye,,,MN BCG Access db,,218,Sander vitreus,Sander vitreus,Sander vitreus,walleye,Animalia,,,,,Sander,vitreus
+weed shiner,,,MN BCG Access db,,219,Notropis texanus,Notropis texanus,Notropis texanus,weed shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,texanus
+western sand darter,,,MN BCG Access db,,220,Ammocrypta clara,Ammocrypta clara,Ammocrypta clara,western sand darter,Animalia,,,,,Ammocrypta,clara
+white bass,,,MN BCG Access db,,221,Morone chrysops,Morone chrysops,Morone chrysops,white bass,Animalia,Chordata,Osteichthyes,Perciformes,Moronidae,Morone,chrysops
+Lamprey (larvae),,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Petromyzontidae,Petromyzontidae,Petromyzontidae,Lamprey (larvae),Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+Blackside Darter,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Percina maculata,Percina maculata,Percina maculata,Blackside Darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,maculata
+Carmine shiner,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Notropis percobromus,Notropis percobromus,Notropis percobromus,Carmine shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,percobromus
+Central Mudminnow,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Umbra limi,Umbra limi,Umbra limi,Central Mudminnow,Animalia,Chordata,Osteichthyes,Salmoniformes,Umbridae,Umbra,limi
+Common Shiner,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Luxilus cornutus,Luxilus cornutus,Luxilus cornutus,Common Shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+Creek Chub,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Semotilus atromaculatus,Semotilus atromaculatus,Semotilus atromaculatus,Creek Chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+Fathead Minnow,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Pimephales promelas,Pimephales promelas,Pimephales promelas,Fathead Minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+Hornyhead Chub,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Nocomis biguttatus,Nocomis biguttatus,Nocomis biguttatus,Hornyhead Chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Nocomis,biguttatus
+Johnny Darter,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Etheostoma nigrum,Etheostoma nigrum,Etheostoma nigrum,Johnny Darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+Northern Pike,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Esox lucius,Esox lucius,Esox lucius,Northern Pike,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+Northern Redbelly Dace,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Phoxinus eos,Phoxinus eos,Phoxinus eos,Northern Redbelly Dace,Animalia,,,,,Phoxinus,eos
+River Redhorse,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Moxostoma carinatum,Moxostoma carinatum,Moxostoma carinatum,River Redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,carinatum
+Rock Bass,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Ambloplites rupestris,Ambloplites rupestris,Ambloplites rupestris,Rock Bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+White Sucker,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Catostomus commersoni,Catostomus commersoni,Catostomus commersoni,White Sucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+Yellow Perch,,,AWQMS_Fish_Data_Export,add space to end of Taxon_Orig_Sci so not a duplicate,,Perca flavescens,Perca flavescens,Perca flavescens,Yellow Perch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+Atlantic salmon,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Salmo salar,Salmo salar,Salmo salar,Atlantic salmon,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,salar
+banded darter,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Etheostoma zonale,Etheostoma zonale,Etheostoma zonale,banded darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,zonale
+banded killifish,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Fundulus diaphanus,Fundulus diaphanus,Fundulus diaphanus,banded killifish,Animalia,Chordata,Osteichthyes,Atheriniformes,Cyprinodontidae,Fundulus,diaphanus
+black crappie,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Pomoxis nigromaculatus,Pomoxis nigromaculatus,Pomoxis nigromaculatus,black crappie,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus
+bluegill,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepomis macrochirus,Lepomis macrochirus,Lepomis macrochirus,bluegill,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,macrochirus
+bluntnose minnow,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Pimephales notatus,Pimephales notatus,Pimephales notatus,bluntnose minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,notatus
+brook trout,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Salvelinus fontinalis,Salvelinus fontinalis,Salvelinus fontinalis,brook trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salvelinus,fontinalis
+brown bullhead,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Ameiurus nebulosus,Ameiurus nebulosus,Ameiurus nebulosus,brown bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,nebulosus
+brown trout,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Salmo trutta,Salmo trutta,Salmo trutta,brown trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Salmo,trutta
+central stoneroller,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Campostoma anomalum,Campostoma anomalum,Campostoma anomalum,central stoneroller,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Campostoma,anomalum
+channel catfish,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Ictalurus punctatus,Ictalurus punctatus,Ictalurus punctatus,channel catfish,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ictalurus,punctatus
+common carp,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Cyrpinus carpio,Cyrpinus carpio,Cyrpinus carpio,common carp,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyrpinus,carpio
+common shiner,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Luxilus cornutus,Luxilus cornutus,Luxilus cornutus,common shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Luxilus,cornutus
+creek chub,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Semotilus atromaculatus,Semotilus atromaculatus,Semotilus atromaculatus,creek chub,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus
+fantail darter,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Etheostoma flabellare,Etheostoma flabellare,Etheostoma flabellare,fantail darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,flabellare
+fathead minnow,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Pimephales promelas,Pimephales promelas,Pimephales promelas,fathead minnow,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Pimephales,promelas
+gizzard shad,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Dorosoma cepedianum,Dorosoma cepedianum,Dorosoma cepedianum,gizzard shad,Animalia,Chordata,Osteichthyes,,Clupeidae,Dorosoma,cepedianum
+golden redhorse,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Moxostoma erythrurum,Moxostoma erythrurum,Moxostoma erythrurum,golden redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,erythrurum
+golden shiner,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Notemigonus crysoleucas,Notemigonus crysoleucas,Notemigonus crysoleucas,golden shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas
+goldfish,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Carassius auratus,Carassius auratus,Carassius auratus,goldfish,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Carassius,auratus
+green sunfish,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepomis cyanellus,Lepomis cyanellus,Lepomis cyanellus,green sunfish,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,cyanellus
+johnny darter,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Etheostoma nigrum,Etheostoma nigrum,Etheostoma nigrum,johnny darter,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,nigrum
+largemouth bass,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Micropterus salmoides,Micropterus salmoides,Micropterus salmoides,largemouth bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,salmoides
+logperch,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Percina caprodes,Percina caprodes,Percina caprodes,logperch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,caprodes
+longnose dace,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Rhinichthys cataractae,Rhinichthys cataractae,Rhinichthys cataractae,longnose dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae
+longnose gar,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepisosteus osseus,Lepisosteus osseus,Lepisosteus osseus,longnose gar,Animalia,Chordata,Osteichthyes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus
+mottled sculpin,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Cottus bairdi,Cottus bairdi,Cottus bairdi,mottled sculpin,Animalia,Chordata,Osteichthyes,Perciformes,Cottidae,Cottus,bairdi
+northern hogsucker,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Hypentelium nigricans,Hypentelium nigricans,Hypentelium nigricans,northern hogsucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Hypentelium,nigricans
+northern pike,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Esox lucius,Esox lucius,Esox lucius,northern pike,Animalia,Chordata,Osteichthyes,Salmoniformes,Esocidae,Esox,lucius
+pirate perch,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Aphredoderus sayanus,Aphredoderus sayanus,Aphredoderus sayanus,pirate perch,Animalia,Chordata,Osteichthyes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus
+pumpkinseed,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepomis gibbosus,Lepomis gibbosus,Lepomis gibbosus,pumpkinseed,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gibbosus
+rainbow trout,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Oncorhynchus mykiss,Oncorhynchus mykiss,Oncorhynchus mykiss,rainbow trout,Animalia,Chordata,Osteichthyes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss
+rock bass,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Ambloplites rupestris,Ambloplites rupestris,Ambloplites rupestris,rock bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Ambloplites,rupestris
+shorthead redhorse,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Moxostoma macrolepidotum,Moxostoma macrolepidotum,Moxostoma macrolepidotum,shorthead redhorse,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum
+slimy sculpin,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Cottus cognatus,Cottus cognatus,Cottus cognatus,slimy sculpin,Animalia,Chordata,Osteichthyes,Scorpaeniformes,Cottidae,Cottus,cognatus
+smallmouth bass,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Micropterus dolomieu,Micropterus dolomieu,Micropterus dolomieu,smallmouth bass,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Micropterus,dolomieu
+spotfin shiner,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Cyprinella spiloptera,Cyprinella spiloptera,Cyprinella spiloptera,spotfin shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera
+spottail shiner,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Notropis hudsonius,Notropis hudsonius,Notropis hudsonius,spottail shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,hudsonius
+stonecat,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Noturus flavus,Noturus flavus,Noturus flavus,stonecat,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,flavus
+tadpole madtom,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Noturus gyrinus,Noturus gyrinus,Noturus gyrinus,tadpole madtom,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Noturus,gyrinus
+warmouth,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Lepomis gulosus,Lepomis gulosus,Lepomis gulosus,warmouth,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,gulosus
+white crappie,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Pomoxis annularis,Pomoxis annularis,Pomoxis annularis,white crappie,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,annularis
+white sucker,,,"MN, case","add ""i"" to end of Taxon_Orig_Sci so not a duplicate",,Catostomus commersoni,Catostomus commersoni,Catostomus commersoni,white sucker,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,commersoni
+yellow bullhead,,,"MN, case",,,Ameiurus natalis,Ameiurus natalis,Ameiurus natalis,yellow bullhead,Animalia,Chordata,Osteichthyes,Siluriformes,Ictaluridae,Ameiurus,natalis
+yellow perch,,,"MN, case",add space to end of Taxon_Orig_Sci so not a duplicate,,Perca flavescens,Perca flavescens,Perca flavescens,yellow perch,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Perca,flavescens
+eastern blacknose dace,,,AWQMS_Fish_Data_Export,,,Rhinichthys atratulus,Rhinichthys atratulus,Rhinichthys atratulus,eastern blacknose dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,atratulus
+Gen: lamprey,,,AWQMS_Fish_Data_Export,,,Ichthyomyzon,Ichthyomyzon,Petromyzontidae,Gen: lamprey,Animalia,Chordata,Osteichthyes,Petromyzontiformes,Petromyzontidae,,
+Gen: Catostomus ,,,"MN data, Sci",,,Catostomus,Catostomus,Catostomus,Gen: Catostomus ,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Catostomus,
+lake whitefish,,,"MN data, Sci",,,Coregonus clupeaformis,Coregonus clupeaformis,Coregonus clupeaformis,lake whitefish,Animalia,,,,,Coregonus,clupeaformis
+Fam: minnows ,,,"MN data, Sci",,,Cyprinidae,Cyprinidae,Cyprinidae,Fam: minnows ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,,
+Gen: Etheostoma ,,,"MN data, Sci",,,Etheostoma,Etheostoma,Etheostoma,Gen: Etheostoma ,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Etheostoma,
+Gen: buffalos ,,,"MN data, Sci",,,Ictiobus,Ictiobus,Ictiobus,Gen: buffalos ,Animalia,,,,,Ictiobus,
+Gen: common sunfishes ,,,"MN data, Sci",,,Lepomis,Lepomis,Lepomis,Gen: common sunfishes ,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Lepomis,
+Gen: redhorses ,,,"MN data, Sci",,,Moxostoma,Moxostoma,Moxostoma,Gen: redhorses ,Animalia,Chordata,Osteichthyes,Cypriniformes,Catostomidae,Moxostoma,
+Gen: Notropis ,,,"MN data, Sci",,,Notropis,Notropis,Notropis,Gen: Notropis ,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,
+Gen: Percina ,,,"MN data, Sci",,,Percina,Percina,Percina,Gen: Percina ,Animalia,Chordata,Osteichthyes,Perciformes,Percidae,Percina,
+Gen: Pomoxis,,,"MN data, Sci",,,Pomoxis,Pomoxis,Pomoxis,Gen: Pomoxis,Animalia,Chordata,Osteichthyes,Perciformes,Centrarchidae,Pomoxis,
+Blacknose Dace,,,"MN data, Sci",,,Rhinichthys obtusus,Rhinichthys obtusus,Rhinichthys obtusus,Blacknose Dace,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Rhinichthys,obtusus
+Northern redbelly dace,,,AWQMS_Fish_Data_Export,Use MN master taxa list,,Phoxinus eos,Phoxinus eos,Phoxinus eos,Northern redbelly dace,Animalia,,,,,Phoxinus,eos
+Finescale Dace,,,AWQMS_Fish_Data_Export,Use MN master taxa list,,Phoxinus neogaeus,Phoxinus neogaeus,Phoxinus neogaeus,Finescale Dace,Animalia,,,,,Phoxinus,neogaeus
+Bigmouth Shiner,,,AWQMS_Fish_Data_Export,Keep with MN master taxa list,,Notropis dorsalis,Notropis dorsalis,Notropis dorsalis,Bigmouth Shiner,Animalia,Chordata,Osteichthyes,Cypriniformes,Cyprinidae,Notropis,dorsalis

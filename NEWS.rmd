@@ -17,6 +17,21 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9067
+===========
+Released - 2024-06-12
+
+* refactor: Update MN fish translations
+    + Remove dups from adding common name to taxon_orig
+
+BioMonTools_SupportFiles 0.0.1.9066
+===========
+Released - 2024-06-12
+
+* refactor: Update MN fish translations
+    + Rename some columns (and update pickfiles)
+    + Add common names to "orig" column
+
 BioMonTools_SupportFiles 0.0.1.9065
 ===========
 Released - 2024-06-12

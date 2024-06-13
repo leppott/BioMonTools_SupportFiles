@@ -4,7 +4,22 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-12 17:03:23.79048
+    #> Last Update: 2024-06-12 20:49:38.361147
+
+# BioMonTools_SupportFiles 0.0.1.9067
+
+Released - 2024-06-12
+
+- refactor: Update MN fish translations
+  - Remove dups from adding common name to taxon_orig
+
+# BioMonTools_SupportFiles 0.0.1.9066
+
+Released - 2024-06-12
+
+- refactor: Update MN fish translations
+  - Rename some columns (and update pickfiles)
+  - Add common names to “orig” column
 
 # BioMonTools_SupportFiles 0.0.1.9065
 
