@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9069
+===========
+Released - 2024-06-14
+
+* refactor: Update MN BIBI attributes
+
 BioMonTools_SupportFiles 0.0.1.9068
 ===========
 Released - 2024-06-14

@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-14 15:11:13.884735
+    #> Last Update: 2024-06-14 16:16:14.772993
+
+# BioMonTools_SupportFiles 0.0.1.9069
+
+Released - 2024-06-14
+
+- refactor: Update MN BIBI attributes
 
 # BioMonTools_SupportFiles 0.0.1.9068
 
