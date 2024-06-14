@@ -14,7 +14,7 @@ test_that("RedLake, pickfiles, filenames", {
   
   dn_data <- file.path("data", "taxa_official")
   # data files
-  fn_pickfiles <- "_pick_files_RedLakes.csv"
+  fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
   
   fn_trans <- df_pickfiles$filename
@@ -54,7 +54,7 @@ test_that("RedLake, taxaid cols, 1", {
   
   dn_data <- file.path("data", "taxa_official")
   # data files
-  fn_pickfiles <- "_pick_files_RedLakes.csv"
+  fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
   
   fn_trans <- df_pickfiles[filenum, "filename"]
@@ -84,7 +84,7 @@ test_that("RedLake, taxaid cols, 2", {
   
   dn_data <- file.path("data", "taxa_official")
   # data files
-  fn_pickfiles <- "_pick_files_RedLakes.csv"
+  fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
   
   fn_trans <- df_pickfiles[filenum, "filename"]
@@ -114,7 +114,7 @@ test_that("RedLake, taxaid cols, 3", {
   
   dn_data <- file.path("data", "taxa_official")
   # data files
-  fn_pickfiles <- "_pick_files_RedLakes.csv"
+  fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
   
   fn_trans <- df_pickfiles[filenum, "filename"]
@@ -144,7 +144,7 @@ test_that("RedLake, taxaid cols, 4", {
   
   dn_data <- file.path("data", "taxa_official")
   # data files
-  fn_pickfiles <- "_pick_files_RedLakes.csv"
+  fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
   
   fn_trans <- df_pickfiles[filenum, "filename"]

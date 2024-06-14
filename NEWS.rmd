@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9068
+===========
+Released - 2024-06-14
+
+* refactor: Update IBI attributes files for MN Bugs and Fish
+* tests: Revise tests MN data
+
 BioMonTools_SupportFiles 0.0.1.9067
 ===========
 Released - 2024-06-12

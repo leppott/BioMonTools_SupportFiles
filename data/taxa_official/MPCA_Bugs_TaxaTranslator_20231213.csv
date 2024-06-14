@@ -1951,3 +1951,7 @@ Taxon_Group,Taxon_Orig,Rank,NonTarget,Rationale,source_MPCA,source_RedLake,Notes
 ,Fossaria rustica,,,,MPCA IBI data,,new,,Fossaria,,Fossaria,76518,,Mollusca,,Gastropoda,,Basommatophora,,Lymnaeidae,,,Fossaria,,rustica,
 ,Doncricotopus bicaudatus,,,,MPCA IBI data,,new,,Doncricotopus,,Doncricotopus,128681,,Arthropoda,,Insecta,Pterygota,Diptera,Nematocera,Chironomidae,Orthocladiinae,,Doncricotopus,,bicaudatus,
 ,Micrasema sprulesi,,,,MPCA IBI data,,new,,Micrasema,,Micrasema,116964,,Arthropoda,,Insecta,Pterygota,Trichoptera,Integripalpia,Brachycentridae,,,Micrasema,,sprulesi,
+,DNI,,,,,,,,DNI,DNI,DNI,,,,,,,,,,,,,,,
+,Dolichopodinae,Family,FALSE,,MN BCG Access db,,added QC check 20240614,274,Dolichopodinae,DNI,Dolichopodinae,136824,131750,Arthropoda,,Insecta,Pterygota,Diptera,Brachycera,Dolichopodidae,Dolichopodinae,,,,,
+,Integripalpia,SubOrder,FALSE,,MN BCG Access db,,added QC check 20240614,1136,Integripalpia,DNI,Integripalpia,598162,115095,Arthropoda,,Insecta,Pterygota,Trichoptera,Integripalpia,,,,,,,
+,Rhabditophora,,,,MPCA IBI data,,added QC check 20240614,,Rhabditophora,,Rhabditophora,914204,,Platyhelminthes,Rhabditophora,,,,,,,,,,,

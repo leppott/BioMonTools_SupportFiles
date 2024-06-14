@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-12 20:49:38.361147
+    #> Last Update: 2024-06-14 15:11:13.884735
+
+# BioMonTools_SupportFiles 0.0.1.9068
+
+Released - 2024-06-14
+
+- refactor: Update IBI attributes files for MN Bugs and Fish
+- tests: Revise tests MN data
 
 # BioMonTools_SupportFiles 0.0.1.9067
 
