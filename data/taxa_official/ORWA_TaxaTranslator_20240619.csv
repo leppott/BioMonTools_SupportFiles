@@ -1,0 +1,2319 @@
+Taxon_orig,NonTarget,Rationale,OTU_MTTI,OTU_MetricCalc,OTU_BCG_MariNW,OTU_BSTI
+Aaptos,TRUE,Sponges excluded,DNI,DNI,DNI,DNI
+Ablabesmyia,FALSE,,Ablabesmyia,Ablabesmyia,Ablabesmyia,Ablabesmyia
+Acalyptonotus,FALSE,,DNI,Acalyptonotus,Trombidiformes,DNI
+Acamptocladius,FALSE,,DNI,Acamptocladius,Acamptocladius,DNI
+Acar,FALSE,,DNI,Acari,Acari,DNI
+Acari,FALSE,,DNI,Acari,Acari,DNI
+Acarina,FALSE,,DNI,Acari,Acari,DNI
+Acentrella,FALSE,,DNI,Acentrella,Acentrella,DNI
+Acentrella insignificans,FALSE,,Acentrella insignificans,Acentrella insignificans,Acentrella insignificans,DNI
+Acentrella insignificans complex,FALSE,,Acentrella insignificans,Acentrella insignificans,Acentrella insignificans,DNI
+Acentrella turbida,FALSE,,Acentrella turbida,Acentrella turbida,Acentrella turbida,Acentrella turbida
+Acerpenna,FALSE,,DNI,Acerpenna,Acerpenna,DNI
+Acerpenna pygmaea,FALSE,,DNI,Acerpenna pygmaea,Acerpenna pygmaea,DNI
+Achaeta,FALSE,,DNI,Achaeta,Oligochaeta,DNI
+Acilius,FALSE,,DNI,Acilius,Acilius,DNI
+Acilius abbreviatus,FALSE,,DNI,Acilius,Acilius,DNI
+Acneus,FALSE,,Acneus,Acneus,Acneus,Acneus
+Acricotopus,FALSE,,DNI,Acricotopus,Acricotopus,DNI
+Acroneuria,FALSE,I am skeptical of this ID,DNI,Perlodidae,Perlodidae,DNI
+Actinopterygii,TRUE,Fish,DNI,DNI,DNI,DNI
+Aedes,FALSE,,DNI,Culicidae,Culicidae,DNI
+Aeshna,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshna californica,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshna eremita,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshna interrupta,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshna juncea,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshna palmata,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshna umbrosa,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshna walkeri,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshna/Rhionaeschna,FALSE,Slashed taxon,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Aeshnidae,FALSE,,Aeshnidae,Aeshnidae,Aeshnidae,DNI
+Afghanurus,FALSE,,Afghanurus,Afghanurus,Afghanurus,Afghanurus
+Afghanurus criddlei,FALSE,,Afghanurus,Afghanurus criddlei,Afghanurus criddlei,Afghanurus
+Agabinae,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Agabinus,FALSE,,Agabinae,Agabinus,Agabinus,DNI
+Agabinus glabrellus,FALSE,,Agabinae,Agabinus,Agabinus,DNI
+Agabinus sculpturellus,FALSE,,Agabinae,Agabinus,Agabinus,DNI
+Agabus,FALSE,,Agabinae,Agabus,Agabus,DNI
+Agabus lutosus,FALSE,,Agabinae,Agabus,Agabus,DNI
+Agabus seriatus group,FALSE,,Agabinae,Agabus,Agabus,DNI
+Agabus/Ilybius/Platambus/Ilybiosoma,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Agapetus,FALSE,,Agapetus,Agapetus,Agapetus,Agapetus
+Agathon,FALSE,,Blephariceridae,Agathon,Agathon,Blephariceridae
+Agathon comstocki,FALSE,,Blephariceridae,Agathon,Agathon,Blephariceridae
+Agraylea,FALSE,,Agraylea,Agraylea,Agraylea,DNI
+Alaskaperla ovibovis,FALSE,extreme southern range dubius ID,DNI,Chloroperlidae,Chloroperlidae,DNI
+Albertathyas,FALSE,,DNI,Albertathyas,Trombidiformes,DNI
+Albertathyas montana,FALSE,,DNI,Albertathyas,Trombidiformes,DNI
+Albia,FALSE,,DNI,Albia,Trombidiformes,DNI
+Alisotrichia,FALSE,"dubius ID as of 2022 known only from AZ, UT and TX",DNI,Hydroptilidae,Hydroptilidae,DNI
+Allocladius,FALSE,,DNI,Allocladius,Allocladius,DNI
+Allocosmoecus,FALSE,single species in genus,Allocosmoecus partitus,Allocosmoecus partitus,Allocosmoecus partitus,DNI
+Allocosmoecus partitus,FALSE,single species in genus,Allocosmoecus partitus,Allocosmoecus partitus,Allocosmoecus partitus,DNI
+Allognosta,FALSE,,Stratiomyidae,Allognosta,Allognosta,DNI
+Allomyia,FALSE,,DNI,Allomyia,Allomyia,DNI
+Alloperla,FALSE,,DNI,Alloperla,Alloperla,DNI
+Alotanypus,FALSE,,Alotanypus,Alotanypus,Alotanypus,DNI
+Alotanypus/Apsectrotanypus,FALSE,,DNI,Tanypodinae,Tanypodinae,DNI
+Altmanella,FALSE,,Lumbriculidae,Altmanella,Oligochaeta,Lumbriculidae
+Ambrysus,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Ameletus,FALSE,,Ameletus,Ameletus,Ameletus,Ameletus
+Americorophium,FALSE,,DNI,Americorophium,Americorophium,DNI
+Americorophium spinicorne,FALSE,,DNI,Americorophium,Americorophium,DNI
+Ametor,FALSE,,Hydrophilidae,Ametor,Ametor,Hydrophilidae
+Ametor latus,FALSE,,Hydrophilidae,Ametor,Ametor,Hydrophilidae
+Ametor scabrosus,FALSE,,Hydrophilidae,Ametor,Ametor,Hydrophilidae
+Ametropus,FALSE,,DNI,Ametropus,Ametropus,DNI
+Ametropus ammophilus,FALSE,,DNI,Ametropus,Ametropus,DNI
+Amiocentrus,FALSE,backed off due to COI data,Amiocentrus,Amiocentrus,Amiocentrus,Amiocentrus
+Amiocentrus aspilus,FALSE,backed off due to COI data,Amiocentrus,Amiocentrus,Amiocentrus,Amiocentrus
+Amphiagrion,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Amphiagrion abbreviatum,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Amphibia,TRUE,Fish,DNI,DNI,DNI,DNI
+Amphicosmoecus,FALSE,single species in genus,DNI,Amphicosmoecus,Amphicosmoecus,DNI
+Amphicosmoecus canax,FALSE,single species in genus,DNI,Amphicosmoecus,Amphicosmoecus,DNI
+Amphinemura,FALSE,,Malenka,Malenka,Malenka,Malenka
+Amphinemura/Malenka,FALSE,,Malenka,Malenka,Malenka,Malenka
+Amphipoda,FALSE,,DNI,Amphipoda,Amphipoda,DNI
+Amphizoa,FALSE,,DNI,Amphizoa,Amphizoa,DNI
+Amphizoa insolens,FALSE,,DNI,Amphizoa,Amphizoa,DNI
+Amphizoa lecontei,FALSE,,DNI,Amphizoa,Amphizoa,DNI
+Amphizoidae,FALSE,,DNI,Amphizoa,Amphizoa,DNI
+Ampumixis,FALSE,only one species in Genus,Ampumixis dispar,Ampumixis,Ampumixis,Ampumixis dispar
+Ampumixis dispar,FALSE,only one species in Genus,Ampumixis dispar,Ampumixis,Ampumixis,Ampumixis dispar
+Anacaena,FALSE,,Hydrophilidae,Anacaena,Anacaena,Hydrophilidae
+Anafroptilum,FALSE,Slashed taxon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Anafroptilum/Neocloeon,FALSE,Slashed taxon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Anafroptilum/Neocloeon/Procloeon,FALSE,Slashed taxon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Anafroptilum/Procloeon,FALSE,Slashed taxon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Anagapetus,FALSE,,Anagapetus,Anagapetus,Anagapetus,Anagapetus
+Anax,FALSE,,Aeshnidae,Anax,Anax,DNI
+Anax junius,FALSE,,Aeshnidae,Anax,Anax,DNI
+Anchycteis,FALSE,,DNI,Ptilodactylidae,Ptilodactylidae,DNI
+Anchycteis velutina,FALSE,,DNI,Ptilodactylidae,Ptilodactylidae,DNI
+Ancylidae,FALSE,,DNI,Ancylidae,Ancylidae,DNI
+Ancylinae,FALSE,,DNI,Ancylidae,Ancylidae,DNI
+Anericorophium,FALSE,,DNI,Americorophium,Americorophium,DNI
+Anisogammaridae,FALSE,,Anisogammaridae,Anisogammaridae,Anisogammaridae,DNI
+Anisogammarus,FALSE,,Anisogammaridae,Anisogammaridae,Anisogammaridae,DNI
+Anisoptera,FALSE,,DNI,Anisoptera,Anisoptera,DNI
+Annelida,TRUE,TOO COARSE,DNI,DNI,DNI,DNI
+Anodonta,FALSE,,DNI,Anodonta,Anodonta,DNI
+Anodonta oregonsis,FALSE,,DNI,Anodonta,Anodonta,DNI
+Anopheles,FALSE,,DNI,Anopheles,Anopheles,DNI
+Anostraca,TRUE,fairy shrimp,DNI,DNI,DNI,DNI
+Antillocladius,FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Antocha,FALSE,,Antocha,Antocha,Antocha,Antocha
+Antocha monticola,FALSE,,Antocha,Antocha,Antocha,Antocha
+Anura,TRUE,Fish,DNI,DNI,DNI,DNI
+Apatania,FALSE,,Apatania,Apatania,Apatania,Apatania
+Apatania sorex,FALSE,,Apatania,Apatania,Apatania,Apatania
+Apataniidae,FALSE,,DNI,Apataniidae,Apataniidae,DNI
+Apedilum,FALSE,,Apedilum,Apedilum,Apedilum,DNI
+Apobaetis,FALSE,,DNI,Apobaetis,Apobaetis,DNI
+Apobaetis indeprensus,FALSE,,DNI,Apobaetis,Apobaetis,DNI
+Apsectrotanypus,FALSE,,DNI,Apsectrotanypus,Apsectrotanypus,DNI
+Apsectrotanypus johnsoni,FALSE,,DNI,Apsectrotanypus,Apsectrotanypus,DNI
+Aquarius,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Aquarius nyctalis,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Aquarius remigis,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Arachnida,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Araeopidius monachus,FALSE,,DNI,Araeopidius monachus,Araeopidius monachus,DNI
+Archilestes,FALSE,,DNI,Archilestes,Archilestes,DNI
+Archilestes californica,FALSE,,DNI,Archilestes,Archilestes,DNI
+Archilestes grandis,FALSE,,DNI,Archilestes,Archilestes,DNI
+Archoophora,FALSE,,Trepaxonemata,Trepaxonemata,Trepaxonemata,Trepaxonemata
+Arcteonais,FALSE,,Naidinae,Arcteonais,Oligochaeta,Naidinae
+Arcteonais lomondi,FALSE,,DNI,Arcteonais,Oligochaeta,Naidinae
+Arctoconopa,FALSE,extreme southern range dubius ID,DNI,Limoniidae,Limoniidae,DNI
+Arctopsyche,FALSE,,Arctopsyche,Arctopsyche,Arctopsyche,Arctopsyche
+Arctopsyche californica,FALSE,,Arctopsyche,Arctopsyche,Arctopsyche,Arctopsyche
+Arctopsyche grandis,FALSE,,Arctopsyche,Arctopsyche,Arctopsyche,Arctopsyche
+Arctopsyche grandis type 1,FALSE,,Arctopsyche,Arctopsyche,Arctopsyche,Arctopsyche
+Arctopsyche lagodensis complex,FALSE,,Arctopsyche,Arctopsyche,Arctopsyche,Arctopsyche
+Arctopsychinae,FALSE,,DNI,Arctopsychinae,Arctopsychinae,DNI
+Arctotipula,FALSE,,Tipula,Tipula,Tipula,Tipula
+Argia,FALSE,,Coenagrionidae,Argia,Argia,Argia
+Argia emma,FALSE,,Coenagrionidae,Argia,Argia,Argia
+Argia vivida,FALSE,,Coenagrionidae,Argia,Argia,Argia
+Argyra,FALSE,,DNI,Dolichopodidae,Dolichopodidae,DNI
+Arhynchobdellida,FALSE,,Hirudinida,Arhynchobdellida,Arhynchobdellida,Hirudinida
+Arrenuridae,FALSE,,DNI,Arrenuridae,Trombidiformes,DNI
+Arrenurus,FALSE,,Arrenurus,Arrenurus,Trombidiformes,Arrenurus
+Arsapnia,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Ascaphus truei,TRUE,Fish,DNI,DNI,DNI,DNI
+Asellidae,FALSE,,DNI,Asellidae,Asellidae,DNI
+Asellus,FALSE,,DNI,Asellus,Asellus,DNI
+Asioplax,FALSE,,DNI,Asioplax,Asioplax,DNI
+Asioplax edmundsi,FALSE,,DNI,Asioplax,Asioplax,DNI
+Assia,FALSE,,Nemata,Nemata,Assia,Nemata
+Astacidae,FALSE,,Pacifastacus,Astacidae,Astacidae,Pacifastacus
+Asynarchus,FALSE,unique rare,DNI,Asynarchus,Asynarchus,DNI
+Athericidae,FALSE,,Atherix,Atherix,Atherix,Atherix
+Atherix,FALSE,,Atherix,Atherix,Atherix,Atherix
+Atherix pachypus,FALSE,,Atherix,Atherix,Atherix,Atherix
+Athienemanniidae,FALSE,,Athienemanniidae,Athienemanniidae,Trombidiformes,DNI
+Atractelmis,FALSE,only one species in Genus,DNI,Atractelmis,Atractelmis,DNI
+Atractelmis wawona,FALSE,only one species in Genus,DNI,Atractelmis,Atractelmis,DNI
+Atractidae,FALSE,,Atractides,Atractides,Trombidiformes,Atractides
+Atractides,FALSE,,Atractides,Atractides,Trombidiformes,Atractides
+Atrichomelina,FALSE,,DNI,Sciomyzidae,Sciomyzidae,DNI
+Atrichopogon,FALSE,,Forcipomyiinae,Forcipomyiinae,Forcipomyiinae,Forcipomyiinae
+Atrichopogon/Forcipomyia,FALSE,,Forcipomyiinae,Forcipomyiinae,Forcipomyiinae,Forcipomyiinae
+Attenella,FALSE,,DNI,Attenella,Attenella,Attenella
+Attenella delantala,FALSE,,Attenella delantala,Attenella delantala,Attenella delantala,Attenella
+Attenella margarita,FALSE,,Attenella margarita,Attenella margarita,Attenella margarita,Attenella
+Attenella soquele,FALSE,,DNI,Attenella,Attenella,Attenella
+Aturidae,FALSE,,DNI,Aturidae,Trombidiformes,DNI
+Aturus,FALSE,,DNI,Aturus,Trombidiformes,DNI
+Atylotus/Tabanus,FALSE,,Tabanidae,Tabanidae,Tabanidae,Tabanidae
+Aulodrilus,FALSE,,Tubificinae,Aulodrilus,Oligochaeta,Tubificinae
+Aulodrilus pluriseta,FALSE,,Tubificinae,Aulodrilus,Oligochaeta,Tubificinae
+Austrolimnophila,FALSE,,DNI,Austrolimnophila,Austrolimnophila,DNI
+Babia,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Baetidae,FALSE,,DNI,Baetidae,Baetidae,DNI
+Baetis,FALSE,,DNI,Baetis,Baetis,DNI
+Baetis alius,FALSE,,Baetis alius,Baetis alius,Baetis alius,Baetis alius
+Baetis bicaudatus,FALSE,,Baetis bicaudatus complex,Baetis bicaudatus complex,Baetis bicaudatus complex,Baetis bicaudatus complex
+Baetis bicaudatus complex,FALSE,,Baetis bicaudatus complex,Baetis bicaudatus complex,Baetis bicaudatus complex,Baetis bicaudatus complex
+Baetis flavistriga,FALSE,,Baetis flavistriga complex,Baetis flavistriga complex,Baetis flavistriga complex,Baetis flavistriga complex
+Baetis flavistriga complex,FALSE,,Baetis flavistriga complex,Baetis flavistriga complex,Baetis flavistriga complex,Baetis flavistriga complex
+Baetis Fuscatus Gr.,FALSE,,Baetis flavistriga complex,Baetis flavistriga complex,Baetis flavistriga complex,Baetis flavistriga complex
+Baetis Fuscatus Group,FALSE,,Baetis flavistriga complex,Baetis flavistriga complex,Baetis flavistriga complex,Baetis flavistriga complex
+Baetis notos,FALSE,,Baetis notos,Baetis notos,Baetis notos,Baetis notos
+Baetis piscatoris,FALSE,,Baetis piscatoris complex,Baetis piscatoris complex,Baetis piscatoris complex,Baetis piscatoris complex
+Baetis piscatoris complex,FALSE,,Baetis piscatoris complex,Baetis piscatoris complex,Baetis piscatoris complex,Baetis piscatoris complex
+Baetis Rhodani Gr.,FALSE,,Baetis Rhodani Group,Baetis Rhodani Group,Baetis Rhodani Group,DNI
+Baetis rhodani group,FALSE,,Baetis Rhodani Group,Baetis Rhodani Group,Baetis Rhodani Group,DNI
+Baetis Rhodani Group,FALSE,,Baetis Rhodani Group,Baetis Rhodani Group,Baetis Rhodani Group,DNI
+Baetis tricaudatus,FALSE,,Baetis tricaudatus complex,Baetis tricaudatus complex,Baetis tricaudatus complex,Baetis tricaudatus complex
+Baetis tricaudatus complex,FALSE,,Baetis tricaudatus complex,Baetis tricaudatus complex,Baetis tricaudatus complex,Baetis tricaudatus complex
+Baetis tricaudatus Group,FALSE,,Baetis tricaudatus complex,Baetis tricaudatus complex,Baetis tricaudatus complex,Baetis tricaudatus complex
+Baetisca,FALSE,,DNI,Baetisca,Baetisca,DNI
+Baetodes,FALSE,,DNI,Baetodes,Baetodes,DNI
+Baetodes tritus,FALSE,,DNI,Baetodes,Baetodes,DNI
+Baetopus trishae,TRUE,Dubious ID eastern Taxon,DNI,DNI,DNI,DNI
+Bandakiopsis,FALSE,,DNI,Bandakiopsis,Trombidiformes,DNI
+Banksiola,FALSE,,DNI,Banksiola,Banksiola,DNI
+Banksiola crotchi,FALSE,,DNI,Banksiola,Banksiola,DNI
+Basommatophora,FALSE,TOO COARSE,DNI,Gastropoda,Gastropoda,DNI
+Batracobdella,FALSE,,Hirudinida,Erpobdella,Erpobdella,Hirudinida
+Bellardina,FALSE,Subgenus of Tipulasemi aquatic,Tipula,Tipula,Tipula,Tipula
+Belostoma,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Belostoma flumineum,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Belostomatidae,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Beringotipula,TRUE,meticolous habitats- subgenus of Tipula,Tipula,Tipula,Tipula,Tipula
+Berosus,FALSE,,Hydrophilidae,Berosus,Berosus,Hydrophilidae
+Bethbilbeckia,FALSE,,Macropelopia,Bethbilbeckia,Bethbilbeckia,Macropelopia
+Bezzia,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Bezzia / Palpomyia,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Bezzia/Palpomyia,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Bezzia/Palpomyia Group,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Bezzia/Probezzia,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Bibiocephala,FALSE,,Blephariceridae,Bibiocephala,Bibiocephala,Blephariceridae
+Bibiocephala grandis,FALSE,,Blephariceridae,Bibiocephala,Bibiocephala,Blephariceridae
+Bilyjomyia,FALSE,,DNI,Bilyjomyia,Bilyjomyia,DNI
+Bilyjomyia algens,FALSE,only one species in Genus,DNI,Bilyjomyia,Bilyjomyia,DNI
+Bisancora,FALSE,,DNI,Bisancora,Bisancora,DNI
+Bittacomorpha,FALSE,,DNI,Bittacomorpha,Bittacomorpha,DNI
+Bivalvia,FALSE,TOO COARSE,DNI,Bivalvia,Bivalvia,DNI
+Blepharicera,FALSE,,Blephariceridae,Blepharicera,Blepharicera,Blephariceridae
+Blepharicera ostensackeni,FALSE,,Blephariceridae,Blepharicera,Blepharicera,Blephariceridae
+Blephariceridae,FALSE,,Blephariceridae,Blephariceridae,Blephariceridae,Blephariceridae
+Bolshecapnia,FALSE,,Capniidae,Bolshecapnia,Bolshecapnia,Capniidae
+Boreochlus,FALSE,,Podonominae,Boreochlus,Boreochlus,Podonominae
+Boreoheptagyia,FALSE,,Boreoheptagyia,Boreoheptagyia,Boreoheptagyia,DNI
+Boreonectes,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Boreonectes,Boreonectes,Hydroporinae
+Bosmina,TRUE,excluded from BMI samples,DNI,DNI,DNI,DNI
+Bothrioneurum,FALSE,,DNI,Bothrioneurum,Oligochaeta,DNI
+Bothrioneurum vejdovskyanum,FALSE,,DNI,Bothrioneurum,Oligochaeta,DNI
+Brachinus americanus,FALSE,"This is a valid taxon, but I wonder if this was supposed to be Brachycentrus americanus??? TYPO?",DNI,Brachinus americanus,Brachinus americanus,DNI
+Brachycentridae,FALSE,,DNI,Brachycentridae,Brachycentridae,DNI
+Brachycentrus,FALSE,,DNI,Brachycentrus,Brachycentrus,DNI
+Brachycentrus (Oligoplectrum),FALSE,,DNI,Brachycentrus,Brachycentrus,DNI
+Brachycentrus americanus,FALSE,,Brachycentrus americanus,Brachycentrus americanus,Brachycentrus americanus,Brachycentrus americanus
+Brachycentrus americanus complex,FALSE,,Brachycentrus americanus,Brachycentrus americanus,Brachycentrus americanus,Brachycentrus americanus
+Brachycentrus echo,FALSE,,DNI,Brachycentrus,Brachycentrus,DNI
+Brachycentrus occidentalis,FALSE,,Brachycentrus occidentalis,Brachycentrus occidentalis,Brachycentrus occidentalis,DNI
+Brachycera,FALSE,,DNI,Brachycera,Brachycera,DNI
+Brachycercus,FALSE,,DNI,Brachycercus,Brachycercus,DNI
+Brachypoda,FALSE,,DNI,Brachypoda,Trombidiformes,DNI
+Branchiobdella,FALSE,,Branchiobdellida,Branchiobdellida,Branchiobdellida,DNI
+Branchiobdellida,FALSE,,Branchiobdellida,Branchiobdellida,Branchiobdellida,DNI
+Branchiobdellidae,FALSE,,Branchiobdellida,Branchiobdellida,Branchiobdellida,DNI
+Branchiura,FALSE,,DNI,Branchiura,Oligochaeta,DNI
+Branchiura sowerbyi,FALSE,,DNI,Branchiura,Oligochaeta,DNI
+Bratislavia,FALSE,,DNI,Bratislavia,Oligochaeta,DNI
+Brillia,FALSE,,Brillia,Brillia,Brillia,Brillia
+Brillia Flavifrons Gr.,FALSE,,Brillia,Brillia,Brillia,Brillia
+Brillia parva,FALSE,,Brillia,Brillia,Brillia,Brillia
+Brillia retifinis,FALSE,,Brillia,Brillia,Brillia,Brillia
+Brundiniella,FALSE,,Brundiniella,Brundiniella,Brundiniella,Brundiniella
+Brundiniella eumorpha,FALSE,,Brundiniella,Brundiniella,Brundiniella,Brundiniella
+Brychius,FALSE,,Haliplidae,Brychius,Brychius,Haliplidae
+Bryelmis,FALSE,,Bryelmis,Bryelmis,Bryelmis,DNI
+Bryelmis rivularis,FALSE,,Bryelmis,Bryelmis,Bryelmis,DNI
+Bryelmis siskiyou,FALSE,,Bryelmis,Bryelmis,Bryelmis,DNI
+Bryophaenocladius,FALSE,,DNI,Bryophaenocladius,Bryophaenocladius,DNI
+Bryozoa,TRUE,excluded from BMI samples,DNI,DNI,DNI,DNI
+Buenoa,TRUE,excluded from BMI samples,DNI,DNI,DNI,DNI
+C. Barr undescribed,FALSE,,Bryelmis,Bryelmis,Bryelmis,DNI
+Caecidae,TRUE,Marine,DNI,DNI,DNI,DNI
+Caecidotea,FALSE,,Caecidotea,Caecidotea,Caecidotea,Caecidotea
+Caecidotea occidentalis,FALSE,,Caecidotea,Caecidotea,Caecidotea,Caecidotea
+Caenidae,FALSE,,DNI,Caenidae,Caenidae,DNI
+Caenis,FALSE,,Caenis,Caenis,Caenis,DNI
+Caenis amica,FALSE,,Caenis,Caenis,Caenis,DNI
+Caenis latipennis,FALSE,,Caenis,Caenis,Caenis,DNI
+Caenis tardata,FALSE,,Caenis,Caenis,Caenis,DNI
+Caenis youngi,FALSE,,Caenis,Caenis,Caenis,DNI
+Caladomyia,FALSE,"in region? Tanytarsini ( neotropical OK,TX, CA)",DNI,Tanytarsini,Tanytarsini,DNI
+Calamoceratidae,FALSE,very likely pupae also very likely Heteroplectron-ss,DNI,Heteroplectron californicum,Heteroplectron californicum,DNI
+Calanoida,TRUE,excluded from BMI samples,DNI,DNI,DNI,DNI
+Calasellus,FALSE,Slashed taxon,DNI,Calasellus/Salmasellus,Calasellus/Salmasellus,DNI
+Calasellus/Salmasellus,FALSE,Slashed taxon,DNI,Calasellus/Salmasellus,Calasellus/Salmasellus,DNI
+Calineuria,FALSE,,Calineuria californica,Calineuria californica,Calineuria californica,Calineuria californica
+Calineuria californica,FALSE,,Calineuria californica,Calineuria californica,Calineuria californica,Calineuria californica
+Callibaetis,FALSE,,Callibaetis,Callibaetis,Callibaetis,DNI
+Callibaetis fluctuans,FALSE,,Callibaetis,Callibaetis,Callibaetis,DNI
+Callicorixa,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Callicorixa vulnerata,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Calliperla,FALSE,Single Species in Genus,DNI,Calliperla,Calliperla,DNI
+Calliperla luctuosa,FALSE,Single Species in Genus,DNI,Calliperla,Calliperla,DNI
+Caloparyphus,FALSE,,Stratiomyidae,Caloparyphus,Caloparyphus,DNI
+Caloparyphus/Euparyphus,FALSE,,Stratiomyidae,Stratiomyidae,Stratiomyidae,DNI
+Calopterygidae,FALSE,,DNI,Calopterygidae,Calopterygidae,DNI
+Calopteryx,FALSE,,DNI,Calopteryx,Calopteryx,DNI
+Calopteryx aequabilis,FALSE,,DNI,Calopteryx,Calopteryx,DNI
+Cambaridae,FALSE,,DNI,Cambaridae,Cambaridae,DNI
+Camelobaetidius,FALSE,,DNI,Camelobaetidius,Camelobaetidius,DNI
+Camelobaetidius warreni,FALSE,,DNI,Camelobaetidius,Camelobaetidius,DNI
+Camptocladius,FALSE,found in cow dung,DNI,Orthocladiinae,Orthocladiinae,DNI
+Canaceidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Canthocamptidae,TRUE,excluded from BMI samples,DNI,DNI,DNI,DNI
+Capnia,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Capnia/Arsapnia,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Capniidae,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Capnura,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Carabidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Cardiocladius,FALSE,,Cardiocladius,Cardiocladius,Cardiocladius,Cardiocladius
+Cardiocladius albiplumus,FALSE,,Cardiocladius,Cardiocladius,Cardiocladius,Cardiocladius
+Cardiocladius obscurus,FALSE,,Cardiocladius,Cardiocladius,Cardiocladius,Cardiocladius
+Cascadoperla,FALSE,Single Species in Genus,DNI,Cascadoperla,Cascadoperla,DNI
+Cascadoperla trictura,FALSE,,DNI,Cascadoperla,Cascadoperla,DNI
+Catenulida,FALSE,,Trepaxonemata,Trepaxonemata,Trepaxonemata,Trepaxonemata
+Caudata,TRUE,Fish,DNI,DNI,DNI,DNI
+Caudatella,FALSE,,DNI,Caudatella,Caudatella,Caudatella
+Caudatella  ,FALSE,Trailing space after genus Name,DNI,Caudatella,Caudatella,Caudatella
+Caudatella cascadia,FALSE,current nomenclature,Caudatella hystrix,Caudatella hystrix,Caudatella hystrix,Caudatella
+Caudatella edmundsi,FALSE,,DNI,Caudatella edmundsi,Caudatella edmundsi,Caudatella
+Caudatella heterocaudata,FALSE,,Caudatella heterocaudata complex,Caudatella heterocaudata complex,Caudatella heterocaudata complex,Caudatella
+Caudatella heterocaudata complex,FALSE,,Caudatella heterocaudata complex,Caudatella heterocaudata complex,Caudatella heterocaudata complex,Caudatella
+Caudatella heterocaudata group,FALSE,,Caudatella heterocaudata complex,Caudatella heterocaudata complex,Caudatella heterocaudata complex,Caudatella
+Caudatella hystrix,FALSE,,Caudatella hystrix,Caudatella hystrix,Caudatella hystrix,Caudatella
+Caudatella jacobi,FALSE,,DNI,Caudatella jacobi,Caudatella jacobi,Caudatella
+Caudatella orestes,FALSE,jr syn of jacobi,DNI,Caudatella jacobi,Caudatella jacobi,Caudatella
+Cecidomyiidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Cenocorixa,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Centroptilum,FALSE,Slashed taxon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Centroptilum album,FALSE,Slashed taxon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Centroptilum conturbatum,FALSE,Slashed taxon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Centroptilum/Procloeon,FALSE,Slashed taxon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Ceraclea,FALSE,,DNI,Ceraclea,Ceraclea,DNI
+Ceraclea alces,FALSE,,DNI,Ceraclea,Ceraclea,DNI
+Ceraclea annulicornis,FALSE,,DNI,Ceraclea,Ceraclea,DNI
+Ceratopogon,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Ceratopogon borealis,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Ceratopogonidae,FALSE,Too Many unknown Genera,DNI,Ceratopogonidae,Ceratopogonidae,DNI
+Ceratopogoninae,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Ceratopsyche,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Ceratopsyche alternans/cockerelli,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Ceratopsyche amblis,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Ceratopsyche centra,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Ceratopsyche cockerelli,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Ceratopsyche oslari,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Cercobrachys,FALSE,,DNI,Cercobrachys,Cercobrachys,DNI
+Ceriodaphnia,TRUE,excluded from BMI samples,DNI,DNI,DNI,DNI
+Cernosvitoviella,FALSE,,DNI,Cernosvitoviella,Oligochaeta,DNI
+Chaetocladius,FALSE,,Chaetocladius,Chaetocladius,Chaetocladius,Chaetocladius
+Chaetocladius ligni,FALSE,,Chaetocladius,Chaetocladius,Chaetocladius,Chaetocladius
+Chaetogaster,FALSE,,Naidinae,Chaetogaster,Oligochaeta,Naidinae
+Chama,TRUE,Marine,DNI,DNI,DNI,DNI
+Chamaedrilus,FALSE,,Chamaedrilus,Chamaedrilus,Oligochaeta,DNI
+Chaoboridae,FALSE,,DNI,Chaoboridae,Chaoboridae,DNI
+Chaoborus,FALSE,,DNI,Chaoborus,Chaoborus,DNI
+Cheilotrichia,FALSE,,DNI,Cheilotrichia,Cheilotrichia,DNI
+Chelifer,FALSE,Slashed taxon,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela
+Chelifera,FALSE,Slashed taxon,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela
+Chelifera / Metachela,FALSE,Slashed taxon,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela
+Chelifera/Metachela,FALSE,Slashed taxon,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela
+Chelifera/Metachela Group,FALSE,Slashed taxon,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela,Chelifera/Metachela
+Chelifera/Neoplasta,FALSE,,DNI,Empididae,Empididae,DNI
+Chelomideopsis,FALSE,,Athienemanniidae,Chelomideopsis,Trombidiformes,DNI
+Chernokrilus misnomus,FALSE,"known only from OR, CA",DNI,Chernokrilus misnomus,Chernokrilus misnomus,DNI
+Cheryl Barr Undescribed,FALSE,,Bryelmis,Bryelmis,Bryelmis,DNI
+Cheumatopsyche,FALSE,,Cheumatopsyche,Cheumatopsyche,Cheumatopsyche,Cheumatopsyche
+Cheumatopsyche (Cheumatopsychodes),FALSE,,Cheumatopsyche,Cheumatopsyche,Cheumatopsyche,Cheumatopsyche
+Cheumatopsyche campyla,FALSE,,Cheumatopsyche,Cheumatopsyche,Cheumatopsyche,Cheumatopsyche
+Cheumatopsyche pettiti,FALSE,,Cheumatopsyche,Cheumatopsyche,Cheumatopsyche,Cheumatopsyche
+Chimarra,FALSE,,Chimarra,Chimarra,Chimarra,DNI
+Chioneinae,FALSE,best to leave at family,DNI,Limoniidae,Limoniidae,DNI
+Chironomidae,FALSE,,DNI,Chironomidae,Chironomidae,DNI
+Chironomidae-larvae,FALSE,,DNI,Chironomidae,Chironomidae,DNI
+Chironomidae-pupae,FALSE,,DNI,Chironomidae,Chironomidae,DNI
+Chironominae,FALSE,,DNI,Chironominae,Chironominae,DNI
+Chironomini,FALSE,,DNI,Chironomini,Chironomini,DNI
+Chironomus,FALSE,,Chironomus,Chironomus,Chironomus,Chironomus
+Chironomus/Einfeldia,FALSE,,DNI,Chironominae,Chironominae,DNI
+Chlamys,TRUE,Marine,DNI,DNI,DNI,DNI
+Chloroperla,FALSE,,DNI,Chloroperlidae,Chloroperlidae,DNI
+Chloroperlidae,FALSE,,DNI,Chloroperlidae,Chloroperlidae,DNI
+Chloroperlinae,FALSE,,DNI,Chloroperlidae,Chloroperlidae,DNI
+Choroterpes,FALSE,,DNI,Choroterpes,Choroterpes,DNI
+Chrysomelidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Chrysops,FALSE,,Tabanidae,Tabanidae,Tabanidae,Tabanidae
+Chydoridae,TRUE,Cladocera excluded,DNI,DNI,DNI,DNI
+Chyranda,FALSE,likely multiple spp.,DNI,Chyrandra,Chyrandra,DNI
+Chyranda centralis,FALSE,likely multiple spp.,DNI,Chyrandra,Chyrandra,DNI
+Chyranda Chyranda centralis,FALSE,likely multiple spp.,DNI,Chyrandra,Chyrandra,DNI
+Chyrandra,FALSE,likely multiple spp.,DNI,Chyrandra,Chyrandra,DNI
+Chyrandra centralis,FALSE,likely multiple spp.,DNI,Chyrandra,Chyrandra,DNI
+Cinara,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Cinygma,FALSE,,Cinygma,Cinygma,Cinygma,Cinygma
+Cinygmula,FALSE,,Cinygmula,Cinygmula,Cinygmula,Cinygmula
+Cinygmula par,FALSE,,Cinygmula,Cinygmula,Cinygmula,Cinygmula
+Cipangopaludina,FALSE,,DNI,Cipangopaludina,Cipangopaludina,DNI
+Cipangopaludina chinensis,FALSE,,DNI,Cipangopaludina,Cipangopaludina,DNI
+Claassenia,FALSE,Single Species in Genus,Claassenia sabulosa,Claassenia sabulosa,Claassenia sabulosa,DNI
+Claassenia sabulosa,FALSE,Single Species in Genus,Claassenia sabulosa,Claassenia sabulosa,Claassenia sabulosa,DNI
+Cladocera,TRUE,Cladocera excluded,DNI,DNI,DNI,DNI
+Cladopelma,FALSE,,DNI,Cladopelma,Cladopelma,DNI
+Cladotanytarsus,FALSE,,Cladotanytarsus,Cladotanytarsus,Cladotanytarsus,Cladotanytarsus
+Cleptelmis,FALSE,only one species in Genus,Cleptelmis addenda,Cleptelmis addenda,Cleptelmis addenda,Cleptelmis addenda
+Cleptelmis addenda,FALSE,only one species in Genus,Cleptelmis addenda,Cleptelmis addenda,Cleptelmis addenda,Cleptelmis addenda
+Cleptelmis ornata,FALSE,only one species in Genus,Cleptelmis addenda,Cleptelmis addenda,Cleptelmis addenda,Cleptelmis addenda
+Climacia californica,FALSE,I tend to exclude these,DNI,Sisyridae,Sisyridae,DNI
+Clinidium,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Clinocera,FALSE,,Clinocera,Clinocera,Clinocera,Clinocera
+Clinocera stagnalis,FALSE,,Clinocera,Clinocera,Clinocera,Clinocera
+Clinocerinae,FALSE,,DNI,Clinocerinae,Clinocerinae,DNI
+Clinocerinae unknown larvae A,FALSE,,DNI,Clinocerinae,Clinocerinae,DNI
+Clinotanypus,FALSE,,DNI,Clinotanypus,Clinotanypus,DNI
+Clio,TRUE,Marine,DNI,DNI,DNI,DNI
+Clitellata,FALSE,,DNI,Oligochaeta,Oligochaeta,DNI
+Clostoeca,FALSE,,DNI,Clostoeca,Clostoeca,DNI
+Clostoeca disjuncta,FALSE,,DNI,Clostoeca,Clostoeca,DNI
+Cnidaria,FALSE,all Cnidaria,Hydra,Hydra,Hydra,DNI
+Coelotanypodini,FALSE,,DNI,Coelotanypodini,Coelotanypodini,DNI
+Coenagrion,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Coenagrion/Enallagma,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Coenagrionidae,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Coleoptera,FALSE,,DNI,Coleoptera,Coleoptera,DNI
+Collembola,TRUE,Collembola excluded,DNI,DNI,DNI,DNI
+Colligyrus,FALSE,best to leave at SuperFamily,Truncatelloidea,Truncatelloidea,Truncatelloidea,DNI
+Colymbetes,FALSE,,DNI,Colymbetinae,Dytiscidae,DNI
+Colymbetes densus,FALSE,,DNI,Colymbetinae,Dytiscidae,DNI
+Colymbetes sculptilis,FALSE,,DNI,Colymbetinae,Dytiscidae,DNI
+Colymbetinae,FALSE,,DNI,Colymbetinae,Dytiscidae,DNI
+Compterosmittia,FALSE,,DNI,Compterosmittia,Compterosmittia,DNI
+Compterosmittia sp. A,FALSE,best to leave at genus,DNI,Compterosmittia,Compterosmittia,DNI
+Conchapelopia,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Constempellina,FALSE,,Constempellina,Constempellina,Constempellina,Constempellina
+Constempellina brevicosta,FALSE,,Constempellina,Constempellina,Constempellina,Constempellina
+Constempellina sp. C,FALSE,,Constempellina,Constempellina,Constempellina,Constempellina
+Copelatus,FALSE,,DNI,Copelatinae,Copelatinae,DNI
+Copepoda,TRUE,Copepoda excluded,DNI,DNI,DNI,DNI
+Coptotomus,FALSE,,DNI,Coptotomus,Dytiscidae,DNI
+Coptotomus longulus,FALSE,,DNI,Coptotomus,Dytiscidae,DNI
+Corbicula,FALSE,,DNI,Corbicula,Corbicula,DNI
+Corbicula fluminea,FALSE,,DNI,Corbicula,Corbicula,DNI
+Corbiculidae,FALSE,,DNI,Corbicula,Corbicula,DNI
+Corbiculoidea,FALSE,,DNI,Corbiculoidea,Corbiculoidea,DNI
+Cordulegaster,FALSE,,Cordulegaster,Cordulegaster,Cordulegaster,DNI
+Cordulegaster dorsalis,FALSE,,Cordulegaster,Cordulegaster,Cordulegaster,DNI
+Cordulegastridae,FALSE,,DNI,Cordulegastridae,Cordulegastridae,DNI
+Corduliidae,FALSE,,DNI,Corduliidae,Corduliidae,DNI
+Corduliidae/Libellulidae,FALSE,,DNI,Anisoptera,Anisoptera,DNI
+Corisella,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Corisella decolor,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Corixidae,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Corophiidae,FALSE,,DNI,Americorophium,Americorophium,DNI
+Corophium,FALSE,,DNI,Americorophium,Americorophium,DNI
+Corticacarus,FALSE,,DNI,Corticacarus,Trombidiformes,DNI
+Corydalidae,FALSE,,Corydalidae,Corydalidae,Corydalidae,Corydalidae
+Corydalus,FALSE,,Corydalidae,Corydalidae,Corydalidae,Corydalidae
+Corydalus cornutus,FALSE,,Corydalidae,Corydalidae,Corydalidae,Corydalidae
+Corynidae,FALSE,Hydrozoa,DNI,Hydra,Hydra,DNI
+Corynoneura,FALSE,,Corynoneura,Corynoneura,Corynoneura,Corynoneura
+Corynoneura/Thienemanniella,FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Cottidae,TRUE,Fish,DNI,DNI,DNI,DNI
+Crambidae,FALSE,Lot of these are terrestrial,DNI,Lepidoptera,Lepidoptera,DNI
+Crangon,TRUE,marine,DNI,DNI,DNI,DNI
+Crangonyctidae,FALSE,,DNI,Crangonyctidae,Crangonyctidae,DNI
+Crangonyx,FALSE,,Crangonyx,Crangonyx,Crangonyx,DNI
+Crassiclitellata,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Crenitis,FALSE,,Hydrophilidae,Crenitis,Crenitis,Hydrophilidae
+Cricotopus,FALSE,,DNI,Cricotopus,Cricotopus,DNI
+Cricotopus (Cricotopus),FALSE,,DNI,Cricotopus,Cricotopus,DNI
+Cricotopus (Isocladius),FALSE,FORMATTING,Cricotopus (Isocladius),Cricotopus (Isocladius),Cricotopus (Isocladius),DNI
+Cricotopus (Isocladius) Type I,FALSE,FORMATTING,Cricotopus (Isocladius),Cricotopus (Isocladius),Cricotopus (Isocladius),DNI
+Cricotopus (Nostoc.) nostocicola,FALSE,FORMATTING,Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius)
+Cricotopus (Nostococladius),FALSE,FORMATTING,Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius)
+Cricotopus (Nostococladius) nostocicola,FALSE,FORMATTING,Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius)
+Cricotopus / Orthocladius,FALSE,,Orthocladius complex,Orthocladius complex,Orthocladius complex,Orthocladius complex
+Cricotopus bicinctus,FALSE,FORMATTING,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group
+Cricotopus Bicinctus Gr.,FALSE,FORMATTING,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group
+Cricotopus bicinctus group,FALSE,FORMATTING,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group
+Cricotopus bicinctus Group,FALSE,FORMATTING,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group
+Cricotopus Bicinctus Group,FALSE,FORMATTING,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group,Cricotopus Bicinctus Group
+Cricotopus Festivellus Gr.,FALSE,dubious,DNI,Cricotopus,Cricotopus,DNI
+Cricotopus Isocladius,FALSE,FORMATTING,Cricotopus (Isocladius),Cricotopus (Isocladius),Cricotopus (Isocladius),DNI
+Cricotopus Isocladius--Type I,FALSE,FORMATTING,Cricotopus (Isocladius),Cricotopus (Isocladius),Cricotopus (Isocladius),DNI
+Cricotopus nostocicola,FALSE,FORMATTING,Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius)
+Cricotopus Nostococladius,FALSE,FORMATTING,Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius)
+Cricotopus Nostococladius--Type II,FALSE,FORMATTING,Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius),Cricotopus (Nostococladius)
+Cricotopus Obnixus Gr.,FALSE,dubious,DNI,Cricotopus,Cricotopus,DNI
+Cricotopus sylvestris group,FALSE,,DNI,Cricotopus,Cricotopus,DNI
+Cricotopus Tremulus Gr.,FALSE,FORMATTING,DNI,Cricotopus Tremulus Group,Cricotopus Tremulus Group,DNI
+Cricotopus tremulus group,FALSE,FORMATTING,DNI,Cricotopus Tremulus Group,Cricotopus Tremulus Group,DNI
+Cricotopus tremulus Group,FALSE,FORMATTING,DNI,Cricotopus Tremulus Group,Cricotopus Tremulus Group,DNI
+Cricotopus Tremulus Group,FALSE,FORMATTING,DNI,Cricotopus Tremulus Group,Cricotopus Tremulus Group,DNI
+Cricotopus trifascia,FALSE,FORMATTING,Cricotopus Trifascia Group,Cricotopus Trifascia Group,Cricotopus Trifascia Group,DNI
+Cricotopus Trifascia Gr.,FALSE,FORMATTING,Cricotopus Trifascia Group,Cricotopus Trifascia Group,Cricotopus Trifascia Group,DNI
+Cricotopus trifascia group,FALSE,FORMATTING,Cricotopus Trifascia Group,Cricotopus Trifascia Group,Cricotopus Trifascia Group,DNI
+Cricotopus trifascia Group,FALSE,FORMATTING,Cricotopus Trifascia Group,Cricotopus Trifascia Group,Cricotopus Trifascia Group,DNI
+Cricotopus Trifascia Group,FALSE,FORMATTING,Cricotopus Trifascia Group,Cricotopus Trifascia Group,Cricotopus Trifascia Group,DNI
+Cricotopus/Orthocladius,FALSE,,Orthocladius complex,Orthocladius complex,Orthocladius complex,Orthocladius complex
+Crustacea,FALSE,TOO COARSE,DNI,Crustacea,Crustacea,DNI
+Cryptochia,FALSE,,Cryptochia,Cryptochia,Cryptochia,Cryptochia
+Cryptochia califca,FALSE,,Cryptochia,Cryptochia,Cryptochia,Cryptochia
+Cryptochironomus,FALSE,,Cryptochironomus,Cryptochironomus,Cryptochironomus,Cryptochironomus
+Cryptolabis,FALSE,,Cryptolabis,Cryptolabis,Cryptolabis,Cryptolabis
+Cryptotendipes,FALSE,,DNI,Cryptotendipes,Cryptotendipes,DNI
+Culex,FALSE,,DNI,Culicidae,Culicidae,DNI
+Culex pipiens,FALSE,,DNI,Culicidae,Culicidae,DNI
+Culicidae,FALSE,,DNI,Culicidae,Culicidae,DNI
+Culicoides,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Culiseta,FALSE,,DNI,Culicidae,Culicidae,DNI
+Culoptila,FALSE,,DNI,Culoptila,Culoptila,DNI
+Cultus,FALSE,,DNI,Cultus,Cultus,DNI
+Curculionidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Cybister,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Cyclopidae,TRUE,Generally excluded in lotic benthic samples,DNI,DNI,DNI,DNI
+Cyclopoida,TRUE,Generally excluded in lotic benthic samples,DNI,DNI,DNI,DNI
+Cylloepus,FALSE,OUT of RANGE,DNI,Elmidae,DNI,DNI
+Cymbiodyta,FALSE,,Hydrophilidae,Cymbiodyta,Cymbiodyta,Hydrophilidae
+Cyrnellus,FALSE,,DNI,Polycentropodidae,Polycentropodidae,DNI
+Cystobranchus salmositicus,FALSE,,Hirudinida,Cystobranchus salmositicus,Cystobranchus salmositicus,Hirudinida
+Dactylobaetis,FALSE,jr. syn. of Camelobaetidius,DNI,Camelobaetidius,Camelobaetidius,DNI
+Dactylolabis,FALSE,,DNI,Dactylolabis,Dactylolabis,DNI
+Daphnia,TRUE,Cladocera excluded,DNI,DNI,DNI,DNI
+Daphnia pulex,TRUE,Cladocera excluded,DNI,DNI,DNI,DNI
+Daphniidae,TRUE,Cladocera excluded,DNI,DNI,DNI,DNI
+Dasyhelea,FALSE,,Dasyhelea,Dasyhelea,Dasyhelea,DNI
+Dasyheleinae,FALSE,,Dasyhelea,Dasyhelea,Dasyhelea,DNI
+Decapoda,FALSE,,DNI,Decapoda,Decapoda,DNI
+Demeijerea,FALSE,,DNI,Demeijerea,Demeijerea,DNI
+Demicryptochironomus,FALSE,,DNI,Demicryptochironomus,Demicryptochironomus,DNI
+Dero,FALSE,,Naidinae,Dero,Oligochaeta,Naidinae
+Deronectes,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Derotanypus,FALSE,,DNI,Derotanypus,Derotanypus,DNI
+Desmona,FALSE,Single species,DNI,Monophylax mono,Monophylax mono,DNI
+Desmona mono,FALSE,Single species,DNI,Monophylax mono,Monophylax mono,DNI
+Desmopachria convexa,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Despaxia,FALSE,Single species in genus in NA,Despaxia augusta,Despaxia augusta,Despaxia augusta,Despaxia augusta
+Despaxia augusta,FALSE,Single species in genus in NA,Despaxia augusta,Despaxia augusta,Despaxia augusta,Despaxia augusta
+Deuteronectes,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Deuteronectes,Hydroporinae,Hydroporinae
+Deuterophlebia,FALSE,,DNI,Deuterophlebia,Deuterophlebia,DNI
+Deuterophlebiidae,FALSE,,DNI,Deuterophlebia,Deuterophlebia,DNI
+Diamesa,FALSE,,Diamesa,Diamesa,Diamesa,Diamesa
+Diamesinae,FALSE,,DNI,Diamesinae,Diamesinae,DNI
+Dicata,TRUE,Marine,DNI,DNI,DNI,DNI
+Dicosmoecinae,FALSE,,DNI,Dicosmoecinae,Dicosmoecinae,DNI
+Dicosmoecus,FALSE,,DNI,Dicosmoecus,Dicosmoecus,DNI
+Dicosmoecus atripes,FALSE,,Dicosmoecus atripes,Dicosmoecus atripes,Dicosmoecus atripes,Dicosmoecus atripes
+Dicosmoecus gilvipes,FALSE,,Dicosmoecus gilvipes,Dicosmoecus gilvipes,Dicosmoecus gilvipes,Dicosmoecus gilvipes
+Dicosmoecus pallicornis,FALSE,,DNI,Dicosmoecus pallicornis,Dicosmoecus pallicornis,DNI
+Dicraeus,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Dicranomyia,FALSE,,Dicranomyia,Dicranomyia,Dicranomyia,DNI
+Dicranophragma,FALSE,,DNI,Dicranophragma,Dicranophragma,DNI
+Dicranopselaphus,FALSE,,DNI,Psephenidae,Psephenidae,DNI
+Dicranota,FALSE,,Dicranota,Dicranota,Dicranota,Dicranota
+Dicranus,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Dicrotendipes,FALSE,,Dicrotendipes,Dicrotendipes,Dicrotendipes,Dicrotendipes
+Dina,FALSE,Invalid Jr. syn of Erpobdella,Hirudinida,Erpobdella,Erpobdella,Hirudinida
+Dineutus,FALSE,,DNI,Dineutus,Gyrinidae,DNI
+Dioptopsis,FALSE,european,Blephariceridae,Blephariceridae,Blephariceridae,Blephariceridae
+Diphetor,FALSE,Single species in genus,Diphetor hageni,Diphetor hageni,Diphetor hageni,Diphetor hageni
+Diphetor hageni,FALSE,Single species in genus,Diphetor hageni,Diphetor hageni,Diphetor hageni,Diphetor hageni
+Diphetor/Fallceon,FALSE,,DNI,Baetidae,Baetidae,DNI
+Diplex,TRUE,????  BAD ID?????,DNI,DNI,DNI,DNI
+Diplocladius,FALSE,,Diplocladius,Diplocladius,Diplocladius,Diplocladius
+Diplocladius cultriger,FALSE,,Diplocladius,Diplocladius,Diplocladius,Diplocladius
+Diploperla,FALSE,,DNI,Perlodidae,Perlodidae,DNI
+Diptera,FALSE,,DNI,Diptera,Diptera,DNI
+Diura,FALSE,,DNI,Diura,Diura,DNI
+Diura knowltoni,FALSE,,DNI,Diura,Diura,DNI
+Dixa,FALSE,,Dixa,Dixa,Dixa,Dixa
+Dixella,FALSE,,Dixella,Dixella,Dixella,Dixella
+Dixidae,FALSE,,DNI,Dixidae,Dixidae,DNI
+Doddsia,FALSE,,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae
+Doddsia occidentalis,FALSE,,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae
+Dolichopodidae,FALSE,,DNI,Dolichopodidae,Dolichopodidae,DNI
+Dolophilodes,FALSE,,Dolophilodes,Dolophilodes,Dolophilodes,Dolophilodes
+Dolophilodes/Sisko,FALSE,,Dolophilodes,Dolophilodes,Dolophilodes,Dolophilodes
+Doncricotopus,FALSE,,DNI,Doncricotopus,Doncricotopus,DNI
+Doncricotopus bicaudatus,FALSE,,DNI,Doncricotopus,Doncricotopus,DNI
+Doroneuria,FALSE,,Doroneuria,Doroneuria,Doroneuria,Doroneuria
+Doroneuria baumanni,FALSE,,Doroneuria,Doroneuria,Doroneuria,Doroneuria
+Doroneuria theodora,FALSE,,Doroneuria,Doroneuria,Doroneuria,Doroneuria
+Drunella,FALSE,,DNI,Drunella,Drunella,DNI
+Drunella coloradensis,FALSE,Formatting and consistency,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea
+Drunella coloradensis/flavilinea,FALSE,Formatting and consistency,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea
+Drunella doddsii,FALSE,note some older data may have 'doddsi',Drunella doddsii,Drunella doddsii,Drunella doddsii,Drunella doddsii
+Drunella flavilinea,FALSE,Formatting and consistency,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea
+Drunella flavilinea/coloradensis,FALSE,Formatting and consistency,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea,Drunella coloradensis/flavilinea
+Drunella grandis,FALSE,Formatting and consistency,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera
+Drunella grandis flavitincta,FALSE,Formatting and consistency,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera
+Drunella grandis grandis,FALSE,Formatting and consistency,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera
+Drunella grandis/spinifera,FALSE,Formatting and consistency,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera
+Drunella pelosa,FALSE,,DNI,Drunella pelosa,Drunella pelosa,DNI
+Drunella spinifera,FALSE,Formatting and consistency,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera,Drunella grandis/spinifera
+Dryopidae,FALSE,,DNI,Dryopidae,Dryopidae,DNI
+Dubiraphia,FALSE,,Dubiraphia,Dubiraphia,Dubiraphia,Dubiraphia
+Dubiraphia giulianii,FALSE,,Dubiraphia,Dubiraphia,Dubiraphia,Dubiraphia
+Dubiraphia vittata,FALSE,,Dubiraphia,Dubiraphia,Dubiraphia,Dubiraphia
+Dysmicohermes,FALSE,Single species in genus,Corydalidae,Dysmicohermes,Dysmicohermes,Corydalidae
+Dysmicohermes disjunctus,FALSE,Single species in genus,Corydalidae,Dysmicohermes,Dysmicohermes,Corydalidae
+Dytiscidae,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Dytiscidae - adult,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Dytiscidae - larvae,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Dytiscus,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Dytiscus cordieri,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Dytiscus dauricus,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Dytiscus fasciventrus,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Dytiscus marginicollis,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Ecclisocosmoecus,FALSE,single species in genus,Ecclisocosmoecus scylla,Ecclisocosmoecus scylla,Ecclisocosmoecus scylla,Ecclisocosmoecus scylla
+Ecclisocosmoecus scylla,FALSE,single species in genus,Ecclisocosmoecus scylla,Ecclisocosmoecus scylla,Ecclisocosmoecus scylla,Ecclisocosmoecus scylla
+Ecclisomyia,FALSE,,Ecclisomyia,Ecclisomyia,Ecclisomyia,Ecclisomyia
+Ecdyonurus,FALSE,,Afghanurus,Afghanurus,Afghanurus,Afghanurus
+Ecdyonurus criddlei,FALSE,,Afghanurus,Afghanurus criddlei,Afghanurus criddlei,Afghanurus
+Ecdyonurus/Nixe,FALSE,,Afghanurus,Afghanurus,Afghanurus,Afghanurus
+Eclipidrilus,FALSE,,Lumbriculidae,Eclipidrilus,Oligochaeta,Lumbriculidae
+Ectemnia,FALSE,,DNI,Ectemnia,Ectemnia,DNI
+Ectopria,TRUE,"Dubious ID, known from Eastern half of country",DNI,DNI,DNI,DNI
+Einfeldia,FALSE,,DNI,Chironomini,Chironomini,DNI
+Eiseniella tetraedra,TRUE,Mostly Terrestrial,DNI,DNI,DNI,DNI
+Elimia,FALSE,Doubt this ID-it was actually me (SS) in WADOE sample,DNI,Juga,Juga,DNI
+Ellipteriodes,FALSE,spelling error,DNI,Ellipteroides,Ellipteroides,DNI
+Ellipteroides,FALSE,,DNI,Ellipteroides,Ellipteroides,DNI
+Elmidae,FALSE,,DNI,Elmidae,Elmidae,DNI
+Elmidae sp. AJF#01,FALSE,,DNI,Elmidae,Elmidae,DNI
+Elmidae sp. AJF#02,FALSE,,DNI,Elmidae,Elmidae,DNI
+Elminae,FALSE,,DNI,Elmidae,Elmidae,DNI
+Elodes,FALSE,,DNI,Scirtidae,Scirtidae,DNI
+Eloeophila,FALSE,,Eloeophila,Eloeophila,Eloeophila,Eloeophila
+Empididae,FALSE,,DNI,Empididae,Empididae,DNI
+Empididae Genus A,FALSE,,DNI,Empididae Genus A,Empididae Genus A,DNI
+Empididae Genus B,FALSE,,Proclinopyga,Proclinopyga,Proclinopyga,DNI
+Empididae Genus B (Clinocerinae),FALSE,Proclinopyga,Proclinopyga,Proclinopyga,Proclinopyga,DNI
+Empididae sp. (RAI Taxon # 0001),FALSE,Proclinopyga,Proclinopyga,Proclinopyga,Proclinopyga,DNI
+Empididae sp. (RAI Taxon # 0002),FALSE,,DNI,Empididae Genus A,Empididae Genus A,DNI
+Empididae sp. AJF#01,FALSE,,DNI,Empididae,Empididae,DNI
+Empididae sp. AJF#02,FALSE,,DNI,Empididae,Empididae,DNI
+Empididae sp. QNR#01,FALSE,,DNI,Empididae,Empididae,DNI
+Empididae sp. RAI # 0001,FALSE,Proclinopyga,Proclinopyga,Proclinopyga,Proclinopyga,DNI
+Empididae sp. RAI # 0002,FALSE,,DNI,Empididae Genus A,Empididae Genus A,DNI
+Empididae unknown,FALSE,,DNI,Empididae,Empididae,DNI
+Empididae-pupae,FALSE,,DNI,Empididae,Empididae,DNI
+Enallagma,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Enallagma boreale,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Enallagma/Ischnura,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Enchytraeidae,FALSE,,DNI,Enchytraeidae,Oligochaeta,DNI
+Enchytraeus,FALSE,,Enchytraeus,Enchytraeus,Oligochaeta,Enchytraeus
+Endochironomus,FALSE,,DNI,Endochironomus,Endochironomus,DNI
+Endotribelos,FALSE,,DNI,Endotribelos,Endotribelos,DNI
+Endotribelos hesperium,FALSE,,DNI,Endotribelos,Endotribelos,DNI
+Enochrus,FALSE,,Hydrophilidae,Enochrus,Enochrus,Hydrophilidae
+Entomobryidae,TRUE,Collembola excluded,DNI,DNI,DNI,DNI
+Entosphenus tridentatus,TRUE,Fish… well Lamprey,DNI,DNI,DNI,DNI
+Eobrachycentrus,FALSE,Single sp.  E. gelidae,DNI,Eobrachycentrus,Eobrachycentrus,DNI
+Eobrachycentrus gelidae,FALSE,,DNI,Eobrachycentrus,Eobrachycentrus,DNI
+Eocosmoecus,FALSE,single species in genus,DNI,Eocosmoecus,Eocosmoecus,DNI
+Eocosmoecus frontalis,FALSE,single species in genus,DNI,Eocosmoecus frontalis,Eocosmoecus frontalis,DNI
+Eogammarus,FALSE,,Anisogammaridae,Anisogammaridae,Anisogammaridae,DNI
+Eogammarus confervicolus,FALSE,,Anisogammaridae,Anisogammaridae,Anisogammaridae,DNI
+Epeorus,FALSE,,DNI,Epeorus,Epeorus,DNI
+Epeorus albertae,FALSE,Formatting,Epeorus Albertae Group,Epeorus Albertae Group,Epeorus Albertae Group,Epeorus Albertae Group
+Epeorus albertae group,FALSE,Formatting,Epeorus Albertae Group,Epeorus Albertae Group,Epeorus Albertae Group,Epeorus Albertae Group
+Epeorus Albertae Group,FALSE,Formatting,Epeorus Albertae Group,Epeorus Albertae Group,Epeorus Albertae Group,Epeorus Albertae Group
+Epeorus albertae Group,FALSE,Formatting,Epeorus Albertae Group,Epeorus Albertae Group,Epeorus Albertae Group,Epeorus Albertae Group
+Epeorus deceptivus,FALSE,Formatting,Epeorus deceptivus,Epeorus deceptivus,Epeorus deceptivus,DNI
+Epeorus grandis,FALSE,Formatting,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group
+Epeorus grandis group,FALSE,Formatting,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group
+Epeorus Grandis Group,FALSE,Formatting,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group
+Epeorus grandis Group,FALSE,Formatting,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group
+Epeorus grandis/permagnus,FALSE,Formatting,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group
+Epeorus grandis/permagnus gr.,FALSE,Formatting,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group
+Epeorus Ironopsis,FALSE,bad subgenus formatting= grandis group,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group,Epeorus Grandis Group
+Epeorus longimanus,FALSE,Formatting,Epeorus longimanus,Epeorus longimanus,Epeorus longimanus,Epeorus longimanus
+Epeorus longimanus group,FALSE,Formatting,Epeorus longimanus,Epeorus longimanus,Epeorus longimanus,Epeorus longimanus
+Epeorus Longimanus Group,FALSE,Formatting,Epeorus longimanus,Epeorus longimanus,Epeorus longimanus,Epeorus longimanus
+Epeorus/Ironodes,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Ephemera,FALSE,,DNI,Ephemera,Ephemera,DNI
+Ephemera simulans,FALSE,,DNI,Ephemera,Ephemera,DNI
+Ephemerella,FALSE,,DNI,Ephemerella,Ephemerella,Ephemerella
+Ephemerella alleni,FALSE,,DNI,Ephemerella alleni,Ephemerella alleni,Ephemerella
+Ephemerella aurivillii,FALSE,,Ephemerella aurivillii,Ephemerella aurivillii,Ephemerella aurivillii,Ephemerella
+Ephemerella dorothea,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella dorothea infrequens,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella dorothea/excrucians,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella dorothea/excrucians group,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella excrucians,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella Excrucians Gr.,FALSE,Formatting (Gr.),Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,DNI
+Ephemerella excrucians group,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella Excrucians Group,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella excrucians Group,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella inermis,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella inermis/dorothea,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella inermis/infrequens,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella infrequens,FALSE,Formatting and consistency,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella Excrucians Group,Ephemerella
+Ephemerella maculata,FALSE,"valid taxon, very rare southern california coast range dubious ID for Oregon",DNI,Ephemerella,Ephemerella,Ephemerella
+Ephemerella needhami,FALSE,,DNI,Ephemerella needhami,Ephemerella needhami,Ephemerella
+Ephemerella tibialis,FALSE,,Ephemerella tibialis,Ephemerella tibialis,Ephemerella tibialis,Ephemerella
+Ephemerella verruca,FALSE,,DNI,Ephemerella verruca,Ephemerella verruca,Ephemerella
+Ephemerellidae,FALSE,,DNI,Ephemerellidae,Ephemerellidae,DNI
+Ephemerellinae,FALSE,,DNI,Ephemerellidae,Ephemerellidae,DNI
+Ephemeridae,FALSE,,DNI,Ephemeridae,Ephemeridae,DNI
+Ephemeroptera,FALSE,,DNI,Ephemeroptera,Ephemeroptera,DNI
+Ephoron,FALSE,,DNI,Ephoron,Ephoron,DNI
+Ephoron album,FALSE,,DNI,Ephoron,Ephoron,DNI
+Ephydra,FALSE,,Ephydridae,Ephydridae,Ephydridae,Ephydridae
+Ephydridae,FALSE,,Ephydridae,Ephydridae,Ephydridae,Ephydridae
+Epiphragma,FALSE,,DNI,Epiphragma,Epiphragma,DNI
+Epitheca,FALSE,,DNI,Epitheca,Epitheca,DNI
+Epoicocladius,FALSE,,DNI,Epoicocladius,Epoicocladius,DNI
+Eretmoptera,FALSE,,DNI,Eretmoptera,Eretmoptera,DNI
+Erioptera,FALSE,,DNI,Erioptera,Erioptera,DNI
+Erioptera/Haplolabis/Symplectra,FALSE,,DNI,Tipulidae,Tipulidae,DNI
+Eristalis,FALSE,,DNI,Eristalis,Eristalis,DNI
+Erpetogomphus,FALSE,,DNI,Erpetogomphus,Erpetogomphus,DNI
+Erpetogomphus compositus,FALSE,,DNI,Erpetogomphus,Erpetogomphus,DNI
+Erpobdella,FALSE,,Hirudinida,Erpobdella,Erpobdella,Hirudinida
+Erpobdella punctata,FALSE,,Hirudinida,Erpobdella,Erpobdella,Hirudinida
+Erpobdellidae,FALSE,,Hirudinida,Erpobdella,Erpobdella,Hirudinida
+Erythemis,FALSE,,DNI,Erythemis,Erythemis,DNI
+Estelloxus,FALSE,,Lebertia,Estelloxus,Trombidiformes,Lebertia
+Estelloxus californiensis,FALSE,,Lebertia,Estelloxus,Trombidiformes,Lebertia
+Estelloxus sensu lato,FALSE,,Lebertia,Estelloxus,Trombidiformes,Lebertia
+Eubrianax,FALSE,,Eubrianax,Eubrianax,Eubrianax,Eubrianax
+Eubrianax edwardsi,FALSE,,Eubrianax,Eubrianax,Eubrianax,Eubrianax
+Eubrianax edwardsii,FALSE,,Eubrianax,Eubrianax,Eubrianax,Eubrianax
+Eucapnopsis,FALSE,1 NA sp.,Capniidae,Capniidae,Capniidae,Capniidae
+Eucapnopsis brevicauda,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Eucorethra,FALSE,Single species in Genus,DNI,Eucorethra,Eucorethra,DNI
+Eucorethra underwoodi,FALSE,Single species in Genus,DNI,Eucorethra,Eucorethra,DNI
+Eukiefferiella,FALSE,,DNI,Eukiefferiella,Eukiefferiella,Eukiefferiella
+Eukiefferiella brehmi,FALSE,FORMATTING,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella
+Eukiefferiella Brehmi Gr.,FALSE,FORMATTING,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella
+Eukiefferiella brehmi group,FALSE,FORMATTING,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella
+Eukiefferiella Brehmi Group,FALSE,FORMATTING,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella
+Eukiefferiella brehmi Group,FALSE,FORMATTING,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella Brehmi Group,Eukiefferiella
+Eukiefferiella Brevicalcar Gr.,FALSE,FORMATTING,DNI,Eukiefferiella Brevicalcar Group,Eukiefferiella Brevicalcar Group,Eukiefferiella
+Eukiefferiella brevicalcar group,FALSE,FORMATTING,DNI,Eukiefferiella Brevicalcar Group,Eukiefferiella Brevicalcar Group,Eukiefferiella
+Eukiefferiella Brevicalcar Group,FALSE,FORMATTING,DNI,Eukiefferiella Brevicalcar Group,Eukiefferiella Brevicalcar Group,Eukiefferiella
+Eukiefferiella cf. tirolensis,FALSE,FORMATTING,Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,Eukiefferiella
+Eukiefferiella claripennis,FALSE,FORMATTING,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella
+Eukiefferiella Claripennis Gr.,FALSE,FORMATTING,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella
+Eukiefferiella claripennis group,FALSE,FORMATTING,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella
+Eukiefferiella Claripennis Group,FALSE,FORMATTING,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella
+Eukiefferiella claripennis Group,FALSE,FORMATTING,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella Claripennis Group,Eukiefferiella
+Eukiefferiella coerulescens,FALSE,FORMATTING,DNI,Eukiefferiella Coerulescens Group,Eukiefferiella Coerulescens Group,Eukiefferiella
+Eukiefferiella Coerulescens Gr.,FALSE,FORMATTING,DNI,Eukiefferiella Coerulescens Group,Eukiefferiella Coerulescens Group,Eukiefferiella
+Eukiefferiella coerulescens group,FALSE,FORMATTING,DNI,Eukiefferiella Coerulescens Group,Eukiefferiella Coerulescens Group,Eukiefferiella
+Eukiefferiella Coerulescens Group,FALSE,FORMATTING,DNI,Eukiefferiella Coerulescens Group,Eukiefferiella Coerulescens Group,Eukiefferiella
+Eukiefferiella Devonica Gr.,FALSE,FORMATTING,Eukiefferiella Devonica Group,Eukiefferiella Devonica Group,Eukiefferiella Devonica Group,Eukiefferiella
+Eukiefferiella devonica group,FALSE,FORMATTING,Eukiefferiella Devonica Group,Eukiefferiella Devonica Group,Eukiefferiella Devonica Group,Eukiefferiella
+Eukiefferiella Devonica Group,FALSE,FORMATTING,Eukiefferiella Devonica Group,Eukiefferiella Devonica Group,Eukiefferiella Devonica Group,Eukiefferiella
+Eukiefferiella devonica Group,FALSE,FORMATTING,Eukiefferiella Devonica Group,Eukiefferiella Devonica Group,Eukiefferiella Devonica Group,Eukiefferiella
+Eukiefferiella discoloripes Group,FALSE,,DNI,Eukiefferiella,Eukiefferiella,Eukiefferiella
+Eukiefferiella Discoloripes Group,FALSE,,DNI,Eukiefferiella,Eukiefferiella,Eukiefferiella
+Eukiefferiella Gracei Gr.,FALSE,FORMATTING,Eukiefferiella Gracei Group,Eukiefferiella Gracei Group,Eukiefferiella Gracei Group,Eukiefferiella
+Eukiefferiella gracei group,FALSE,FORMATTING,Eukiefferiella Gracei Group,Eukiefferiella Gracei Group,Eukiefferiella Gracei Group,Eukiefferiella
+Eukiefferiella Gracei Group,FALSE,FORMATTING,Eukiefferiella Gracei Group,Eukiefferiella Gracei Group,Eukiefferiella Gracei Group,Eukiefferiella
+Eukiefferiella pseudomontana,FALSE,FORMATTING,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella
+Eukiefferiella Pseudomontana Gr.,FALSE,FORMATTING,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella
+Eukiefferiella pseudomontana group,FALSE,FORMATTING,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella
+Eukiefferiella Pseudomontana Group,FALSE,FORMATTING,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella
+Eukiefferiella pseudomontana Group,FALSE,FORMATTING,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella Pseudomontana Group,Eukiefferiella
+Eukiefferiella similis,FALSE,Jr. syn of Cardiocladius albiplumus,Cardiocladius,Cardiocladius,Cardiocladius,Cardiocladius
+Eukiefferiella tirolensis,FALSE,FORMATTING,Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,Eukiefferiella
+Eukiefferiella tirolensis group,FALSE,FORMATTING,Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,Eukiefferiella
+Eukiefferiella Tirolensis Group,FALSE,FORMATTING,Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,Eukiefferiella
+Eukiefferiella/Tvetenia,FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Eukoenenia,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Euparyphus,FALSE,,Stratiomyidae,Euparyphus,Euparyphus,DNI
+Euphylidorea,FALSE,"subgenus of Limnophila now genus, Limnophila still valid but very different taxon concept translating to family",DNI,Limoniidae,Limoniidae,DNI
+Euryhapsis,FALSE,,DNI,Euryhapsis,Euryhapsis,DNI
+Eurylophella,FALSE,,DNI,Eurylophella,Eurylophella,DNI
+Eurylophella lodi,FALSE,,DNI,Eurylophella,Eurylophella,DNI
+Eylais,FALSE,,DNI,Eylais,Trombidiformes,DNI
+Fallceon,FALSE,,Fallceon,Fallceon,Fallceon,DNI
+Fallceon quilleri,FALSE,,Fallceon,Fallceon,Fallceon,DNI
+Farula,FALSE,,Farula,Farula,Farula,DNI
+Farula/Neothremma,FALSE,,DNI,Uenoidae,Uenoidae,DNI
+Feltria,FALSE,,DNI,Feltria,Trombidiformes,DNI
+Ferrisia,FALSE,,Ferrissia,Ferrissia,Ferrissia,Ferrissia
+Ferrissia,FALSE,,Ferrissia,Ferrissia,Ferrissia,Ferrissia
+Ferrissia fragilis,FALSE,,Ferrissia,Ferrissia,Ferrissia,Ferrissia
+Ferrissia rivularis,FALSE,,Ferrissia,Ferrissia,Ferrissia,Ferrissia
+Fisherola nuttalli,FALSE,,Lymnaeidae,Fisherola nuttalli,Fisherola nuttalli,Lymnaeidae
+Fluminicola,FALSE,Common hydroboid in PNW streams,Truncatelloidea,Truncatelloidea,Truncatelloidea,Truncatelloidea
+Flustra,TRUE,Bryozoa,DNI,DNI,DNI,DNI
+Forcipomyia,FALSE,,Forcipomyiinae,Forcipomyiinae,Forcipomyiinae,Forcipomyiinae
+Forcipomyiinae,FALSE,,Forcipomyiinae,Forcipomyiinae,Forcipomyiinae,Forcipomyiinae
+Forelia,FALSE,,DNI,Forelia,Trombidiformes,DNI
+Fossaria,FALSE,,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Fossaria/Stagnicola,FALSE,,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Fridericia,FALSE,,Fridericia,Fridericia,Oligochaeta,Fridericia
+Frisonia,FALSE,Single Species in Genus,DNI,Frisonia picticeps,Frisonia picticeps,DNI
+Frisonia ,FALSE,Trailing space after genus Name,DNI,Frisonia picticeps,Frisonia picticeps,DNI
+Frisonia picticeps,FALSE,Single Species in Genus,DNI,Frisonia picticeps,Frisonia picticeps,DNI
+Frontipoda,FALSE,,DNI,Frontipoda,Trombidiformes,DNI
+Frontipoda americana,FALSE,,DNI,Frontipoda,Trombidiformes,DNI
+Galba,FALSE,,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Galerucella,TRUE,Leaf beetle terrestrial,DNI,DNI,DNI,DNI
+Galerucella nymphaeae,TRUE,Leaf beetle terrestrial,DNI,DNI,DNI,DNI
+Gammaridae,FALSE,,DNI,Gammaridae,Gammaridae,DNI
+Gammaridea,FALSE,,DNI,Gammaridea,Gammaridea,DNI
+Gammarus,FALSE,,Gammarus,Gammarus,Gammarus,Gammarus
+Gammarus lacustris,FALSE,,Gammarus,Gammarus,Gammarus,Gammarus
+Gasterosteidae,TRUE,Fish,DNI,DNI,DNI,DNI
+Gastropoda,FALSE,TOO COARSE,DNI,Gastropoda,Gastropoda,DNI
+Gelastocoris,TRUE,toad bugs,DNI,DNI,DNI,DNI
+Georthocladius,FALSE,,DNI,Georthocladius,Georthocladius,DNI
+Georyssus,FALSE,,DNI,Georyssus,Georyssus,DNI
+Geranomyia,FALSE,genus was subgenu of Limonia,DNI,Limoniidae,Limoniidae,DNI
+Gereckea,FALSE,,DNI,Gereckea,Trombidiformes,DNI
+Gerridae,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Gerrinae,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Gerris,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Gerris buenoi,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Gerris incurvatus,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Gerris remigis,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Glans,TRUE,Marine,DNI,DNI,DNI,DNI
+Gloma,TRUE,Dubious ID?,DNI,DNI,DNI,DNI
+Glossidae,TRUE,Marine,DNI,DNI,DNI,DNI
+Glossiphonia,FALSE,,Hirudinida,Glossiphonia,Glossiphonia,Hirudinida
+Glossiphonia complanata,FALSE,,Hirudinida,Glossiphonia,Glossiphonia,Hirudinida
+Glossiphonia elegans,FALSE,,Hirudinida,Glossiphonia,Glossiphonia,Hirudinida
+Glossiphoniidae,FALSE,,Hirudinida,Glossiphoniidae,Glossiphoniidae,Hirudinida
+Glossobius,TRUE,marine,DNI,DNI,DNI,DNI
+Glossosoma,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma (Anseriglossa),FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma alascense,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma intermedium,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma oregonense,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma penitum,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma penitus,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma pyroxum,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma traviatum,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma velonum,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosoma wenatchee,FALSE,,Glossosoma,Glossosoma,Glossosoma,Glossosoma
+Glossosomatidae,FALSE,,DNI,Glossosomatidae,Glossosomatidae,DNI
+Glossosomatinae,FALSE,,DNI,Glossosomatidae,Glossosomatidae,DNI
+Glossosomatini,FALSE,,DNI,Glossosomatidae,Glossosomatidae,DNI
+Glossosomatoidea,FALSE,TOO COARSE,DNI,Trichoptera,Trichoptera,DNI
+Glutops,FALSE,,Glutops,Glutops,Glutops,Glutops
+Glutops bandus,FALSE,,Glutops,Glutops,Glutops,Glutops
+Gluvia,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Glyphopsyche,FALSE,"valid, rare- marshes and slow systems",DNI,Glyphopsyche,Glyphopsyche,DNI
+Glyphopsyche irrorata,FALSE,"valid, rare- marshes and slow systems",DNI,Glyphopsyche,Glyphopsyche,DNI
+Glyptotendipes,FALSE,,DNI,Glyptotendipes,Glyptotendipes,DNI
+Gnorimosphaeroma,FALSE,,DNI,Gnorimosphaeroma,Gnorimosphaeroma,DNI
+Gnorimosphaeroma oregonensis,FALSE,,DNI,Gnorimosphaeroma,Gnorimosphaeroma,DNI
+Goera,FALSE,Single Species in Genus,Goera archaon,Goera archaon,Goera archaon,DNI
+Goera archaon,FALSE,Single Species in Genus,Goera archaon,Goera archaon,Goera archaon,DNI
+Goeracea,FALSE,,DNI,Goeracea,Goeracea,DNI
+Goeracea genota,FALSE,,DNI,Goeracea,Goeracea,DNI
+Goeracea oregona,FALSE,,DNI,Goeracea,Goeracea,DNI
+Goereilla baumanni,FALSE,"rare taxon, Currently known from WA,MT, ID",DNI,Goereilla baumanni,Goereilla baumanni,DNI
+Goeridae,FALSE,,DNI,Goeridae,Goeridae,DNI
+Goerinae,FALSE,,DNI,Goeridae,Goeridae,DNI
+Gomphidae,FALSE,,DNI,Gomphidae,Gomphidae,DNI
+Gomphurus,FALSE,,DNI,Gomphidae,Gomphidae,DNI
+Gomphurus/Phanogomphus,FALSE,,DNI,Gomphidae,Gomphidae,DNI
+Gomphus,FALSE,changed to family currently no Gomphus in NA,DNI,Gomphidae,Gomphidae,DNI
+Gonempeda,FALSE,"not a new Limoniid, but rarely Idd backing off to family",DNI,Limoniidae,Limoniidae,DNI
+Gonidea,TRUE,was an Anodonta brackish or tidally influenced freshwater ,DNI,DNI,DNI,DNI
+Gonidea angulata,TRUE,was an Anodonta brackish or tidally influenced freshwater ,DNI,DNI,DNI,DNI
+Gonomyia,FALSE,,DNI,Gonomyia,Gonomyia,DNI
+Gonomyia/Ellipteriodes/Idiocera,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Gonomyodes,FALSE,,DNI,Gonomyodes,Gonomyodes,DNI
+Grammotaulius,FALSE,,DNI,Grammotaulius,Grammotaulius,DNI
+Graphoderus,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Graphoderus liberus,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Graphoderus perplexus,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Graptocorixa,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Grensia praeterita,FALSE,,DNI,Limnephilidae,Limnephilidae,DNI
+Guestphalinus,FALSE,,Lumbriculidae,Guestphalinus,Oligochaeta,Lumbriculidae
+Gumaga,FALSE,,Gumaga,Gumaga,Gumaga,DNI
+Guttipelopia,FALSE,,DNI,Guttipelopia,Guttipelopia,DNI
+Gymnometriocnemus,FALSE,,DNI,Gymnometriocnemus,Gymnometriocnemus,DNI
+Gymnopais/Twinnia,FALSE,,DNI,Simuliidae,Simuliidae,DNI
+Gyraulus,FALSE,,Gyraulus,Gyraulus,Gyraulus,Gyraulus
+Gyraulus deflectus,FALSE,,Gyraulus,Gyraulus,Gyraulus,Gyraulus
+Gyraulus parvus,FALSE,,Gyraulus,Gyraulus,Gyraulus,Gyraulus
+Gyrinidae,FALSE,,DNI,Gyrinidae,Gyrinidae,DNI
+Gyrinus,FALSE,,DNI,Gyrinidae,Gyrinidae,DNI
+Gyrinus affinis,FALSE,,DNI,Gyrinidae,Gyrinidae,DNI
+Gyrinus bifarius,FALSE,,DNI,Gyrinidae,Gyrinidae,DNI
+Gyrinus consobrinus,FALSE,,DNI,Gyrinidae,Gyrinidae,DNI
+Gyrinus maculiventris,FALSE,,DNI,Gyrinidae,Gyrinidae,DNI
+Gyrinus picipes,FALSE,,DNI,Gyrinidae,Gyrinidae,DNI
+Gyrinus plicifer,FALSE,,DNI,Gyrinidae,Gyrinidae,DNI
+Haemonais,FALSE,,Naidinae,Haemonais,Oligochaeta,Naidinae
+Haemopis,FALSE,,Hirudinida,Haemopis,Haemopis,Hirudinida
+Haemopis grandis,FALSE,,Hirudinida,Haemopis,Haemopis,Hirudinida
+Halesochila taylori,FALSE,,DNI,Halesochila taylori,Halesochila taylori,DNI
+Haliplidae,FALSE,,Haliplidae,Haliplidae,Haliplidae,Haliplidae
+Haliplus,FALSE,,Haliplidae,Haliplus,Haliplus,Haliplidae
+Hansonoperla,FALSE,,DNI,Perlidae,Perlidae,DNI
+Haplolabis,TRUE,"No idea what this is, bad ID, bad name?",DNI,DNI,DNI,DNI
+Haploperla,FALSE,,DNI,Chloroperlidae,Chloroperlidae,DNI
+Haploperla chilnualna,FALSE,,DNI,Chloroperlidae,Chloroperlidae,DNI
+Haplotaxida,FALSE,,DNI,Haplotaxis,Oligochaeta,DNI
+Haplotaxidae,FALSE,,DNI,Haplotaxis,Oligochaeta,DNI
+Haplotaxis,FALSE,,DNI,Haplotaxis,Oligochaeta,DNI
+Harnischia,FALSE,,DNI,Harnischia,Harnischia,DNI
+Harpacticoida,TRUE,Generally excluded in lotic benthic samples,DNI,DNI,DNI,DNI
+Hayesomyia senata,FALSE,,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Heleniella,FALSE,,Heleniella,Heleniella,Heleniella,Heleniella
+Helesius,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Helichus,FALSE,,DNI,Helichus,Helichus,DNI
+Helicopsyche,FALSE,,Helicopsyche,Helicopsyche,Helicopsyche,Helicopsyche
+Helicopsyche borealis,FALSE,,Helicopsyche,Helicopsyche,Helicopsyche,Helicopsyche
+Helicopsychidae,FALSE,,Helicopsyche,Helicopsyche,Helicopsyche,Helicopsyche
+Helisoma,FALSE,,DNI,Helisoma,Helisoma,DNI
+Helisoma anceps,FALSE,,DNI,Helisoma,Helisoma,DNI
+Helius,FALSE,,DNI,Helius,Helius,DNI
+Helobdella,FALSE,,Hirudinida,Helobdella,Helobdella,Hirudinida
+Helobdella elongata,FALSE,best to leave at genus,Hirudinida,Helobdella,Helobdella,DNI
+Helobdella papillata,FALSE,,Hirudinida,Helobdella,Helobdella,Hirudinida
+Helobdella stagnalis,FALSE,,Hirudinida,Helobdella,Helobdella,Hirudinida
+Helobdella stagnalis complex,FALSE,,Hirudinida,Helobdella,Helobdella,Hirudinida
+Helobdella triserialis,FALSE,,Hirudinida,Helobdella,Helobdella,Hirudinida
+Helochares,FALSE,,Hydrophilidae,Helochares,Helochares,Hydrophilidae
+Helochares normatus,FALSE,,Hydrophilidae,Helochares,Helochares,Hydrophilidae
+Helodon,FALSE,Slashed taxon,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium
+Helodon onychodactylum,FALSE,Slashed taxon,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium
+Helodon onychodactylum group,FALSE,Slashed taxon,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium
+Helodon onychodactylus complex,FALSE,Slashed taxon,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium
+Helodon/Prosimulium,FALSE,Slashed taxon,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium
+Helopelopia,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Helophorus,FALSE,,DNI,Helophorus,Helophorus,DNI
+Hemerobiidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Hemerodromia,FALSE,,Hemerodromia,Hemerodromia,Hemerodromia,Hemerodromia
+Hemerodromiinae,FALSE,,DNI,Empididae,Empididae,DNI
+Hemerodromiini,FALSE,,DNI,Empididae,Empididae,DNI
+Hemiptera,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Henlea,FALSE,,DNI,Henlea,Oligochaeta,DNI
+Heptagenia,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Heptagenia group,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Heptagenia/Ecdyonurus,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Heptagenia/Nixe,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Heptagenia/Nixe/Leucocruta,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Heptageniidae,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Here,TRUE,Marine,DNI,DNI,DNI,DNI
+Hesperoconopa,FALSE,,Hesperoconopa,Hesperoconopa,Hesperoconopa,Hesperoconopa
+Hesperocorixa,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Hesperocorixa laevigata,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Hesperocorixa vulgaris,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Hesperoperla,FALSE,Single Species in Genus in OR/WA,Hesperoperla pacifica,Hesperoperla pacifica,Hesperoperla pacifica,Hesperoperla pacifica
+Hesperoperla hoguei,TRUE,no known from OR/WA,DNI,DNI,DNI,DNI
+Hesperoperla pacficia,FALSE,Single Species in Genus in OR/WA,Hesperoperla pacifica,Hesperoperla pacifica,Hesperoperla pacifica,Hesperoperla pacifica
+Hesperoperla pacifica,FALSE,Single Species in Genus in OR/WA,Hesperoperla pacifica,Hesperoperla pacifica,Hesperoperla pacifica,Hesperoperla pacifica
+Hesperophylax,FALSE,,DNI,Hesperophylax,Hesperophylax,DNI
+Hetaerina,FALSE,,DNI,Hetaerina,Hetaerina,DNI
+Heterelmis,FALSE,"This is a valid taxon, but way out of distribution dubious ID or typo?",DNI,Heterelmis,Heterelmis,DNI
+Heterlimnius,FALSE,only one species in Genus,Heterlimnius corpulentus,Heterlimnius corpulentus,Heterlimnius corpulentus,Heterlimnius corpulentus
+Heterlimnius corpulentus,FALSE,only one species in Genus,Heterlimnius corpulentus,Heterlimnius corpulentus,Heterlimnius corpulentus,Heterlimnius corpulentus
+Heterlimnius divergens,FALSE,bad genus sp. combo,Heterlimnius corpulentus,Heterlimnius corpulentus,Heterlimnius corpulentus,Heterlimnius corpulentus
+Heterlimnius koebelei,FALSE,only one species in Genus,Heterlimnius corpulentus,Heterlimnius corpulentus,Heterlimnius corpulentus,Heterlimnius corpulentus
+Heteroceridae,TRUE,"mud loving beetles, riparian at best",DNI,DNI,DNI,DNI
+Heterocloeon,FALSE,,DNI,Heterocloeon,Heterocloeon,DNI
+Heteroplectron,FALSE,single regional sp.,Heteroplectron californicum,Heteroplectron californicum,Heteroplectron californicum,Heteroplectron californicum
+Heteroplectron californicum,FALSE,sinlge regional sp.,Heteroplectron californicum,Heteroplectron californicum,Heteroplectron californicum,Heteroplectron californicum
+Heteropora pacifica,TRUE,"Valid taxon, but typo to Hesperoperla pacifica??",DNI,DNI,DNI,DNI
+Heteroptera,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Heterosternuta,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Heterosternuta,Heterosternuta,Hydroporinae
+Heterotanytarsus,FALSE,,DNI,Heterotanytarsus,Heterotanytarsus,DNI
+Heterotrissocladius,FALSE,,Heterotrissocladius,Heterotrissocladius,Heterotrissocladius,Heterotrissocladius
+Heterotrissocladius marcidus,FALSE,FORMATTING,Heterotrissocladius,Heterotrissocladius Marcidus Group,Heterotrissocladius Marcidus Group,Heterotrissocladius
+Heterotrissocladius Marcidus Gr.,FALSE,FORMATTING,Heterotrissocladius,Heterotrissocladius Marcidus Group,Heterotrissocladius Marcidus Group,Heterotrissocladius
+Heterotrissocladius marcidus group,FALSE,FORMATTING,Heterotrissocladius,Heterotrissocladius Marcidus Group,Heterotrissocladius Marcidus Group,Heterotrissocladius
+Heterotrissocladius marcidus Group,FALSE,FORMATTING,Heterotrissocladius,Heterotrissocladius Marcidus Group,Heterotrissocladius Marcidus Group,Heterotrissocladius
+Heterotrissocladius Marcidus Group,FALSE,FORMATTING,Heterotrissocladius,Heterotrissocladius Marcidus Group,Heterotrissocladius Marcidus Group,Heterotrissocladius
+Heterotrissocladius Subpilosus Gr.,FALSE,"dubious ID, known from Artic north and Arctic Europe only backing off to genus",Heterotrissocladius,Heterotrissocladius,Heterotrissocladius,Heterotrissocladius
+Hexacola,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Hexagenia,FALSE,,DNI,Hexagenia,Hexagenia,DNI
+Hexagenia limbata,FALSE,,DNI,Hexagenia,Hexagenia,DNI
+Hexatoma,FALSE,,Hexatoma,Hexatoma,Hexatoma,Hexatoma
+Himalopsyche,FALSE,single species in genus,DNI,Himalopsyche,Himalopsyche,DNI
+Himalopsyche phryganea,FALSE,single species in genus,DNI,Himalopsyche,Himalopsyche,DNI
+Hirudinea,FALSE,,Hirudinida,Hirudinida,Hirudinida,Hirudinida
+Hirudinida,FALSE,,Hirudinida,Hirudinida,Hirudinida,Hirudinida
+Hirudinidae,FALSE,,Hirudinida,Hirudinida,Hirudinida,Hirudinida
+Holorusia,FALSE,,DNI,Holorusia,Holorusia,DNI
+Holorusia hespera,FALSE,,DNI,Holorusia,Holorusia,DNI
+Homophylax,FALSE,,DNI,Homophylax,Homophylax,DNI
+Homoplectra,FALSE,,DNI,Homoplectra,Homoplectra,DNI
+Hornectes quadrimaculatus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Hyalella,FALSE,,Hyalella,Hyalella,Hyalella,Hyalella
+Hyalella azteca,FALSE,,Hyalella,Hyalella,Hyalella,Hyalella
+Hyalellidae,FALSE,,Hyalella,Hyalella,Hyalella,Hyalella
+Hybomitra,FALSE,,Tabanidae,Tabanidae,Tabanidae,Tabanidae
+Hydaticus,FALSE,,DNI,Hydaticus,Hydaticus,DNI
+Hydaticus auruspex,FALSE,,DNI,Hydaticus,Hydaticus,DNI
+Hydatophylax,FALSE,,Hydatophylax,Hydatophylax,Hydatophylax,DNI
+Hydatophylax festivus,FALSE,was a Stenophylax but not in western NA,Hydatophylax,Hydatophylax,Hydatophylax,DNI
+Hydatophylax hesperus,FALSE,,Hydatophylax,Hydatophylax,Hydatophylax,DNI
+Hydra,FALSE,,Hydra,Hydra,Hydra,DNI
+Hydracarina,FALSE,,DNI,Acari,Acari,DNI
+Hydrachna,FALSE,,DNI,Hydrachna,Trombidiformes,DNI
+Hydrachnidae,FALSE,,DNI,Hydrachnidae,Trombidiformes,DNI
+Hydraena,FALSE,,Hydraenidae,Hydraenidae,Hydraenidae,Hydraenidae
+Hydraenidae,FALSE,,Hydraenidae,Hydraenidae,Hydraenidae,Hydraenidae
+Hydreanidae,FALSE,,Hydraenidae,Hydraenidae,Hydraenidae,Hydraenidae
+Hydridae,FALSE,,Hydra,Hydra,Hydra,DNI
+Hydrobaenus,FALSE,,Hydrobaenus,Hydrobaenus,Hydrobaenus,Hydrobaenus
+Hydrobia,FALSE,,Truncatelloidea,Truncatelloidea,Truncatelloidea,Truncatelloidea
+Hydrobiidae,FALSE,,Truncatelloidea,Truncatelloidea,Truncatelloidea,Truncatelloidea
+Hydrobius,FALSE,,Hydrophilidae,Hydrobius,Hydrobius,Hydrophilidae
+Hydrochus,FALSE,,Hydrophilidae,Hydrochus,Hydrochus,Hydrophilidae
+Hydrodroma,FALSE,,DNI,Hydrodroma,Trombidiformes,DNI
+Hydroida,FALSE,,Hydra,Hydra,Hydra,DNI
+Hydroperla,FALSE,,DNI,Perlidae,Perlidae,DNI
+Hydrophilidae,FALSE,,Hydrophilidae,Hydrophilidae,Hydrophilidae,Hydrophilidae
+Hydrophiloidea,FALSE,,DNI,Hydrophiloidea,Hydrophiloidea,DNI
+Hydroporinae,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Hydroporini,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Hydroporus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Hydropsyche,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Hydropsyche (Hydropsyche),FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Hydropsyche californica,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Hydropsyche occidentalis,FALSE,,Hydropsyche,Hydropsyche,Hydropsyche,Hydropsyche
+Hydropsychidae,FALSE,,DNI,Hydropsychidae,Hydropsychidae,DNI
+Hydropsychinae,FALSE,,DNI,Hydropsychidae,Hydropsychidae,DNI
+Hydropsychoidea,FALSE,TOO COARSE,DNI,Hydropsychoidea,Hydropsychoidea,DNI
+Hydroptila,FALSE,,Hydroptila,Hydroptila,Hydroptila,Hydroptila
+Hydroptila ajax,FALSE,,Hydroptila,Hydroptila,Hydroptila,Hydroptila
+Hydroptila arctia,FALSE,,Hydroptila,Hydroptila,Hydroptila,Hydroptila
+Hydroptila consimilis,FALSE,,Hydroptila,Hydroptila,Hydroptila,Hydroptila
+Hydroptila lenora,FALSE,,Hydroptila,Hydroptila,Hydroptila,Hydroptila
+Hydroptila rono,FALSE,,Hydroptila,Hydroptila,Hydroptila,Hydroptila
+Hydroptila xera,FALSE,,Hydroptila,Hydroptila,Hydroptila,Hydroptila
+Hydroptilidae,FALSE,,DNI,Hydroptilidae,Hydroptilidae,DNI
+Hydroptilidae sp. AJF#01,FALSE,,DNI,Hydroptilidae,Hydroptilidae,DNI
+Hydroptilidae sp. AJF#02,FALSE,,DNI,Hydroptilidae,Hydroptilidae,DNI
+Hydroptilidae sp. RAI # 0001,FALSE,,Ochrotrichia,Ochrotrichia,Ochrotrichia,Ochrotrichia
+Hydrosmittia,FALSE,,DNI,Hydrosmittia,Hydrosmittia,DNI
+Hydrotrupes palpalis,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Hydrovatus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Hydrovolzia,FALSE,,DNI,Hydrovolzia,Trombidiformes,DNI
+Hydrovolziidae,FALSE,,DNI,Hydrovolziidae,Trombidiformes,DNI
+Hydrozetes,FALSE,,DNI,Oribatida,Acari,DNI
+Hydrozoa,FALSE,,Hydra,Hydra,Hydra,DNI
+Hydryphantes,FALSE,,DNI,Hydryphantes,Trombidiformes,DNI
+Hydryphantidae,FALSE,,DNI,Hydryphantidae,Trombidiformes,DNI
+Hygrobates,FALSE,,Hygrobates,Hygrobates,Trombidiformes,Hygrobates
+Hygrobatidae,FALSE,,DNI,Hygrobatidae,Trombidiformes,DNI
+Hygrotus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Hygrotus sayi,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Hygrotus tumidiventris,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Hymenoptera,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Idiocera,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Idioptera,TRUE,"subgenus of Limnophila now genus, Limnophila still valid but very different taxon concept translating to family",DNI,Limoniidae,Limoniidae,DNI
+Ilybiosoma,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Ilybius,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Ilybius fraterculus,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Ilybius quadrimaculatus,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Ilyodrilus,FALSE,,Tubificinae,Ilyodrilus,Oligochaeta,Tubificinae
+Ilyodrilus templetoni,FALSE,,Tubificinae,Ilyodrilus,Oligochaeta,Tubificinae
+Insecta,TRUE,TOO COARSE,DNI,DNI,DNI,DNI
+Integripalpia,FALSE,TOO COARSE,DNI,Integripalpia,Integripalpia,DNI
+Irodes,TRUE,marine?,DNI,DNI,DNI,DNI
+Ironodes,FALSE,,Ironodes,Ironodes,Ironodes,Ironodes
+Isaea,TRUE,marine,DNI,DNI,DNI,DNI
+Ischnura,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Ischnura cervula,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Ischnura perparva,FALSE,,Coenagrionidae,Coenagrionidae,Coenagrionidae,DNI
+Isocapnia,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Isogenoides,FALSE,,DNI,Isogenoides,Isogenoides,DNI
+Isogenoides elongatus,FALSE,,DNI,Isogenoides,Isogenoides,DNI
+Isonychia,FALSE,,DNI,Isonychia,Isonychia,DNI
+Isonychia velma,FALSE,,DNI,Isonychia,Isonychia,DNI
+Isonychiidae,FALSE,,DNI,Isonychia,Isonychia,DNI
+Isoperla,FALSE,,Isoperla,Isoperla,Isoperla,Isoperla
+Isoperla fulva,FALSE,,Isoperla,Isoperla,Isoperla,Isoperla
+Isoperla fusca,FALSE,,Isoperla,Isoperla,Isoperla,Isoperla
+Isoperla lata,FALSE,,Isoperla,Isoperla,Isoperla,Isoperla
+Isoperla marmorata,FALSE,,Isoperla,Isoperla,Isoperla,Isoperla
+Isoperla mormona,FALSE,,Isoperla,Isoperla,Isoperla,Isoperla
+Isoperla petersoni,FALSE,,Isoperla,Isoperla,Isoperla,Isoperla
+Isoperla sobria,FALSE,,Isoperla,Isoperla,Isoperla,Isoperla
+Isoperlinae,FALSE,,DNI,Perlodidae,Perlodidae,DNI
+Isopoda,FALSE,TOO COARSE,DNI,Isopoda,Isopoda,DNI
+Isops,TRUE,Sponges excluded,DNI,DNI,DNI,DNI
+Iswaeon,FALSE,,DNI,Iswaeon,Iswaeon,DNI
+Iswaeon anoka,FALSE,,DNI,Iswaeon,Iswaeon,DNI
+Ithytrichia,FALSE,"dubious, closest records CA- mostly SW and eastern",DNI,Ithytrichia,Ithytrichia,DNI
+Juga,FALSE,,Juga,Juga,Juga,Juga
+Juga (Oreobasis),FALSE,,Juga,Juga,Juga,Juga
+Juga bulbosa,FALSE,,Juga,Juga,Juga,Juga
+Juga hemphilli,FALSE,,Juga,Juga,Juga,Juga
+Juga plicifera,FALSE,,Juga,Juga,Juga,Juga
+Juga silicula,FALSE,,Juga,Juga,Juga,Juga
+Kathroperla,FALSE,,Kathroperla,Kathroperla,Kathroperla,Kathroperla
+Kathroperla perdita,FALSE,,Kathroperla,Kathroperla,Kathroperla,Kathroperla
+Kathroperla/Paraperla,FALSE,,DNI,Paraperlinae,Paraperlinae,DNI
+Kiefferulus,FALSE,,DNI,Kiefferulus,Kiefferulus,DNI
+Kincaidiana,FALSE,,Lumbriculidae,Kincaidiana,Oligochaeta,Lumbriculidae
+Kincaidiana hexatheca,FALSE,,Lumbriculidae,Kincaidiana,Oligochaeta,Lumbriculidae
+Koenikea,FALSE,,DNI,Koenikea,Trombidiformes,DNI
+Kogotus,FALSE,Slashed taxon,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera
+Kogotus nonus,FALSE,Slashed taxon,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera
+Kogotus/Rickera,FALSE,Slashed taxon,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera
+Kongsbergia,FALSE,,DNI,Kongsbergia,Trombidiformes,DNI
+Krendowskia,FALSE,,DNI,Krendowskia,Trombidiformes,DNI
+Krendowskiidae,FALSE,,DNI,Krendowskiidae,Trombidiformes,DNI
+Krenopelopia,FALSE,,DNI,Krenopelopia,Krenopelopia,DNI
+Krenopsectra,FALSE,,DNI,Krenopsectra,Krenopsectra,DNI
+Krenosmittia,FALSE,,Krenosmittia,Krenosmittia,Krenosmittia,Krenosmittia
+Labiobaetis,FALSE,Current Nomenclature,Labiobaetis,Labiobaetis,Labiobaetis,Labiobaetis
+Labiobaetis apache,FALSE,,Labiobaetis,Labiobaetis,Labiobaetis,Labiobaetis
+Labiobaetis propinquus,FALSE,Current Nomenclature,Labiobaetis,Labiobaetis,Labiobaetis,Labiobaetis
+Labiobaetis sonajuventus,FALSE,Current Nomenclature,Labiobaetis,Labiobaetis,Labiobaetis,Labiobaetis
+Labrundinia,FALSE,,DNI,Labrundinia,Labrundinia,DNI
+Labrundinia/Nilotanypus,FALSE,,DNI,Tanypodinae,Tanypodinae,DNI
+Laccobius,FALSE,,Hydrophilidae,Laccobius,Laccobius,Hydrophilidae
+Laccodytes,FALSE,one NA sp. pumilio known from Florida backing off to Family,DNI,Dytiscidae,Dytiscidae,DNI
+Laccophilus,FALSE,,DNI,Laccophilus,Laccophilus,DNI
+Laccophilus maculosus,FALSE,,DNI,Laccophilus,Laccophilus,DNI
+Laccophilus maculosus decipiens,FALSE,,DNI,Laccophilus,Laccophilus,DNI
+Laevicaudata,TRUE,"Clam shrimp wetland taxa, INCLUDE??",DNI,DNI,DNI,DNI
+Lampyridae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Lanx,FALSE,,Lymnaeidae,Lanx,Lanx,Lymnaeidae
+Lara,FALSE,,Lara,Lara,Lara,Lara
+Lara avara,FALSE,,Lara,Lara,Lara,Lara
+Larsia,FALSE,,Larsia,Larsia,Larsia,Larsia
+Lauterborniella,FALSE,,DNI,Lauterborniella,Lauterborniella,DNI
+Lauterborniella agrayloides,FALSE,,DNI,Lauterborniella,Lauterborniella,DNI
+Laversia,FALSE,,DNI,Laversia,Trombidiformes,DNI
+Lebertia,FALSE,,Lebertia,Lebertia,Trombidiformes,Lebertia
+Lebertiidae,FALSE,,DNI,Lebertiidae,Trombidiformes,DNI
+Lenarchus,FALSE,,DNI,Limnephilidae,Limnephilidae,DNI
+Lepania cascada,FALSE,endemic to OR and WA,DNI,Lepania cascada,Lepania cascada,DNI
+Lepidonotus,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Lepidoptera,FALSE,Lot of these are terrestrial,DNI,Lepidoptera,Lepidoptera,DNI
+Lepidostoma,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma (Neodinarthrum),FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma baxea,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma cascadense,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma cinereum,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma hoodi,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma hoodi group,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma Hoodi Group,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma pluviale,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma Pluviale Group,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma podagrum,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma roafi,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma togatum,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma unicolor,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma unicolor group,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma Unicolor Group,FALSE,best to leave at genus,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma-panel case,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma-panel case larvae,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma-sand case,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma-spiral case,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostomatidae,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma-turret case,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidostoma-turret case larvae,FALSE,formatting,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Lepidotoma-panel case larvae,FALSE,formatting and a spelling error,Lepidostoma,Lepidostoma,Lepidostoma,Lepidostoma
+Leptoceridae,FALSE,,DNI,Leptoceridae,Leptoceridae,DNI
+Leptohyphidae,FALSE,,DNI,Leptohyphidae,Leptohyphidae,DNI
+Leptophlebia,FALSE,,DNI,Leptophlebiidae,Leptophlebiidae,DNI
+Leptophlebiidae,FALSE,,DNI,Leptophlebiidae,Leptophlebiidae,DNI
+Lestes,FALSE,,DNI,Lestes,Lestes,DNI
+Lestes congener,FALSE,,DNI,Lestes,Lestes,DNI
+Lestes disjunctus,FALSE,,DNI,Lestes,Lestes,DNI
+Lestes dryas,FALSE,,DNI,Lestes,Lestes,DNI
+Lestidae,FALSE,,DNI,Lestidae,Lestes,DNI
+Lethocerus,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Lethocerus americanus,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Leucorrhinia proxima,FALSE,,DNI,Libellulidae,Libellulidae,DNI
+Leucotrichia,FALSE,,Leucotrichia,Leucotrichia,Leucotrichia,DNI
+Leucotrichia pictipes,FALSE,,Leucotrichia,Leucotrichia,Leucotrichia,DNI
+Leucrocuta,FALSE,,DNI,Leucrocuta,Leucrocuta,DNI
+Leucrocuta/Nixe,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Leuctra,FALSE,,DNI,Leuctridae,Leuctridae,DNI
+Leuctridae,FALSE,,DNI,Leuctridae,Leuctridae,DNI
+Libellula,FALSE,,DNI,Libellulidae,Libellulidae,DNI
+Libellula forensis,FALSE,,DNI,Libellulidae,Libellulidae,DNI
+Libellulidae,FALSE,,DNI,Libellulidae,Libellulidae,DNI
+Ligidium,TRUE,Marine?,DNI,DNI,DNI,DNI
+Limnactiniidae,FALSE,,Hydra,Hydra,Hydra,DNI
+Limnebius,FALSE,,Hydraenidae,Hydraenidae,Hydraenidae,Hydraenidae
+Limnephilidae,FALSE,,DNI,Limnephilidae,Limnephilidae,DNI
+Limnephilidae sp. AJF#01,FALSE,,DNI,Limnephilidae,Limnephilidae,DNI
+Limnephilidae sp. AJF#02,FALSE,,DNI,Limnephilidae,Limnephilidae,DNI
+Limnephilidae sp. AJF#03,FALSE,,DNI,Limnephilidae,Limnephilidae,DNI
+Limnephilinae,FALSE,,DNI,Limnephilidae,Limnephilidae,DNI
+Limnephiloidea,FALSE,TOO COARSE,DNI,Limnephiloidea,Limnephiloidea,DNI
+Limnephilus,FALSE,,DNI,Limnephilus,Limnephilus,DNI
+Limnesia,FALSE,,Limnesia,Limnesia,Trombidiformes,Limnesia
+Limnesiidae,FALSE,,DNI,Limnesiidae,Trombidiformes,DNI
+Limnichidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Limnochares,FALSE,,DNI,Limnochares,Trombidiformes,DNI
+Limnodrilus,FALSE,,Tubificinae,Limnodrilus,Oligochaeta,Tubificinae
+Limnodrilus hoffmeisteri,FALSE,,Tubificinae,Limnodrilus,Oligochaeta,Tubificinae
+Limnophila,FALSE,,Eloeophila,Eloeophila,Eloeophila,Eloeophila
+Limnophila/Dicranophragma/Eloeophila/Euphylidorea/Idioptera,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Limnophilinae,FALSE,best to leave at family,DNI,Limoniidae,Limoniidae,DNI
+Limnophora,FALSE,,Muscidae,Muscidae,Muscidae,Muscidae
+Limnophyes,FALSE,,Limnophyes,Limnophyes,Limnophyes,Limnophyes
+Limnoporus,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Limonia,FALSE,,Dicranomyia,Dicranomyia,Dicranomyia,DNI
+Limonia/Dicranomyia/Geranomyia,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Limoniidae,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Limoniinae,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Limoniinae sp. AJF#01,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Limoniinae sp. AJF#02,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Limoniinae sp. AJF#03,FALSE,,DNI,Limoniidae,Limoniidae,DNI
+Liodessus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Liodessus obscurellus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Lipsothrix,FALSE,,DNI,Lipsothrix,Lipsothrix,DNI
+Lirceus,FALSE,,DNI,Lirceus,Lirceus,DNI
+Lithoglyphidae,FALSE,,Truncatelloidea,Truncatelloidea,Truncatelloidea,Truncatelloidea
+Ljania,FALSE,,DNI,Ljania,Trombidiformes,DNI
+Lopescladius,FALSE,,Lopescladius,Lopescladius,Lopescladius,DNI
+Lumbricidae,TRUE,Mostly Terrestrial,DNI,DNI,DNI,DNI
+Lumbricina,TRUE,Mostly Terrestrial,DNI,DNI,DNI,DNI
+Lumbriculida,TRUE,Mostly Terrestrial,DNI,DNI,DNI,DNI
+Lumbriculidae,FALSE,,Lumbriculidae,Lumbriculidae,Oligochaeta,Lumbriculidae
+Lumbriculus,FALSE,,Lumbriculidae,Lumbriculidae,Oligochaeta,Lumbriculidae
+Lutrochus,FALSE,,DNI,Lutrochus,Lutrochus,DNI
+Lymnaea,FALSE,,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Lymnaea auricularia,FALSE,This is actually Radix  an invaisive,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Lymnaeidae,FALSE,,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Maccaffertium,FALSE,,DNI,Maccaffertium,Maccaffertium,DNI
+Maccaffertium terminatum,FALSE,,DNI,Maccaffertium,Maccaffertium,DNI
+Maccaffertium vicarium,FALSE,,DNI,Maccaffertium,Maccaffertium,DNI
+Maccaffertium/Stenonema,FALSE,,DNI,Maccaffertium,Maccaffertium,DNI
+Macromia,FALSE,,DNI,Macromia,Macromia,DNI
+Macromiidae,FALSE,,DNI,Macromiidae,Macromiidae,DNI
+Macropelopia,FALSE,,Macropelopia,Macropelopia,Macropelopia,Macropelopia
+Macropelopia decedens,FALSE,,Macropelopia,Macropelopia,Macropelopia,Macropelopia
+Macropelopiini,FALSE,,DNI,Macropelopiini,Macropelopiini,DNI
+Macrovelia,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Macrovelia hornii,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Malenka,FALSE,,Malenka,Malenka,Malenka,Malenka
+Malenka depressa,FALSE,,Malenka,Malenka,Malenka,Malenka
+Mallochohelea,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Manayunkia speciosa,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Margaritifera,FALSE,,DNI,Margaritiferidae,Margaritiferidae,DNI
+Margaritifera falcata,FALSE,,DNI,Margaritiferidae,Margaritiferidae,DNI
+Margaritiferidae,FALSE,,DNI,Margaritiferidae,Margaritiferidae,DNI
+Marilia,FALSE,,DNI,Marilia,Marilia,DNI
+Marionina,TRUE,Dubious ID ( known from MN and WI),DNI,DNI,DNI,DNI
+Maruina,FALSE,,Maruina,Maruina,Maruina,Maruina
+Maruina lanceolata,FALSE,,Maruina,Maruina,Maruina,Maruina
+Matriella,FALSE,Single species in Genus,Matriella teresa,Matriella teresa,Matriella teresa,Matriella teresa
+Matriella teresa,FALSE,Single species in Genus,Matriella teresa,Matriella teresa,Matriella teresa,Matriella teresa
+Megadrile,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Megaleuctra,FALSE,,DNI,Megaleuctra,Megaleuctra,DNI
+Megaloptera,FALSE,,DNI,Megaloptera,Megaloptera,DNI
+Megarcys,FALSE,,Megarcys,Megarcys,Megarcys,Megarcys
+Megarcys subtruncata,FALSE,,Megarcys,Megarcys,Megarcys,Megarcys
+Melanoides,TRUE,"Not Native, more SW ( known from Harney Co. Oregon)",DNI,DNI,DNI,DNI
+Mena,FALSE,,Hydra,Hydra,Hydra,DNI
+Menetus,FALSE,,Menetus,Menetus,Menetus,Menetus
+Menetus (Micromenetus),FALSE,,Menetus,Menetus,Menetus,Menetus
+Menetus opercularis,FALSE,,Menetus,Menetus,Menetus,Menetus
+Meringodixa,FALSE,,Meringodixa,Meringodixa,Meringodixa,Meringodixa
+Meringodixa chalonensis,FALSE,,Meringodixa,Meringodixa,Meringodixa,Meringodixa
+Meropelopia,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Merycomyia,FALSE,,Tabanidae,Tabanidae,Tabanidae,Tabanidae
+Mesenchytraeus,FALSE,,Mesenchytraeus,Mesenchytraeus,Oligochaeta,Mesenchytraeus
+Mesenchytraeus ,FALSE,Trailing space after genus Name,Mesenchytraeus,Mesenchytraeus,Oligochaeta,Mesenchytraeus
+Mesobates,FALSE,,DNI,Mesobates,Trombidiformes,DNI
+Mesocapnia,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Mesocricotopus,FALSE,,DNI,Mesocricotopus,Mesocricotopus,DNI
+Mesosmittia,FALSE,,DNI,Mesosmittia,Mesosmittia,DNI
+Mesovelia,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Metachela,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Metacnephia,FALSE,,DNI,Metacnephia,Metacnephia,DNI
+Metrichia,FALSE,,DNI,Hydroptilidae,Hydroptilidae,DNI
+Metriocnemus,FALSE,,Metriocnemus,Metriocnemus,Metriocnemus,Metriocnemus
+Metrobates,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Metrobates trux,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Mica,TRUE,marine,DNI,DNI,DNI,DNI
+Micrasema,FALSE,,Micrasema,Micrasema,Micrasema,Micrasema
+Micrasema dimicki,FALSE,,Micrasema,Micrasema,Micrasema,Micrasema
+Microchironomus,FALSE,,DNI,Microchironomus,Microchironomus,DNI
+Microcylloepus,FALSE,,Microcylloepus,Microcylloepus,Microcylloepus,DNI
+Microcylloepus pusillus,FALSE,,Microcylloepus,Microcylloepus,Microcylloepus,DNI
+Microcylloepus similis,FALSE,,Microcylloepus,Microcylloepus,Microcylloepus,DNI
+Micromenetus,FALSE,,Menetus,Menetus,Menetus,Menetus
+Micromenetus dilatatus,FALSE,,Menetus,Menetus,Menetus,Menetus
+Micropsectra,FALSE,,Micropsectra,Micropsectra,Micropsectra,Micropsectra
+Micropsectra/Tanytarsus,FALSE,,DNI,Tanytarsini,Tanytarsini,DNI
+Microsporidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Microtendipes,FALSE,,Microtendipes,Microtendipes,Microtendipes,Microtendipes
+Microtendipes Pedellus gr.,FALSE,FORMATTING,Microtendipes,Microtendipes Pedellus Group,Microtendipes Pedellus Group,Microtendipes
+Microtendipes pedellus group,FALSE,FORMATTING,Microtendipes,Microtendipes Pedellus Group,Microtendipes Pedellus Group,Microtendipes
+Microtendipes Pedellus Group,FALSE,FORMATTING,Microtendipes,Microtendipes Pedellus Group,Microtendipes Pedellus Group,Microtendipes
+Microtendipes pedellus Group,FALSE,FORMATTING,Microtendipes,Microtendipes Pedellus Group,Microtendipes Pedellus Group,Microtendipes
+Microtendipes rydalensis,FALSE,FORMATTING,Microtendipes,Microtendipes Rydalensis Group,Microtendipes Rydalensis Group,Microtendipes
+Microtendipes Rydalensis Gr.,FALSE,FORMATTING,Microtendipes,Microtendipes Rydalensis Group,Microtendipes Rydalensis Group,Microtendipes
+Microtendipes rydalensis group,FALSE,FORMATTING,Microtendipes,Microtendipes Rydalensis Group,Microtendipes Rydalensis Group,Microtendipes
+Microtendipes Rydalensis Group,FALSE,FORMATTING,Microtendipes,Microtendipes Rydalensis Group,Microtendipes Rydalensis Group,Microtendipes
+Microtendipes rydalensis Group,FALSE,FORMATTING,Microtendipes,Microtendipes Rydalensis Group,Microtendipes Rydalensis Group,Microtendipes
+Microvelia,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Midea,FALSE,,DNI,Midea,Trombidiformes,DNI
+Mideopsidae,FALSE,,DNI,Mideopsidae,Trombidiformes,DNI
+Mideopsis,FALSE,,Mideopsis,Mideopsis,Trombidiformes,Mideopsis
+Molanna,FALSE,,DNI,Molanna,Molanna,DNI
+Mollusca,TRUE,Too Coarse,DNI,DNI,DNI,DNI
+Molophilus,FALSE,,DNI,Molophilus,Molophilus,DNI
+Momonia,FALSE,,DNI,Momonia,Trombidiformes,DNI
+Momoniidae,FALSE,,DNI,Momoniidae,Trombidiformes,DNI
+Monatractides,FALSE,,Monatractides,Monatractides,Trombidiformes,Monatractides
+Monodiamesa,FALSE,,Monodiamesa,Monodiamesa,Monodiamesa,Monodiamesa
+Monohelea,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Monopelopia,FALSE,,DNI,Monopelopia,Monopelopia,DNI
+Monophylax,FALSE,Single species,DNI,Monophylax mono,Monophylax mono,DNI
+Monophylax mono,FALSE,Single species,DNI,Monophylax mono,Monophylax mono,DNI
+Mooreobdella,FALSE,,Hirudinida,Erpobdella,Erpobdella,Hirudinida
+Moselia,FALSE,,Moselia,Moselia,Moselia,Moselia
+Moselia infuscata,FALSE,Now two species in NW,Moselia,Moselia,Moselia,Moselia
+Moselyana,FALSE,Single Species in Genus,DNI,Moselyana comosa,Moselyana comosa,DNI
+Moselyana comosa,FALSE,Single Species in Genus,DNI,Moselyana comosa,Moselyana comosa,DNI
+Munroessa/Synclita,FALSE,Lot of these are terrestrial,DNI,Lepidoptera,Lepidoptera,DNI
+Muscidae,FALSE,,Muscidae,Muscidae,Muscidae,Muscidae
+Muscomorpha,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Musculium,FALSE,,Sphaeriidae,Musculium,Musculium,Sphaeriidae
+Mycetophilidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Mystacides,FALSE,,Mystacides,Mystacides,Mystacides,DNI
+Mystacides alafimbriata,FALSE,spelling mistake,Mystacides,Mystacides,Mystacides,DNI
+Mystacides alafimbriatus,FALSE,,Mystacides,Mystacides,Mystacides,DNI
+Myzobdella,FALSE,,Hirudinida,Erpobdella,Erpobdella,Hirudinida
+Naididae,FALSE,,DNI,Naididae,Oligochaeta,DNI
+Naidinae,FALSE,,Naidinae,Naidinae,Oligochaeta,Naidinae
+Nais,FALSE,,Naidinae,Nais,Oligochaeta,Naidinae
+Nais communis,FALSE,,Naidinae,Nais,Oligochaeta,Naidinae
+Nais variabilis,FALSE,,Naidinae,Nais,Oligochaeta,Naidinae
+Najadicola,FALSE,,DNI,Najadicola,Trombidiformes,DNI
+Namamyia,FALSE,,DNI,Namamyia,Namamyia,DNI
+Namamyia plutonis,FALSE,,DNI,Namamyia,Namamyia,DNI
+Nanocladius,FALSE,,Nanocladius,Nanocladius,Nanocladius,Nanocladius
+Nanonemoura wahkeena,FALSE,endmic to Co. River Gorge,DNI,Nanonemoura wahkeena,Nanonemoura wahkeena,DNI
+Narpus,FALSE,,Narpus,Narpus,Narpus,Narpus
+Narpus angustus,FALSE,,Narpus,Narpus,Narpus,Narpus
+Narpus concolor,FALSE,,Narpus,Narpus,Narpus,Narpus
+Natarsia,FALSE,,Natarsia,Natarsia,Natarsia,Natarsia
+Naucoridae,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Nautarachna,FALSE,,Nautarachna,Nautarachna,Trombidiformes,Nautarachna
+Nautarachnidae,FALSE,,Nautarachna,Nautarachnidae,Trombidiformes,Nautarachna
+Neanthes,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Neanthes limnicola,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Neaviperla forcipata,FALSE,,Neaviperla/Suwallia,Neaviperla/Suwallia,Neaviperla/Suwallia,DNI
+Neaviperla/Suwallia,FALSE,Slashed taxon,Neaviperla/Suwallia,Neaviperla/Suwallia,Neaviperla/Suwallia,DNI
+Nebrioporus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Nebrioporus/Stictotarsus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Nectoporus,FALSE,"Genera within Hydroporinae in flux; for MTTI, best to leave at subfamily",Hydroporinae,Nectoporus,Nectoporus,DNI
+Nectoprus,FALSE,misspelled,Hydroporinae,Nectoporus,Nectoporus,Hydroporinae
+Nectopsyche,FALSE,,DNI,Nectopsyche,Nectopsyche,DNI
+Nectopsyche gracilis,FALSE,,DNI,Nectopsyche,Nectopsyche,DNI
+Nemata,FALSE,,Nemata,Nemata,Nemata,Nemata
+Nematocera,FALSE,,DNI,Nematocera,Nematocera,DNI
+Nematoda,FALSE,,Nemata,Nemata,Nemata,Nemata
+Nematomorpha,FALSE,,DNI,Nematomorpha,Nematomorpha,DNI
+Nemertea,FALSE,,Prostoma,Prostoma,Prostoma,DNI
+Nemotaulius hostilis,FALSE,,DNI,Nemotaulius hostilis,Nemotaulius hostilis,DNI
+Nemotelus,FALSE,,Stratiomyidae,Nemotelus,Nemotelus,DNI
+Nemoura,FALSE,,DNI,Nemouridae,Nemouridae,DNI
+Nemouridae,FALSE,,DNI,Nemouridae,Nemouridae,DNI
+Neoacarus,FALSE,,DNI,Neoacarus,Trombidiformes,DNI
+Neochoroterpes,FALSE,,DNI,Neochoroterpes,Neochoroterpes,DNI
+Neoclypeodytes,FALSE,Regionally present??? Mostly SW MesoAmerica,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Neoclypeodytes ornatellus,FALSE,Regionally present??? Mostly SW MesoAmerica,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Neocorixa,TRUE,Corixidae excluded,DNI,DNI,DNI,DNI
+Neohermes,FALSE,,Corydalidae,Neohermes,Neohermes,Corydalidae
+Neoleptophlebia,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Neoleptophlebia bicornuta group,FALSE,,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group
+Neoleptophlebia/Paraleptophlebia,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Neomysis,TRUE,Generally excluded in lotic benthic samples,DNI,DNI,DNI,DNI
+Neophylax,FALSE,,DNI,Neophylax,Neophylax,DNI
+Neophylax occidentis,FALSE,,DNI,Neophylax occidentis,Neophylax occidentis,DNI
+Neophylax rickeri,FALSE,,Neophylax rickeri,Neophylax rickeri,Neophylax rickeri,Neophylax rickeri
+Neophylax splendens,FALSE,,Neophylax splendens,Neophylax splendens,Neophylax splendens,Neophylax splendens
+Neoplanorbis,FALSE,,DNI,Planorbidae,Planorbidae,DNI
+Neoplasta,FALSE,,Neoplasta,Neoplasta,Neoplasta,Neoplasta
+Neoplea striola,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Neoporus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Neoporus,Neoporus,Hydroporinae
+Neoporus undulatus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Neoporus,Neoporus,Hydroporinae
+Neothremma,FALSE,,Neothremma,Neothremma,Neothremma,Neothremma
+Neothremma alicia,FALSE,,Neothremma,Neothremma,Neothremma,Neothremma
+Neotrichia,FALSE,,DNI,Neotrichia,Neotrichia,DNI
+Nereididae,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Nerophilus,FALSE,,DNI,Nerophilus,Nerophilus,DNI
+Nerophilus californicus,FALSE,,DNI,Nerophilus,Nerophilus,DNI
+Neumania,FALSE,,DNI,Neumania,Trombidiformes,DNI
+Neureclipsis,FALSE,,DNI,Neureclipsis,Neureclipsis,DNI
+Neuroptera,FALSE,I tend to exclude these,DNI,Neuroptera,Neuroptera,DNI
+Nilotanypus,FALSE,,Nilotanypus,Nilotanypus,Nilotanypus,Nilotanypus
+Nilotanypus fimbriatus,FALSE,,Nilotanypus,Nilotanypus,Nilotanypus,Nilotanypus
+Nilothauma,FALSE,,DNI,Nilothauma,Nilothauma,DNI
+Nimbocera,FALSE,Jr. Syn. of Tanytarsus,Tanytarsus,Tanytarsus,Tanytarsus,Tanytarsus
+Nippotipula,FALSE,,Tipula,Tipula,Tipula,Tipula
+Nixe,FALSE,most PNW Nixe are Afghanurus,Afghanurus,Afghanurus,Afghanurus,Afghanurus
+Nixe/Leucocruta,FALSE,,DNI,Heptageniidae,Heptageniidae,DNI
+Noctuidae,FALSE,Lot of these are terrestrial,DNI,Lepidoptera,Lepidoptera,DNI
+Nootkadrilus,FALSE,,DNI,Nootkadrilus,Oligochaeta,DNI
+Nootkadrilus longisetosus,FALSE,,DNI,Nootkadrilus,Oligochaeta,DNI
+Noteridae,FALSE,mostly eastern and neotropical ( no known records from OR and WA)dubious ID (Nilsson 2011),DNI,Noteridae,Noteridae,DNI
+Notonecta,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Notonecta kirbyi,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Notonecta undulata,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Notonectidae,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Notostraca,TRUE,tadpole shrimp temporary habitats not lotic stream samples,DNI,DNI,DNI,DNI
+Nyctiophylax,TRUE,,DNI,Nyctiophylax,Nyctiophylax,DNI
+Ochrotrichia,FALSE,,Ochrotrichia,Ochrotrichia,Ochrotrichia,Ochrotrichia
+Ochrotrichia alsea,FALSE,,Ochrotrichia,Ochrotrichia,Ochrotrichia,Ochrotrichia
+Ochrotrichia stylata,FALSE,,Ochrotrichia,Ochrotrichia,Ochrotrichia,Ochrotrichia
+Ochthebius,FALSE,,Hydraenidae,Hydraenidae,Hydraenidae,Hydraenidae
+Octogomphus,FALSE,,Octogomphus,Octogomphus,Octogomphus,Octogomphus
+Octogomphus specularis,FALSE,,Octogomphus,Octogomphus,Octogomphus,Octogomphus
+Ocybrachypoda,FALSE,,DNI,Ocybrachypoda,Trombidiformes,DNI
+Odonata,FALSE,,DNI,Odonata,Odonata,DNI
+Odontoceridae,FALSE,,DNI,Odontoceridae,Odontoceridae,DNI
+Odontomesa,FALSE,,Odontomesa,Odontomesa,Odontomesa,Odontomesa
+Odontomesa fulva,FALSE,,Odontomesa,Odontomesa,Odontomesa,Odontomesa
+Odontomyia,FALSE,,Stratiomyidae,Odontomyia,Odontomyia,DNI
+Oecetis,FALSE,,Oecetis,Oecetis,Oecetis,DNI
+Oecetis avara,FALSE,,Oecetis,Oecetis,Oecetis,DNI
+Oecetis avara group,FALSE,,Oecetis,Oecetis,Oecetis,DNI
+Oecetis Avara Group,FALSE,,Oecetis,Oecetis,Oecetis,DNI
+Oecetis disjuncta,FALSE,,Oecetis,Oecetis,Oecetis,DNI
+Olea,TRUE,Marine,DNI,DNI,DNI,DNI
+Oligia,FALSE,Lot of these are terrestrial,DNI,Lepidoptera,Lepidoptera,DNI
+Oligoceras,TRUE,Sponges excluded,DNI,DNI,DNI,DNI
+Oligochaeta,FALSE,,DNI,Oligochaeta,Oligochaeta,DNI
+oligochaetous Clitellata,FALSE,,DNI,Oligochaeta,Oligochaeta,DNI
+Oligophlebodes,FALSE,,Oligophlebodes,Oligophlebodes,Oligophlebodes,Oligophlebodes
+Oligota,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Oliveridia,FALSE,disjunct dist. Good ID backing off to family,DNI,Orthocladiinae,Orthocladiinae,DNI
+Onocosmoecus,FALSE,two species in region,Onocosmoecus,Onocosmoecus,Onocosmoecus,Onocosmoecus
+Onocosmoecus unicolor,FALSE,two species in region,Onocosmoecus,Onocosmoecus,Onocosmoecus,Onocosmoecus
+Opeas,TRUE,Marine,DNI,DNI,DNI,DNI
+Ophidonais,FALSE,,Naidinae,Ophidonais,Oligochaeta,Naidinae
+Ophidonais serpentina,FALSE,,Naidinae,Ophidonais,Oligochaeta,Naidinae
+Ophiogomphus,FALSE,,Ophiogomphus,Ophiogomphus,Ophiogomphus,Ophiogomphus
+Ophiogomphus occidentis,FALSE,,Ophiogomphus,Ophiogomphus,Ophiogomphus,Ophiogomphus
+Ophiogomphus severus,FALSE,,Ophiogomphus,Ophiogomphus,Ophiogomphus,Ophiogomphus
+Optioservus,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Optioservus castanipennis,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Optioservus divergens,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Optioservus divergens/pecosensis,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Optioservus pecosensis,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Optioservus quadrimaculatus,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Optioservus Quadrimaculatus Gr.,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Optioservus quadrimaculatus group,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Optioservus seriatus,FALSE,,Optioservus,Optioservus,Optioservus,Optioservus
+Oravelia,TRUE,Shore bugs,DNI,DNI,DNI,DNI
+Orconectes,FALSE,,DNI,Orconectes,Orconectes,DNI
+Ordobrevia,FALSE,only one species in Genus,Ordobrevia nubifera,Ordobrevia nubifera,Ordobrevia nubifera,Ordobrevia nubifera
+Ordobrevia nubifera,FALSE,only one species in Genus,Ordobrevia nubifera,Ordobrevia nubifera,Ordobrevia nubifera,Ordobrevia nubifera
+Oregonacarus,FALSE,,DNI,Oregonacarus,Trombidiformes,DNI
+Oregonia,TRUE,marine,DNI,DNI,DNI,DNI
+Oreodytes,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Oreodytes,Oreodytes,Hydroporinae
+Oreodytes abbreviatus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Oreodytes,Oreodytes,Hydroporinae
+Oreodytes congruus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Oreodytes,Oreodytes,Hydroporinae
+Oreodytes obesus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Oreodytes,Oreodytes,Hydroporinae
+Oreodytes quadrimaculatus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Oreodytes,Oreodytes,Hydroporinae
+Oreodytes sanmarkii,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Oreodytes,Oreodytes,Hydroporinae
+Oreogeton,FALSE,,Oreogeton,Oreogeton,Oreogeton,Oreogeton
+Oreoleptis torrenticola,FALSE,,DNI,Oreoleptis torrenticola,Oreoleptis torrenticola,DNI
+Oribatei,FALSE,,Oribatida,Oribatida,Oribatida,Oribatida
+Oribatida,FALSE,,Oribatida,Oribatida,Oribatida,Oribatida
+Ormosia,FALSE,,DNI,Ormosia,Ormosia,DNI
+Orohermes,FALSE,,Corydalidae,Orohermes,Orohermes,Corydalidae
+Orohermes crepusculus,FALSE,,Corydalidae,Orohermes,Orohermes,Corydalidae
+Oroperla,FALSE,"single species, mostly California",DNI,Oroperla barbara,Oroperla barbara,DNI
+Oropuella,FALSE,,Oropuella,Oropuella,Oropuella,Oropuella
+Orthocladiinae,FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Orthocladiinae Genus 5 (Coffman and Ferrington),FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Orthocladiinae sp. (RAI Taxon # 0001),FALSE,,Oropuella,Oropuella,Oropuella,Oropuella
+Orthocladiinae sp. (RAI Taxon # 0004),FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Orthocladiinae sp. (RAI Taxon # 0013),FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Orthocladiinae sp. (RAI Taxon #0001),FALSE,,Oropuella,Oropuella,Oropuella,Oropuella
+Orthocladiinae sp. RAI # 0001,FALSE,,Oropuella,Oropuella,Oropuella,Oropuella
+Orthocladiinae sp. RAI # 0004,FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Orthocladiinae sp. RAI # 0011,FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Orthocladiini/Metriocnemini,FALSE,,DNI,Orthocladiinae,Orthocladiinae,DNI
+Orthocladius,FALSE,,Orthocladius,Orthocladius,Orthocladius,Orthocladius
+Orthocladius (Euorthocladius),FALSE,FORMATTING,Orthocladius,Orthocladius (Euorthocladius),Orthocladius (Euorthocladius),Orthocladius
+Orthocladius (Euorthocladius) rivicola group,FALSE,FORMATTING,Orthocladius,Orthocladius (Euorthocladius),Orthocladius (Euorthocladius),Orthocladius
+Orthocladius (Euorthocladius) rivulorum,FALSE,FORMATTING,Orthocladius,Orthocladius (Euorthocladius),Orthocladius (Euorthocladius),Orthocladius
+Orthocladius (Mesorthocladius),FALSE,FORMATTING,Orthocladius,Orthocladius (Mesorthocladius),Orthocladius (Mesorthocladius),Orthocladius
+Orthocladius (Orthocladius),FALSE,,Orthocladius,Orthocladius,Orthocladius,Orthocladius
+Orthocladius (Symposiocladius),FALSE,FORMATTING,Orthocladius,Orthocladius (Symposiocladius),Orthocladius (Symposiocladius),Orthocladius
+Orthocladius (Symposiocladius) lignicola,FALSE,FORMATTING,Orthocladius,Orthocladius (Symposiocladius),Orthocladius (Symposiocladius),Orthocladius
+Orthocladius (Symposiocladius) sp. 2,FALSE,FORMATTING,Orthocladius,Orthocladius (Symposiocladius),Orthocladius (Symposiocladius),Orthocladius
+Orthocladius annectens,FALSE,FORMATTING,Orthocladius,Orthocladius (Orthocladius),Orthocladius (Orthocladius),Orthocladius
+Orthocladius complex,FALSE,,Orthocladius complex,Orthocladius complex,Orthocladius complex,Orthocladius complex
+Orthocladius Complex,FALSE,FORMATTING,Orthocladius complex,Orthocladius complex,Orthocladius complex,Orthocladius complex
+Orthocladius consobrinus,FALSE,,Orthocladius,Orthocladius,Orthocladius,Orthocladius
+Orthocladius Eudactylocladius,FALSE,,Orthocladius,Orthocladius,Orthocladius,Orthocladius
+Orthocladius Euorthocladius,FALSE,FORMATTING,Orthocladius,Orthocladius (Euorthocladius),Orthocladius (Euorthocladius),Orthocladius
+Orthocladius lignicola,FALSE,FORMATTING,Orthocladius,Orthocladius (Symposiocladius),Orthocladius (Symposiocladius),Orthocladius
+Orthocladius Pogonocladius,FALSE,,Orthocladius,Orthocladius,Orthocladius,Orthocladius
+Orthotrichia,FALSE,,DNI,Orthotrichia,Orthotrichia,DNI
+Osobenus,FALSE,Single Species in Genus,DNI,Osobenus yakimae,Osobenus yakimae,DNI
+Osobenus ,FALSE,Trailing space after genus Name,DNI,Osobenus yakimae,Osobenus yakimae,DNI
+Osobenus yakimae,FALSE,Single Species in Genus,DNI,Osobenus yakimae,Osobenus yakimae,DNI
+Ostracoda,FALSE,,Ostracoda,Ostracoda,Ostracoda,Ostracoda
+Ostrocerca,FALSE,,DNI,Ostrocerca,Ostrocerca,DNI
+Oxidae,FALSE,,DNI,Oxidae,Trombidiformes,DNI
+Oxus,FALSE,,Oxus,Oxus,Trombidiformes,DNI
+Oxycera,FALSE,,Stratiomyidae,Oxycera,Oxycera,DNI
+Oxyethira,FALSE,,Oxyethira,Oxyethira,Oxyethira,DNI
+Pachydiplax,FALSE,"not known in OR, WA",DNI,Libellulidae,Libellulidae,DNI
+Pachydiplax longipennis,FALSE,"not known in OR, WA",DNI,Libellulidae,Libellulidae,DNI
+Pachyprosopis (Parapachyprosopis),TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Pacifastacus,FALSE,,Pacifastacus,Pacifastacus,Pacifastacus,Pacifastacus
+Pacifastacus connectens,FALSE,,Pacifastacus,Pacifastacus,Pacifastacus,Pacifastacus
+Pacifastacus leniusculus,FALSE,,Pacifastacus,Pacifastacus,Pacifastacus,Pacifastacus
+Pacifastacus leniusculus leniusculus,FALSE,,Pacifastacus,Pacifastacus,Pacifastacus,Pacifastacus
+Pagastia,FALSE,,Pagastia,Pagastia,Pagastia,Pagastia
+Pagastiella,FALSE,,DNI,Pagastiella,Pagastiella,DNI
+Pagurus aleuticus,TRUE,marine,DNI,DNI,DNI,DNI
+Paha,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Palaeagapetus,FALSE,single Species in region,Palaeagapetus nearcticus,Palaeagapetus nearcticus,Palaeagapetus nearcticus,DNI
+Palaeagapetus nearcticus,FALSE,single Species in region,Palaeagapetus nearcticus,Palaeagapetus nearcticus,Palaeagapetus nearcticus,DNI
+Palaemon,TRUE,Palaemonidae excluded,DNI,DNI,DNI,DNI
+Palaemon modestus,TRUE,Palaemonidae excluded,DNI,DNI,DNI,DNI
+Palaemonetes,TRUE,Palaemonidae excluded; Palaemonetes jr. syn of Palaemon,DNI,DNI,DNI,DNI
+Palaemonidae,TRUE,Palaemonidae excluded; likely Palaemon,DNI,DNI,DNI,DNI
+Palaeoheterodonta,TRUE,TOO COARSE,DNI,DNI,DNI,DNI
+Palmacorixa,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Palpomyiini,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Panisopsis,FALSE,,DNI,Panisopsis,Trombidiformes,DNI
+Panisus,FALSE,,DNI,Panisus,Trombidiformes,DNI
+Paracapnia,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Parachaetocladius,FALSE,,Parachaetocladius,Parachaetocladius,Parachaetocladius,DNI
+Parachironomus,FALSE,,DNI,Parachironomus,Parachironomus,DNI
+Paracladopelma,FALSE,,Paracladopelma,Paracladopelma,Paracladopelma,Paracladopelma
+Paracloeodes,FALSE,,DNI,Paracloeodes,Paracloeodes,DNI
+Paracloeodes minutus,FALSE,,DNI,Paracloeodes,Paracloeodes,DNI
+Paracricotopus,FALSE,,DNI,Paracricotopus,Paracricotopus,DNI
+Paracymus,FALSE,,Hydrophilidae,Paracymus,Paracymus,Hydrophilidae
+Paradelphomyia,FALSE,,DNI,Paradelphomyia,Paradelphomyia,DNI
+Parakiefferiella,FALSE,,Parakiefferiella,Parakiefferiella,Parakiefferiella,Parakiefferiella
+Paralauterborniella,FALSE,"Single species in Genus, historic spelling issues",DNI,Paralauterborniella,Paralauterborniella,DNI
+Paralauterborniella nigrohalterale,FALSE,"Single species in Genus, historic spelling issues",DNI,Paralauterborniella,Paralauterborniella,DNI
+Paralauterborniella nigrohalteralis,FALSE,"Single species in Genus, historic spelling issues",DNI,Paralauterborniella,Paralauterborniella,DNI
+Paralauterborniella nigrohaltere,FALSE,"Single species in Genus, historic spelling issues",DNI,Paralauterborniella,Paralauterborniella,DNI
+Paraleptonia,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Paraleptophlebia,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Paraleptophlebia bicornuta,FALSE,,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group
+Paraleptophlebia Bicornuta Gr.,FALSE,Formatting (Gr.),Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,DNI
+Paraleptophlebia bicornuta group,FALSE,,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group
+Paraleptophlebia Bicornuta Group,FALSE,,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group
+Paraleptophlebia bicornuta Group,FALSE,Formatting,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group
+Paraleptophlebia clara,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Paraleptophlebia debilis,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Paraleptophlebia gregalis,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Paraleptophlebia heteronea,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Paraleptophlebia memorialis,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Paraleptophlebia temporalis,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Paraleptophlebia vaciva,FALSE,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia
+Paraleptophlebia with tusks,FALSE,,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group,Paraleptophlebia Bicornuta Group
+Paraleuctra,FALSE,,DNI,Leuctridae,Leuctridae,DNI
+Paraleuctra occidentalis,FALSE,,DNI,Leuctridae,Leuctridae,DNI
+Paralimnophyes,FALSE,,DNI,Paralimnophyes,Paralimnophyes,DNI
+Parameletus,FALSE,"not known from OR, WA, known from ID, MT",DNI,Siphlonuridae,Siphlonuridae,DNI
+Paramerina,FALSE,Current Nomenclature,Zavrelimyia,Zavrelimyia,Zavrelimyia,Zavrelimyia
+Paramerina/Zavrelimyia,FALSE,Current Nomenclature,Zavrelimyia,Zavrelimyia,Zavrelimyia,Zavrelimyia
+Parametriocnemus,FALSE,,Parametriocnemus,Parametriocnemus,Parametriocnemus,Parametriocnemus
+Paramideopsis,FALSE,,DNI,Paramideopsis,Trombidiformes,DNI
+Paramoera,TRUE,marine,DNI,DNI,DNI,DNI
+Paranais,FALSE,,Naidinae,Paranais,Oligochaeta,Naidinae
+Parapelopia,FALSE,,DNI,Tanypodinae,Tanypodinae,DNI
+Paraperla,FALSE,,Paraperla,Paraperla,Paraperla,Paraperla
+Paraperla frontalis,FALSE,,Paraperla,Paraperla,Paraperla,Paraperla
+Paraperlinae,FALSE,,DNI,Paraperlinae,Paraperlinae,DNI
+Paraphaenocladius,FALSE,,Paraphaenocladius,Paraphaenocladius,Paraphaenocladius,Paraphaenocladius
+Paraphaenocladius new species,FALSE,undescribed provisional taxon,Paraphaenocladius,Paraphaenocladius,Paraphaenocladius,Paraphaenocladius
+Paraplea,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Parapoynx,FALSE,Lot of these are terrestrial,DNI,Lepidoptera,Lepidoptera,DNI
+Parapsyche,FALSE,,DNI,Parapsyche,Parapsyche,DNI
+Parapsyche almota,FALSE,,Parapsyche almota,Parapsyche almota,Parapsyche almota,Parapsyche almota
+Parapsyche elsis,FALSE,,Parapsyche elsis,Parapsyche elsis,Parapsyche elsis,Parapsyche elsis
+Parapsyche elsis complex,FALSE,,Parapsyche elsis,Parapsyche elsis,Parapsyche elsis,Parapsyche elsis
+Parapsyche turbinata,FALSE,,DNI,Parapsyche turbinata,Parapsyche turbinata,DNI
+Parasmittia,FALSE,,DNI,Parasmittia,Parasmittia,DNI
+Paratanytarsus,FALSE,,Paratanytarsus,Paratanytarsus,Paratanytarsus,Paratanytarsus
+Paratendipes,FALSE,,Paratendipes,Paratendipes,Paratendipes,Paratendipes
+Parathyas,FALSE,,DNI,Parathyas,Trombidiformes,DNI
+Paratrichocladius,FALSE,,DNI,Paratrichocladius,Paratrichocladius,DNI
+Paratrissocladius,FALSE,,DNI,Paratrissocladius,Paratrissocladius,DNI
+Parochlus,FALSE,,Podonominae,Parochlus,Parochlus,Podonominae
+Parorthocladius,FALSE,,Parorthocladius,Parorthocladius,Parorthocladius,Parorthocladius
+Parthina,FALSE,,DNI,Parthina,Parthina,DNI
+Parthina linea,FALSE,,DNI,Parthina,Parthina,DNI
+Partnunia,FALSE,,DNI,Partnunia,Trombidiformes,DNI
+Paucicalcaria,FALSE,,DNI,Hydroptilidae,Hydroptilidae,DNI
+Pedicia,FALSE,,Pedicia,Pedicia,Pedicia,Pedicia
+Pedicia/Tricyphona,FALSE,,DNI,Pediciidae,Pediciidae,DNI
+Pedicidiidae,FALSE,spelling error ,DNI,Pediciidae,Pediciidae,DNI
+Pediciidae,FALSE,,DNI,Pediciidae,Pediciidae,DNI
+Pedomoecus,FALSE,Single Species in Genus,Pedomoecus sierra,Pedomoecus sierra,Pedomoecus sierra,Pedomoecus sierra
+Pedomoecus sierra,FALSE,Single Species in Genus,Pedomoecus sierra,Pedomoecus sierra,Pedomoecus sierra,Pedomoecus sierra
+Pelecorhynchidae,FALSE,,Glutops,Glutops,Glutops,Glutops
+Peltodytes,FALSE,,Haliplidae,Peltodytes,Peltodytes,Haliplidae
+Peltodytes callosus,FALSE,,Haliplidae,Peltodytes,Peltodytes,Haliplidae
+Peltoperla,FALSE,eastern taxon,DNI,Peltoperlidae,Peltoperlidae,DNI
+Peltoperlidae,FALSE,,DNI,Peltoperlidae,Peltoperlidae,DNI
+Pentaneura,FALSE,,Pentaneura,Pentaneura,Pentaneura,Pentaneura
+Pentaneuriini,FALSE,,DNI,Pentaneurini,Pentaneurini,DNI
+Pentaneurini,FALSE,,DNI,Pentaneurini,Pentaneurini,DNI
+Pericoma,FALSE,FORMATTING,Pericomaini,Pericomaini,Pericomaini,Pericomaini
+Pericoma / Telmatoscopus,FALSE,FORMATTING,Pericomaini,Pericomaini,Pericomaini,Pericomaini
+Pericoma/Telmatoscopus,FALSE,FORMATTING,Pericomaini,Pericomaini,Pericomaini,Pericomaini
+Pericoma/Telmatoscopus Group,FALSE,FORMATTING,Pericomaini,Pericomaini,Pericomaini,Pericomaini
+Pericomaini,FALSE,FORMATTING,Pericomaini,Pericomaini,Pericomaini,Pericomaini
+Perithemis,FALSE,,DNI,Libellulidae,Libellulidae,DNI
+Perlesta,FALSE,eastern taxon not known in region,DNI,Perlidae,Perlidae,DNI
+Perlidae,FALSE,,DNI,Perlidae,Perlidae,DNI
+Perlidae/Perlodidae Group,FALSE,,DNI,Plecoptera,Plecoptera,DNI
+Perlinodes,FALSE,"Single Species in Genus, hisotircally mispelled",Perlinodes aureus,Perlinodes aureus,Perlinodes aureus,Perlinodes aureus
+Perlinodes aurea,FALSE,"Single Species in Genus, hisotircally mispelled",Perlinodes aureus,Perlinodes aureus,Perlinodes aureus,Perlinodes aureus
+Perlinodes aureus,FALSE,"Single Species in Genus, hisotircally mispelled",Perlinodes aureus,Perlinodes aureus,Perlinodes aureus,Perlinodes aureus
+Perlodidae,FALSE,,DNI,Perlodidae,Perlodidae,DNI
+Perlodinae,FALSE,,DNI,Perlodidae,Perlodidae,DNI
+Perlomyia,FALSE,,DNI,Perlomyia,Perlomyia,DNI
+Pero,TRUE,Terrestrial?,DNI,DNI,DNI,DNI
+Petromyzontidae,TRUE,FISH,DNI,DNI,DNI,DNI
+Petrophila,FALSE,,Petrophila,Petrophila,Petrophila,DNI
+Phaenopsectra,FALSE,,Phaenopsectra,Phaenopsectra,Phaenopsectra,Phaenopsectra
+Phaenopsectra Punctipes Group,FALSE,,Phaenopsectra,Phaenopsectra,Phaenopsectra,Phaenopsectra
+Phaenopsectra punctipes group,FALSE,,Phaenopsectra,Phaenopsectra,Phaenopsectra,Phaenopsectra
+Phaenopsectra/Tribelos,FALSE,,DNI,Chironominae,Chironominae,DNI
+Phanogomphus,FALSE,,DNI,Gomphidae,Gomphidae,DNI
+Phanogomphus kurilis,FALSE,,DNI,Gomphidae,Gomphidae,DNI
+Philocasca,FALSE,,DNI,Philocasca,Philocasca,DNI
+Philopotamidae,FALSE,,DNI,Philopotamidae,Philopotamidae,DNI
+Philopotamoidea,FALSE,TOO COARSE,DNI,Philopotamoidea,Philopotamoidea,DNI
+Philorus,FALSE,,Blephariceridae,Blephariceridae,Blephariceridae,Blephariceridae
+Phoridae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Phryganeidae,FALSE,,DNI,Phryganeidae,Phryganeidae,DNI
+Phyllodromia,FALSE,,DNI,Empididae,Empididae,DNI
+Physa,FALSE,,Physella,Physella,Physella,Physella
+Physa/Physella,FALSE,,Physella,Physella,Physella,Physella
+Physella,FALSE,,Physella,Physella,Physella,Physella
+Physidae,FALSE,,Physella,Physella,Physella,Physella
+Pictetiella,FALSE,"not known from OR, WA, known from ID, MT",DNI,Perlidae,Perlidae,DNI
+Pictetiella expansa,FALSE,"not known from OR, WA, known from ID, MT",DNI,Perlidae,Perlidae,DNI
+Piguetiella,FALSE,,DNI,Piguetiella,Oligochaeta,DNI
+Pilaria,FALSE,,DNI,Pilaria,Pilaria,DNI
+Piona,FALSE,,DNI,Piona,Trombidiformes,DNI
+Pionacercus,FALSE,,DNI,Pionacercus,Trombidiformes,DNI
+Pionidae,FALSE,,DNI,Pionidae,Trombidiformes,DNI
+Pionopsis,FALSE,,DNI,Pionidae,Trombidiformes,DNI
+Piscicola,FALSE,,Hirudinida,Piscicolidae,Piscicolidae,Hirudinida
+Piscicola milneri,FALSE,,Hirudinida,Piscicolidae,Piscicolidae,Hirudinida
+Piscicola salmositica,FALSE,,Hirudinida,Cystobranchus salmositicus,Cystobranchus salmositicus,Hirudinida
+Piscicolidae,FALSE,,Hirudinida,Piscicolidae,Piscicolidae,Hirudinida
+Pisidae,FALSE,,Sphaeriidae,Sphaeriidae,Sphaeriidae,Sphaeriidae
+Pisidiidae,FALSE,,Sphaeriidae,Sphaeriidae,Sphaeriidae,Sphaeriidae
+Pisidium,FALSE,,Sphaeriidae,Pisidium,Pisidium,Sphaeriidae
+Placobdella,FALSE,,Hirudinida,Glossiphoniidae,Glossiphoniidae,Hirudinida
+Placobdella ornata,FALSE,,Hirudinida,Glossiphoniidae,Glossiphoniidae,Hirudinida
+Planaria,FALSE,,Trepaxonemata,Trepaxonemata,Trepaxonemata,Trepaxonemata
+Planariidae,FALSE,,Trepaxonemata,Trepaxonemata,Trepaxonemata,Trepaxonemata
+Planorbella,FALSE,,DNI,Planorbella,Planorbella,DNI
+Planorbella trivolvis,FALSE,,DNI,Planorbella,Planorbella,DNI
+Planorbidae,FALSE,,DNI,Planorbidae,Planorbidae,DNI
+Planorbula,FALSE,,DNI,Planorbidae,Planorbidae,DNI
+Platambus,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Plathemis,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Plathemis lydia,FALSE,,Agabinae,Agabinae,Agabinae,DNI
+Platyhydracarus,FALSE,,Athienemanniidae,Platyhydracarus,Trombidiformes,DNI
+Platysmittia,FALSE,,DNI,Platysmittia,Platysmittia,DNI
+Platysmittia bilyji,FALSE,,DNI,Platysmittia,Platysmittia,DNI
+Platysmittia fimbriata,FALSE,,DNI,Platysmittia,Platysmittia,DNI
+Platytipula,FALSE,Subgenus of Tipula,Tipula,Tipula,Tipula,Tipula
+Plauditus,FALSE,,DNI,Plauditus,Plauditus,DNI
+Plauditus punctiventris,FALSE,,DNI,Iswaeon,Iswaeon,DNI
+Plecoptera,FALSE,,DNI,Plecoptera,Plecoptera,DNI
+Plectrocnemia,FALSE,,Polycentropus sensu lato,Polycentropus sensu lato,Polycentropus sensu lato,DNI
+Pleuroceridae,FALSE,,Juga,Juga,Juga,Juga
+Plumiperla,FALSE,,DNI,Chloroperlidae,Chloroperlidae,DNI
+Plumiperla diversa,FALSE,,DNI,Chloroperlidae,Chloroperlidae,DNI
+Podmosta,FALSE,,DNI,Podmosta,Podmosta,DNI
+Podocopida,FALSE,,Ostracoda,Ostracoda,Ostracoda,Ostracoda
+Podonominae,FALSE,,Podonominae,Podonominae,Podonominae,Podonominae
+Poduridae,TRUE,Collembola excluded,DNI,DNI,DNI,DNI
+Polia,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Polyara,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Polycelis,FALSE,,Polycelis,Polycelis,Polycelis,Polycelis
+Polycelis coronata,FALSE,,Polycelis,Polycelis,Polycelis,Polycelis
+Polycentropodidae,FALSE,,DNI,Polycentropodidae,Polycentropodidae,DNI
+Polycentropodinae,FALSE,,DNI,Polycentropodidae,Polycentropodidae,DNI
+Polycentropus,FALSE,,Polycentropus sensu lato,Polycentropus,Polycentropus,Polycentropus sensu lato
+Polycentropus sensu lato,FALSE,,Polycentropus sensu lato,Polycentropus,Polycentropus,Polycentropus sensu lato
+Polychaeta,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Polymitarcyidae,FALSE,not known from region more eastern,DNI,Polymitarcyidae,Polymitarcyidae,DNI
+Polypedilum,FALSE,,Polypedilum,Polypedilum,Polypedilum,Polypedilum
+Polypedilum aviceps,FALSE,,Polypedilum,Polypedilum,Polypedilum,Polypedilum
+Polypedilum Pentapedilum,FALSE,,Polypedilum,Polypedilum,Polypedilum,Polypedilum
+Polypedilum Scalaenum Group,FALSE,,Polypedilum,Polypedilum,Polypedilum,Polypedilum
+Polypedilum scalaenum Group,FALSE,,Polypedilum,Polypedilum,Polypedilum,Polypedilum
+Polypedilum Tripodura Gr.,FALSE,,Polypedilum,Polypedilum,Polypedilum,Polypedilum
+Polypedilum tritum,FALSE,,Polypedilum,Polypedilum,Polypedilum,Polypedilum
+Pomatiopsidae,FALSE,TOO COARSE,DNI,Gastropoda,Gastropoda,DNI
+Pomoleuctra,FALSE,,Leuctridae,Leuctridae,Leuctridae,Leuctridae
+Porifera,TRUE,Sponges excluded,DNI,DNI,DNI,DNI
+Postelichus,FALSE,,DNI,Postelichus,Postelichus,DNI
+Potamanthidae,FALSE,,DNI,Potamanthidae,Potamanthidae,DNI
+Potamopyrgus antipodarum,FALSE,Single Species- non-native,DNI,Potamopyrgus antipodarum,Potamopyrgus antipodarum,DNI
+Potamothrix,FALSE,,Tubificinae,Potamothrix,Oligochaeta,Tubificinae
+Potthastia,FALSE,,Potthastia,Potthastia,Potthastia,Potthastia
+Potthastia Gaedii Gr.,FALSE,formatting,Potthastia,Potthastia Gaedii Group,Potthastia Gaedii Group,Potthastia
+Potthastia gaedii group,FALSE,formatting,Potthastia,Potthastia Gaedii Group,Potthastia Gaedii Group,Potthastia
+Potthastia Gaedii Group,FALSE,formatting,Potthastia,Potthastia Gaedii Group,Potthastia Gaedii Group,Potthastia
+Potthastia gaedii Group,FALSE,formatting,Potthastia,Potthastia Gaedii Group,Potthastia Gaedii Group,Potthastia
+Potthastia Longimana Group,FALSE,spelling and formatting,Potthastia,Potthastia Longimanus Group,Potthastia Longimanus Group,Potthastia
+Potthastia longimana group,FALSE,spelling and formatting,Potthastia,Potthastia Longimanus Group,Potthastia Longimanus Group,Potthastia
+Potthastia longimana Group,FALSE,spelling and formatting,Potthastia,Potthastia Longimanus Group,Potthastia Longimanus Group,Potthastia
+Potthastia Longimanus Gr.,FALSE,spelling and formatting,Potthastia,Potthastia Longimanus Group,Potthastia Longimanus Group,Potthastia
+Potthastia longimanus group,FALSE,spelling and formatting,Potthastia,Potthastia Longimanus Group,Potthastia Longimanus Group,Potthastia
+Potthastia Longimanus Group,FALSE,spelling and formatting,Potthastia,Potthastia Longimanus Group,Potthastia Longimanus Group,Potthastia
+Prionocera,FALSE,rareish Tipulid s.s. ponds and lake margins,DNI,Prionocera,Prionocera,DNI
+Pristina,FALSE,,Pristina,Pristina,Oligochaeta,DNI
+Pristina aequiseta,FALSE,,Pristina,Pristina,Oligochaeta,DNI
+Pristina jenkinae,FALSE,,Pristina,Pristina,Oligochaeta,DNI
+Pristinicola,FALSE,Single Species in NA,Pristinicola hemphilli,Pristinicola hemphilli,Pristinicola hemphilli,Pristinicola hemphilli
+Pristinicola hemphilli,FALSE,Single Species in NA,Pristinicola hemphilli,Pristinicola hemphilli,Pristinicola hemphilli,Pristinicola hemphilli
+Probezzia,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Procerastea nematodes,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Procladius,FALSE,,Procladius,Procladius,Procladius,Procladius
+Proclinopyga,FALSE,,Proclinopyga,Proclinopyga,Proclinopyga,DNI
+Procloeon,FALSE,,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon,Anafroptilum/Procloeon
+Prodiamesa,FALSE,,Prodiamesa,Prodiamesa,Prodiamesa,Prodiamesa
+Prodiamesinae,FALSE,,DNI,Prodiamesinae,Prodiamesinae,DNI
+Promenetus,FALSE,,DNI,Planorbidae,Planorbidae,DNI
+Promenetus umbilicatellus,FALSE,,DNI,Planorbidae,Planorbidae,DNI
+Promoresia,TRUE,"Dubious ID, known from Eastern half of country",DNI,DNI,DNI,DNI
+Pronoterus,FALSE,not known from region more eastern,DNI,Noteridae,Noteridae,DNI
+Prosimuliini,FALSE,,DNI,Simuliidae,Simuliidae,DNI
+Prosimulium,FALSE,Slashed taxon,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium
+Prosimulium impostor,FALSE,Slashed taxon,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium
+Prosimulium/Helodon,FALSE,Slashed taxon,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium,Helodon/Prosimulium
+Prosobranchia,FALSE,TOO COARSE,DNI,Prosobranchia,Prosobranchia,DNI
+Prostoia,FALSE,,DNI,Prostoia,Prostoia,DNI
+Prostoia besametsa,FALSE,,DNI,Prostoia,Prostoia,DNI
+Prostoma,FALSE,,Prostoma,Prostoma,Prostoma,DNI
+Protanyderus,FALSE,,DNI,Tanyderidae,Tanyderidae,DNI
+Protanypus,FALSE,,DNI,Protanypus,Protanypus,DNI
+Protochauliodes,FALSE,,Corydalidae,Protochauliodes,Protochauliodes,Corydalidae
+Protochauliodes spenceri,FALSE,,Corydalidae,Protochauliodes,Protochauliodes,Corydalidae
+Protoptila,FALSE,,Protoptila,Protoptila,Protoptila,DNI
+Protoptila erotica,FALSE,,Protoptila,Protoptila,Protoptila,DNI
+Protoptilinae,FALSE,,DNI,Glossosomatidae,Glossosomatidae,DNI
+Protzia,FALSE,,Protzia,Protzia,Trombidiformes,Protzia
+Protzia exima,FALSE,,Protzia,Protzia,Trombidiformes,Protzia
+Protziidae,FALSE,,DNI,Hydryphantidae,Trombidiformes,DNI
+Psectrocladius,FALSE,,Psectrocladius,Psectrocladius,Psectrocladius,Psectrocladius
+Psectrocladius Allopsectrocladius,FALSE,,Psectrocladius,Psectrocladius,Psectrocladius,Psectrocladius
+Psectrocladius Limbatellus Gr.,FALSE,,Psectrocladius,Psectrocladius,Psectrocladius,Psectrocladius
+Psectrocladius Sordidellus Gr.,FALSE,,Psectrocladius,Psectrocladius,Psectrocladius,Psectrocladius
+Psectrotanypus,FALSE,,DNI,Psectrotanypus,Psectrotanypus,DNI
+Psephenidae,FALSE,,DNI,Psephenidae,Psephenidae,DNI
+Psephenus,FALSE,,Psephenus,Psephenus,Psephenus,Psephenus
+Psephenus falli,FALSE,,Psephenus,Psephenus,Psephenus,Psephenus
+Psephenus herricki,FALSE,,Psephenus,Psephenus,Psephenus,Psephenus
+Pseudochironomini,FALSE,,DNI,Pseudochironomini,Pseudochironomini,DNI
+Pseudochironomus,FALSE,,DNI,Pseudochironomus,Pseudochironomus,DNI
+Pseudocloeon,FALSE,Current Nomenclature,Labiobaetis,Labiobaetis,Labiobaetis,Labiobaetis
+Pseudocloeon propinquum,FALSE,Current Nomenclature,Labiobaetis,Labiobaetis,Labiobaetis,Labiobaetis
+Pseudodiamesa,FALSE,,Pseudodiamesa,Pseudodiamesa,Pseudodiamesa,Pseudodiamesa
+Pseudofeltria,FALSE,,DNI,Pseudofeltria,Trombidiformes,DNI
+Pseudolimnophila,FALSE,,DNI,Pseudolimnophila,Pseudolimnophila,DNI
+Pseudorthocladius,FALSE,,DNI,Pseudorthocladius,Pseudorthocladius,DNI
+Pseudosmittia,FALSE,,Pseudosmittia,Pseudosmittia,Pseudosmittia,DNI
+Pseudostenophylax,FALSE,,DNI,Pseudostenophylax,Pseudostenophylax,DNI
+Pseudostenophylax edwardsi,FALSE,,DNI,Pseudostenophylax,Pseudostenophylax,DNI
+Pseudosuccinea,FALSE,,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Pseudosuccinea columella,FALSE,,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Psilometriocnemus,FALSE,,Psilometriocnemus,Psilometriocnemus,Psilometriocnemus,Psilometriocnemus
+Psilometriocnemus triannulatus,FALSE,,Psilometriocnemus,Psilometriocnemus,Psilometriocnemus,Psilometriocnemus
+Psilotreta,TRUE,Not known in region ( Eastern Taxon),DNI,DNI,DNI,DNI
+Psychoda,FALSE,,DNI,Psychodini,Psychodini,DNI
+Psychodidae,FALSE,,DNI,Psychodidae,Psychodidae,DNI
+Psychodinae,FALSE,,DNI,Psychodidae,Psychodidae,DNI
+Psychodini,FALSE,,DNI,Psychodini,Psychodini,DNI
+Psychoglypha,FALSE,,Psychoglypha,Psychoglypha,Psychoglypha,Psychoglypha
+Psychoglypha bella,FALSE,,Psychoglypha,Psychoglypha bella,Psychoglypha bella,Psychoglypha
+Psychoglypha subborealis,FALSE,,Psychoglypha,Psychoglypha subborealis,Psychoglypha subborealis,Psychoglypha
+Psychomyia,FALSE,,Psychomyia,Psychomyia,Psychomyia,Psychomyia
+Psychomyia flavida,FALSE,,Psychomyia,Psychomyia,Psychomyia,Psychomyia
+Psychomyia lumina,FALSE,,Psychomyia,Psychomyia,Psychomyia,Psychomyia
+Psychomyiidae,FALSE,,DNI,Psychomyiidae,Psychomyiidae,DNI
+Pteronarcella,FALSE,,Pteronarcella,Pteronarcella,Pteronarcella,Pteronarcella
+Pteronarcella badia,FALSE,,Pteronarcella,Pteronarcella,Pteronarcella,Pteronarcella
+Pteronarcella regularis,FALSE,,Pteronarcella,Pteronarcella,Pteronarcella,Pteronarcella
+Pteronarcyidae,FALSE,,DNI,Pteronarcyidae,Pteronarcyidae,DNI
+Pteronarcys,FALSE,,DNI,Pteronarcys,Pteronarcys,DNI
+Pteronarcys californica,FALSE,,Pteronarcys californica,Pteronarcys californica,Pteronarcys californica,Pteronarcys californica
+Pteronarcys dorsata,FALSE,,DNI,Pteronarcys dorsata,Pteronarcys dorsata,DNI
+Pteronarcys princeps,FALSE,,Pteronarcys princeps,Pteronarcys princeps,Pteronarcys princeps,Pteronarcys princeps
+Ptiliidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Ptilodactylidae,FALSE,,DNI,Ptilodactylidae,Ptilodactylidae,DNI
+Ptilostomis,FALSE,,DNI,Ptilostomis,Ptilostomis,DNI
+Ptilostomis ocellifera,FALSE,,DNI,Ptilostomis,Ptilostomis,DNI
+Ptychoptera,FALSE,,Ptychoptera,Ptychoptera,Ptychoptera,Ptychoptera
+Ptychopteridae,FALSE,,DNI,Ptychopteridae,Ptychopteridae,DNI
+Pulmonata,FALSE,TOO COARSE,DNI,Pulmonata,Pulmonata,DNI
+Pycnopsyche,FALSE,,DNI,Limnephilidae,Limnephilidae,DNI
+Pyganodon,FALSE,,DNI,Unionoidea,Unionoidea,DNI
+Pyralidae,FALSE,Lot of these are terrestrial,DNI,Lepidoptera,Lepidoptera,DNI
+Pyrgulopsis,FALSE,,Truncatelloidea,Truncatelloidea,Truncatelloidea,Truncatelloidea
+Quistadrilus multisetosus,FALSE,,Tubificinae,Quistradrilus,Oligochaeta,Tubificinae
+Quistradrilus,FALSE,,Tubificinae,Quistradrilus,Oligochaeta,Tubificinae
+Radix,FALSE,,Lymnaeidae,Radix,Radix,Lymnaeidae
+Radix auricularia,FALSE,,Lymnaeidae,Radix,Radix,Lymnaeidae
+Radotanypus,FALSE,,Radotanypus,Radotanypus,Radotanypus,Radotanypus
+Radotanypus submarginella,FALSE,,Radotanypus,Radotanypus,Radotanypus,Radotanypus
+Ramellogammarus,FALSE,,Anisogammaridae,Ramellogammarus,Ramellogammarus,DNI
+Ranatra,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Ranatra fusca,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Randidrilus,FALSE,,DNI,Enchytraeidae,Oligochaeta,DNI
+Reomyia,FALSE,Current Nomenclature,Zavrelimyia,Zavrelimyia,Zavrelimyia,Zavrelimyia
+Rhabdomastix,FALSE,,Rhabdomastix,Rhabdomastix,Rhabdomastix,Rhabdomastix
+Rhabdomastix (Lurdia),FALSE,,Rhabdomastix,Rhabdomastix (Lurdia),Rhabdomastix (Lurdia),Rhabdomastix
+Rhabdomastix (Rhabdomastix (Rhabdomastix)),FALSE,,Rhabdomastix,Rhabdomastix,Rhabdomastix,Rhabdomastix
+Rhabdomastix fascigera gr.,FALSE,,Rhabdomastix,Rhabdomastix,Rhabdomastix,Rhabdomastix
+Rhabdomastix Fascigera Group,FALSE,,Rhabdomastix,Rhabdomastix,Rhabdomastix,Rhabdomastix
+Rhabdomastix fascigera group,FALSE,best to leave at genus,Rhabdomastix,Rhabdomastix,Rhabdomastix,Rhabdomastix
+Rhabdomastix fascigera Group,FALSE,formatting and best to leave at genus,Rhabdomastix,Rhabdomastix,Rhabdomastix,Rhabdomastix
+Rhabdomastix setigera gr.,FALSE,,Rhabdomastix,Rhabdomastix (Lurdia),Rhabdomastix (Lurdia),Rhabdomastix
+Rhabdomastix Setigera Gr.,FALSE,best to leave at subgenus,Rhabdomastix,Rhabdomastix (Lurdia),Rhabdomastix (Lurdia),Rhabdomastix
+Rhabdomastix Setigera Group,FALSE,,Rhabdomastix,Rhabdomastix (Lurdia),Rhabdomastix (Lurdia),Rhabdomastix
+Rhabdomastix setigera group,FALSE,best to leave at subgenus,Rhabdomastix,Rhabdomastix (Lurdia),Rhabdomastix (Lurdia),Rhabdomastix
+Rhabdomastix setigera Group,FALSE,formatting and best to leave at subgenus,Rhabdomastix,Rhabdomastix (Lurdia),Rhabdomastix (Lurdia),Rhabdomastix
+Rhagovelia,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Rhagovelia distincta,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Rhantus,FALSE,,DNI,Colymbetinae,Dytiscidae,DNI
+Rhantus binotatus,FALSE,,DNI,Colymbetinae,Dytiscidae,DNI
+Rhantus consimilis,FALSE,,DNI,Colymbetinae,Dytiscidae,DNI
+Rheocricotopus,FALSE,,Rheocricotopus,Rheocricotopus,Rheocricotopus,Rheocricotopus
+Rheocricotopus effusus,FALSE,,Rheocricotopus,Rheocricotopus,Rheocricotopus,Rheocricotopus
+Rheocricotopus eminellobus,FALSE,,Rheocricotopus,Rheocricotopus,Rheocricotopus,Rheocricotopus
+Rheopelopia,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Rheosmittia,FALSE,,DNI,Rheosmittia,Rheosmittia,DNI
+Rheotanytarsus,FALSE,,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus
+Rheotanytarsus exiguus,FALSE,,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus
+Rheotanytarsus exiguus Group,FALSE,,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus
+Rheotanytarsus Exiguus Group,FALSE,,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus
+Rheotanytarsus pellucidus,FALSE,,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus
+Rheotanytarsus pellucidus Group,FALSE,,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus
+Rheotanytarsus Pellucidus Group,FALSE,,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus,Rheotanytarsus
+Rhionaeshna,FALSE,,Aeshnidae,Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,DNI
+Rhips,FALSE,,Nemata,Nemata,Rhips,Nemata
+Rhithrogena,FALSE,,Rhithrogena,Rhithrogena,Rhithrogena,Rhithrogena
+Rhithrogena hageni,FALSE,,Rhithrogena,Rhithrogena,Rhithrogena,Rhithrogena
+Rhithrogena robusta,FALSE,,Rhithrogena,Rhithrogena,Rhithrogena,Rhithrogena
+Rhizelmis,FALSE,,DNI,Rhizelmis,Rhizelmis,DNI
+Rhizelmis nigra,FALSE,,DNI,Rhizelmis,Rhizelmis,DNI
+Rhyacodrilinae,FALSE,,DNI,Rhyacodrilinae,Oligochaeta,DNI
+Rhyacodrilis,FALSE,,DNI,Rhyacodrilus,Oligochaeta,DNI
+Rhyacodrilus,FALSE,,DNI,Rhyacodrilus,Oligochaeta,DNI
+Rhyacodrilus falciformis,FALSE,,DNI,Rhyacodrilus,Oligochaeta,DNI
+Rhyacophila,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila Alberta Gr.,FALSE,formatting,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group
+Rhyacophila alberta group,FALSE,formatting,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group
+Rhyacophila Alberta Group,FALSE,formatting,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group
+Rhyacophila alberta Group,FALSE,formatting,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group
+Rhyacophila angelita,FALSE,formatting,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group
+Rhyacophila Angelita Gr.,FALSE,formatting,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group
+Rhyacophila angelita group,FALSE,formatting,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group
+Rhyacophila Angelita Group,FALSE,formatting,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group
+Rhyacophila angelita Group,FALSE,formatting,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group
+Rhyacophila arnaudi,FALSE,formatting,Rhyacophila arnaudi,Rhyacophila arnaudi,Rhyacophila arnaudi,Rhyacophila arnaudi
+Rhyacophila atrata,FALSE,formatting,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex
+Rhyacophila atrata complex,FALSE,formatting,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex
+Rhyacophila atrata Group,FALSE,formatting,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex
+Rhyacophila atrata group,FALSE,formatting,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex
+Rhyacophila basalis,FALSE,formatting,DNI,Rhyacophila Basalis Group,Rhyacophila Basalis Group,DNI
+Rhyacophila basalis group,FALSE,formatting,DNI,Rhyacophila Basalis Group,Rhyacophila Basalis Group,DNI
+Rhyacophila Basalis Group,FALSE,formatting,DNI,Rhyacophila Basalis Group,Rhyacophila Basalis Group,DNI
+Rhyacophila betteni,FALSE,formatting,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila Betteni Gr.,FALSE,formatting,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila betteni group,FALSE,formatting,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila Betteni Group,FALSE,formatting,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila betteni Group,FALSE,formatting,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila blarina,FALSE,formatting,Rhyacophila blarina,Rhyacophila blarina,Rhyacophila blarina,Rhyacophila blarina
+Rhyacophila brevicephala,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila brunnea,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila brunnea group,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila brunnea Group,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila Brunnea/Vemna Gr.,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila brunnea/vemna group,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila Brunnea/Vemna Group,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila brunnea/vemna Group,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila brunnea/vemna groups,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila Brunnea/Vemna Groups,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila chilsia,FALSE,formatting- this should be in betteni group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila coloradensis,FALSE,formatting,DNI,Rhyacophila Coloradensis Group,Rhyacophila Coloradensis Group,DNI
+Rhyacophila Coloradensis Gr.,FALSE,formatting,DNI,Rhyacophila Coloradensis Group,Rhyacophila Coloradensis Group,DNI
+Rhyacophila coloradensis group,FALSE,formatting,DNI,Rhyacophila Coloradensis Group,Rhyacophila Coloradensis Group,DNI
+Rhyacophila Coloradensis Group,FALSE,formatting,DNI,Rhyacophila Coloradensis Group,Rhyacophila Coloradensis Group,DNI
+Rhyacophila coloradensis Group,FALSE,formatting,DNI,Rhyacophila Coloradensis Group,Rhyacophila Coloradensis Group,DNI
+Rhyacophila ecosa,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila Ecosa Gr,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila Ecosa group,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila Ecosa Group,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila ecosa group,FALSE,best to leave at genus,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila ecosa Group,FALSE,best to leave at genus,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila grandis,FALSE,formatting,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group
+Rhyacophila Grandis Gr.,FALSE,formatting,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group
+Rhyacophila grandis group,FALSE,formatting,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group
+Rhyacophila Grandis Group,FALSE,formatting,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group
+Rhyacophila hyalinata,FALSE,formatting,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group
+Rhyacophila Hyalinata Gr.,FALSE,formatting,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group
+Rhyacophila hyalinata group,FALSE,formatting,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group
+Rhyacophila Hyalinata Group,FALSE,formatting,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group
+Rhyacophila hyalinata Group,FALSE,formatting,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group
+Rhyacophila inculta,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila iranda,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila Iranda Gr,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila Iranda Group,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila iranda group,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila lieftincki,FALSE,formatting,Rhyacophila arnaudi,Rhyacophila arnaudi,Rhyacophila arnaudi,Rhyacophila arnaudi
+Rhyacophila Lieftincki Gr.,FALSE,formatting,Rhyacophila arnaudi,Rhyacophila arnaudi,Rhyacophila arnaudi,Rhyacophila arnaudi
+Rhyacophila lieftincki group,FALSE,formatting,Rhyacophila arnaudi,Rhyacophila arnaudi,Rhyacophila arnaudi,Rhyacophila arnaudi
+Rhyacophila malkini,FALSE,formatting,Rhyacophila malkini,Rhyacophila malkini,Rhyacophila malkini,DNI
+Rhyacophila narvae,FALSE,formatting,Rhyacophila narvae,Rhyacophila narvae,Rhyacophila narvae,Rhyacophila narvae
+Rhyacophila neograndis,FALSE,formatting,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group,Rhyacophila Grandis Group
+Rhyacophila Nevadensis Gr.,FALSE,formatting,DNI,Rhyacophila Nevadensis Group,Rhyacophila Nevadensis Group,DNI
+Rhyacophila nevadensis group,FALSE,formatting,DNI,Rhyacophila Nevadensis Group,Rhyacophila Nevadensis Group,DNI
+Rhyacophila Nevadensis Group,FALSE,formatting,DNI,Rhyacophila Nevadensis Group,Rhyacophila Nevadensis Group,DNI
+Rhyacophila nevadensis Group,FALSE,formatting,DNI,Rhyacophila Nevadensis Group,Rhyacophila Nevadensis Group,DNI
+Rhyacophila oreta,FALSE,formatting,DNI,Rhyacophila Oreta Group,Rhyacophila Oreta Group,DNI
+Rhyacophila Oreta Gr.,FALSE,formatting,DNI,Rhyacophila Oreta Group,Rhyacophila Oreta Group,DNI
+Rhyacophila oreta group,FALSE,formatting,DNI,Rhyacophila Oreta Group,Rhyacophila Oreta Group,DNI
+Rhyacophila Oreta Group,FALSE,formatting,DNI,Rhyacophila Oreta Group,Rhyacophila Oreta Group,DNI
+Rhyacophila oreta/rotunda,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila Oreta/Rotunda Gr.,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila Oreta/Rotunda Group,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhyacophila pellisa,FALSE,formatting,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex
+Rhyacophila pellisa/valuma,FALSE,formatting,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex
+Rhyacophila Pellisa/Valuma Group,FALSE,formatting,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex
+Rhyacophila perda,FALSE,formatting,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila rickeri,FALSE,formatting,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group
+Rhyacophila rotunda,FALSE,formatting,DNI,Rhyacophila Rotunda Group,Rhyacophila Rotunda Group,DNI
+Rhyacophila Rotunda Gr.,FALSE,formatting,DNI,Rhyacophila Rotunda Group,Rhyacophila Rotunda Group,DNI
+Rhyacophila rotunda group,FALSE,formatting,DNI,Rhyacophila Rotunda Group,Rhyacophila Rotunda Group,DNI
+Rhyacophila Rotunda Group,FALSE,formatting,DNI,Rhyacophila Rotunda Group,Rhyacophila Rotunda Group,DNI
+Rhyacophila rotunda Group,FALSE,formatting,DNI,Rhyacophila Rotunda Group,Rhyacophila Rotunda Group,DNI
+Rhyacophila sibirica,FALSE,formatting,DNI,Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,DNI
+Rhyacophila Sibirica Gr.,FALSE,formatting,DNI,Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,DNI
+Rhyacophila sibirica group,FALSE,formatting,DNI,Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,DNI
+Rhyacophila Sibirica Group,FALSE,formatting,DNI,Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,DNI
+Rhyacophila sibirica Group,FALSE,formatting,DNI,Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,DNI
+Rhyacophila sibirica group A,FALSE,formatting,DNI,Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,DNI
+Rhyacophila sibirica group B,FALSE,formatting,DNI,Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,DNI
+Rhyacophila sibirica group C,FALSE,formatting,DNI,Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,DNI
+Rhyacophila tucula,FALSE,formatting,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group,Rhyacophila Alberta Group
+Rhyacophila vaccua,FALSE,formatting,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila vaefes,FALSE,formatting,DNI,Rhyacophila Nevadensis Group,Rhyacophila Nevadensis Group,DNI
+Rhyacophila vagrita,FALSE,formatting,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group
+Rhyacophila Vagrita Gr.,FALSE,formatting,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group
+Rhyacophila vagrita group,FALSE,formatting,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group
+Rhyacophila Vagrita Group,FALSE,formatting,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group
+Rhyacophila vagrita Group,FALSE,formatting,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,Rhyacophila Vagrita Group
+Rhyacophila valuma,FALSE,formatting,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex,Rhyacophila atrata complex
+Rhyacophila vedra,FALSE,formatting,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group,Rhyacophila Betteni Group
+Rhyacophila Vemna Group,FALSE,formatting,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups
+Rhyacophila verrula,FALSE,formatting,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group
+Rhyacophila Verrula Gr.,FALSE,formatting,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group
+Rhyacophila verrula group,FALSE,formatting,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group
+Rhyacophila Verrula Group,FALSE,formatting,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group
+Rhyacophila verrula Group,FALSE,formatting,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group,Rhyacophila Verrula Group
+Rhyacophila vetina,FALSE,formatting,DNI,Rhyacophila vetina complex,Rhyacophila vetina complex,DNI
+Rhyacophila vetina complex,FALSE,formatting,DNI,Rhyacophila vetina complex,Rhyacophila vetina complex,DNI
+Rhyacophila vetina Complex,FALSE,formatting,DNI,Rhyacophila vetina complex,Rhyacophila vetina complex,DNI
+Rhyacophila viquaea,FALSE,formatting,DNI,Rhyacophila Viquaea Group,Rhyacophila Viquaea Group,DNI
+Rhyacophila viquaea group,FALSE,formatting,DNI,Rhyacophila Viquaea Group,Rhyacophila Viquaea Group,DNI
+Rhyacophila Viquaea Group,FALSE,formatting,DNI,Rhyacophila Viquaea Group,Rhyacophila Viquaea Group,DNI
+Rhyacophila visor group,FALSE,formatting,DNI,Rhyacophila Visor Group,Rhyacophila Visor Group,DNI
+Rhyacophila Visor Group,FALSE,formatting,DNI,Rhyacophila Visor Group,Rhyacophila Visor Group,DNI
+Rhyacophila visor Group,FALSE,formatting,DNI,Rhyacophila Visor Group,Rhyacophila Visor Group,DNI
+Rhyacophila vofixa,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila Vofixa Gr.,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila vofixa group,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila Vofixa Group,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila vofixa Group,FALSE,formatting,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,Rhyacophila Vofixa Group
+Rhyacophila vuzana,FALSE,formatting,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group,Rhyacophila Angelita Group
+Rhyacophilidae,FALSE,formatting,DNI,Rhyacophila,Rhyacophila,DNI
+Rhynchelmis,FALSE,,Lumbriculidae,Rhynchelmis,Oligochaeta,Lumbriculidae
+Rhynchobdellida,FALSE,Too Coarse,Hirudinida,Rhynchobdellida,Rhynchobdellida,Hirudinida
+Rickera,FALSE,Slashed taxon,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera
+Rickera sorpta,FALSE,Slashed taxon,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera,Kogotus/Rickera
+Ripistes parasita,FALSE,,DNI,Ripistes parasita,Oligochaeta,DNI
+Rissooidea,FALSE,Old nomen,Truncatelloidea,Truncatelloidea,Truncatelloidea,Truncatelloidea
+Robackia,FALSE,,DNI,Robackia,Robackia,DNI
+Robackia demeijerei,FALSE,,DNI,Robackia,Robackia,DNI
+Roederiodes,FALSE,,Roederiodes,Roederiodes,Roederiodes,DNI
+Rossiana montana,FALSE,"not known from OR, but WA MT BC",DNI,Rossiana montana,Rossiana montana,DNI
+Rossianidae,FALSE,"not known from OR, but WA MT BC ID",DNI,Rossianidae,Rossianidae,DNI
+Sabellidae,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Saetheria,FALSE,,DNI,Saetheria,Saetheria,DNI
+Salda,TRUE,semiaquatic,DNI,DNI,DNI,DNI
+Saldidae,TRUE,semiaquatic,DNI,DNI,DNI,DNI
+Saldula,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Salmonidae,TRUE,Fish,DNI,DNI,DNI,DNI
+Salmoperla sylvanica,FALSE,,DNI,Salmoperla sylvanica,Salmoperla sylvanica,DNI
+Sanfilippodytes,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Sanfilippodytes,Sanfilippodytes,Hydroporinae
+Sarcophagidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Sarcoptiformes,FALSE,,DNI,Acari,Acari,DNI
+Savtshenkia,FALSE,Subgenus of Tipula,Tipula,Tipula,Tipula,Tipula
+Scathophagidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Schummelia,TRUE,Subgenus of Tipula,Tipula,Tipula,Tipula,Tipula
+Sciaridae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Sciomyzidae,FALSE,,DNI,Sciomyzidae,Sciomyzidae,DNI
+Scirtes,FALSE,,DNI,Scirtidae,Scirtidae,DNI
+Scirtidae,FALSE,,DNI,Scirtidae,Scirtidae,DNI
+Scleroprocta,FALSE,perhaps mistaken for Ormosia valid,DNI,Limoniidae,Limoniidae,DNI
+Sepedon,FALSE,,DNI,Sciomyzidae,Sciomyzidae,DNI
+Sergentia,FALSE,,DNI,Sergentia,Sergentia,DNI
+Sericostomatidae,FALSE,Gumaga only member of family in west,DNI,Gumaga,Gumaga,DNI
+Sericostriata,FALSE,Single species in Genus,DNI,Sericostriata surdickae,Sericostriata surdickae,DNI
+Sericostriata surdickae,FALSE,Single species in Genus,DNI,Sericostriata surdickae,Sericostriata surdickae,DNI
+Serratella,FALSE,,DNI,Ephemerellidae,Ephemerellidae,DNI
+Serratella levis,FALSE,,DNI,Serratella levis,Serratella levis,DNI
+Serratella micheneri,FALSE,,DNI,Serratella micheneri,Serratella micheneri,DNI
+Serratella teresa,FALSE,Single species in Genus,Matriella teresa,Matriella teresa,Matriella teresa,Matriella teresa
+Serratella tibialis,FALSE,S. tibialis was placed in Ephemerella (2008),Ephemerella tibialis,Ephemerella tibialis,Ephemerella tibialis,Ephemerella
+Serromyia,FALSE,,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Setvena,FALSE,,Setvena,Setvena,Setvena,DNI
+Setvena bradleyi,FALSE,,Setvena,Setvena,Setvena,DNI
+Setvena tibialis,TRUE,????  BAD ID?????,DNI,DNI,DNI,DNI
+Sialidae,FALSE,Protosialis-is more eastern,Sialis,Sialis,Sialis,Sialis
+Sialis,FALSE,,Sialis,Sialis,Sialis,Sialis
+Sialis californica,FALSE,,Sialis,Sialis,Sialis,Sialis
+Sialis occidens,FALSE,,Sialis,Sialis,Sialis,Sialis
+Sialis rotunda,FALSE,,Sialis,Sialis,Sialis,Sialis
+Sida,TRUE,Cladocera excluded,DNI,DNI,DNI,DNI
+Sierraperla,FALSE,single species in Genus,DNI,Sierraperla,Sierraperla,DNI
+Sierraperla cora,FALSE,single species in Genus,DNI,Sierraperla,Sierraperla,DNI
+Sigara,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Silvius,FALSE,,Tabanidae,Tabanidae,Tabanidae,Tabanidae
+Simnia,TRUE,Marine,DNI,DNI,DNI,DNI
+Simocephalus vetulus,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Simuliidae,FALSE,,DNI,Simuliidae,Simuliidae,DNI
+Simuliidae-pupae,FALSE,,DNI,Simuliidae,Simuliidae,DNI
+Simuliini,FALSE,,DNI,Simuliidae,Simuliidae,DNI
+Simulium,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium (Eusimulium),FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium (Nevermannia),FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium arcticum,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium arcticum complex,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium arcticum group,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium argus,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium bivittatum group,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium canadense,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium carbunculum,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium defoliarti,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium Malyschevi Group,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium piperi,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium pugetense,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium saxosum,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium tuberosum complex,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium tuberosum group,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium venustum,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium Venustum Group,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium virgatum,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium vittatum complex,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simulium vittatum group,FALSE,,Simulium,Simulium,Simulium,Simulium
+Simyra,FALSE,Lot of these are terrestrial,DNI,Lepidoptera,Lepidoptera,DNI
+Sinotipula,FALSE,,DNI,Tipulidae,Tipulidae,DNI
+Siphlonuridae,FALSE,,DNI,Siphlonuridae,Siphlonuridae,DNI
+Siphlonurus,FALSE,,DNI,Siphlonurus,Siphlonurus,DNI
+Sisyra,FALSE,I tend to exclude these,DNI,Sisyridae,Sisyridae,DNI
+Sisyridae,FALSE,I tend to exclude these,DNI,Sisyridae,Sisyridae,DNI
+Skenea,TRUE,Marine,DNI,DNI,DNI,DNI
+Skwala,FALSE,,Skwala,Skwala,Skwala,Skwala
+Skwala americana,FALSE,,Skwala,Skwala,Skwala,Skwala
+Skwala curvata,FALSE,,Skwala,Skwala,Skwala,Skwala
+Slavina,FALSE,,Naidinae,Slavina,Oligochaeta,Naidinae
+Slavina appendiculata,FALSE,,Naidinae,Slavina,Oligochaeta,Naidinae
+Smittia,FALSE,,DNI,Smittia,Smittia,DNI
+Soliperla,FALSE,,Soliperla,Soliperla,Soliperla,Soliperla
+Somatochlora,FALSE,,DNI,Corduliidae,Corduliidae,DNI
+Soyedina,FALSE,,Soyedina,Soyedina,Soyedina,Soyedina
+Sparganophilidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Specaria,FALSE,,Naidinae,Specaria,Oligochaeta,Naidinae
+Sperchon,FALSE,,Sperchon,Sperchon,Trombidiformes,Sperchon
+Sperchon/Sperchonopsis,FALSE,,DNI,Sperchontidae,Trombidiformes,DNI
+Sperchonidae,FALSE,,DNI,Sperchontidae,Trombidiformes,DNI
+Sperchonopsis,FALSE,,Sperchonopsis,Sperchonopsis,Trombidiformes,Sperchonopsis
+Sperchontidae,FALSE,,DNI,Sperchontidae,Trombidiformes,DNI
+Sperchopsis,FALSE,,Hydrophilidae,Hydrophilidae,Hydrophilidae,Hydrophilidae
+Sphaeridiinae,TRUE,Terrestrial beetles,DNI,DNI,DNI,DNI
+Sphaeriidae,FALSE,,Sphaeriidae,Sphaeriidae,Sphaeriidae,Sphaeriidae
+Sphaerium,FALSE,,Sphaeriidae,Sphaerium,Sphaerium,Sphaeriidae
+Sphaeroceridae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Sphaerodoridae,TRUE,Polychaeta excluded,DNI,DNI,DNI,DNI
+Sphaeromatidae,FALSE,,DNI,Sphaeromatidae,Sphaeromatidae,DNI
+Sphaeromias,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Spirosperma,FALSE,,Tubificinae,Spirosperma,Oligochaeta,Tubificinae
+Spirosperma nikolskyi,FALSE,,Tubificinae,Spirosperma,Oligochaeta,Tubificinae
+Spongillidae,TRUE,Porifera excluded,DNI,DNI,DNI,DNI
+Stactobiella,FALSE,,DNI,Stactobiella,Stactobiella,DNI
+Stagnicola,FALSE,,Lymnaeidae,Lymnaeidae,Lymnaeidae,Lymnaeidae
+Staphylinidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Stegopterna,FALSE,,DNI,Stegopterna,Stegopterna,DNI
+Stempellina,FALSE,,Stempellina,Stempellina,Stempellina,Stempellina
+Stempellinella,FALSE,,Stempellinella,Stempellinella,Stempellinella,Stempellinella
+Stempellinella/Zavrelia,FALSE,,DNI,Tanytarsini,Tanytarsini,DNI
+Stenacron,FALSE,,DNI,Stenacron,Stenacron,DNI
+Stenelmis,FALSE,,DNI,Stenelmis,Stenelmis,DNI
+Stenochironomus,FALSE,,DNI,Stenochironomus,Stenochironomus,DNI
+Stenonema,FALSE,,DNI,Maccaffertium,Maccaffertium,DNI
+Stenonema terminatum,FALSE,,DNI,Maccaffertium,Maccaffertium,DNI
+Stictochironomus,FALSE,,Stictochironomus,Stictochironomus,Stictochironomus,Stictochironomus
+Stictocladius,FALSE,,DNI,Stictocladius,Stictocladius,DNI
+Stictotarsus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Stictotarsus griseostriatus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Stictotarsus striatellus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Stictotarsus/Boreonectes,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,DNI
+Stilobezzia,FALSE,Too Many unknown Genera,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae,Ceratopogoninae
+Stilocladius,FALSE,,Stilocladius,Stilocladius,Stilocladius,DNI
+Stratiomyidae,FALSE,,Stratiomyidae,Stratiomyidae,Stratiomyidae,DNI
+Stratiomys,FALSE,,Stratiomyidae,Stratiomyidae,Stratiomyidae,DNI
+Stygobromus,FALSE,,DNI,Stygobromus,Stygobromus,DNI
+Stygomomonia,FALSE,,DNI,Stygomomonia,Trombidiformes,DNI
+Stygothrombidiidae,FALSE,spelling and formatting,DNI,Stygothrombiidae,Trombidiformes,DNI
+Stygothrombiidae,FALSE,spelling and formatting,DNI,Stygothrombiidae,Trombidiformes,DNI
+Stygothrombium,FALSE,,DNI,Stygothrombium,Trombidiformes,DNI
+Stylaria,FALSE,,Naidinae,Stylaria,Oligochaeta,Naidinae
+Stylaria lacustris,FALSE,,Naidinae,Stylaria,Oligochaeta,Naidinae
+Stylodrilus,FALSE,,Lumbriculidae,Stylodrilus,Oligochaeta,Lumbriculidae
+Stylodrilus heringianus,FALSE,,Lumbriculidae,Stylodrilus,Oligochaeta,Lumbriculidae
+Stylurus,FALSE,,DNI,Stylurus olivaceus,Stylurus olivaceus,DNI
+Stylurus olivaceus,FALSE,,DNI,Stylurus olivaceus,Stylurus olivaceus,DNI
+Sublettea,FALSE,,Sublettea,Sublettea,Sublettea,DNI
+Sublettea coffmani,FALSE,,Sublettea,Sublettea,Sublettea,DNI
+Suwallia,FALSE,,Neaviperla/Suwallia,Neaviperla/Suwallia,Neaviperla/Suwallia,DNI
+Suwallia autumna,FALSE,,Neaviperla/Suwallia,Neaviperla/Suwallia,Neaviperla/Suwallia,DNI
+Suwallia forcipata,FALSE,,Neaviperla/Suwallia,Neaviperla/Suwallia,Neaviperla/Suwallia,DNI
+Suwalliini,FALSE,,Neaviperla/Suwallia,Neaviperla/Suwallia,Neaviperla/Suwallia,DNI
+Sweltsa,FALSE,,Sweltsa,Sweltsa,Sweltsa,Sweltsa
+Sweltsa adamantea,FALSE,,Sweltsa,Sweltsa,Sweltsa,Sweltsa
+Symbiocladius,FALSE,,DNI,Symbiocladius,Symbiocladius,DNI
+Sympetrum,FALSE,,DNI,Libellulidae,Libellulidae,DNI
+Symplecta,FALSE,best to leave at family,DNI,Limoniidae,Limoniidae,DNI
+Symplectra,FALSE,spelling error ,DNI,Limoniidae,Limoniidae,DNI
+Sympotthastia,FALSE,,DNI,Sympotthastia,Sympotthastia,DNI
+Synorthocladius,FALSE,,Synorthocladius,Synorthocladius,Synorthocladius,Synorthocladius
+Syrphidae,FALSE,,DNI,Syrphidae,Syrphidae,DNI
+Tabanidae,FALSE,,Tabanidae,Tabanidae,Tabanidae,Tabanidae
+Tabanus,FALSE,,Tabanidae,Tabanidae,Tabanidae,Tabanidae
+Taenionema,FALSE,,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae
+Taenionema californicum,FALSE,,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae
+Taenionema pallidum,FALSE,,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae
+Taeniopterygidae,FALSE,,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae
+Taeniopteryx,FALSE,,Taeniopterygidae,Taeniopteryx,Taeniopteryx,Taeniopterygidae
+Taeniopteryx nivalis,FALSE,,Taeniopterygidae,Taeniopteryx,Taeniopteryx,Taeniopterygidae
+Talitridae,FALSE,,Hyalella,Hyalella,Hyalella,Hyalella
+Tanyderidae,FALSE,,DNI,Tanyderidae,Tanyderidae,DNI
+Tanypodinae,FALSE,,DNI,Tanypodinae,Tanypodinae,DNI
+Tanypus,FALSE,,DNI,Tanypus,Tanypus,DNI
+Tanytarsini,FALSE,,DNI,Tanytarsini,Tanytarsini,DNI
+Tanytarsus,FALSE,,Tanytarsus,Tanytarsus,Tanytarsus,Tanytarsus
+Tartarothyas,FALSE,,DNI,Tartarothyas,Trombidiformes,DNI
+Telmatodrilus vejdovskyi,FALSE,,DNI,Telmatodrilus vejdovskyi,Oligochaeta,DNI
+Telopelopia,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Tenebrionidae,TRUE,Terrestrial,DNI,DNI,DNI,DNI
+Testudacarus,FALSE,,Testudacarus,Testudacarus,Trombidiformes,Testudacarus
+Teutonia,FALSE,,DNI,Teutonia,Trombidiformes,DNI
+Thaumalea,FALSE,,Thaumaleidae,Thaumaleidae,Thaumaleidae,Thaumaleidae
+Thaumaleidae,FALSE,,Thaumaleidae,Thaumaleidae,Thaumaleidae,Thaumaleidae
+Thermonectus,FALSE,,DNI,Dytiscidae,Dytiscidae,DNI
+Theromyzon,FALSE,,Hirudinida,Glossiphoniidae,Glossiphoniidae,Hirudinida
+Thienemannia,FALSE,,DNI,Thienemannia,Thienemannia,DNI
+Thienemannia gracilis,FALSE,,DNI,Thienemannia,Thienemannia,DNI
+Thienemanniella,FALSE,,Thienemanniella,Thienemanniella,Thienemanniella,Thienemanniella
+Thienemannimyia,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Thienemannimyia complex,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Thienemannimyia Genus Gr.,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Thienemannimyia gr.,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Thienemannimyia Gr.,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Thienemannimyia group,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Thienemannimyia Group,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Thienemannimyia senata,FALSE,These should all have been Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group,Thienemannimyia Group
+Thienemanniola,FALSE,,DNI,Chironomidae,Chironomidae,DNI
+Thremmatidae,FALSE,,DNI,Thremmatidae,Thremmatidae,DNI
+Thyas,FALSE,,DNI,Thyas,Trombidiformes,DNI
+Thyasidae,FALSE,,DNI,Thyasidae,Trombidiformes,DNI
+Thyopsella,FALSE,,DNI,Thyopsella,Trombidiformes,DNI
+Thyopsis,FALSE,,DNI,Thyopsis,Trombidiformes,DNI
+Timpanoga,FALSE,Single species in Genus,Timpanoga hecuba,Timpanoga hecuba,Timpanoga hecuba,Timpanoga hecuba
+Timpanoga hecuba,FALSE,Single species in Genus,Timpanoga hecuba,Timpanoga hecuba,Timpanoga hecuba,Timpanoga hecuba
+Timpanoga hecuba hecuba,FALSE,Single species in Genus,Timpanoga hecuba,Timpanoga hecuba,Timpanoga hecuba,Timpanoga hecuba
+Timpanoginae,FALSE,,DNI,Timpanoginae,Timpanoginae,DNI
+Tinodes,FALSE,,DNI,Tinodes,Tinodes,DNI
+Tipula,FALSE,,Tipula,Tipula,Tipula,Tipula
+Tipula (Tipula),FALSE,,Tipula,Tipula,Tipula,Tipula
+Tipula arnaudi,FALSE,,Tipula,Tipula,Tipula,Tipula
+Tipula dis,FALSE,,Tipula,Tipula,Tipula,Tipula
+Tipulidae,FALSE,,DNI,Tipulidae,Tipulidae,DNI
+Tipulidae sp. MAA#01,FALSE,,DNI,Tipulidae,Tipulidae,DNI
+Tipulidae sp. MAA#02,FALSE,,DNI,Tipulidae,Tipulidae,DNI
+Tipulidae/Limoniidae/Pedicidiidae/Cylindrotomidae,FALSE,,DNI,Nematocera,Nematocera,DNI
+Tipuloidea,FALSE,,DNI,Nematocera,Nematocera,DNI
+Todothyas,FALSE,,DNI,Parathyas,Trombidiformes,DNI
+Tokunagaia,FALSE,,DNI,Tokunagaia,Tokunagaia,DNI
+Torrenticola,FALSE,,Torrenticola,Torrenticola,Trombidiformes,Torrenticola
+Torrenticolidae,FALSE,,DNI,Torrenticolidae,Trombidiformes,DNI
+Tramea,FALSE,,DNI,Libellulidae,Libellulidae,DNI
+Traverella,FALSE,,DNI,Traverella,Traverella,DNI
+Traverella albertana,FALSE,,DNI,Traverella,Traverella,DNI
+Trepaxonemata,FALSE,,Trepaxonemata,Trepaxonemata,Trepaxonemata,Trepaxonemata
+Trepobates,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Triaenodes,FALSE,,DNI,Triaenodes,Triaenodes,DNI
+Tribelos,FALSE,,Tribelos,Tribelos,Tribelos,Tribelos
+Tribelos jucundus,FALSE,,Tribelos,Tribelos,Tribelos,Tribelos
+Trichoclinocera,FALSE,,Trichoclinocera,Trichoclinocera,Trichoclinocera,Trichoclinocera
+Trichocorixa,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Trichoptera,FALSE,TOO COARSE,DNI,Trichoptera,Trichoptera,DNI
+Trichoptera sp. AJF#01,FALSE,TOO COARSE,DNI,Trichoptera,Trichoptera,DNI
+Trichoptera sp. AJF#02,FALSE,TOO COARSE,DNI,Trichoptera,Trichoptera,DNI
+Trichotipula,FALSE,Subgenus of Tipula,Tipula,Tipula,Tipula,Tipula
+Tricladida,FALSE,,Trepaxonemata,Trepaxonemata,Trepaxonemata,Trepaxonemata
+Tricorythodes,FALSE,,Tricorythodes,Tricorythodes,Tricorythodes,Tricorythodes
+Tricorythodes explicatus,FALSE,,Tricorythodes,Tricorythodes,Tricorythodes,Tricorythodes
+Tricorythodes minutus,FALSE,,Tricorythodes,Tricorythodes,Tricorythodes,Tricorythodes
+Tricyphona,FALSE,best to leave at family,DNI,Pediciidae,Pediciidae,DNI
+Trissopelopia,FALSE,,DNI,Trissopelopia,Trissopelopia,DNI
+Triznaka,FALSE,,DNI,Chloroperlidae,Chloroperlidae,DNI
+Trombidiformes,FALSE,,DNI,Trombidiformes,Trombidiformes,DNI
+Tropisternus,FALSE,,Hydrophilidae,Tropisternus,Tropisternus,Hydrophilidae
+Truncatelloidea,FALSE,,Truncatelloidea,Truncatelloidea,Truncatelloidea,Truncatelloidea
+Tubifex,FALSE,,Tubificinae,Tubifex,Oligochaeta,Tubificinae
+Tubificidae,FALSE,,Tubificinae,Tubificinae,Oligochaeta,Tubificinae
+Tubificina,FALSE,,Tubificinae,Tubificinae,Oligochaeta,Tubificinae
+Tubificinae,FALSE,,Tubificinae,Tubificinae,Oligochaeta,Tubificinae
+Tubificoid Naididae,FALSE,,Tubificinae,Tubificinae,Oligochaeta,Tubificinae
+Tubificoid Naididae with hair chaetae,FALSE,,Tubificinae,Tubificinae,Oligochaeta,Tubificinae
+Tubificoid Naididae without hair chaetae,FALSE,,Tubificinae,Tubificinae,Oligochaeta,Tubificinae
+Tubularia,FALSE,,Trepaxonemata,Trepaxonemata,Trepaxonemata,Trepaxonemata
+Turbellaria,FALSE,,Trepaxonemata,Trepaxonemata,Trepaxonemata,Trepaxonemata
+Turbinidae,TRUE,Marine,DNI,DNI,DNI,DNI
+Turbo,TRUE,Marine,DNI,DNI,DNI,DNI
+Tvetenia,FALSE,,Tvetenia,Tvetenia,Tvetenia,Tvetenia
+Tvetenia bavarica,FALSE,FORMATTING,Tvetenia,Tvetenia Bavarica Group,Tvetenia Bavarica Group,Tvetenia
+Tvetenia Bavarica Gr.,FALSE,FORMATTING,Tvetenia,Tvetenia Bavarica Group,Tvetenia Bavarica Group,Tvetenia
+Tvetenia bavarica group,FALSE,FORMATTING,Tvetenia,Tvetenia Bavarica Group,Tvetenia Bavarica Group,Tvetenia
+Tvetenia Bavarica Group,FALSE,FORMATTING,Tvetenia,Tvetenia Bavarica Group,Tvetenia Bavarica Group,Tvetenia
+Tvetenia bavarica Group,FALSE,formatting,Tvetenia,Tvetenia Bavarica Group,Tvetenia Bavarica Group,Tvetenia
+Tvetenia Discoloripes Gr.,FALSE,FORMATTING,Tvetenia,Tvetenia Discoloripes Group,Tvetenia Discoloripes Group,Tvetenia
+Tvetenia discoloripes group,FALSE,FORMATTING,Tvetenia,Tvetenia Discoloripes Group,Tvetenia Discoloripes Group,Tvetenia
+Tvetenia Discoloripes Group,FALSE,FORMATTING,Tvetenia,Tvetenia Discoloripes Group,Tvetenia Discoloripes Group,Tvetenia
+Tvetenia paucunca,FALSE,,Tvetenia,Tvetenia,Tvetenia,Tvetenia
+Tvetenia tshernovskii,FALSE,FORMATTING,Tvetenia,Tvetenia Discoloripes Group,Tvetenia Discoloripes Group,Tvetenia
+Tvetenia vitracies,FALSE,FORMATTING,Tvetenia,Tvetenia Discoloripes Group,Tvetenia Discoloripes Group,Tvetenia
+Tvetenia Vitracies Group,FALSE,FORMATTING,Tvetenia,Tvetenia Discoloripes Group,Tvetenia Discoloripes Group,Tvetenia
+Twinnia,FALSE,,DNI,Twinnia,Twinnia,DNI
+Tyrrellia,FALSE,,DNI,Tyrrellia,Trombidiformes,DNI
+Uenoidae,FALSE,,DNI,Uenoidae,Uenoidae,DNI
+Uenoinae,FALSE,,DNI,Uenoidae,Uenoidae,DNI
+Ulomorpha,FALSE,,DNI,Ulomorpha,Ulomorpha,DNI
+Uncinais,FALSE,,Naidinae,Uncinais,Oligochaeta,Naidinae
+Uncinais uncinata,FALSE,There is only one species in this genus,Naidinae,Uncinais,Oligochaeta,Naidinae
+UNID'd terrestrial,TRUE,Terrestrial. TOO COARSE,DNI,DNI,DNI,DNI
+Unionacea,FALSE,,DNI,Unionoidea,Unionoidea,DNI
+Unionicola,FALSE,,DNI,Unionicola,Trombidiformes,DNI
+Unionicolidae,FALSE,,DNI,Unionicolidae,Trombidiformes,DNI
+Unionidae,FALSE,,DNI,Unionoidea,Unionoidea,DNI
+Unioninae,FALSE,,DNI,Unionoidea,Unionoidea,DNI
+Unionoida,FALSE,,DNI,Unionoidea,Unionoidea,DNI
+Unionoidea,FALSE,,DNI,Unionoidea,Unionoidea,DNI
+Uromunna acarina,TRUE,marine,DNI,DNI,DNI,DNI
+Utacapnia,FALSE,,Capniidae,Capniidae,Capniidae,Capniidae
+Utaperla,FALSE,,DNI,Paraperlinae,Paraperlinae,DNI
+Utaxatax,FALSE,,DNI,Utaxatax,Trombidiformes,DNI
+Uvarus,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Uvarus subtilis,FALSE,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Hydroporinae,Hydroporinae,Hydroporinae
+Valvata,FALSE,,DNI,Valvata,Valvata,DNI
+Valvata humeralis,FALSE,,DNI,Valvata,Valvata,DNI
+Valvatidae,FALSE,,DNI,Valvata,Valvata,DNI
+Varichaetadrilus,FALSE,,Tubificinae,Varichaetadrilus,Oligochaeta,Tubificinae
+Vejdovskyella,FALSE,,Naidinae,Vejdovskyella,Oligochaeta,Naidinae
+Veliidae,TRUE,Excluded as water column or surface dwellers,DNI,DNI,DNI,DNI
+Veneroida,FALSE,,DNI,Veneroida,Veneroida,DNI
+Virgatanytarsus,FALSE,,DNI,Tanytarsini,Tanytarsini,DNI
+Visoka,FALSE,Single species in Genus,Visoka cataractae,Visoka cataractae,Visoka cataractae,Visoka cataractae
+Visoka cataractae,FALSE,Single species in Genus,Visoka cataractae,Visoka cataractae,Visoka cataractae,Visoka cataractae
+Volsellacarus,FALSE,,DNI,Volsellacarus,Trombidiformes,DNI
+Vorticifex,FALSE,,DNI,Vorticifex,Vorticifex,DNI
+Vorticifex effusa,FALSE,,DNI,Vorticifex,Vorticifex,DNI
+Wandesia,FALSE,,Wandesia,Wandesia,Trombidiformes,Wandesia
+Wiedemannia,FALSE,,Wiedemannia,Wiedemannia,Wiedemannia,Wiedemannia
+Woolastookia,FALSE,,DNI,Woolastookia,Trombidiformes,DNI
+Wormaldia,FALSE,,Wormaldia,Wormaldia,Wormaldia,Wormaldia
+Wormaldia anilla,FALSE,,Wormaldia,Wormaldia,Wormaldia,Wormaldia
+Wormaldia gabriella,FALSE,,Wormaldia,Wormaldia,Wormaldia,Wormaldia
+Xenochironomus,FALSE,Single species in Genus,DNI,Xenochironomus xenolabis,Xenochironomus xenolabis,DNI
+Xenochironomus xenolabis,FALSE,Single species in Genus,DNI,Xenochironomus xenolabis,Xenochironomus xenolabis,DNI
+Xylotopus,FALSE,,DNI,Xylotopus,Xylotopus,DNI
+Xylotopus par,FALSE,,DNI,Xylotopus,Xylotopus,DNI
+Xystonotus,FALSE,,DNI,Xystonotus,Trombidiformes,DNI
+Yamatotipula,FALSE,,DNI,Tipulidae,Tipulidae,DNI
+Ylodes,FALSE,Ylodes is jr. syn of Triaenodes,DNI,Triaenodes,Triaenodes,DNI
+Yoraperla,FALSE,,Yoraperla,Yoraperla,Yoraperla,Yoraperla
+Yoraperla brevis,FALSE,,Yoraperla,Yoraperla,Yoraperla,Yoraperla
+Yoraperla mariana,FALSE,,Yoraperla,Yoraperla mariana,Yoraperla,Yoraperla
+Yoraperla nigrisoma,FALSE,,Yoraperla,Yoraperla,Yoraperla,Yoraperla
+Yoraperla siletz,FALSE,,Yoraperla,Yoraperla,Yoraperla,Yoraperla
+Yphria,FALSE,,DNI,Yphria,Yphria,DNI
+Yphria californica,FALSE,,DNI,Yphria,Yphria,DNI
+Zaitzevia,FALSE,,Zaitzevia,Zaitzevia,Zaitzevia,Zaitzevia
+Zaitzevia milleri,FALSE,,Zaitzevia,Zaitzevia,Zaitzevia,Zaitzevia
+Zaitzevia parvula,FALSE,,Zaitzevia,Zaitzevia,Zaitzevia,Zaitzevia
+Zaitzevia parvulus,FALSE,,Zaitzevia,Zaitzevia,Zaitzevia,Zaitzevia
+Zaitzevia posthonia,FALSE,,Zaitzevia,Zaitzevia,Zaitzevia,Zaitzevia
+Zapada,FALSE,,DNI,Zapada,Zapada,DNI
+Zapada chila,FALSE,,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group
+Zapada cinctipes,FALSE,,Zapada cinctipes,Zapada cinctipes,Zapada cinctipes,Zapada cinctipes
+Zapada columbiana,FALSE,,Zapada columbiana,Zapada columbiana,Zapada columbiana,Zapada columbiana
+Zapada columbiana/oregonensis group,FALSE,,DNI,Zapada,Zapada,DNI
+Zapada frigida,FALSE,,Zapada frigida,Zapada frigida,Zapada frigida,Zapada frigida
+Zapada oregonensis,FALSE,Formatting,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group
+Zapada Oregonensis Gr.,FALSE,Formatting,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group
+Zapada oregonensis group,FALSE,Formatting,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group
+Zapada Oregonensis Group,FALSE,Formatting,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group
+Zapada oregonensis Group,FALSE,Formatting,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group,Zapada Oregonensis Group
+Zapada/Malenka,FALSE,,DNI,Nemouridae,Nemouridae,DNI
+Zavrelia,FALSE,,DNI,Zavrelia,Zavrelia,DNI
+Zavrelimyia,FALSE,Current Nomenclature,Zavrelimyia,Zavrelimyia,Zavrelimyia,Zavrelimyia
+Zoniagrion,FALSE,almost entierly restricted to california,DNI,Coenagrionidae,Coenagrionidae,DNI
+Zygoptera,FALSE,,DNI,Zygoptera,Zygoptera,DNI
+Copelatinae,FALSE,,DNI,Copelatinae,Copelatinae,DNI
+Oroperla barbara,FALSE,"single species, mostly California",DNI,Oroperla barbara,Oroperla barbara,DNI

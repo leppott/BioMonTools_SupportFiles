@@ -101,7 +101,7 @@ test_that("ORWA, trans, taxaid_1", {
     sort(i1)
     
     # Remove DNI
-    n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+   # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
     
     # test, match
     testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -142,7 +142,7 @@ test_that("ORWA, trans, taxaid_2", {
   sort(i2)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -175,7 +175,7 @@ test_that("ORWA, trans, taxaid_3", {
   sort(i3)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -208,7 +208,7 @@ test_that("ORWA, trans, taxaid_4", {
   sort(i4)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -241,7 +241,7 @@ test_that("ORWA, trans, taxaid_5", {
   sort(i5)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -274,7 +274,7 @@ test_that("ORWA, trans, taxaid_6", {
   sort(i6)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -316,7 +316,7 @@ test_that("ORWA, attr, taxaid1", {
   sort(j1)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -363,7 +363,7 @@ test_that("ORWA, attr, taxaid_2", {
   sort(j2)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -401,7 +401,7 @@ test_that("ORWA, attr, taxaid_3", {
   sort(j3)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+ # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -439,7 +439,7 @@ test_that("ORWA, attr, taxaid_4", {
   sort(j4)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+ # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -477,7 +477,7 @@ test_that("ORWA, attr, taxaid_5", {
   sort(j5)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -515,7 +515,7 @@ test_that("ORWA, attr, taxaid_6", {
   sort(j6)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)

@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-14 16:16:14.772993
+    #> Last Update: 2024-06-19 13:47:09.340931
+
+# BioMonTools_SupportFiles 0.0.1.9070
+
+Released - 2024-06-19
+
+- refactor: ORWA TaxaTrans revert to “Taxon_orig” due to references in
+  Shiny code
+- test: Comment out ‘remove DNI’ code from tests for ORWA
 
 # BioMonTools_SupportFiles 0.0.1.9069
 
