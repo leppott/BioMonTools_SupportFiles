@@ -1,0 +1,26 @@
+Version,7/5/2024
+Primary contact,Will Bouchard (will.bouchard@state.mn.us) and Joel Chirhart (joel.chirhart@state.mn.us)
+,
+ScientificName,scientific name (post-translation)
+CommonName,common name
+TYPE,"Combination of Composition and Life History. Composition: DSS = DarterSculpinSucker, DS = DarterSculpin, EX = Exotic, MIN-T = Minnow - Tol, PERC = Perciformes. Life History: PI = Pioneer, SL = Short-lived"
+HABITAT,"HW-T = Headwater Specialist, Exclude Tolerant, WE-T = Wetland, Exclude Tolerant, CW = Coldwater, CWN = Coldwater Native"
+REPRODUCTION,"MA<2 = Mature Age < 2, MA>3-T = Mature Age > 3, Exclude Tolerant, NE = Non Lithophilic Nester, SER = Serial Spawner, SILI = Simple Lithophil"
+TOLER,"I  = Intolerant, ICW = Intolerant Coldwater, S = Sensitive, SCW = Sensitive Coldwater, T = Tolerant, TCW = Tolerant Coldwater, VT = Very Tolerant"
+TROPHIC,"BI-T = Benthic Insectivore, Exclude Tolerant, DE = Detritivore, DEM = Detritivore Minor, GE = Generalist Feeder, HE = Herbivore, IN-T = Insectivore, Exclude Tolerant, INCYP = Insectivorous Cyprinid, OM = Omnivore, PI = Piscivore"
+BCG_Attr_MN2_01,"BCG taxa attribute assignment (with 5a and 6a) for the fish1 class (prairie rivers). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+BCG_Attr_MN2_02,"BCG taxa attribute assignment (with 5a and 6a) for the fish2 class (s wadeable streams). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+BCG_Attr_MN2_03,"BCG taxa attribute assignment (with 5a and 6a) for the fish3 class (s headwaters). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+BCG_Attr_MN2_04,"BCG taxa attribute assignment (with 5a and 6a) for the fish4 class (n forest rivers). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+BCG_Attr_MN2_05,"BCG taxa attribute assignment (with 5a and 6a) for the fish5 class (n wadeable streams). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+BCG_Attr_MN2_06,"BCG taxa attribute assignment (with 5a and 6a) for the fish6 class (n headwaters). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+BCG_Attr_MN2_07,"BCG taxa attribute assignment (with 5a and 6a) for the fish7 class (wetland-lacustrine). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+BCG_Attr_MN2_10,"BCG taxa attribute assignment (with 5a and 6a) for the fish10 class (cold). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+BCG_Attr_MN2_11,"BCG taxa attribute assignment (with 5a and 6a) for the fish11 class (cool). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
+Kingdom,taxonomic hierarchy; provided by MPCA
+Phylum,taxonomic hierarchy; provided by MPCA
+Class,taxonomic hierarchy; provided by MPCA
+Order,taxonomic hierarchy; provided by MPCA
+Family,taxonomic hierarchy; provided by MPCA
+Genus,taxonomic hierarchy; provided by MPCA
+Species,taxonomic hierarchy; provided by MPCA

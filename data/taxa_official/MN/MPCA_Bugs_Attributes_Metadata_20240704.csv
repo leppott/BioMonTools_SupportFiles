@@ -1,0 +1,35 @@
+Version,7/4/2024,
+Primary contact,Will Bouchard (will.bouchard@state.mn.us) and Joel Chirhart (joel.chirhart@state.mn.us),
+,,
+Column name,Descriptor,MPCA cross-walk
+FinalID,taxon name (post-translation),FinalID
+NonTarget,TRUE = not appropriate to include in the MPCA IBI or BCG calculations. NonTarget taxa are excluded from all metric calculations,
+Rank,level of taxonomic resolution,Rank
+FFG,"Functional Feeding Group (method of food acquisition and functional role in aquatic food webs). Multiple entries are allowed and should be separated with a comma, either with or without a space (for example, either 'CG,CF' or 'CG, CF' are ok). Entries: collector-gatherer (CG), collector-filterer (CF), predator (PR), scraper (SC), shredder (SH), macrophyte herbivore (MH), omnivore (OM), parasite (PA), piercer-herbivore (PH), xylophage (XY)",FeedingGroupsCode
+FFGSource,source of FFG,FFGSource
+Habit,"Habit (how a macroinvertebrate moves in the aquatic environment and where they find food). Multiple entries are allowed and should be separated with a comma, either with or without a space (for example, either 'BU,SP' or 'BU, SP' are ok). Entries: Burrowers (BU), Climbers (CB), Clingers (CN), Sprawlers (SP), and Swimmers (SW)",Habitat
+HabitSource,source of Habit,HabitSource
+TolVal,"Tolerance values based on analyses of MPCA data. Used in several metric calculations (Hilsenhoff Biotic Index, intolerant taxa and tolerant taxa metrics). Very Intolerant taxa have values less than or equal to 2. Very Tolerant taxa have values equal to or greater than 8. Calculated using the weighted average of a general disturbance measure where taxa relative abundance was the weighting factor. The general disturbance measure was the first principal component of a principal components analysis of six disturbance variables including Minnesota’s Human Disturbance Score (HDS), the Minnesota Stream Habitat Assessment score, total phosphorus, total suspended solids, NH4, and nitrate/nitrite",MNToleranceStm
+TolVal2,Coldwater sensitivity values based on analyses of MPCA data. Calculated using the weighted average of stream temperatures where taxa relative abundance was the weighting factor,ColdwaterTV
+LongLived,"TRUE = macroinvertebrates with a life cycle of more than 1 year (i.e., semivoltine)",LongLived
+BCG_Attr_GP,BCG taxa attribute assignment for Glide/Pool streams not in the bug 8 or bug 9 class. 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant; 6 = nonnative,BCG_Attr_GP
+BCG_Attr_RR,BCG taxa attribute assignment for Riffle/Run streams not in the bug 8 or bug 9 class. 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant; 6 = nonnative,BCG_Attr_RR
+BCG_Cool_8,BCG taxa attribute assignment for bug8 (cool transitional) streams. 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant; 6 = nonnative,BCG_Cool_8
+BCG_Cold_9,BCG taxa attribute assignment for bug9 (s coldwater streams). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant; 6 = nonnative,BCG_Cold_9
+Phylum,taxonomic hierarchy; provided by MPCA,Phylum
+SubPhylum,taxonomic hierarchy; provided by MPCA,SubPhylum
+Class,taxonomic hierarchy; provided by MPCA,Class
+SubClass,taxonomic hierarchy; provided by MPCA,SubClass
+Order,taxonomic hierarchy; provided by MPCA,Order
+SubOrder,taxonomic hierarchy; provided by MPCA,SubOrder
+Family,taxonomic hierarchy; provided by MPCA,Family
+SubFamily,taxonomic hierarchy; provided by MPCA,SubFamily
+Tribe,taxonomic hierarchy; provided by MPCA,Tribe
+Genus,taxonomic hierarchy; provided by MPCA,Genus
+SubGenus,taxonomic hierarchy; provided by MPCA,SubGenus
+Species,taxonomic hierarchy; provided by MPCA,Species
+TolVal_RBP,Tolerance values range from 0 (most sensitive) to 10 (most tolerant). These tolerance values are based on outside sources (not analyses of MPCA data),TolVal_RBP
+TolValSource,source of TolVal,TolValSource
+BenTaxaID,unique numeric identifier for taxonomic name in the MPCA database,BenTaxaID
+TSN,"Taxonomic Serial Number - a unique, persistent, non-intelligent identifier for a scientific name in the context of the Integrated Taxonomic Information System (ITIS)",TSN
+ParTSN,,ParTSN

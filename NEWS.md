@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-06-19 13:47:09.340931
+    #> Last Update: 2024-07-05 14:17:37.622737
+
+# BioMonTools_SupportFiles 0.0.1.9071
+
+Released - 2024-07-05
+
+- refactor: Revised MN files
+- refactor: MN files to subfolder
+- tests: Revise MN test for new folder structure
 
 # BioMonTools_SupportFiles 0.0.1.9070
 
