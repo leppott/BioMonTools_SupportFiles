@@ -17,10 +17,6 @@ BCG_Attr_MN2_06,"BCG taxa attribute assignment (with 5a and 6a) for the fish6 cl
 BCG_Attr_MN2_07,"BCG taxa attribute assignment (with 5a and 6a) for the fish7 class (wetland-lacustrine). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
 BCG_Attr_MN2_10,"BCG taxa attribute assignment (with 5a and 6a) for the fish10 class (cold). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
 BCG_Attr_MN2_11,"BCG taxa attribute assignment (with 5a and 6a) for the fish11 class (cool). 1 = specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = tolerant, 5a = highly tolerant; 6 = nonnative, 6a = tolerant nonnative"
-Kingdom,taxonomic hierarchy; provided by MPCA
-Phylum,taxonomic hierarchy; provided by MPCA
-Class,taxonomic hierarchy; provided by MPCA
-Order,taxonomic hierarchy; provided by MPCA
 Family,taxonomic hierarchy; provided by MPCA
 Genus,taxonomic hierarchy; provided by MPCA
 Species,taxonomic hierarchy; provided by MPCA
