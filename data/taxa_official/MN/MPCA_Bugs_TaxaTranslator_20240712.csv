@@ -584,7 +584,7 @@ Enallagma cyathigerum,Species,genus,yes,level of taxonomic resolution,Enallagma,
 Enallagma divagans,Species,genus,yes,level of taxonomic resolution,Enallagma,Enallagma
 Enallagma signatum,Species,genus,yes,level of taxonomic resolution,Enallagma,Enallagma
 Enallagma/Ischnura,Genus,genus,no,,Enallagma/Ischnura,Enallagma/Ischnura
-Enchytraeidae,Family,class,no,,Enchytraeidae,Enchytraeidae
+Enchytraeidae,Family,subclass,yes,,Oligochaeta,Oligochaeta
 Endochironomus,Genus,genus,no,,Endochironomus,Endochironomus
 Endotribelos,Genus,genus,no,,Endotribelos,Endotribelos
 Enochrus,Genus,genus,no,,Enochrus,Enochrus
@@ -1366,7 +1366,7 @@ Oecetis morsei,Species,genus,yes,level of taxonomic resolution,Oecetis,Oecetis
 Oecetis nocturna,Species,genus,yes,level of taxonomic resolution,Oecetis,Oecetis
 Oecetis persimilis,Species,genus,yes,level of taxonomic resolution,Oecetis,Oecetis
 Oecetis testacea,Species,genus,yes,level of taxonomic resolution,Oecetis,Oecetis
-Oligochaeta,Class,subclass,no,,Oligochaeta,Oligochaeta
+Oligochaeta,Subclass,subclass,no,,Oligochaeta,Oligochaeta
 Oligoneuriidae,Family,genus,no,,Oligoneuriidae,Oligoneuriidae
 Oligophlebodes,Genus,genus,no,,Oligophlebodes,Oligophlebodes
 Oligostomis,Genus,genus,no,,Oligostomis,Oligostomis
