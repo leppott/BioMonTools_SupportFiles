@@ -1,0 +1,8 @@
+Version Date,7/25/2024
+Primary contact,Jen Stamp (Jen.Stamp@tetratech.com)
+,
+Taxon_Orig,taxon name from the original source file
+Modified,yes = Taxon_Orig is different from the OTU for the selected calculation; no = Taxon_Orig did not change (=the same as the OTU_BCG for the selected calculation)
+Rationale,"reason for change (e.g., formatting, spelling)"
+OTU_BCG,TaxaID_orig translated to the OTU used for the MN BCG metric calculations
+OTU_IBI,TaxaID_orig translated to the OTU used for the MN IBI metric calculations

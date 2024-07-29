@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9074
+===========
+Released - 2024-07-29
+
+* refactor: Revised MN files
+
 BioMonTools_SupportFiles 0.0.1.9071
 ===========
 Released - 2024-07-05
