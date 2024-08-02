@@ -4,7 +4,34 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-07-05 14:17:37.622737
+    #> Last Update: 2024-08-02 13:50:36.912432
+
+# BioMonTools_SupportFiles 0.0.1.9076
+
+Released - 2024-08-02
+
+- refactor: Add back GP fish files
+- docs: Add Ben Block to DESCRIPTION
+
+# BioMonTools_SupportFiles 0.0.1.9075
+
+Released - 2024-07-31
+
+- refactor: Move GP files to subfolder
+
+# BioMonTools_SupportFiles 0.0.1.9074
+
+Released - 2024-07-29
+
+- refactor: Revised MN files
+
+# BioMonTools_SupportFiles 0.0.1.9073
+
+- refactor: Updated MN PCA bug taxa translator file
+
+# BioMonTools_SupportFiles 0.0.1.9073
+
+- refactor: Updated fish files for MN
 
 # BioMonTools_SupportFiles 0.0.1.9071
 
