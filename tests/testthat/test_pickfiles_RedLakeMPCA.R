@@ -8,11 +8,13 @@
 # not reading files if "run tests"
 # run as code and works
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# 20240808, update tests for MN sub dir
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # FileNames ----
 test_that("RedLake, pickfiles, filenames", {
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "MN")
   # data files
   fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -52,7 +54,7 @@ test_that("RedLake, pickfiles, filenames", {
 test_that("RedLake, taxaid cols, 1", {
   filenum <- 1
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "MN")
   # data files
   fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -82,7 +84,7 @@ test_that("RedLake, taxaid cols, 1", {
 test_that("RedLake, taxaid cols, 2", {
   filenum <- 2
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "MN")
   # data files
   fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -112,7 +114,7 @@ test_that("RedLake, taxaid cols, 2", {
 test_that("RedLake, taxaid cols, 3", {
   filenum <- 3
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "MN")
   # data files
   fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -142,7 +144,7 @@ test_that("RedLake, taxaid cols, 3", {
 test_that("RedLake, taxaid cols, 4", {
   filenum <- 4
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "MN")
   # data files
   fn_pickfiles <- "_pick_files_MN.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))

@@ -4,7 +4,16 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-08-02 13:50:36.912432
+    #> Last Update: 2024-08-08 17:14:05.536545
+
+# BioMonTools_SupportFiles 0.0.1.9077
+
+Released - 2024-08-02
+
+- fix: Update MN pick files for correct fish file names (dates off)
+  - attributes
+  - attributes_metadata
+- fix: Update MN files test to use MN subdirectory
 
 # BioMonTools_SupportFiles 0.0.1.9076
 
