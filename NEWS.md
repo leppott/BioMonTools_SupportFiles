@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-08-08 17:14:05.536545
+    #> Last Update: 2024-08-28 12:27:22.109481
+
+# BioMonTools_SupportFiles 0.0.1.9078
+
+Released - 2024-08-28
+
+- fix: Update MN pick files for MN_IBI_Fish for attributes
 
 # BioMonTools_SupportFiles 0.0.1.9077
 
