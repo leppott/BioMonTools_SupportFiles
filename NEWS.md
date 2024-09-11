@@ -4,7 +4,24 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-08-28 12:27:22.109481
+    #> Last Update: 2024-09-11 08:48:10.0174
+
+# BioMonTools_SupportFiles 0.0.1.9079
+
+Released - 2024-09-11
+
+- refactor: Update MO files in GP folder
+  - taxa translator
+  - taxa translator update log
+- refactor: Update GP pick list file for MO updates
+- tests: Update GP pick files test for revised folder structure
+- tests: Update GP pick files test for fifth file
+- tests: Update GP taxa names test for revised folder structure
+- fix: Add missing IA files identified by test
+  - GreatPlains_BCG_IA_Bugs_Taxa_Translator_Metadata_20240610.csv
+  - GreatPlains_BCG_IA_Bugs_Attributes_20240606.csv
+- fix: Update MO attributes files for new taxa in translator file
+- refactor: Move old/archived files to subfolders by project
 
 # BioMonTools_SupportFiles 0.0.1.9078
 

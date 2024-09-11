@@ -8,11 +8,14 @@
 # not reading files if "run tests"
 # run as code and works
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Erik, 20240910
+# Update directory name
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # FileNames ----
 test_that("GP, pickfiles, filenames", {
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "GP")
   # data files
   fn_pickfiles <- "GreatPlains_BCG_Pick_Files.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -52,7 +55,7 @@ test_that("GP, pickfiles, filenames", {
 test_that("GP, taxaid cols, 1", {
   filenum <- 1
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "GP")
   # data files
   fn_pickfiles <- "GreatPlains_BCG_Pick_Files.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -82,7 +85,7 @@ test_that("GP, taxaid cols, 1", {
 test_that("GP, taxaid cols, 2", {
   filenum <- 2
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "GP")
   # data files
   fn_pickfiles <- "GreatPlains_BCG_Pick_Files.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -112,7 +115,7 @@ test_that("GP, taxaid cols, 2", {
 test_that("GP, taxaid cols, 3", {
   filenum <- 3
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "GP")
   # data files
   fn_pickfiles <- "GreatPlains_BCG_Pick_Files.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -142,7 +145,7 @@ test_that("GP, taxaid cols, 3", {
 test_that("GP, taxaid cols, 4", {
   filenum <- 4
   
-  dn_data <- file.path("data", "taxa_official")
+  dn_data <- file.path("data", "taxa_official", "GP")
   # data files
   fn_pickfiles <- "GreatPlains_BCG_Pick_Files.csv"
   df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
@@ -169,4 +172,32 @@ test_that("GP, taxaid cols, 4", {
 })## Test ~ taxaid cols, 4
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test_that("GP, taxaid cols, 5", {
+  filenum <- 5
+  
+  dn_data <- file.path("data", "taxa_official", "GP")
+  # data files
+  fn_pickfiles <- "GreatPlains_BCG_Pick_Files.csv"
+  df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
+  
+  fn_trans <- df_pickfiles[filenum, "filename"]
+  taxaid_trans_1 <- df_pickfiles[filenum, "taxaid"]
+  taxaid_trans_2 <- df_pickfiles[filenum, "calc_taxaid"]
+  # not checking for col_drop
+  fn_attr <- df_pickfiles[filenum, "attributes_filename"]
+  taxaid_attr <- df_pickfiles[filenum, "attributes_taxaid"]
+  # files
+  df_trans <- read.csv(file.path(dn_data, fn_trans))
+  df_attr <- read.csv(file.path(dn_data, fn_attr))
+  
+  # QC Show
+  c(taxaid_trans_1, taxaid_trans_2) %in% names(df_trans)
+  taxaid_attr %in% names(df_attr)
+  
+  # test
+  testthat::expect_contains(names(df_trans), taxaid_trans_1)
+  testthat::expect_contains(names(df_trans), taxaid_trans_2)
+  testthat::expect_contains(names(df_attr), taxaid_attr)
+  
+})## Test ~ taxaid cols, 5
 

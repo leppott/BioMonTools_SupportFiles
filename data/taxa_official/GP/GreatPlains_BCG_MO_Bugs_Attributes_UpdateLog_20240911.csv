@@ -1,0 +1,8 @@
+Date,TaxaID,TypeOfChange
+20240610,CAECIDOTEA,changed BCG Attr from IV_worse to IV_middle
+20240610,FALLCEON,changed BCG Attr from IV_worse to IV_middle
+20240610,FAXONIUS,changed BCG Attr from IV_better to IV_middle
+20240610,FAXONIUS IMMUNIS,changed BCG Attr from IV_better to IV_middle
+20240910,ANAFROPTILUM,new addition (replaced CENTROPTILUM)
+20240910,KRIBIODORUM PERPULCHRUM,new addition (replaced STELECHOMYIA)
+20240910,TUBIFICINAE,new addition

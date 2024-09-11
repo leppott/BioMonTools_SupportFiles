@@ -19,12 +19,15 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # 20240611, Great Plains BCG
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# 20240910, Erik, Update directory
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # duplicate names ----
-test_that("ORWA, trans, dups1", {
+test_that("GP, trans, dups1", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -32,7 +35,7 @@ test_that("ORWA, trans, dups1", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_ii <- df_pickfiles[ii , "filename"]
-  df_ii <- read.csv(file.path("data", "taxa_official", fn_ii))
+  df_ii <- read.csv(file.path("data", "taxa_official", "GP", fn_ii))
   ii_taxaid <- df_pickfiles[ii, "taxaid"]
   
   # QC
@@ -49,11 +52,12 @@ test_that("ORWA, trans, dups1", {
   
 })## Test ~ dup, trans
 
-test_that("ORWA, attr, dups1", {
+test_that("GP, attr, dups1", {
   
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -61,7 +65,7 @@ test_that("ORWA, attr, dups1", {
 
   # attribute file
   fn_jj <- df_pickfiles[jj , "attributes_filename"]
-  df_jj <- read.csv(file.path("data", "taxa_official", fn_jj))
+  df_jj <- read.csv(file.path("data", "taxa_official", "GP", fn_jj))
   jj_taxaid <- df_pickfiles[jj, "attributes_taxaid"]
   
   # QC
@@ -80,10 +84,11 @@ test_that("ORWA, attr, dups1", {
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # trans, taxaid ----
-test_that("ORWA, trans, taxaid_1", {
+test_that("GP, trans, taxaid_1", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -91,7 +96,7 @@ test_that("ORWA, trans, taxaid_1", {
   
  # for (i in seq_len(length(fn_all))) {
     fn_i <- df_pickfiles[i , "filename"]
-    df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+    df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
     i_taxaid <- df_pickfiles[i, "taxaid"]
     i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
     
@@ -127,10 +132,11 @@ test_that("ORWA, trans, taxaid_1", {
 })## Test ~ taxaid
     
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, trans, taxaid_2", {
+test_that("GP, trans, taxaid_2", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -138,7 +144,7 @@ test_that("ORWA, trans, taxaid_2", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
 
@@ -162,10 +168,11 @@ test_that("ORWA, trans, taxaid_2", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, trans, taxaid_3", {
+test_that("GP, trans, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -173,7 +180,7 @@ test_that("ORWA, trans, taxaid_3", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
   
@@ -197,10 +204,11 @@ test_that("ORWA, trans, taxaid_3", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, trans, taxaid_4", {
+test_that("GP, trans, taxaid_4", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -208,7 +216,7 @@ test_that("ORWA, trans, taxaid_4", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
 
@@ -232,10 +240,11 @@ test_that("ORWA, trans, taxaid_4", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, trans, taxaid_5", {
+test_that("GP, trans, taxaid_5", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -243,7 +252,7 @@ test_that("ORWA, trans, taxaid_5", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
   
@@ -267,49 +276,18 @@ test_that("ORWA, trans, taxaid_5", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, trans, taxaid_6", {
-  # data files
-  df_pickfiles <- read.csv(file.path("data"
-                                     , "taxa_official"
-                                     , "GreatPlains_BCG_Pick_Files.csv"))
-  fn_all <- df_pickfiles$filename
-  
-  i <- 6 #+ 6
-  
-  # for (i in seq_len(length(fn_all))) {
-  fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
-  i_taxaid <- df_pickfiles[i, "taxaid"]
-  i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
-  
-  n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid])
-  n_match_QC <- length(unique(df_i[, i_taxaid_match]))
-  
-  # show mismatches
-  print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
-  i6 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
-                                         df_i[, i_taxaid]]
-  sort(i6)
-  
-  # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
-  
-  # test
-  testthat::expect_equivalent(n_match_calc, n_match_QC)
-  
-  # }## FOR ~ i
-  
-})## Test ~ taxaid
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # All missing taxa
-# sort(unique(c(i1, i2, i3, i4, i5, i6)))
+# sort(unique(c(i1, i2, i3, i4, i5)))
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # attr, taxaid ----
-test_that("ORWA, attr, taxaid1", {
+test_that("GP, attr, taxaid1", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -317,13 +295,13 @@ test_that("ORWA, attr, taxaid1", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
   
   # attribute file
   fn_j <- df_pickfiles[i , "attributes_filename"]
-  df_j <- read.csv(file.path("data", "taxa_official", fn_j))
+  df_j <- read.csv(file.path("data", "taxa_official", "GP", fn_j))
   j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
   
   n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
@@ -355,10 +333,11 @@ test_that("ORWA, attr, taxaid1", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, attr, taxaid_2", {
+test_that("GP, attr, taxaid_2", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -366,13 +345,13 @@ test_that("ORWA, attr, taxaid_2", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
   
   # attribute file
   fn_j <- df_pickfiles[i , "attributes_filename"]
-  df_j <- read.csv(file.path("data", "taxa_official", fn_j))
+  df_j <- read.csv(file.path("data", "taxa_official", "GP", fn_j))
   j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
   
   n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
@@ -395,10 +374,11 @@ test_that("ORWA, attr, taxaid_2", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, attr, taxaid_3", {
+test_that("GP, attr, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -406,13 +386,13 @@ test_that("ORWA, attr, taxaid_3", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
   
   # attribute file
   fn_j <- df_pickfiles[i , "attributes_filename"]
-  df_j <- read.csv(file.path("data", "taxa_official", fn_j))
+  df_j <- read.csv(file.path("data", "taxa_official", "GP", fn_j))
   j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
   
   n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
@@ -435,10 +415,11 @@ test_that("ORWA, attr, taxaid_3", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, attr, taxaid_4", {
+test_that("GP, attr, taxaid_4", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -446,13 +427,13 @@ test_that("ORWA, attr, taxaid_4", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
   
   # attribute file
   fn_j <- df_pickfiles[i , "attributes_filename"]
-  df_j <- read.csv(file.path("data", "taxa_official", fn_j))
+  df_j <- read.csv(file.path("data", "taxa_official", "GP", fn_j))
   j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
   
   n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
@@ -475,10 +456,11 @@ test_that("ORWA, attr, taxaid_4", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, attr, taxaid_5", {
+test_that("GP, attr, taxaid_5", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
+                                     , "GP"
                                      , "GreatPlains_BCG_Pick_Files.csv"))
   fn_all <- df_pickfiles$filename
   
@@ -486,13 +468,13 @@ test_that("ORWA, attr, taxaid_5", {
   
   # for (i in seq_len(length(fn_all))) {
   fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
   i_taxaid <- df_pickfiles[i, "taxaid"]
   i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
   
   # attribute file
   fn_j <- df_pickfiles[i , "attributes_filename"]
-  df_j <- read.csv(file.path("data", "taxa_official", fn_j))
+  df_j <- read.csv(file.path("data", "taxa_official", "GP", fn_j))
   j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
   
   n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
@@ -514,82 +496,9 @@ test_that("ORWA, attr, taxaid_5", {
   
 })## Test ~ taxaid
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, attr, taxaid_6", {
-  # data files
-  df_pickfiles <- read.csv(file.path("data"
-                                     , "taxa_official"
-                                     , "GreatPlains_BCG_Pick_Files.csv"))
-  fn_all <- df_pickfiles$filename
-  
-  i <- 6 # + 6
-  
-  # for (i in seq_len(length(fn_all))) {
-  fn_i <- df_pickfiles[i , "filename"]
-  df_i <- read.csv(file.path("data", "taxa_official", fn_i))
-  i_taxaid <- df_pickfiles[i, "taxaid"]
-  i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
-  
-  # attribute file
-  fn_j <- df_pickfiles[i , "attributes_filename"]
-  df_j <- read.csv(file.path("data", "taxa_official", fn_j))
-  j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
-  
-  n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
-  n_match_QC <- length(unique(df_i[, i_taxaid_match]))
-  
-  # show mismatches
-  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, "'"))
-  j6 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
-                                         df_j[, j_taxaid]]
-  sort(j6)
-  
-  # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
-  
-  # test
-  testthat::expect_equivalent(n_match_calc, n_match_QC)
-  
-  # }## FOR ~ i
-  
-})## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# test_that("attr, taxaid_orig", {
-#   # data files
-#   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
-#   fn_all <- df_pickfiles$filename
-#   
-#   i <- 1 + 6
-#   
-#   # for (i in seq_len(length(fn_all))) {
-#   fn_i <- df_pickfiles[i , "filename"]
-#   df_i <- read.csv(file.path("data", "taxa_official", fn_i))
-#   i_taxaid <- df_pickfiles[i, "taxaid"]
-#   i_taxaid_match <- i_taxaid #df_pickfiles[i, "calc_taxaid"]
-#   
-#   # attribute file
-#   fn_j <- df_pickfiles[i , "attributes_filename"]
-#   df_j <- read.csv(file.path("data", "taxa_official", fn_j))
-#   j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
-#   
-#   n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
-#   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
-#   
-#   # show mismatches
-#   print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, "'"))
-#   j5 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
-#                                          df_j[, j_taxaid]]
-#   j5
-#   
-#   # test
-#   testthat::expect_equivalent(n_match_calc, n_match_QC)
-#   
-#   # }## FOR ~ i
-#   
-# })## Test ~ taxaid
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # All missing taxa
-# sort(unique(c(j1, j2, j3, j4, j5, j6)))
+# sort(unique(c(j1, j2, j3, j4, j5)))
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
