@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-09-11 08:48:10.0174
+    #> Last Update: 2024-10-01 08:34:34.646066
+
+# BioMonTools_SupportFiles 0.0.1.9080
+
+Released - 2024-10-01
+
+- refactor: Update Red Lake (MN) files
+  - Taxa Translator (bugs and fish)
+  - Attributes (bugs)
 
 # BioMonTools_SupportFiles 0.0.1.9079
 

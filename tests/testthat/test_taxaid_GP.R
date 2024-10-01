@@ -19,7 +19,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # 20240611, Great Plains BCG
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# 20240910, Erik, Update directory
+# 20240910, Erik, Update directory and remove 6th test (only 5 for GP)
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # duplicate names ----
