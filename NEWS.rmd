@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9082
+===========
+Released - 2024-10-07
+
+* refactor: Update Red Lake (MN) fish attributes
+
 BioMonTools_SupportFiles 0.0.1.9081
 ===========
 Released - 2024-10-02

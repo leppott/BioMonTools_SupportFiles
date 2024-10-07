@@ -1,0 +1,262 @@
+ScientificName,CommonName,TYPE,HABITAT,REPRODUCTION,TOLER,TROPHIC,BCG_Attr_MN2_01,BCG_Attr_MN2_02,BCG_Attr_MN2_03,BCG_Attr_MN2_04,BCG_Attr_MN2_05,BCG_Attr_MN2_06,BCG_Attr_MN2_07,BCG_Attr_MN2_10,BCG_Attr_MN2_11,Family,Genus,Species
+Etheostoma microperca,least darter,"DS,DSS,PERC,SL",,"MA<2,SER","I,S","BI-T,IN-T",2,2,2,2,2,2,2,,,Percidae,Etheostoma,microperca
+Etheostoma nigrum,johnny darter,"DS,DSS,PERC,PI",,"MA<2,NE",,"BI-T,IN-T",4,4,4,4,4,4,4,4,4,Percidae,Etheostoma,nigrum
+Etheostoma olmstedi,tesselated darter,,,,,,,,,,,,,,,Percidae,Etheostoma,olmstedi
+Etheostoma vitreum,glassy darter,,,,,,,,,,,,,,,Percidae,Etheostoma,vitreum
+Etheostoma zonale,banded darter,"DS,DSS,PERC",,"MA<2,SER,SILI",S,"BI-T,IN-T",3,3,3,,,,3,4,4,Percidae,Etheostoma,zonale
+Exoglossum maxillingua,cutlips minnow,,,,,,,,,,,,,,,Cyprinidae,Exoglossum,maxillingua
+Fundulidae,killifishes,,,,,,,,,,,,,,,Fundulidae,,
+Fundulus,topminnows,,,,,IN-T,,,,,,,,,,Fundulidae,Fundulus,
+Fundulus diaphanus,banded killifish,,,"MA<2,SER",,IN-T,3,3,3,3,3,3,3,3,3,Cyprinodontidae,Fundulus,diaphanus
+Fundulus dispar,starhead topminnow,,HW-T,"MA<2,SER","I,S",IN-T,,,,,,,,,,Fundulidae,Fundulus,dispar
+Fundulus heteroclitus,mummichog,,,,,,,,,,,,,,,Cyprinodontidae,Fundulus,heteroclitus
+Fundulus majalis,striped killifish,,,,,,,,,,,,,,,Fundulidae,Fundulus,majalis
+Fundulus notatus,blackstripe topminnow,,,"MA<2,SER",,IN-T,,,,,,,,,,Fundulidae,Fundulus,notatus
+Fundulus sciadicus,plains topminnow,SL,,MA<2,S,IN-T,,2,2,,,,2,,,Fundulidae,Fundulus,sciadicus
+Gadidae,codfishes,,,,,,,,,,,,,,,Gadidae,,
+Gambusia holbrooki,eastern mosquitofish,,,,,,,,,,,,,,,Poeciliidae,Gambusia,holbrooki
+Gasterosteidae,sticklebacks,,,,,,,,,,,,,,,Gasterosteidae,,
+Gasterosteus aculeatus,threespine stickleback,"EX,SL",,"MA<2,NE","T,TCW",,6a,6a,6a,6a,6a,6a,6a,,,Gasterosteidae,Gasterosteus,aculeatus
+Gobiidae,gobies,,,,,,,,,,,,,,,Gobiidae,,
+Gymnocephalus cernuus,ruffe,EX,,"MA<2,SER","T,TCW",,6a,6a,6a,6a,6a,6a,6a,6a,6a,Percidae,Gymnocephalus,cernuus
+Hiodon alosoides,goldeye,,,MA>3-T,,IN-T,3,3,,3,3,,,,,Hiodontidae,Hiodon,alosoides
+Hiodon tergisus,mooneye,,,,S,IN-T,3,3,,3,3,,,,,Hiodontidae,Hiodon,tergisus
+Acantharchus pomotis,mud sunfish,,,,,,,,,,,,,,,Centrarchidae,Acantharchus,pomotis
+Acipenser fulvescens,lake sturgeon,,,"MA>3-T,SILI","I,S","BI-T,IN-T",1,1,,1,1,,,,,Acipenseridae,Acipenser,fulvescens
+Acipenseridae,sturgeons,,,SILI,,"BI-T,IN-T",,,,,,,,,,Acipenseridae,,
+Alosa chrysochloris,skipjack herring,,,,,PI,,,,,,,,,,Clupeidae,Alosa,chrysochloris
+Alosa pseudoharengus,alewife,EX,,MA>3-T,,,,,,,,,,,,Clupeidae,Alosa,pseudoharengus
+Ambloplites rupestris,rock bass,PERC,,"MA>3-T,NE",S,PI,3,3,3,3,3,3,3,4,4,Centrarchidae,Ambloplites,rupestris
+Ameiurus,bullheads,,,,,"GE,OM",,,,,,,,,,Ictaluridae,Ameiurus,
+Ameiurus catus,white catfish,,,,,,,,,,,,,,,Ictaluridae,Ameiurus,catus
+Ameiurus melas,black bullhead,,,,"T,TCW,VT","DEM,GE,OM",5a,5a,5a,5a,5a,5a,5a,5a,5a,Ictaluridae,Ameiurus,melas
+Ameiurus natalis,yellow bullhead,,WE-T,"NE,SER",,"DEM,GE,OM",4,4,4,4,4,4,3,5,5,Ictaluridae,Ameiurus,natalis
+Ameiurus nebulosus,brown bullhead,,WE-T,"NE,SER",,"DEM,GE,OM",4,4,4,4,4,4,4,5,5,Ictaluridae,Ameiurus,nebulosus
+Amia calva,bowfin,,,MA>3-T,,PI,4,4,4,4,4,4,4,5,5,Amiidae,Amia,calva
+Amiidae,bowfins,,,,,,,,,,,,,,,Amiidae,,
+Ammocrypta clara,western sand darter,"DS,DSS,PERC,SL",,"MA<2,SER,SILI","I,S","BI-T,IN-T",2,,,,,,,,,Percidae,Ammocrypta,clara
+Anguilla rostrata,american eel,,,,,PI,1,1,,,,,,,,Anguillidae,Anguilla,rostrata
+Anguillidae,eels,,,,,,,,,,,,,,,Anguillidae,,
+Aphredoderidae,pirate perches,,,,,,,,,,,,,,,Aphredoderidae,,
+Aphredoderus sayanus,pirate perch,,,MA<2,,IN-T,,,,,,,,,,Aphredoderidae,Aphredoderus,sayanus
+Aplodinotus grunniens,freshwater drum,PERC,,MA>3-T,,IN-T,4,4,,4,4,,,4,4,Sciaenidae,Aplodinotus,grunniens
+Atherinidae,silversides,,,,,,,,,,,,,,,Atherinidae,,
+Campostoma,stonerollers,MIN-T,,,,HE,4,4,4,4,4,4,4,4,4,Cyprinidae,Campostoma,
+Campostoma anomalum,central stoneroller,,,,"T,TCW",HE,5,5,4,5,5,5,5,5,5,Cyprinidae,Campostoma,anomalum
+Campostoma oligolepis,largescale stoneroller,MIN-T,,MA<2,,"DEM,HE",4,4,,4,4,,,5,5,Cyprinidae,Campostoma,oligolepis
+Carassius auratus,goldfish,EX,,SER,"T,TCW,VT","DEM,GE,OM",6a,6a,6a,6a,6a,6a,6a,6a,6a,Cyprinidae,Carassius,auratus
+Carpiodes,carpsuckers,,,,,"GE,OM",,,,,,,,,,Catostomidae,Carpiodes,
+Carpiodes carpio,river carpsucker,,,MA>3-T,,"DE,DEM,GE,OM",4,4,,,,,,,,Catostomidae,Carpiodes,carpio
+Carpiodes cyprinus,quillback,,,MA>3-T,,"DE,DEM,GE,OM",4,4,,4,4,,,,,Catostomidae,Carpiodes,cyprinus
+Carpiodes velifer,highfin carpsucker,,,MA>3-T,S,"DE,DEM,GE,OM",3,3,,,,,,,,Catostomidae,Carpiodes,velifer
+Catostomiidae,suckers,,,,,,,,,,,,,,,Catostomiidae,,
+Catostomus,catostomus,,,SILI,,,,,,,,,,,,Catostomidae,Catostomus,
+Catostomus catostomus,longnose sucker,DSS,,"MA>3-T,SILI","I,ICW,S,SCW","BI-T,IN-T",,,,2,2,2,,2,2,Catostomidae,Catostomus,catostomus
+Catostomus commersonii,white sucker,,,SILI,T,"DE,DEM,GE,OM",4,5,4,4,5,4,4,4,4,Catostomidae,Catostomus,commersonii
+Centrarchidae,sunfishes,,,,,,,,,,,,,,,Centrarchidae,,
+Centrarchus macropterus,flier,,,,,,,,,,,,,,,Centrarchidae,Centrarchus,macropterus
+Chrosomus,chrosomus,,,,,,,,,,,,,,,Chrosomus,Chrosomus,
+Chrosomus eos,northern redbelly dace,"MIN-T,SL","HW-T, WE-T","MA<2,SER",S,HE,3,3,3,3,3,3,3,3,3,Cyprinidae,Chrosomus,eos
+Chrosomus erythrogaster,southern redbelly dace,"MIN-T,SL",HW-T,"MA<2,SER,SILI",,"DEM,HE",4,4,4,,,,4,4,4,Cyprinidae,Phoxinus,erythrogaster
+Chrosomus hybrid,hybrid chrosomus,,,,,,,,,,,,,,,Chrosomus,Chrosomus,hybrid
+Chrosomus neogaeus,finescale dace,MIN-T,"HW-T, WE-T","MA<2,SER","S,SCW","IN-T,INCYP",3,3,3,3,3,3,3,3,3,Chrosomus,Chrosomus,neogaeus
+Clinostomus elongatus,redside dace,MIN-T,HW-T,"MA<2,SILI","I,ICW,S,SCW","IN-T,INCYP",,2,2,,,,,3,3,Cyprinidae,Clinostomus,elongatus
+Clinostomus funduloides,rosyside dace,,,,,,,,,,,,,,,Cyprinidae,Clinostomus,funduloides
+Clupeidae,herrings,,,,,,,,,,,,,,,Clupeidae,,
+Clupiidae,herrings,,,,,,,,,,,,,,,Clupiidae,,
+Coregonus artedi,lake herring,,,MA>3-T,,,,,,,,,,,,Salmonidae,Coregonus,artedi
+Coregonus clupeaformis,lake whitefish,,,MA>3-T,,IN-T,,,,,,,,,,Salmonidae,Coregonus,clupeaformis
+Coregonus hoyi,bloater,,,MA<2,,,,,,,,,,,,Salmonidae,Coregonus,
+Coregonus kiyi,kiyi,,,MA>3-T,,,,,,,,,,,,Salmonidae,Coregonus,
+Coregonus zenithicus,shortjaw cisco,,,MA>3-T,,,,,,,,,,,,Salmonidae,Coregonus,
+Cottidae,sculpins,,,,,,,,,,,,,,,Cottidae,,
+Cottus,sculpins,"DS,DSS","CW,CWN",,"S,SCW","BI-T,IN-T",,,,,,,,,,Cottidae,Cottus,
+Cottus bairdii,mottled sculpin,"DS,DSS","CW,CWN,HW-T",MA<2,"S,SCW","BI-T,IN-T",3,3,3,3,3,3,,3,3,Cottidae,Cottus,bairdii
+Cottus cognatus,slimy sculpin,"DS,DSS,PERC","CW,CWN,HW-T",MA>3-T,"I,ICW,S,SCW","BI-T,IN-T",,2,2,,2,2,,2,2,Cottidae,Cottus,cognatus
+Cottus girardi,potomic sculpin,,,,,,,,,,,,,,,Cottidae,Cottus,girardi
+Cottus ricei,spoonhead sculpin,"DS,DSS",,MA<2,"I,S","BI-T,IN-T",,,,,,,,,,Cottidae,Cottus,
+Couesius plumbeus,lake chub,MIN-T,,SILI,"I,ICW,S,SCW","IN-T,INCYP",,,,,2,2,2,3,3,Leuciscidae,Couesius,plumbeus
+Crystallaria asprella,crystal darter,"DS,DSS,PERC,SL",,"MA<2,SER,SILI","I,S","BI-T,IN-T",1,,,,,,,,,Percidae,Crystallaria,asprella
+Ctenopharyngodon idella,grass carp,EX,,MA<2,"T,TCW","DEM,HE",,,,,,,,,,Cyprinidae,Ctenopharyngodon,idella
+Culaea inconstans,brook stickleback,SL,,"MA<2,NE",T,,5,5,5,5,5,5,5a,4,4,Gasterosteidae,Culaea,inconstans
+Cycleptus elongatus,blue sucker,DSS,,SILI,"I,S","BI-T,IN-T",1,,,,,,,,,Catostomidae,Cycleptus,elongatus
+Cyprinella analostana,satinfin shiner,,,,,,,,,,,,,,,Cyprinidae,Cyprinella,analostana
+Cyprinella lutrensis,red shiner,SL,,"MA<2,SER","T,TCW",GE,,5,5,,,,5,5,5,Cyprinidae,Cyprinella,lutrensis
+Cyprinella spiloptera,spotfin shiner,MIN-T,,"MA<2,SER",,"DE,DEM,IN-T,INCYP",4,4,4,4,4,4,4,4,4,Cyprinidae,Cyprinella,spiloptera
+Cyprinidae,minnows,,,,,,,,,,,,,,,Cyprinidae,,
+Cyprinidae hybrid,hybrid minnow,,,,,,,,,,,,,,,Cyprinidae,hybrid,
+Cyprinus carpio,common carp,EX,,MA<2,"T,TCW,VT","DE,DEM,GE,OM",6a,6a,6a,6a,6a,6a,6a,6a,6a,Cyprinidae,Cyrpinus,carpio
+Dorosoma cepedianum,gizzard shad,SCH,,"MA<2,SER",,DEM,4,4,,,,,,,,Clupeidae,Dorosoma,cepedianum
+Enneacanthus gloriosus,bluespotted sunfish,,,,,,,,,,,,,,,Centrarchidae,Enneacanthus,gloriosus
+Enneacanthus obesus,banded sunfish,,,,,,,,,,,,,,,Centrarchidae,Enneacanthus,obesus
+Erimystax x-punctatus,gravel chub,"MIN-T,SL",,"MA<2,SILI","I,S","BI-T,DEM,IN-T,INCYP",2,2,,,,,,,,Cyprinidae,Erimystax,x-punctatus
+Erimyzon oblongus,creek chubsucker,,,,,,,,,,,,,,,Catostomidae,Erimyzon,oblongus
+Esocidae,pikes,,,,,PI,,,,,,,,,,Esocidae,,
+Esox americanus americanus,redfin pickerel,,,,,,,,,,,,,,,Esocidae,Esox,americanus americanus
+Esox hybrid,tiger musky,,,,,PI,,,,,,,,,,Esocidae,Esox,hybrid
+Esox lucius,northern pike,,WE-T,MA<2,,PI,4,4,4,4,4,4,4,5,5,Esocidae,Esox,lucius
+Esox masquinongy,muskellunge,,,MA>3-T,"I,S",PI,2,,,2,,,,5,5,Esocidae,Esox,masquinongy
+Esox niger,chain pickerel,,,,,,,,,,,,,,,Esocidae,Esox,niger
+Etheostoma,etheostoma,"DS,DSS",,,,"BI-T,IN-T",,,,,,,,,,Percidae,Etheostoma,
+Etheostoma asprigene,mud darter,"DS,DSS,PERC,SL",,MA<2,S,"BI-T,IN-T",2,2,2,,,,2,4,4,Percidae,Etheostoma,asprigene
+Etheostoma blennioides,greenside darter,,,,,,,,,,,,,4,4,Percidae,Etheostoma,blennioides
+Etheostoma caeruleum,rainbow darter,"DS,DSS,PERC",,"MA<2,SER,SILI","S,SCW","BI-T,IN-T",3,3,3,3,3,3,3,4,4,Percidae,Etheostoma,caeruleum
+Etheostoma chlorosomum,bluntnose darter,"DS,DSS",,,,"BI-T,IN-T",,,,,,,,,,Percidae,Etheostoma,chlorosomum
+Etheostoma exile,iowa darter,"DS,DSS,PERC,SL",WE-T,MA<2,S,"BI-T,IN-T",3,3,3,3,3,4,3,4,4,Percidae,Etheostoma,exile
+Etheostoma flabellare,fantail darter,"DS,DSS,PERC",HW-T,"MA<2,SER","S,SCW","BI-T,IN-T",4,4,3,,,,4,4,4,Percidae,Etheostoma,flabellare
+Etheostoma fusiforme,swamp darter,,,,,,,,,,,,,,,Percidae,Etheostoma,fusiforme
+Hiodontidae,mooneyes,,,,,IN-T,,,,,,,,,,Hiodontidae,,
+Hybognathus hankinsoni,brassy minnow,SL,,MA<2,"T,TCW","DE,DEM,HE",5,5,5,5,5,5,5,5,5,Cyprinidae,Hybognathus,hankinsoni
+Hybognathus nuchalis,mississippi silvery minnow,MIN-T,,,"I,S",HE,,,,,,,,,,Cyprinidae,Hybognathus,nuchalis
+Hybognathus regius,eastern silvery minnow,,,,,,,,,,,,,,,Cyprinidae,Hybognathus,regius
+Hybopsis amnis,pallid shiner,MIN-T,,,"I,S","IN-T,INCYP",,,,,,,,,,Cyprinidae,Hybopsis,amnis
+Hypentelium nigricans,northern hogsucker,DSS,,"MA>3-T,SILI",S,"BI-T,DEM,IN-T",3,3,3,3,3,3,3,3,3,Catostomidae,Hypentelium,nigricans
+Hypophthalmichthys molitrix,silver carp,EX,,,"T,TCW,VT",,,,,,,,,,,Cyprinidae,Hypophthalmichthys,molitrix
+Hypophthalmichthys nobilis,bighead carp,EX,,SER,"T,TCW,VT",DEM,,,,,,,,,,Cyprinidae,Hypophthalmichthys,nobilis
+Ichthyomyzon,lamprey,,,,,,,,,,,,,,,Petromyzontidae,Ichthyomyzon,
+Ichthyomyzon castaneus,chestnut lamprey,,,MA>3-T,"I,S",PI,3,3,3,3,3,3,3,3,3,Petromyzontidae,Ichthyomyzon,castaneus
+Ichthyomyzon fossor,northern brook lamprey,,,MA>3-T,"I,ICW,S,SCW",,2,2,2,2,2,2,2,2,2,Petromyzontidae,Ichthyomyzon,fossor
+Ichthyomyzon gagei,southern brook lamprey,,,MA>3-T,"I,ICW,S,SCW",DE,2,2,2,,2,2,2,,,Petromyzontidae,Ichthyomyzon,gagei
+Ichthyomyzon unicuspis,silver lamprey,,,MA>3-T,S,PI,4,4,4,4,4,4,4,3,3,Petromyzontidae,Ichthyomyzon,unicuspis
+Ictaluridae,catfishes,,,,,,,,,,,,,,,Ictaluridae,,
+Ictalurus furcatus,blue catfish,,,NE,,PI,,,,,,,,,,Ictaluridae,Ictalurus,furcatus
+Ictalurus punctatus,channel catfish,,,"MA>3-T,NE",,"DEM,PI",4,4,4,4,4,4,4,,,Ictaluridae,Ictalurus,punctatus
+Ictiobinae,buffalo/carpsuckers,,,,,"GE,OM",,,,,,,,,,Ictiobinae,,
+Ictiobus,buffalos,,,,,"GE,OM",,,,,,,,,,Catostomidae,Ictiobus,
+Ictiobus bubalus,smallmouth buffalo,,,MA<2,,"DEM,GE,OM",4,4,4,4,4,4,4,4,4,Catostomidae,Ictiobus,bubalus
+Ictiobus cyprinellus,bigmouth buffalo,,,,"T,VT","DEM,GE,OM",5a,5a,5a,5a,5a,5a,5a,4,4,Catostomidae,Ictiobus,cyprinellus
+Ictiobus niger,black buffalo,,,,,"DE,DEM,GE,OM",4,4,,,,,,,,Catostomidae,Ictiobus,niger
+Labidesthes sicculus,brook silverside,SL,,MA<2,S,IN-T,3,3,,3,3,,,,,Atherinidae,Labidesthes,sicculus
+Lampetra,brook lamprey,,,,,,,,,,,,,,,Petromyzontidae,Lampetra,
+Lampetra aepyptera,least brook lamprey,,,,,,,,,,,,,,,Petromyzontidae,Lampetra,aepyptera
+Leiostomus xanthurus,spot,,,,,,,,,,,,,,,Sciaenidae,Leiostomus,xanthurus
+Lepisosteidae,gars,,,,,PI,,,,,,,,,,Lepisosteidae,,
+Lepisosteus osseus,longnose gar,,,"MA>3-T,SER",,PI,4,4,,,,,,,,Lepisosteidae,Lepisosteus,osseus
+Lepisosteus platostomus,shortnose gar,,,MA>3-T,,PI,4,4,,,,,,,,Lepisosteidae,Lepisosteus,platostomus
+Lepomis,common sunfishes,,,,,IN-T,,,,,,,,,,Centrarchidae,Lepomis,
+Lepomis auritus,redbreast sunfish,,,,,,,,,,,,,,,Centrarchidae,Lepomis,auritus
+Lepomis cyanellus,green sunfish,"PERC,PI",,"MA<2,NE","T,TCW,VT",GE,5a,5a,5a,5a,5a,5a,5,5a,5a,Centrarchidae,Lepomis,cyanellus
+Lepomis gibbosus,pumpkinseed,PERC,,"MA<2,NE",,IN-T,4,4,3,4,4,4,4,5,5,Centrarchidae,Lepomis,gibbosus
+Lepomis gulosus,warmouth,PERC,,MA<2,,PI,,,,,,,,,,Centrarchidae,Lepomis,gulosus
+Lepomis humilis,orangespotted sunfish,PERC,,"MA<2,SER","T,TCW,VT",,5a,5a,5a,5a,5a,5a,5a,5a,5a,Centrarchidae,Lepomis,humilis
+Lepomis hybrid,hybrid sunfish,,,,"T,TCW",,5,5,5,5,5,5,5,5,5,Centrarchidae,Lepomis,hybrid
+Lepomis macrochirus,bluegill,PERC,,"MA<2,NE,SER",,IN-T,4,4,4,4,4,4,4,5,5,Centrarchidae,Lepomis,macrochirus
+Lepomis megalotis,longear sunfish,PERC,,"MA<2,NE","I,S",IN-T,,,,,,,,,,Centrarchidae,Lepomis,megalotis
+Lethenteron appendix,american brook lamprey,,HW-T,MA>3-T,"I,ICW,S,SCW",,2,2,2,,,,2,2,2,Petromyzontidae,Lethenteron,appendix
+Lota lota,burbot,,,"MA>3-T,SILI","I,S",PI,3,3,3,3,3,3,3,4,4,Gadidae,Lota,lota
+Lucania parva,rainwater killifish,,,,,,,,,,,,,,,Fundulidae,Lucania,parva
+Luxilus chrysocephalus,striped shiner,,,,,,,,,,,,,,,Cyprinidae,Luxilus,chrysocephalus
+Luxilus cornutus,common shiner,MIN-T,,"MA<2,SILI",,"DEM,GE",4,4,4,4,4,3,3,4,4,Cyprinidae,Luxilus,cornutus
+Lythrurus umbratilis,redfin shiner,"MIN-T,SL",,MA<2,S,"IN-T,INCYP",2,2,2,,,,2,,,Cyprinidae,Lythrurus,umbratilis
+Macrhybopsis hyostoma,shoal chub,"MIN-T,SL",,MA<2,S,"BI-T,IN-T,INCYP",2,2,,,,,,,,Cyprinidae,Macrhybopsis,hyostoma
+Macrhybopsis storeriana,silver chub,MIN-T,,MA<2,,"BI-T,IN-T,INCYP",3,3,,,,,,,,Cyprinidae,Macrhybopsis,storeriana
+Margariscus margarita,pearl dace,MIN-T,"HW-T, WE-T",MA<2,"S,SCW","DEM,IN-T,INCYP",,3,3,,3,3,3,3,3,Cyprinidae,Margariscus,margarita
+Margariscus nachtriebi,northern pearl dace,MIN-T,"HW-T, WE-T",MA<2,"S,SCW","DEM,IN-T,INCYP",,3,3,,3,3,3,3,3,Cyprinidae,Margariscus,nachtriebi
+Menidia beryllina,inland silverside,,,,,,,,,,,,,,,Atherinidae,Menidia,beryllina
+Micropterus,micropterus,,,,,PI,,,,,,,,,,Centrarchidae,Micropterus,
+Micropterus dolomieu,smallmouth bass,PERC,,"MA>3-T,NE","I,S",PI,3,3,3,3,3,3,3,4,4,Centrarchidae,Micropterus,dolomieu
+Micropterus salmoides,largemouth bass,PERC,,NE,,PI,4,4,4,4,4,4,4,5,5,Centrarchidae,Micropterus,salmoides
+Minytrema melanops,spotted sucker,DSS,,"MA>3-T,SILI","I,S","BI-T,DEM,IN-T",2,,,,,,,,,Catostomidae,Minytrema,melanops
+Morone americana,white perch,"EX,PERC",,MA>3-T,,IN-T,,,,,,,,,,Moronidae,Morone,americana
+Morone chrysops,white bass,PERC,,MA<2,,PI,4,4,,4,4,,,,,Moronidae,Morone,chrysops
+Morone mississippiensis,yellow bass,PERC,,MA>3-T,,PI,,,,,,,,,,Moronidae,Morone,mississippiensis
+Morone saxatilis,striped bass,,,,,,,,,,,,,,,Moronidae,Morone,saxatilis
+Moronidae,temperate basses,,,,,,,,,,,,,,,Moronidae,,
+Moxostoma,redhorses,DSS,,SILI,,"BI-T,IN-T",3,3,3,3,3,3,3,3,3,Catostomidae,Moxostoma,
+Moxostoma anisurum,silver redhorse,DSS,,"MA>3-T,SILI",,"BI-T,DEM,IN-T",3,3,3,3,3,3,3,4,4,Catostomidae,Moxostoma,anisurum
+Moxostoma carinatum,river redhorse,DSS,,"MA>3-T,SILI","I,S","BI-T,IN-T",1,1,,1,,,,,,Catostomidae,Moxostoma,carinatum
+Moxostoma duquesnei,black redhorse,DSS,,"MA>3-T,SILI","I,S,SCW","BI-T,IN-T",2,2,,,,,,4,4,Catostomidae,Moxostoma,duquesnei
+Moxostoma erythrurum,golden redhorse,DSS,,"MA>3-T,SILI",,"BI-T,DEM,IN-T",3,3,3,3,3,3,3,4,4,Catostomidae,Moxostoma,erythrurum
+Moxostoma macrolepidotum,shorthead redhorse,DSS,,"MA>3-T,SILI",,"BI-T,DEM,IN-T",3,3,3,3,3,3,3,4,4,Catostomidae,Moxostoma,macrolepidotum
+Moxostoma valenciennesi,greater redhorse,DSS,,"MA>3-T,SILI","I,S","BI-T,IN-T",1,1,,1,1,,,4,4,Catostomidae,Moxostoma,valenciennesi
+Myoxocephalus thompsonii,deepwater sculpin,"DS,DSS",,MA>3-T,"I,S","BI-T,IN-T",,,,,,,,,,Cottidae,Myoxocephalus,thompsonii
+Neogobius melanostomus,round goby,EX,,"MA>3- T,NE,SER",,PI,,,,,,,,,,Gobiidae,Neogobius,melanostomus
+Nocomis biguttatus,hornyhead chub,MIN-T,,"MA<2,SER",S,"DEM,IN-T,INCYP",3,3,3,3,3,3,3,4,4,Cyprinidae,Nocomis,biguttatus
+Nocomis micropogon,river chub,,,,,,,,,,,,,,,Cyprinidae,Nocomis,micropogon
+Notemigonus crysoleucas,golden shiner,MIN-T,WE-T,"MA<2,SER",,GE,4,4,4,4,4,4,3,4,4,Cyprinidae,Notemigonus,crysoleucas
+Notropis,notropis,MIN-T,,,,,,,,,,,,,,Cyprinidae,Notropis,
+Notropis amoenus,comely shiner,,,,,,,,,,,,,,,Cyprinidae,Notropis,amoenus
+Notropis anogenus,pugnose shiner,"MIN-T,SL",,MA>3-T,"I,S","DE,HE",1,1,1,1,1,1,1,1,1,Cyprinidae,Notropis,anogenus
+Notropis atherinoides,emerald shiner,"MIN-T,SL,SCH",,"MA<2,SILI",,"DEM,IN-T,INCYP",4,4,4,4,4,4,4,4,4,Cyprinidae,Notropis,atherinoides
+Notropis blennius,river shiner,"MIN-T,SL",,"MA<2,SILI",,"DEM,IN-T,INCYP",4,4,,4,4,,4,4,4,Cyprinidae,Notropis,blennius
+Notropis buccatus,silverjaw minnow,,,,,,,,,,,,,,,Cyprinidae,Notropis,buccatus
+Notropis buchanani,ghost shiner,MIN-T,,"MA<2,SER","I,S","DE,IN-T,INCYP",,,,,,,,,,Cyprinidae,Notropis,buchanani
+Notropis chalybaeus,ironcolor shiner,,,,,,,,,,,,,,,Cyprinidae,Notropis,chalybaeus
+Notropis dorsalis,bigmouth shiner,SL,,"MA<2,SER","T,TCW,VT","DEM,INCYP",5a,5a,5a,5a,5a,5a,5a,5a,5a,Cyprinidae,Notropis,dorsalis
+Notropis heterodon,blackchin shiner,MIN-T,,"MA<2,SER","I,S","DEM,IN-T,INCYP",2,2,2,2,2,2,2,4,4,Cyprinidae,Notropis,heterodon
+Notropis heterolepis,blacknose shiner,"MIN-T,SL",,MA<2,"I,S","IN-T,INCYP",3,3,3,3,3,3,2,4,4,Cyprinidae,Notropis,heterolepis
+Notropis hudsonius,spottail shiner,MIN-T,,MA<2,S,"IN-T,INCYP",3,3,3,3,3,3,3,4,4,Cyprinidae,Notropis,hudsonius
+Notropis nubilus,ozark minnow,MIN-T,,"MA<2,SILI","I,S","DEM,HE",,2,2,,,,2,4,4,Cyprinidae,Notropis,nubilus
+Notropis percobromus,carmine shiner,"MIN-T,SL",,"MA<2,SILI",S,"DE,IN-T,INCYP",3,3,3,3,3,3,3,4,4,Cyprinidae,Notropis,percobromus
+Notropis procne,swallowtail shiner,,,,,,,,,,,,,,,Cyprinidae,Notropis,procne
+Notropis rubellus,rosyface shiner,,,,,,,,,,,,,,,Cyprinidae,Notropis,rubellus
+Notropis stramineus,sand shiner,SL,,"MA<2,SER","T,TCW","DE,DEM,INCYP",5,5,5,5,5,5,5,5a,5a,Cyprinidae,Notropis,stramineus
+Notropis texanus,weed shiner,"MIN-T,SL",,"MA<2,SER","I,S","DE,DEM,HE",2,2,2,2,2,2,2,2,2,Cyprinidae,Notropis,texanus
+Notropis topeka,topeka shiner,"MIN-T,SL",HW-T,MA<2,"I,S","IN-T,INCYP",,1,1,,,,1,,,Cyprinidae,Notropis,topeka
+Notropis volucellus,mimic shiner,"MIN-T,SL",,SER,"I,S","DEM,IN-T,INCYP",3,3,3,3,3,3,3,4,4,Cyprinidae,Notropis,volucellus
+Notropis wickliffi,channel shiner,"MIN-T,SL",,MA<2,S,"IN-T,INCYP",3,3,3,3,3,3,3,3,3,Cyprinidae,Notropis,wickliffi
+Noturus,madtoms,,,,,"BI-T,IN-T",,,,,,,,,,Ictaluridae,Noturus,
+Noturus exilis,slender madtom,,,,"I,S","BI-T,DE,IN-T",,,,,,,,,,Ictaluridae,Noturus,exilis
+Noturus flavus,stonecat,,,"MA>3-T,SER",S,"BI-T,IN-T",3,3,3,3,3,3,3,4,4,Ictaluridae,Noturus,flavus
+Noturus gyrinus,tadpole madtom,,WE-T,"MA<2,NE,SER",,"BI-T,IN-T",4,4,4,4,4,4,3,5,5,Ictaluridae,Noturus,gyrinus
+Noturus insignis,margined madtom,,,,,,,,,,,,,,,Ictaluridae,Noturus,insignis
+Oncorhynchus gorbuscha,pink salmon,EX,CW,,,PI,,,,,,,,6,6,Salmonidae,Oncorhynchus,gorbuscha
+Oncorhynchus kisutch,coho salmon,EX,CW,MA>3-T,,PI,,,,,,,,6,6,Salmonidae,Oncorhynchus,kisutch
+Oncorhynchus mykiss,rainbow trout,EX,CW,MA>3-T,"S,SCW",PI,6,6,6,6,6,6,6,6,6,Salmonidae,Oncorhynchus,mykiss
+Oncorhynchus tshawytscha,chinook salmon,EX,CW,MA>3-T,,PI,,,,6,6,6,,6,6,Salmonidae,Oncorhynchus,tshawytscha
+Opsopoeodus emiliae,pugnose minnow,"MIN-T,SL",,"MA<2,NE,SER","I,S","DE,DEM,IN-T,INCYP",2,2,2,,,,2,,,Cyprinidae,Opsopoeodus,emiliae
+Osmeridae,smelts,,,,,,,,,,,,,,,Osmeridae,,
+Osmerus mordax,rainbow smelt,EX,,SER,,PI,,,,,,,,,,Osmeridae,Osmerus,mordax
+Osteichthyes,watercolumn fish,,,,,,,,,,,,,,,,Osteichthyes,
+Perca flavescens,yellow perch,PERC,WE-T,MA>3-T,,IN-T,4,4,4,4,4,4,4,5,5,Percidae,Perca,flavescens
+Percidae,perches,,,,,,,,,,,,,,,Percidae,,
+Percina,percina,"DS,DSS",,SILI,,"BI-T,IN-T",,,,,,,,,,Percidae,Percina,
+Percina caprodes,logperch,"DS,DSS,PERC",,"MA<2,SILI","I,S","BI-T,IN-T",3,3,3,3,3,3,3,4,4,Percidae,Percina,caprodes
+Percina evides,gilt darter,"DS,DSS,PERC",,"MA<2,SILI","I,S","BI-T,IN-T",1,,,1,1,1,,,,Percidae,Percina,evides
+Percina maculata,blackside darter,"DS,DSS,PERC",,"MA<2,SILI",,"BI-T,IN-T",4,4,4,4,4,4,4,4,4,Percidae,Percina,maculata
+Percina peltata,shield darter,,,,,,,,,,,,,,,Percidae,Percina,peltata
+Percina phoxocephala,slenderhead darter,"DS,DSS,PERC",,"MA<2,SILI",S,"BI-T,IN-T",3,3,3,3,3,3,3,,,Percidae,Percina,phoxocephala
+Percina shumardi,river darter,"DS,DSS,PERC,SL",,"MA<2,SILI","I,S","BI-T,IN-T",3,3,3,3,3,3,3,3,3,Percidae,Percina,shumardi
+Percopsidae,trout-perches,,,,,,,,,,,,,,,Percopsidae,,
+Percopsis omiscomaycus,trout-perch,SL,,MA<2,,"BI-T,IN-T",3,3,3,3,3,3,3,4,4,Percopsidae,Percopsis,omiscomaycus
+Petromyzon marinus,sea lamprey,EX,,MA>3-T,,"DE,PI",,,,,,,,6a,6a,Petromyzontidae,Petromyzon,marinus
+Petromyzontidae,lampreys,,,,S,,,,,,,,,,,Petromyzontidae,,
+Petromyzontidae larvae,lamprey ammocoete,,,,"I,S",,3,3,3,3,3,3,3,3,3,Petromyzontidae,larvae,
+Phenacobius mirabilis,suckermouth minnow,MIN-T,,"MA<2,SER,SILI",,"BI-T,DEM,IN-T,INCYP",4,4,4,,,,4,4,4,Cyprinidae,Phenacobius,mirabilis
+Phoxinus,phoxinus,,HW-T,,,,,,,,,,,,,Cyprinidae,Phoxinus,
+Pimephales notatus,bluntnose minnow,"PI,SL",,"MA<2,NE,SER","T,TCW,VT","DE,DEM,GE",5a,5a,5a,5a,5a,5a,5a,5a,5a,Cyprinidae,Pimephales,notatus
+Pimephales promelas,fathead minnow,"PI,SL",,"MA<2,NE,SER","T,TCW,VT","DE,DEM,GE,OM",5a,5a,5a,5a,5a,5a,5a,5a,5a,Cyprinidae,Pimephales,promelas
+Pimephales vigilax,bullhead minnow,MIN-T,,"MA<2,NE,SER",,GE,4,4,,,,,,4,4,Cyprinidae,Pimephales,vigilax
+Platygobio gracilis,flathead chub,MIN-T,,"MA<2,SER",,"IN-T,INCYP",,,,,,,,,,Cyprinidae,Platygobio,gracilis
+Polydontidae,paddlefishes,,,,,,,,,,,,,,,Polydontidae,,
+Polyodon spathula,paddlefish,,,"MA>3-T,SILI","I,S",,,,,,,,,,,Polyodontidae,Polyodon,spathula
+Pomoxis,crappies,,,,,PI,,,,,,,,,,Centrarchidae,Pomoxis,
+Pomoxis annularis,white crappie,PERC,,"MA<2,NE",,PI,4,4,4,4,4,4,4,,,Centrarchidae,Pomoxis,annularis
+Pomoxis nigromaculatus,black crappie,PERC,,NE,,PI,4,4,4,4,4,4,4,5,5,Centrarchidae,Pomoxis,nigromaculatus
+Prosopium cylindraceum,round whitefish,,,MA>3-T,,IN-T,,,,,,,,,,Salmonidae,Prosopium,cylindraceum
+Proterorhinus marmoratus,tubenose goby,EX,,,,IN-T,,,,,,,,,,Gobiidae,Proterorhinus,marmoratus
+Pungitius pungitius,ninespine stickleback,,,"MA<2,NE",,IN-T,,,,,,,,,,Gasterosteidae,Pungitius,pungitius
+Pylodictis olivaris,flathead catfish,,,"MA>3-T,NE",,PI,4,4,4,,,,4,,,Ictaluridae,Pylodictis,olivaris
+Rhinichthys,rhinichthys,,,SILI,,,,,,,,,,,,Leuciscidae,Rhinichthys,
+Rhinichthys atratulus,blacknose dace,SL,,"MA<2,SILI",T,GE,5,5,4,5,5,4,5,4,4,Cyprinidae,Rhinichthys,atratulus
+Rhinichthys cataractae,longnose dace,MIN-T,,SILI,"I,ICW,S,SCW","BI-T,IN-T,INCYP",3,3,3,3,3,3,3,3,3,Cyprinidae,Rhinichthys,cataractae
+Rhinichthys obtusus,western blacknose dace,SL,,"MA<2,SILI",T,GE,5,5,4,5,5,4,5,4,4,Cyprinidae,Rhinichthys,obtusus
+Salmo salar,atlantic salmon,EX,CW,MA>3-T,,PI,,,,,,,,,,Salmonidae,Salmo,salar
+Salmo trutta,brown trout,EX,CW,MA>3-T,"S,SCW",PI,6,6,6,6,6,6,6,6,6,Salmonidae,Salmo,trutta
+Salmonidae,trouts,,,,,,,,,,,,,,,Salmonidae,,
+Salmonidae hybrid,tiger trout,,CW,,,PI,,,,,,,,,,Salmonidae,hybrid,
+Salmoninae,salmonids,,,,,PI,,,,,,,,,,Salmonidae,Salmoninae,
+Salvelinus fontinalis,brook trout,,"CW,CWN",MA>3-T,"I,ICW,S,SCW",PI,2,2,2,2,2,2,2,2,2,Salmonidae,Salvelinus,fontinalis
+Salvelinus hybrid,splake,,,,,,,,,,,,,,,Salmonidae,Salvelinus,hybrid
+Salvelinus namaycush,lake trout,,"CW,CWN",MA>3-T,,PI,,,,,,,,,,Salmonidae,Salvelinus,namaycush
+Sander,sander,,,SILI,,PI,,,,,,,,,,Percidae,Sander,
+Sander canadensis,sauger,PERC,,"MA>3-T,SILI",,PI,4,4,4,4,4,4,4,4,4,Percidae,Sander,canadensis
+Sander hybrid,saugeye,PERC,,SILI,,PI,,,,,,,,,,Percidae,Sander,
+Sander vitreus,walleye,PERC,,"MA>3-T,SILI",,PI,4,4,4,4,4,4,4,5,5,Percidae,Sander,vitreus
+Scaphirhynchus platorynchus,shovelnose sturgeon,,,"MA>3-T,SILI",,"BI-T,IN-T",1,1,,,,,,,,Acipenseridae,Scaphirhynchus,platorynchus
+Sciaenidae,drums,,,,,,,,,,,,,,,Sciaenidae,,
+Semotilus atromaculatus,creek chub,PI,,MA<2,T,GE,5,5,4,5,5,4,4,4,4,Cyprinidae,Semotilus,atromaculatus
+Semotilus corporalis,fallfish,,,,,,,,,,,,,,,Cyprinidae,Semotilus,corporalis
+Umbra limi,central mudminnow,,,MA<2,"T,TCW,VT",,5a,5a,4,5a,5a,5,4,5,5,Umbridae,Umbra,limi
+Umbra pygmaea,eastern mudminnow,,,,,,,,,,,,,,,Umbridae,Umbra,pygmaea
+Umbridae,mudminnows,,,,,,,,,,,,,,,Umbridae,,
