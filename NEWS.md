@@ -4,13 +4,19 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-10-07 12:20:06.569757
+    #> Last Update: 2024-10-14 08:48:22.76254
+
+# BioMonTools_SupportFiles 0.0.1.9083
+
+Released - 2024-10-13
+
+- refactor: Update Red Lake (MN) bug attributes and pick list
 
 # BioMonTools_SupportFiles 0.0.1.9082
 
 Released - 2024-10-07
 
-- refactor: Update Red Lake (MN) fish attributes
+- refactor: Update Red Lake (MN) fish attributes and pick list
 
 # BioMonTools_SupportFiles 0.0.1.9081
 
@@ -18,6 +24,7 @@ Released - 2024-10-02
 
 - refactor: Update Red Lake (MN) files
   - Attributes (fish)
+  - pick list
 
 # BioMonTools_SupportFiles 0.0.1.9080
 
@@ -26,6 +33,7 @@ Released - 2024-10-01
 - refactor: Update Red Lake (MN) files
   - Taxa Translator (bugs and fish)
   - Attributes (bugs)
+  - pick list
 
 # BioMonTools_SupportFiles 0.0.1.9079
 
