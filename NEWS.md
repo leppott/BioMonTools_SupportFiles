@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-10-22 16:40:04.846243
+    #> Last Update: 2024-10-24 07:55:29.639464
+
+# BioMonTools_SupportFiles 0.0.1.9088
+
+Released - 2024-10-24
+
+- refactor: Update Red Lake (MN) bug file
+  - attributes and update log
+  - pick list
 
 # BioMonTools_SupportFiles 0.0.1.9087
 
