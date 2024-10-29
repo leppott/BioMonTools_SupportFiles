@@ -12,7 +12,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # FileNames ----
-test_that("RedLake, pickfiles, filenames", {
+testthat::test_that("RedLake, pickfiles, filenames", {
   
   dn_data <- file.path("data", "taxa_official", "MN")
   # data files
@@ -51,7 +51,7 @@ test_that("RedLake, pickfiles, filenames", {
 # TaxaID ----
 # one for each row in file
 
-test_that("RedLake, taxaid cols, 1", {
+testthat::test_that("RedLake, taxaid cols, 1", {
   filenum <- 1
   
   dn_data <- file.path("data", "taxa_official", "MN")
@@ -81,7 +81,7 @@ test_that("RedLake, taxaid cols, 1", {
 })## Test ~ taxaid cols, 1
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("RedLake, taxaid cols, 2", {
+testthat::test_that("RedLake, taxaid cols, 2", {
   filenum <- 2
   
   dn_data <- file.path("data", "taxa_official", "MN")
@@ -111,7 +111,7 @@ test_that("RedLake, taxaid cols, 2", {
 })## Test ~ taxaid cols, 2
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("RedLake, taxaid cols, 3", {
+testthat::test_that("RedLake, taxaid cols, 3", {
   filenum <- 3
   
   dn_data <- file.path("data", "taxa_official", "MN")
@@ -141,7 +141,7 @@ test_that("RedLake, taxaid cols, 3", {
 })## Test ~ taxaid cols, 3
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("RedLake, taxaid cols, 4", {
+testthat::test_that("RedLake, taxaid cols, 4", {
   filenum <- 4
   
   dn_data <- file.path("data", "taxa_official", "MN")

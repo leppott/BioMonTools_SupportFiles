@@ -3,7 +3,7 @@ Primary contact,Will Bouchard (will.bouchard@state.mn.us) and Joel Chirhart (joe
 ,
 ScientificName,scientific name (post-translation)
 CommonName,common name
-TYPE,"Combination of Composition, Life History and Schooling. Composition: DSS = DarterSculpinSucker, DS = DarterSculpin, EX = Exotic, MIN-T = Minnow - Tol, PERC = Perciformes. Life History: PI = Pioneer, SL = Short-lived. Schooling: SCH"
+TYPE,"Combination of Composition, Life History and Schooling. Composition: DSS = DarterSculpinSucker, DS = DarterSculpin, EX = Exotic, MIN-T = Minnow - Tol, PERC = Perciformes. Life History: PI = Pioneer, SL = Short-lived. Schooling: SCH. Brook Trout: BKT"
 HABITAT,"HW-T = Headwater Specialist, Exclude Tolerant, WE-T = Wetland, Exclude Tolerant, CW = Coldwater, CWN = Coldwater Native"
 REPRODUCTION,"MA<2 = Mature Age < 2, MA>3-T = Mature Age > 3, Exclude Tolerant, NE = Non Lithophilic Nester, SER = Serial Spawner, SILI = Simple Lithophil"
 TOLER,"I  = Intolerant, ICW = Intolerant Coldwater, S = Sensitive, SCW = Sensitive Coldwater, T = Tolerant, TCW = Tolerant Coldwater, VT = Very Tolerant"

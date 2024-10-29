@@ -17,6 +17,15 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9089
+===========
+Released - 2024-10-29
+
+* refactor: Update Red Lake (MN) fish file
+    + attributes, metadata, and update log
+    + pick list 
+* tests: Prefix tests with package name so can run with copy and paste in console
+
 BioMonTools_SupportFiles 0.0.1.9088
 ===========
 Released - 2024-10-24

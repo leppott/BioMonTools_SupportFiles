@@ -16,7 +16,7 @@
 
 # Bugs ----
 ## duplicate names ----
-test_that("RedLake, trans, dups1", {
+testthat::test_that("RedLake, trans, dups1", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -45,7 +45,7 @@ test_that("RedLake, trans, dups1", {
   
 })## Test ~ dup, trans
 
-test_that("RedLake, trans, dups2", {
+testthat::test_that("RedLake, trans, dups2", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -74,7 +74,7 @@ test_that("RedLake, trans, dups2", {
   
 })## Test ~ 2 dup, trans
 
-test_that("RedLake, attr, dups1", {
+testthat::test_that("RedLake, attr, dups1", {
   
   # data files
   df_pickfiles <- read.csv(file.path("data"
@@ -104,7 +104,7 @@ test_that("RedLake, attr, dups1", {
   
 })## Test ~ dup, trans
 
-test_that("RedLake, attr, dups2", {
+testthat::test_that("RedLake, attr, dups2", {
   
   # data files
   df_pickfiles <- read.csv(file.path("data"
@@ -136,7 +136,7 @@ test_that("RedLake, attr, dups2", {
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ## trans, taxaid ----
-test_that("RedLake, trans, taxaid_1", {
+testthat::test_that("RedLake, trans, taxaid_1", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -180,7 +180,7 @@ test_that("RedLake, trans, taxaid_1", {
   
 })## Test ~ taxaid
 
-test_that("RedLake, trans, taxaid_2", {
+testthat::test_that("RedLake, trans, taxaid_2", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -238,7 +238,7 @@ test_that("RedLake, trans, taxaid_2", {
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## attr, taxaid ----
-test_that("RedLake, attr, taxaid1", {
+testthat::test_that("RedLake, attr, taxaid1", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -284,7 +284,7 @@ test_that("RedLake, attr, taxaid1", {
   
 })## Test ~ taxaid
 
-test_that("RedLake, attr, taxaid2", {
+testthat::test_that("RedLake, attr, taxaid2", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -336,7 +336,7 @@ test_that("RedLake, attr, taxaid2", {
 # Fish ----
 ## duplicate names ----
 
-test_that("RedLake, trans, dups3", {
+testthat::test_that("RedLake, trans, dups3", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -362,7 +362,7 @@ test_that("RedLake, trans, dups3", {
   
 })## Test ~ dup, trans
 
-test_that("RedLake, trans, dups4", {
+testthat::test_that("RedLake, trans, dups4", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -388,7 +388,7 @@ test_that("RedLake, trans, dups4", {
   
 })## Test ~ dup, trans
 
-test_that("RedLake, attr, dups3", {
+testthat::test_that("RedLake, attr, dups3", {
   
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
@@ -416,7 +416,7 @@ test_that("RedLake, attr, dups3", {
 })## Test ~ dup, trans
 
 
-test_that("RedLake, attr, dups4", {
+testthat::test_that("RedLake, attr, dups4", {
   
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
@@ -448,7 +448,7 @@ test_that("RedLake, attr, dups4", {
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-test_that("RedLake, trans, taxaid_3", {
+testthat::test_that("RedLake, trans, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -481,7 +481,7 @@ test_that("RedLake, trans, taxaid_3", {
 })## Test ~ taxaid 3
 
 
-test_that("RedLake, trans, taxaid_4", {
+testthat::test_that("RedLake, trans, taxaid_4", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -524,7 +524,7 @@ test_that("RedLake, trans, taxaid_4", {
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("RedLake, attr, taxaid_3", {
+testthat::test_that("RedLake, attr, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -561,7 +561,7 @@ test_that("RedLake, attr, taxaid_3", {
   
 })## Test ~ taxaid 4
 
-test_that("RedLake, attr, taxaid_3", {
+testthat::test_that("RedLake, attr, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "MN", "_pick_files_MN.csv"))
   fn_all <- df_pickfiles$filename
@@ -600,7 +600,7 @@ test_that("RedLake, attr, taxaid_3", {
 
 # OLD ----
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# test_that("attr, taxaid_orig", {
+# testthat::test_that("attr, taxaid_orig", {
 #   # data files
 #   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files_MN.csv"))
 #   fn_all <- df_pickfiles$filename
