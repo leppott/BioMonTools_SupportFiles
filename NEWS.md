@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-10-29 09:09:12.15044
+    #> Last Update: 2024-10-30 13:05:10.780686
+
+# BioMonTools_SupportFiles 0.0.1.9090
+
+Released - 2024-10-30
+
+- refactor: Update MN Fish taxa attributes
+  - genus Ichthyomyzon per email from Mike Feist
 
 # BioMonTools_SupportFiles 0.0.1.9089
 
