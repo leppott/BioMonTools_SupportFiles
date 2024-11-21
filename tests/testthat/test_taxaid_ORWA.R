@@ -17,9 +17,47 @@
 # BioMonTools/_tests/QC_TaxaID_betweenFiles_Project.R
 # mimics the tests here
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# 20241121
+# add pick files tests from RedLake (MN)
+# Add back DNI removal for trans tests
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# FileNames ----
+testthat::test_that("ORWA, pickfiles, filenames", {
+  
+  dn_data <- file.path("data", "taxa_official")
+  # data files
+  fn_pickfiles <- "_pick_files.csv"
+  df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
+  
+  fn_trans <- df_pickfiles$filename
+  fn_trans_meta <- df_pickfiles$metadata_filename
+  fn_attr <- df_pickfiles$attributes_filename
+  fn_attr_meta <- df_pickfiles$attributes_metadata_filename
+  fn_all <- c(fn_trans, fn_trans_meta, fn_attr, fn_attr_meta)
+  fn_dir <- list.files(file.path(dn_data))
+  
+  # QC
+  n_fn_all <- length(fn_all)
+  n_fn_match <- sum(fn_all %in% fn_dir)  
+  
+  # show mismatches
+  fn_nonmatch <- fn_all[!fn_all %in% fn_dir]
+  msg <- paste0("File names in Pick Files not matching files in directory\n"
+                , "File = ",  fn_pickfiles
+                , "\n\n"
+                , paste(fn_nonmatch, collapse = "\n")
+                , "\n"
+  )
+  message(msg)
+  
+  #test
+  testthat::expect_equal(n_fn_match, n_fn_all)
+  
+})## Test ~ pickfiles - filenames
 
 # duplicate names ----
-test_that("ORWA, trans, dups1", {
+testthat::test_that("ORWA, trans, dups1", {
   # data files
   df_pickfiles <- read.csv(file.path("data", "taxa_official", "_pick_files.csv"))
   fn_all <- df_pickfiles$filename
@@ -101,7 +139,7 @@ test_that("ORWA, trans, taxaid_1", {
     sort(i1)
     
     # Remove DNI
-   # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+    n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
     
     # test, match
     testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -142,7 +180,7 @@ test_that("ORWA, trans, taxaid_2", {
   sort(i2)
   
   # Remove DNI
-  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -175,7 +213,7 @@ test_that("ORWA, trans, taxaid_3", {
   sort(i3)
   
   # Remove DNI
-  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -208,7 +246,7 @@ test_that("ORWA, trans, taxaid_4", {
   sort(i4)
   
   # Remove DNI
-  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -241,7 +279,7 @@ test_that("ORWA, trans, taxaid_5", {
   sort(i5)
   
   # Remove DNI
-  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -274,7 +312,7 @@ test_that("ORWA, trans, taxaid_6", {
   sort(i6)
   
   # Remove DNI
-  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)

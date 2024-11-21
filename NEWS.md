@@ -4,7 +4,17 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-10-30 13:05:10.780686
+    #> Last Update: 2024-11-21 08:41:35.877686
+
+# BioMonTools_SupportFiles 0.0.1.9091
+
+Released - 2024-11-21
+
+- fix: Update ORWA attributes
+  - Juga genus from “c” to “Juga”
+- tests: Update ORWA tests
+  - Add pick files test from MN
+  - Add DNI removal back to some tests
 
 # BioMonTools_SupportFiles 0.0.1.9090
 

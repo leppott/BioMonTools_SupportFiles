@@ -17,6 +17,16 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9091
+===========
+Released - 2024-11-21
+
+* fix: Update ORWA attributes
+    + Juga genus from "c" to "Juga"
+* tests: Update ORWA tests
+    + Add pick files test from MN
+    + Add DNI removal back to some tests
+
 BioMonTools_SupportFiles 0.0.1.9090
 ===========
 Released - 2024-10-30
