@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-02-07 14:23:42.505201
+    #> Last Update: 2025-02-07 15:51:34.891948
+
+# BioMonTools_SupportFiles 0.0.1.9095
+
+Released - 2025-02-07
+
+- refactor: Update pickfiles.csv for ORWA statewide
 
 # BioMonTools_SupportFiles 0.0.1.9094
 

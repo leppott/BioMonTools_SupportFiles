@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9095
+===========
+Released - 2025-02-07
+
+* refactor: Update pickfiles.csv for ORWA statewide
+
 BioMonTools_SupportFiles 0.0.1.9094
 ===========
 Released - 2025-02-07
