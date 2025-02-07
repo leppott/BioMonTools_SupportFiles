@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2024-11-21 08:41:35.877686
+    #> Last Update: 2025-02-07 13:04:57.88949
+
+# BioMonTools_SupportFiles 0.0.1.9092
+
+Released - 2025-02-07
+
+- refactor: Add subfolder for “ORWA” in data taxa_official
+- refactor: Move ORWA files to subfolder
 
 # BioMonTools_SupportFiles 0.0.1.9091
 
