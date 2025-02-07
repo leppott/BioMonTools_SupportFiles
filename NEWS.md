@@ -4,7 +4,16 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-02-07 13:15:03.347028
+    #> Last Update: 2025-02-07 14:23:42.505201
+
+# BioMonTools_SupportFiles 0.0.1.9094
+
+Released - 2025-02-07
+
+- refactor: Add new ORWA files
+- refactor: Renames old ORWA files with MariNW prefix
+- refactor: Update pickfiles.csv for new files
+- tests: Create test for ORWA pickfiles
 
 # BioMonTools_SupportFiles 0.0.1.9093
 

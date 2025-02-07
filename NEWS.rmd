@@ -17,6 +17,15 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9094
+===========
+Released - 2025-02-07
+
+* refactor: Add new ORWA files 
+* refactor: Renames old ORWA files with MariNW prefix
+* refactor: Update pickfiles.csv for new files
+* tests: Create test for ORWA pickfiles
+
 BioMonTools_SupportFiles 0.0.1.9093
 ===========
 Released - 2025-02-07
