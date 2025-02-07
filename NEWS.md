@@ -4,14 +4,21 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-02-07 13:04:57.88949
+    #> Last Update: 2025-02-07 13:15:03.347028
+
+# BioMonTools_SupportFiles 0.0.1.9093
+
+Released - 2025-02-07
+
+- refactor: Add subfolder for “ORWA” in data fuzzythermal
+- refactor: Move ORWA file to new subfolder
 
 # BioMonTools_SupportFiles 0.0.1.9092
 
 Released - 2025-02-07
 
 - refactor: Add subfolder for “ORWA” in data taxa_official
-- refactor: Move ORWA files to subfolder
+- refactor: Move ORWA files to new subfolder
 
 # BioMonTools_SupportFiles 0.0.1.9091
 

@@ -17,12 +17,19 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9093
+===========
+Released - 2025-02-07
+
+* refactor: Add subfolder for "ORWA" in data fuzzythermal
+* refactor: Move ORWA file to new subfolder
+
 BioMonTools_SupportFiles 0.0.1.9092
 ===========
 Released - 2025-02-07
 
 * refactor: Add subfolder for "ORWA" in data taxa_official
-* refactor: Move ORWA files to subfolder
+* refactor: Move ORWA files to new subfolder
 
 BioMonTools_SupportFiles 0.0.1.9091
 ===========
