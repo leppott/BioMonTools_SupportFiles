@@ -10,9 +10,11 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # repurpose GP file
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# 20250211, Add 6 and 7
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # FileNames ----
-test_that("ORWA, pickfiles, filenames", {
+testthat::test_that("ORWA, pickfiles, filenames", {
   
   dn_data <- file.path("data", "taxa_official", "ORWA")
   # data files
@@ -51,7 +53,7 @@ test_that("ORWA, pickfiles, filenames", {
 # TaxaID ----
 # one for each row in file
 
-test_that("ORWA, taxaid cols, 1", {
+testthat::test_that("ORWA, taxaid cols, 1", {
   filenum <- 1
   
   dn_data <- file.path("data", "taxa_official", "ORWA")
@@ -81,7 +83,7 @@ test_that("ORWA, taxaid cols, 1", {
 })## Test ~ taxaid cols, 1
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, taxaid cols, 2", {
+testthat::test_that("ORWA, taxaid cols, 2", {
   filenum <- 2
   
   dn_data <- file.path("data", "taxa_official", "ORWA")
@@ -111,7 +113,7 @@ test_that("ORWA, taxaid cols, 2", {
 })## Test ~ taxaid cols, 2
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, taxaid cols, 3", {
+testthat::test_that("ORWA, taxaid cols, 3", {
   filenum <- 3
   
   dn_data <- file.path("data", "taxa_official", "ORWA")
@@ -141,7 +143,7 @@ test_that("ORWA, taxaid cols, 3", {
 })## Test ~ taxaid cols, 3
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, taxaid cols, 4", {
+testthat::test_that("ORWA, taxaid cols, 4", {
   filenum <- 4
   
   dn_data <- file.path("data", "taxa_official", "ORWA")
@@ -171,7 +173,7 @@ test_that("ORWA, taxaid cols, 4", {
 })## Test ~ taxaid cols, 4
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("ORWA, taxaid cols, 5", {
+testthat::test_that("ORWA, taxaid cols, 5", {
   filenum <- 5
   
   dn_data <- file.path("data", "taxa_official", "ORWA")
@@ -199,4 +201,64 @@ test_that("ORWA, taxaid cols, 5", {
   testthat::expect_contains(names(df_attr), taxaid_attr)
   
 })## Test ~ taxaid cols, 5
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+testthat::test_that("ORWA, taxaid cols, 6", {
+  filenum <- 6
+  
+  dn_data <- file.path("data", "taxa_official", "ORWA")
+  # data files
+  fn_pickfiles <- "_pick_files.csv"
+  df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
+  
+  fn_trans <- df_pickfiles[filenum, "filename"]
+  taxaid_trans_1 <- df_pickfiles[filenum, "taxaid"]
+  taxaid_trans_2 <- df_pickfiles[filenum, "calc_taxaid"]
+  # not checking for col_drop
+  fn_attr <- df_pickfiles[filenum, "attributes_filename"]
+  taxaid_attr <- df_pickfiles[filenum, "attributes_taxaid"]
+  # files
+  df_trans <- read.csv(file.path(dn_data, fn_trans))
+  df_attr <- read.csv(file.path(dn_data, fn_attr))
+  
+  # QC Show
+  c(taxaid_trans_1, taxaid_trans_2) %in% names(df_trans)
+  taxaid_attr %in% names(df_attr)
+  
+  # test
+  testthat::expect_contains(names(df_trans), taxaid_trans_1)
+  testthat::expect_contains(names(df_trans), taxaid_trans_2)
+  testthat::expect_contains(names(df_attr), taxaid_attr)
+  
+})## Test ~ taxaid cols, 6
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+testthat::test_that("ORWA, taxaid cols, 7", {
+  filenum <- 7
+  
+  dn_data <- file.path("data", "taxa_official", "ORWA")
+  # data files
+  fn_pickfiles <- "_pick_files.csv"
+  df_pickfiles <- read.csv(file.path(dn_data, fn_pickfiles))
+  
+  fn_trans <- df_pickfiles[filenum, "filename"]
+  taxaid_trans_1 <- df_pickfiles[filenum, "taxaid"]
+  taxaid_trans_2 <- df_pickfiles[filenum, "calc_taxaid"]
+  # not checking for col_drop
+  fn_attr <- df_pickfiles[filenum, "attributes_filename"]
+  taxaid_attr <- df_pickfiles[filenum, "attributes_taxaid"]
+  # files
+  df_trans <- read.csv(file.path(dn_data, fn_trans))
+  df_attr <- read.csv(file.path(dn_data, fn_attr))
+  
+  # QC Show
+  c(taxaid_trans_1, taxaid_trans_2) %in% names(df_trans)
+  taxaid_attr %in% names(df_attr)
+  
+  # test
+  testthat::expect_contains(names(df_trans), taxaid_trans_1)
+  testthat::expect_contains(names(df_trans), taxaid_trans_2)
+  testthat::expect_contains(names(df_attr), taxaid_attr)
+  
+})## Test ~ taxaid cols, 7
 

@@ -1,0 +1,28 @@
+Version,2/11/2025
+Primary contacts,Jen Stamp (Jen.Stamp@tetratech.com) and Sean Sullivan (ssullivan@rhithron.com)
+,
+Taxon_Group,"major taxonomic groups - Acari, Chironomidae, Coleoptera, Crustacea, Diptera, Ephemeroptera, Hemiptera, Leeches, Lepidoptera, Megaloptera, Misc. Phyla, Mollusca, Neuroptera, Odonata, Oligochaeta, Plecoptera, Polychaeta, Trichoptera"
+Taxon_orig,taxon name from the original source file
+Rationale,reason for the change (blank if no change)
+OTU_MetricCalc,"original taxon name translated to a regional ID that harmonizes differences (such as syntax, changes in nomenclature, misspellings, etc.). Used for the thermal preference metric calculations. DNI (do not include - e.g., terrestrial, marine)"
+OTU_BCG_ORWA,"Operational Taxonomic Unit (OTU) for the ORWA statewide BCG calculation. Worms are collapsed to Oligochaeta. DNI (do not include - e.g., terrestrial, marine)"
+OTU_BCG_ORWA_worms,"OTU for the ORWA statewide BCG calculation, with worms at finer level of resolution. DNI (do not include - e.g., terrestrial, marine)"
+TSN,"Taxonomic Serial Number - a unique, persistent, non-intelligent identifier for a scientific name in the context of the Integrated Taxonomic Information System (ITIS)."
+Kingdom,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+Phylum,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SubPhylum,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+Class,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SubClass,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+Order,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SubOrder,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SuperFamily,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+Family,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SubFamily,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+Tribe,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+GenusGroup,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+Genus,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SubGenus,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SpeciesGroup,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SpeciesSubGroup,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+SpeciesComplex,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table
+Species,taxonomic hierarchy based on the Taxon_orig field; the hierarchy in the final 'built' file is based on the final OTU/hierarchy in the Attributes table

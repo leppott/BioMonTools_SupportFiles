@@ -1,0 +1,82 @@
+Version,2/11/2025
+Primary contacts,Jen Stamp (Jen.Stamp@tetratech.com) and Sean Sullivan (ssullivan@rhithron.com)
+,
+Taxon_Group,"major taxonomic groups - Other Non-Insect, Oligochaeta, Terrestrial, Coleoptera, Diptera, Chironomidae, Ephemeroptera, Heteroptera, Hemiptera, Lepidoptera, Megaloptera, Neuroptera, Odonata, Plecoptera, Trichoptera, Fish"
+Taxon,"taxon name from the selected OTU (OTU_MetricCalc, OTU_BCG_ORWA, etc.)"
+NonTarget,FALSE = target (ok to include in calculations). TRUE = nontarget (not appropriate to include in any of the calculations).
+BCG_attr,"Biological Condition Gradient (BCG) taxa attribute assignments (1i, 1m, 2, 3, 4, 5, 6). 1i = sensitive specialist or regionally endemic; 1m = moderately tolerant specialist or regionally endemic; 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = highly tolerant; 6t = nonnative tolerant"
+BCG_PredContScore,"predicted BCG taxa attribute assignment (continuous scale) based on statewide dataset (Mark Fernandez, Tt, unpublished 2024)"
+BCG_attr2,"placeholder - BCG attribute IV sub-level: 4_better, 4_middle, 4_worse"
+FFG,"Primary Functional Feeding Group: collector-gatherer (CG), collector-filterer (CF), predator (PR), scraper (SC), shredder (SH), macrophyte herbivore (MH), omnivore (OM), parasite (PA), piercer-herbivore (PH), xylophage (XY). Multiple entries are allowed and are separated with a comma"
+Habit,"Habit: burrowers (BU), climbers (CB), clingers (CN), sprawlers (SP), swimmers (SW), skaters (SK). Multiple entries are allowed and are separated with a comma"
+Life_Cycle,"Number of broods or generations of an organism in a year (also referred to as 'voltinism'): univoltine (UNI), semivoltine (SEMI), or multivoltine (MULTI)."
+Habitat,"Exploratory attribute developed by Robert Wisseman; Generalist (GENE), Lotic (LOTI), Lentic (LENT), primarily terrestrial (TERR), Marine (MARI)"
+Noteworthy,Exploratory attribute developed by Robert Wisseman; TRUE = any taxon that is rare or unusual in a mid-order stream benthic biomonitoring sample.
+LONGLIVED,TRUE = long-lived taxa that require more than one year to complete their life cycles
+Thermal_indicator,"[used for metric calculations] Thermal preference assignments for taxa that are NOT flagged for variability: cold stenotherm (stenoc), cold (cold), cool (cool), cowa (cool/warm), warm (warm), warm stenotherm (warm), eurythermal. Source: Hubler et al. 2024"
+ThermalPref_ALL,Thermal preference assignments that include taxa flagged for variability. Source: Hubler et al. 2024
+ThermTol_Less30,Less30 = occurred in the regional OR/WA tolerance dataset but results were not reported due to low sample size (occurred in fewer than 30 samples)
+MWMT_WAopt,"Maximum Weekly Maximum Temperature (MWMT) weighted average optima (°C), based on relative abundance data. Source: Hubler et al. 2024. MWMT came from the NorWeST modeled stream temperature dataset (Isaak et al. 2017). WAopt is commonly used for estimating the central tendency of a taxon along an environmental gradient. "
+MWMT_PCT90,"MWMT value that corresponds with the 90th percentile of taxon occurrence, based on presence data. Source: Hubler et al. 2024"
+Therm_TopIndicator,Representative taxa in each thermal indicator group. Source: Hubler et al. 2024
+ThermVar,"yes = genera, tribes, subfamilies and families have children in more than one thermal preference category. Source: Hubler et al. 2024"
+TolVal2,"For more information, contact Sean Sullivan (ssullivan@rhithron.com)"
+TolVal,"tolerance value (numeric). For more information, contact Sean Sullivan (ssullivan@rhithron.com)"
+Air,"For more information, contact Sean Sullivan (ssullivan@rhithron.com)"
+FSBI_2012,"For more information, contact Sean Sullivan (ssullivan@rhithron.com)"
+Hemoglobin,"For more information, contact Sean Sullivan (ssullivan@rhithron.com)"
+TSN,"Taxonomic Serial Number - a unique, persistent, non-intelligent identifier for a scientific name in the context of the Integrated Taxonomic Information System (ITIS)."
+Kingdom,taxonomic hierarchy
+Phylum,taxonomic hierarchy
+SubPhylum,taxonomic hierarchy
+Class,taxonomic hierarchy
+SubClass,taxonomic hierarchy
+Order,taxonomic hierarchy
+SubOrder,taxonomic hierarchy
+SuperFamily,taxonomic hierarchy
+Family,taxonomic hierarchy
+SubFamily,taxonomic hierarchy
+Tribe,taxonomic hierarchy
+GenusGroup,taxonomic hierarchy
+Genus,taxonomic hierarchy
+SubGenus,taxonomic hierarchy
+SpeciesGroup,taxonomic hierarchy
+SpeciesSubGroup,taxonomic hierarchy
+SpeciesComplex,taxonomic hierarchy
+Species,taxonomic hierarchy
+,
+REFERENCES,
+"Primary and default references are listed below. These are augmented by R.W. Wisseman's literature collection on the biology of freshwater macroinvertebrates,",
+"with an emphasis on those found in western North America, and also his unpublished data. Since this verison 1 of the traits was a rapid review, these references are not listed.",
+R.W. Wisseman is working towards a Handbook of Western North American Aquatic Invertebrates that will be fully referenced.,
+,
+"Primary reference for FFG, Habit and habitat, which itself is a review of the literature by various insect specialists.",
+"Merritt, Richard W., Kenneth W. Cummins and Martin B. Berg 2019.An Introduction to the Aquatic Insects of North America, Kendall/Hunt Publishing Company, Dubuque, Iowa 1480 pages.",
+,
+"Primary reference for voltinism in insects, which is itself a review of the literature. ",
+"Poff, LeRoy N., Julian D. Olden, Nicole K.M. Vieira, Debra S. Finn, Mark P. Simmons and Boris C. Kondratieff 2006. Functional trait niches of North American lotic insects: Traits-based ecological applications in light of Phylogenetic relationships. Journal of the North American Benthological Society 25(4): 730-755.",
+,
+"Primary reference for Chironomidae habitat association, which itself is a review of the lieterature.",
+"Andersen, Trond, Peter S. Cranston and John H. Epler (editors) 2013. Chironomidae of the Holarctic Region-Keys and Diagnosis, Part 1 Larvae. Insect Systematics & Evolution Supplement Number 66, Scandinavian Entomology, Lund, Sweden, 573 pages.",
+,
+"Primary reference for non-insect freshwater invertebrae biology, which itself a review of the literature.",
+"Pennak, Robert W. 1989. Fresh-Water Invertebrates of the United States, Third Edition. John Wiley & Sons, Inc., New York, 628 pages.",
+,
+"Primary reference for Plecoptera biology, which itself a review of the literature.",
+"Stewart, K.W. and  Stark, B.P. 2002. Nymphs of North American Stonefly Genera (Plecoptera), Second Edition, The Caddis Press, Columbus, Ohio, 510 pages.",
+,
+"Primary reference for Trichoptera biology, which itself is a review of the literature.",
+"Wiggins, Glenn B. 1996. Larvae of the North American Caddisfly Genera (Trichoptera), 2nd edition, University of Toronto Press, Toronto, Ontario, 457 pages.",
+,
+"Primary reference for biology of water mites, which itself is a review of the literature.",
+"Smit, Harry 2020 Water Mites of the World, with keys to the families, subfamilies, genera and subgenera (Acari: Hydrachnidia). Monograffieen van de Nederlandse Entomologische Vereniging no. 12. 774 pages.",
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
