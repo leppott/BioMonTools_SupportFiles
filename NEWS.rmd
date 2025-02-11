@@ -17,6 +17,18 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9096
+===========
+Released - 2025-02-11
+
+* refactor: Update files for ORWA statewide
+    + pickfiles.csv
+    + Attributes
+    + TaxaTranslator
+* tests: Update ORWA tests
+    + Add dupe test for 2nd base file (now have MariNW and Statewide)
+    + Add 7th test for both taxaid and attr checks
+
 BioMonTools_SupportFiles 0.0.1.9095
 ===========
 Released - 2025-02-07

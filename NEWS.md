@@ -4,7 +4,19 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-02-07 15:51:34.891948
+    #> Last Update: 2025-02-11 11:40:51.645273
+
+# BioMonTools_SupportFiles 0.0.1.9096
+
+Released - 2025-02-11
+
+- refactor: Update files for ORWA statewide
+  - pickfiles.csv
+  - Attributes
+  - TaxaTranslator
+- tests: Update ORWA tests
+  - Add dupe test for 2nd base file (now have MariNW and Statewide)
+  - Add 7th test for both taxaid and attr checks
 
 # BioMonTools_SupportFiles 0.0.1.9095
 
