@@ -4,7 +4,14 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-02-11 18:00:04.67329
+    #> Last Update: 2025-02-17 09:49:14.636945
+
+# BioMonTools_SupportFiles 0.0.1.9098
+
+Released - 2025-02-17
+
+- fix: Move IndexClass.xlsx back out of ORWA subfolder
+  - Was causing MNcalc app to crash
 
 # BioMonTools_SupportFiles 0.0.1.9097
 
