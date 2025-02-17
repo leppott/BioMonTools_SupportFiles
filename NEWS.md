@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-02-17 09:49:14.636945
+    #> Last Update: 2025-02-17 16:17:52.06586
+
+# BioMonTools_SupportFiles 0.0.1.9099
+
+Released - 2025-02-17
+
+- refactor: Remove index_class ORWA subfolder
 
 # BioMonTools_SupportFiles 0.0.1.9098
 

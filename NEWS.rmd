@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9099
+===========
+Released - 2025-02-17
+
+* refactor: Remove index_class ORWA subfolder
+
 BioMonTools_SupportFiles 0.0.1.9098
 ===========
 Released - 2025-02-17
