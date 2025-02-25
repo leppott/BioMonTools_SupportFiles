@@ -1,0 +1,8 @@
+Version,2/24/2025
+Primary contacts,Jen Stamp (Jen.Stamp@tetratech.com) and Sean Sullivan (ssullivan@rhithron.com)
+,
+Taxon_orig,taxon name from the original source file
+OTU_TolAnal_v1,"Operational Taxonomic Unit (OTU) for version 1 of the stream temperature tolerance analysis. DNI (do not include - e.g., terrestrial, marine). Finest level of taxonomic resolution."
+OTU_Regional_2025,"OTU for regional RMN analyses. harmonizes differences (such as syntax, changes in nomenclature, misspellings, etc.). Conservative. Considers current-day taxonomic keys and likelihood of consistency across multiple data sources"
+Monotypic,only one known taxon within a specified geographic area
+Notes,
