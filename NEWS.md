@@ -4,13 +4,20 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-02-25 12:36:29.756043
+    #> Last Update: 2025-02-25 16:21:22.049933
+
+# BioMonTools_SupportFiles 0.0.1.9101
+
+Released - 2025-02-25
+
+- refactor: Change some names of RMN files and pickfile
 
 # BioMonTools_SupportFiles 0.0.1.9100
 
 Released - 2025-02-25
 
 - refactor: Add RMN taxa files
+- tests: Add test files for RMN taxa files
 
 # BioMonTools_SupportFiles 0.0.1.9099
 
