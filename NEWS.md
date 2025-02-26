@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-02-25 16:41:31.731099
+    #> Last Update: 2025-02-26 07:19:53.573858
+
+# BioMonTools_SupportFiles 0.0.1.9103
+
+Released - 2025-02-26
+
+- refactor: Update RMN taxa translator and pickfile
 
 # BioMonTools_SupportFiles 0.0.1.9102
 
