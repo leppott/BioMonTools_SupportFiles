@@ -17,6 +17,14 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9104
+===========
+Released - 2025-04-03
+
+* refactor: Update RMN taxa translator, NJ, and pickfile
+    + Other regions (NY and 5) not passing all tests
+        - Will update later
+
 BioMonTools_SupportFiles 0.0.1.9103
 ===========
 Released - 2025-02-26

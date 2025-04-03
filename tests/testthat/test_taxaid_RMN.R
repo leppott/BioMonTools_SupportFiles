@@ -331,7 +331,56 @@ testthat::test_that("RMN, trans, taxaid_3", {
     
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
+testthat::test_that("RMN, trans, taxaid_CAPS", {
+  # data files
+  df_pickfiles <- read.csv(file.path("data", 
+                                     "taxa_official", 
+                                     "RMN",
+                                     "_pick_files_RMN.csv"))
+  fn_all <- df_pickfiles$filename
+  
+  i <- 1# + 6
+  
+  # for (i in seq_len(length(fn_all))) {
+  fn_i <- df_pickfiles[i , "filename"]
+  df_i <- read.csv(file.path("data", "taxa_official", "RMN", fn_i))
+  i_taxaid <- df_pickfiles[i, "taxaid"]
+  i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
+  
+  # # Remove DNI
+  # df_i <- df_i[!df_i[, i_taxaid_match] == "DNI", ]
+  
+  # to upper for this test
+  df_i[, i_taxaid_match] <- toupper(df_i[, i_taxaid_match])
+  df_i[, i_taxaid] <- toupper(df_i[, i_taxaid])
+  
+  n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid])
+  n_match_QC <- length(unique(df_i[, i_taxaid_match]))
+  
+  
+  # show mismatches
+  print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
+  i1 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
+                                         df_i[, i_taxaid]]
+  sort(i1)
+  
+  # Remove DNI
+  #n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  
+  # test, match
+  testthat::expect_equivalent(n_match_calc, n_match_QC)
+  
+  # test, dup
+  n_taxaid <- sum(length(unique(df_i[, i_taxaid])))
+  n_rows <- nrow(df_i)
+  df_freq <- as.data.frame(table(df_i[, i_taxaid]))
+  df_freq[df_freq$Freq > 1, "Var1"]
+  
+  testthat::expect_equivalent(n_rows, n_taxaid)
+  
+  # }## FOR ~ i
+  
+})## Test ~ taxaid
 
 
 
