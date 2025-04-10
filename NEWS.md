@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-04-03 10:02:41.815553
+    #> Last Update: 2025-04-10 07:24:28.01945
+
+# BioMonTools_SupportFiles 0.0.1.9105
+
+Released - 2025-04-10
+
+- refactor: Update RMN files
 
 # BioMonTools_SupportFiles 0.0.1.9104
 
