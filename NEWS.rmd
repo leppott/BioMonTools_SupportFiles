@@ -17,6 +17,14 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9106
+===========
+Released - 2025-04-16
+
+* refactor: Update Great Plains Iowa files
+* tests: Update IA translator file based on tests
+* refactor: Update Great Plains pick files
+
 BioMonTools_SupportFiles 0.0.1.9105
 ===========
 Released - 2025-04-10

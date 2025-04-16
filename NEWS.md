@@ -4,7 +4,15 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-04-10 07:24:28.01945
+    #> Last Update: 2025-04-16 08:13:15.555629
+
+# BioMonTools_SupportFiles 0.0.1.9106
+
+Released - 2025-04-16
+
+- refactor: Update Great Plains Iowa files
+- tests: Update IA translator file based on tests
+- refactor: Update Great Plains pick files
 
 # BioMonTools_SupportFiles 0.0.1.9105
 

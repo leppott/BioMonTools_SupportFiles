@@ -23,7 +23,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # duplicate names ----
-test_that("GP, trans, dups1", {
+testthat::test_that("GP, trans, dups1", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -52,7 +52,7 @@ test_that("GP, trans, dups1", {
   
 })## Test ~ dup, trans
 
-test_that("GP, attr, dups1", {
+testthat::test_that("GP, attr, dups1", {
   
   # data files
   df_pickfiles <- read.csv(file.path("data"
@@ -84,7 +84,7 @@ test_that("GP, attr, dups1", {
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # trans, taxaid ----
-test_that("GP, trans, taxaid_1", {
+testthat::test_that("GP, trans, taxaid_1", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -132,7 +132,7 @@ test_that("GP, trans, taxaid_1", {
 })## Test ~ taxaid
     
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, trans, taxaid_2", {
+testthat::test_that("GP, trans, taxaid_2", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -168,7 +168,7 @@ test_that("GP, trans, taxaid_2", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, trans, taxaid_3", {
+testthat::test_that("GP, trans, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -204,7 +204,7 @@ test_that("GP, trans, taxaid_3", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, trans, taxaid_4", {
+testthat::test_that("GP, trans, taxaid_4", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -240,7 +240,7 @@ test_that("GP, trans, taxaid_4", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, trans, taxaid_5", {
+testthat::test_that("GP, trans, taxaid_5", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -283,7 +283,7 @@ test_that("GP, trans, taxaid_5", {
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # attr, taxaid ----
-test_that("GP, attr, taxaid1", {
+testthat::test_that("GP, attr, taxaid1", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -333,7 +333,7 @@ test_that("GP, attr, taxaid1", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, attr, taxaid_2", {
+testthat::test_that("GP, attr, taxaid_2", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -374,7 +374,7 @@ test_that("GP, attr, taxaid_2", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, attr, taxaid_3", {
+testthat::test_that("GP, attr, taxaid_3", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -415,7 +415,7 @@ test_that("GP, attr, taxaid_3", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, attr, taxaid_4", {
+testthat::test_that("GP, attr, taxaid_4", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"
@@ -456,7 +456,7 @@ test_that("GP, attr, taxaid_4", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, attr, taxaid_5", {
+testthat::test_that("GP, attr, taxaid_5", {
   # data files
   df_pickfiles <- read.csv(file.path("data"
                                      , "taxa_official"

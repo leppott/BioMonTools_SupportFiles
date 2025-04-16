@@ -13,7 +13,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # FileNames ----
-test_that("GP, pickfiles, filenames", {
+testthat::test_that("GP, pickfiles, filenames", {
   
   dn_data <- file.path("data", "taxa_official", "GP")
   # data files
@@ -52,7 +52,7 @@ test_that("GP, pickfiles, filenames", {
 # TaxaID ----
 # one for each row in file
 
-test_that("GP, taxaid cols, 1", {
+testthat::test_that("GP, taxaid cols, 1", {
   filenum <- 1
   
   dn_data <- file.path("data", "taxa_official", "GP")
@@ -82,7 +82,7 @@ test_that("GP, taxaid cols, 1", {
 })## Test ~ taxaid cols, 1
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, taxaid cols, 2", {
+testthat::test_that("GP, taxaid cols, 2", {
   filenum <- 2
   
   dn_data <- file.path("data", "taxa_official", "GP")
@@ -112,7 +112,7 @@ test_that("GP, taxaid cols, 2", {
 })## Test ~ taxaid cols, 2
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, taxaid cols, 3", {
+testthat::test_that("GP, taxaid cols, 3", {
   filenum <- 3
   
   dn_data <- file.path("data", "taxa_official", "GP")
@@ -142,7 +142,7 @@ test_that("GP, taxaid cols, 3", {
 })## Test ~ taxaid cols, 3
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, taxaid cols, 4", {
+testthat::test_that("GP, taxaid cols, 4", {
   filenum <- 4
   
   dn_data <- file.path("data", "taxa_official", "GP")
@@ -172,7 +172,7 @@ test_that("GP, taxaid cols, 4", {
 })## Test ~ taxaid cols, 4
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-test_that("GP, taxaid cols, 5", {
+testthat::test_that("GP, taxaid cols, 5", {
   filenum <- 5
   
   dn_data <- file.path("data", "taxa_official", "GP")

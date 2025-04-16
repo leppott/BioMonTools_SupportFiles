@@ -1,0 +1,32 @@
+Date,TypeOfChange,Taxon_orig,Taxon_modified,Notes
+20231129,change OTU_BCG,CAENIS AMICA,CAENIS DIMUNTA GROUP,"DIMUNTA GROUP per Sean Sullivan, Todd Hubbard (11/29)"
+20231129,change OTU_BCG,CAENIS ANCEPS,CAENIS HILARIS GROUP,"HILARIS GROUP per Sean Sullivan, Todd Hubbard (11/29)"
+20231129,change OTU_BCG,CAENIS DIMINUTA,CAENIS DIMUNTA GROUP,"DIMUNTA GROUP per Sean Sullivan, Todd Hubbard (11/29)"
+20231129,change OTU_BCG,CAENIS HILARIS,CAENIS HILARIS GROUP,"HILARIS GROUP per Sean Sullivan, Todd Hubbard (11/29)"
+20231129,change OTU_BCG,CAENIS LATIPENNIS,CAENIS DIMUNTA GROUP,"DIMUNTA GROUP per Sean Sullivan, Todd Hubbard (11/29)"
+20231129,change OTU_BCG,CAENIS PUNCTATA,CAENIS DIMUNTA GROUP,"DIMUNTA GROUP per Sean Sullivan, Todd Hubbard (11/29)"
+20231129,change OTU_BCG,COPELATUS CHEVROLATI CHEVROLATI,COPELATUS CHEVROLATI,collapsed to species (vs using subspecies)
+20231129,change OTU_BCG,PENTAGENIA,PENTAGENIA VITTIGERA,VITTIGERA per Todd Hubbard email (11/27/23)
+20231129,change OTU_BCG,PTERONARCYS PICTETTI,PTERONARCYS PICTETII,misspelling
+20231129,change OTU_BCG,STENONEMA,STENONEMA FEMORATUM,should all be STENONEMA FEMORATUM from 2005 onward; pre 2005 were likely immature MACCAFFERTIUM
+20250414,spelling correction,CAENIS AMICA,CAENIS DIMINUTA GROUP,spelling error (C. dimnuta should be C. diminuta)
+20250414,spelling correction,CAENIS DIMINUTA,CAENIS DIMINUTA GROUP,spelling error (C. dimnuta should be C. diminuta)
+20250414,spelling correction,CAENIS LATIPENNIS,CAENIS DIMINUTA GROUP,spelling error (C. dimnuta should be C. diminuta)
+20250414,spelling correction,CAENIS PUNCTATA,CAENIS DIMINUTA GROUP,spelling error (C. dimnuta should be C. diminuta)
+20250414,nomenclature or keys update,CAMBARUS DIOGENES,LACUNICAMBARUS DIOGENES,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,CENTROPTILUM ALBUM,ANAFROPTILUM ALBUM,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,CENTROPTILUM BIFURCATUM,ANAFROPTILUM BIFURCATUM,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,CENTROPTILUM TRIANGULIFER,NEOCLOEON TRIANGULIFER,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,CENTROPTILUM VICTORIAE,ANAFROPTILUM VICTORIAE,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,CYPHON,SCIRTIDAE,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,HYALELLA AZTECA,HYALELLA,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,HYGROTUS LACCOPHILINUS,CLEMNIUS LACCOPHILINUS,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,OECETIS DISJUNCTA,OECETIS SORDIDA,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,ORCONECTES,FAXONIUS,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,ORCONECTES IMMUNIS,FAXONIUS IMMUNIS,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,ORCONECTES PROPINQUUS,FAXONIUS PROPINQUUS,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,ORCONECTES RUSTICUS,FAXONIUS RUSTICUS,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,ORCONECTES VIRILIS,FAXONIUS VIRILIS,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,SCIRTES,SCIRTIDAE,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,nomenclature or keys update,STICTOTARSUS GRISEOSTRIATUS,BOREONECTES GRISEOSTRIATUS,updates per email exchange with Todd Hubbard (3/7/2025)
+20250414,naming scheme,TORTOPUS PRIMUS,TORTOPSIS PRIMUS,updates per email exchange with Todd Hubbard (3/7/2025)
