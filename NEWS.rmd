@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9107
+===========
+Released - 2025-06-12
+
+* refactor: Update ORWA pickfiles directory for BCG_MariNW
+
 BioMonTools_SupportFiles 0.0.1.9106
 ===========
 Released - 2025-04-16

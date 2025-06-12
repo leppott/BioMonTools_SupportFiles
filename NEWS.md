@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-04-16 08:13:15.555629
+    #> Last Update: 2025-06-12 14:21:45.229718
+
+# BioMonTools_SupportFiles 0.0.1.9107
+
+Released - 2025-06-12
+
+- refactor: Update ORWA pickfiles directory for BCG_MariNW
 
 # BioMonTools_SupportFiles 0.0.1.9106
 
