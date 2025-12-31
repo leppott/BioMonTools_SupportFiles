@@ -1,0 +1,10 @@
+Date,TaxaID,TypeOfChange
+20240610,CAECIDOTEA,changed BCG Attr from IV_worse to IV_middle
+20240610,FALLCEON,changed BCG Attr from IV_worse to IV_middle
+20240610,FAXONIUS,changed BCG Attr from IV_better to IV_middle
+20240610,FAXONIUS IMMUNIS,changed BCG Attr from IV_better to IV_middle
+20250212,CORIXIDAE,changed BCG Attr from IV_middle to IV_worse
+20250212,MUSCULIUM,changed BCG Attr for family SPHAERIIDAE from IV_middle to IV_worse
+20250212,PISIDIUM,changed BCG Attr for family SPHAERIIDAE from IV_middle to IV_worse
+20250212,SPHAERIIDAE,changed BCG Attr for family SPHAERIIDAE from IV_middle to IV_worse
+20250212,SPHAERIUM,changed BCG Attr for family SPHAERIIDAE from IV_middle to IV_worse
