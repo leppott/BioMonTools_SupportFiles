@@ -1,0 +1,9 @@
+Version Date,5/8/2026
+Primary contacts,Jen Stamp (Jen.Stamp@tetratech.com) and Robert Wisseman
+,
+Taxon_orig,taxon name from the original source file
+OTU_BCG_v1,"TaxaID_orig translated to an ID that is used for the Lower Boise River bug BCG (version 1) metric calculations. It harmonizes differences such as syntax, changes in nomenclature, misspellings, etc. DNI = not included. "
+Modified_BCG_v1,yes = Taxon_orig is different from the OTU_BCG_v1; no = TaxaID_orig is the same as the OTU_BCG_v1
+Rationale_modifyBCG,"reason for modifying OTU_BCG_v1 (e.g., formatting, spelling)"
+OTU_FinerRezWorms,same as OTU_BCG_v1 except worms are at a finer level of resolution (where appropriate)
+Taxon_group,"major taxonomic groups - Other Non-Insect, Oligochaeta, Terrestrial, Coleoptera, Diptera, Chironomidae, Ephemeroptera, Heteroptera, Hemiptera, Lepidoptera, Megaloptera, Neuroptera, Odonata, Plecoptera, Trichoptera, Fish"

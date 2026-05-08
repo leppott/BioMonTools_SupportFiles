@@ -1,0 +1,1361 @@
+Taxon_orig,OTU_BCG_v1,Modified_BCG_v1,Rationale_modifyBCG,OTU_FinerRezWorms,Taxon_group
+Ablabesmyia,Ablabesmyia,no,,Ablabesmyia,Chironomidae
+Ablabesmyia sp.,Ablabesmyia,yes,sp.,Ablabesmyia,Chironomidae
+Acari,Acari,no,,Acari,Acari
+Acari (Acarina),Acari,yes,naming scheme,Acari,Acari
+Acentrella,Acentrella,no,,Acentrella,Ephemeroptera
+Acentrella insignificans,Acentrella insignificans,no,,Acentrella insignificans,Ephemeroptera
+Acentrella insignificans complex,Acentrella insignificans,yes,naming scheme,Acentrella insignificans,Ephemeroptera
+Acentrella parvula,Acentrella parvula,no,,Acentrella parvula,Ephemeroptera
+Acentrella sp.,Acentrella,yes,sp.,Acentrella,Ephemeroptera
+Acentrella turbida,Acentrella turbida,no,,Acentrella turbida,Ephemeroptera
+Acerpenna,Acerpenna,no,,Acerpenna,Ephemeroptera
+Acerpenna pygmaea,Acerpenna,yes,backed off to genus,Acerpenna,Ephemeroptera
+Acerpenna sp.,Acerpenna,yes,sp.,Acerpenna,Ephemeroptera
+Acilius,Acilius,no,,Acilius,Coleoptera
+Acricotopus,Acricotopus,no,,Acricotopus,Chironomidae
+Acricotopus sp.,Acricotopus,yes,sp.,Acricotopus,Chironomidae
+ACTINOBDELLA,Actinobdella,yes,CAPs,Actinobdella,Hemiptera
+AEOLOSOMA,Aeolosoma,yes,CAPs,Aeolosoma,Misc. Phyla
+Aeolosoma sp.,Aeolosoma,yes,sp.,Aeolosoma,Misc. Phyla
+Aeshna sp.,Aeshna/Rhionaeschna,yes,sp.,Aeshna/Rhionaeschna,Odonata
+Aeshna/Rhionaeschna,Aeshna/Rhionaeschna,no,,Aeshna/Rhionaeschna,Odonata
+Aeshnidae,Aeshnidae,no,,Aeshnidae,Odonata
+Aeshnidae (darner dragonflies),Aeshnidae,yes,naming scheme,Aeshnidae,Odonata
+Agabinae,Agabinae,no,,Agabinae,Coleoptera
+Agabus,Agabinae,yes,backed off to subfamily,Agabinae,Coleoptera
+Agabus sp.,Agabinae,yes,backed off to subfamily,Agabinae,Coleoptera
+Agapetus,Agapetus,no,,Agapetus,Trichoptera
+Agapetus sp.,Agapetus,yes,sp.,Agapetus,Trichoptera
+Agathon,Agathon,no,,Agathon,Diptera
+Agathon sp.,Agathon,yes,sp.,Agathon,Diptera
+Agraylea,Agraylea,no,,Agraylea,Trichoptera
+Agraylea sp.,Agraylea,yes,sp.,Agraylea,Trichoptera
+Albertathyas,Acari,yes,mites collapsed to Acari,Albertathyas montana,Acari
+Albertathyas montana,Acari,yes,mites collapsed to Acari,Albertathyas montana,Acari
+Albia,Acari,yes,mites collapsed to Acari,Albia,Acari
+Albia sp.,Acari,yes,mites collapsed to Acari,Albia,Acari
+Allocosmoecus partitus,Allocosmoecus partitus,no,monotypic,Allocosmoecus partitus,Trichoptera
+Allomyia,Allomyia,no,,Allomyia,Trichoptera
+Allomyia sp.,Allomyia,yes,sp.,Allomyia,Trichoptera
+Alotanypus,Alotanypus,no,,Alotanypus,Chironomidae
+Alotanypus sp.,Alotanypus,yes,sp.,Alotanypus,Chironomidae
+Ambrysus,Ambrysus,no,,Ambrysus,Hemiptera
+Ambrysus sp.,Ambrysus,yes,sp.,Ambrysus,Hemiptera
+Ameletus,Ameletus,no,,Ameletus,Ephemeroptera
+Ameletus sp.,Ameletus,yes,sp.,Ameletus,Ephemeroptera
+Ametor,Hydrophilidae,yes,backed off to family,Hydrophilidae,Coleoptera
+Ametor sp.,Hydrophilidae,yes,backed off to family,Hydrophilidae,Coleoptera
+Amiocentrus,Amiocentrus,no,,Amiocentrus,Trichoptera
+Amiocentrus aspilus,Amiocentrus,yes,backed off due to COI data,Amiocentrus,Trichoptera
+Amnicolidae,Truncatelloidea,yes,backed off to Truncatelloidea,Truncatelloidea,Mollusca
+Amphiagrion sp.,Coenagrionidae,yes,backed off to family,Coenagrionidae,Odonata
+Amphicosmoecus,Amphicosmoecus canax,yes,monotypic,Amphicosmoecus canax,Trichoptera
+Amphicosmoecus canax,Amphicosmoecus canax,no,monotypic,Amphicosmoecus canax,Trichoptera
+Amphinemura sp.,Malenka,yes,nomenclature,Malenka,Plecoptera
+Amphipoda,Amphipoda,no,,Amphipoda,Crustacea
+Amphizoa,Amphizoa,no,,Amphizoa,Coleoptera
+Anacaena,Anacaena,no,,Anacaena,Coleoptera
+Anafroptilum,Anafroptilum/Procloeon,yes,Slashed taxon,Anafroptilum/Procloeon,Ephemeroptera
+Anafroptilum/Procloeon,Anafroptilum/Procloeon,no,,Anafroptilum/Procloeon,Ephemeroptera
+Anagapetus,Anagapetus,no,,Anagapetus,Trichoptera
+Anagapetus sp.,Anagapetus,yes,sp.,Anagapetus,Trichoptera
+Ancylidae,Planorbidae,yes,backed off to family,Planorbidae,Mollusca
+Anisoptera,Anisoptera,no,,Anisoptera,Odonata
+Annelida,DNI,yes,TOO COARSE,DNI,
+Anodonta sp.,Unionida,yes,backed off to Unionida,Unionida,Mollusca
+Anopheles,Anopheles,no,,Anopheles,Diptera
+Anopheles sp.,DNI,yes,sp.,DNI,Diptera
+Antocha,Antocha,no,,Antocha,Diptera
+Antocha sp.,Antocha,yes,sp.,Antocha,Diptera
+Apatania,Apatania,no,,Apatania,Trichoptera
+Apatania sp.,Apatania,yes,sp.,Apatania,Trichoptera
+Apedilum,Apedilum,no,,Apedilum,Chironomidae
+Apedilum sp.,Apedilum,yes,sp.,Apedilum,Chironomidae
+Apsectrotanypus,Apsectrotanypus,no,,Apsectrotanypus,Chironomidae
+Apsectrotanypus sp.,Apsectrotanypus,yes,sp.,Apsectrotanypus,Chironomidae
+Arachnida,DNI,yes,Terrestrial,DNI,
+Arcteonais,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Arctopsyche,Arctopsyche,no,,Arctopsyche,Trichoptera
+Arctopsyche grandis,Arctopsyche,yes,backed off to genus,Arctopsyche,Trichoptera
+Arctopsychinae,Arctopsychinae,no,,Arctopsychinae,Trichoptera
+Argia,Argia,no,,Argia,Odonata
+Argia sp.,Argia,yes,sp.,Argia,Odonata
+Arrenuridae,Acari,yes,mites collapsed to Acari,Arrenuridae,Acari
+Arrenurus,Acari,yes,mites collapsed to Acari,Arrenurus,Acari
+Arrenurus sp.,Acari,yes,mites collapsed to Acari,Arrenurus,Acari
+Asellidae,Asellidae,no,,Asellidae,Crustacea
+Asioplax,Asioplax,no,,Asioplax,Ephemeroptera
+Asioplax edmundsi,Asioplax,yes,backed off to genus; some people lump to Tricorythodes,Asioplax,Ephemeroptera
+Asioplax sp.,Asioplax,yes,backed off to genus; some people lump to Tricorythodes,Asioplax,Ephemeroptera
+Astacidae,Pacifastacus,yes,nomenclature,Pacifastacus,Crustacea
+Atherix,Atherix,no,,Atherix,Diptera
+Atherix sp.,Atherix,yes,sp.,Atherix,Diptera
+Atractelmis,Atractelmis wawona,yes,monotypic,Atractelmis wawona,Coleoptera
+Atractelmis wawona,Atractelmis wawona,no,monotypic,Atractelmis wawona,Coleoptera
+Atractides,Acari,yes,mites collapsed to Acari,Atractides,Acari
+Atractides sp.,Acari,yes,mites collapsed to Acari,Atractides,Acari
+Atractides ,Acari,yes,mites collapsed to Acari,Atractides,Acari
+Atrichopogon,Forcipomyiinae,yes,backed off to subfamily,Forcipomyiinae,Diptera
+Atrichopogon sp.,Forcipomyiinae,yes,backed off to subfamily,Forcipomyiinae,Diptera
+Attenella,Attenella,no,,Attenella,Ephemeroptera
+Attenella margarita,Attenella margarita,no,,Attenella margarita,Ephemeroptera
+Attenella sp.,Attenella,yes,sp.,Attenella,Ephemeroptera
+Aturidae,Acari,yes,mites collapsed to Acari,Aturidae,Acari
+Aturus,Acari,yes,mites collapsed to Acari,Aturus,Acari
+Aturus sp.,Acari,yes,mites collapsed to Acari,Aturus,Acari
+Atylotus/Tabanus sp.,Tabanidae,yes,backed off to family,Tabanidae,Diptera
+Aulodrilus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Aulodrilus americanus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Aulodrilus limnobius,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Aulodrilus pigueti,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Aulodrilus pluriseta,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Baetidae,Baetidae,no,,Baetidae,Ephemeroptera
+Baetis,Baetis,no,,Baetis,Ephemeroptera
+Baetis alius,Baetis alius,no,,Baetis alius,Ephemeroptera
+Baetis bicaudatus,Baetis bicaudatus complex,yes,naming scheme,Baetis bicaudatus complex,Ephemeroptera
+Baetis bicaudatus complex,Baetis bicaudatus complex,no,,Baetis bicaudatus complex,Ephemeroptera
+Baetis flavistriga,Baetis flavistriga complex,yes,naming scheme,Baetis flavistriga complex,Ephemeroptera
+Baetis flavistriga complex,Baetis flavistriga complex,no,,Baetis flavistriga complex,Ephemeroptera
+Baetis notos,Baetis notos,no,,Baetis notos,Ephemeroptera
+Baetis sp.,Baetis,yes,sp.,Baetis,Ephemeroptera
+Baetis tricaudatus,Baetis tricaudatus complex,yes,naming scheme,Baetis tricaudatus complex,Ephemeroptera
+Baetis tricaudatus complex,Baetis tricaudatus complex,no,,Baetis tricaudatus complex,Ephemeroptera
+Baetisca,Baetisca,no,,Baetisca,Ephemeroptera
+Barbaetis,Baetidae,yes,"Not in the PNW, a SE US genus. Jeff Webb suspects it is Plauditus cestus.",Baetidae,Ephemeroptera
+Belostoma,Belostoma,no,,Belostoma,Hemiptera
+Berosus sp.,Hydrophilidae,yes,backed off to family,Hydrophilidae,Coleoptera
+Bezzia/Palpomyia,Ceratopogoninae,yes,backed off to subfamily; too many unknown genera,Ceratopogoninae,Diptera
+Bezzia/Palpomyia sp.,Ceratopogoninae,yes,backed off to subfamily; too many unknown genera,Ceratopogoninae,Diptera
+Bibiocephala,Bibiocephala grandis,yes,monotypic,Bibiocephala grandis,Diptera
+Bibiocephala grandis,Bibiocephala grandis,no,,Bibiocephala grandis,Diptera
+Bibiocephala sp.,Bibiocephala grandis,yes,sp.,Bibiocephala grandis,Diptera
+Bilyjomyia,Bilyjomyia,no,,Bilyjomyia,Chironomidae
+Bilyjomyia algens,Bilyjomyia,yes,monotypic,Bilyjomyia,Chironomidae
+Bivalvia,Bivalvia,no,TOO COARSE,Bivalvia,Mollusca
+Blepharicera,Blepharicera,no,,Blepharicera,Diptera
+Blepharicera sp.,Blepharicera,yes,sp.,Blepharicera,Diptera
+Blephariceridae,Blephariceridae,no,,Blephariceridae,Diptera
+Boreochlus,Boreochlus,no,,Boreochlus,Chironomidae
+Boreochlus sp.,Boreochlus,yes,sp.,Boreochlus,Chironomidae
+Boreoheptagyia,Boreoheptagyia,no,,Boreoheptagyia,Chironomidae
+Boreoheptagyia sp.,Boreoheptagyia,yes,sp.,Boreoheptagyia,Chironomidae
+Brachycentridae,Brachycentridae,no,,Brachycentridae,Trichoptera
+Brachycentrus,Brachycentrus,no,,Brachycentrus,Trichoptera
+Brachycentrus americanus,Brachycentrus americanus complex,yes,naming scheme,Brachycentrus americanus complex,Trichoptera
+Brachycentrus americanus complex,Brachycentrus americanus complex,no,,Brachycentrus americanus complex,Trichoptera
+Brachycentrus occidentalis,Brachycentrus occidentalis,no,,Brachycentrus occidentalis,Trichoptera
+Brachycentrus sp.,Brachycentrus,yes,sp.,Brachycentrus,Trichoptera
+Brachycera,Diptera,yes,collapsed to Order,Diptera,Diptera
+Branchiobdellida,Branchiobdellida,no,,Branchiobdellida,Misc. Phyla
+Branchiobdellidae,Branchiobdellida,yes,naming scheme,Branchiobdellida,Misc. Phyla
+Brillia,Brillia,no,,Brillia,Chironomidae
+Brillia sp.,Brillia,yes,sp.,Brillia,Chironomidae
+Brundiniella,Brundiniella,no,,Brundiniella,Chironomidae
+Brundiniella sp.,Brundiniella,yes,sp.,Brundiniella,Chironomidae
+Brychius,Brychius,no,,Brychius,Coleoptera
+Brychius sp.,Brychius,yes,sp.,Brychius,Coleoptera
+Bryelmis,Bryelmis,no,,Bryelmis,Coleoptera
+Bryelmis idahoensis,Bryelmis,yes,backed off to genus,Bryelmis,Coleoptera
+Caecidotea,Caecidotea,no,,Caecidotea,Crustacea
+Caecidotea sp.,Caecidotea,yes,sp.,Caecidotea,Crustacea
+Caenis,Caenis,no,,Caenis,Ephemeroptera
+Caenis latipennis,Caenis,yes,backed off to genus,Caenis,Ephemeroptera
+Caenis sp.,Caenis,yes,sp.,Caenis,Ephemeroptera
+Calineuria,Calineuria californica,yes,monotypic,Calineuria californica,Plecoptera
+Calineuria californica,Calineuria californica,no,,Calineuria californica,Plecoptera
+Callibaetis,Callibaetis,no,,Callibaetis,Ephemeroptera
+Callibaetis sp.,Callibaetis,yes,sp.,Callibaetis,Ephemeroptera
+Caloparyphus,Caloparyphus,no,,Caloparyphus,Diptera
+Caloparyphus sp.,Caloparyphus,yes,sp.,Caloparyphus,Diptera
+Caloparyphus/Euparyphus,Stratiomyidae,yes,backed off to family,Stratiomyidae,Diptera
+Calopteryx,Calopteryx,no,,Calopteryx,Odonata
+Calopteryx (broad winged damsel),Calopteryx,yes,naming scheme,Calopteryx,Odonata
+Cambaridae,Cambaridae,no,,Cambaridae,Crustacea
+Cambaridae (large crayfish),Cambaridae,yes,naming scheme,Cambaridae,Crustacea
+Camelobaetidius,Camelobaetidius,no,,Camelobaetidius,Ephemeroptera
+Camelobaetidius sp.,Camelobaetidius,yes,sp.,Camelobaetidius,Ephemeroptera
+Camelobaetidius warreni,Camelobaetidius,yes,backed off to genus,Camelobaetidius,Ephemeroptera
+Capniidae,Capniidae,no,,Capniidae,Plecoptera
+Cardiocladius,Cardiocladius,no,,Cardiocladius,Chironomidae
+Cardiocladius albiplumus,Cardiocladius,yes,backed off to genus,Cardiocladius,Chironomidae
+Cardiocladius Obscurus Group,Cardiocladius,yes,backed off to genus,Cardiocladius,Chironomidae
+Cardiocladius sp.,Cardiocladius,yes,sp.,Cardiocladius,Chironomidae
+Caudatella,Caudatella,no,,Caudatella,Ephemeroptera
+Caudatella edmundsi,Caudatella edmundsi,no,,Caudatella edmundsi,Ephemeroptera
+Caudatella heterocaudata,Caudatella heterocaudata complex,yes,naming scheme,Caudatella heterocaudata complex,Ephemeroptera
+Caudatella heterocaudata complex,Caudatella heterocaudata complex,no,,Caudatella heterocaudata complex,Ephemeroptera
+Caudatella hystrix,Caudatella hystrix,no,,Caudatella hystrix,Ephemeroptera
+Caudatella sp.,Caudatella,yes,sp.,Caudatella,Ephemeroptera
+Centroptilum,Anafroptilum/Procloeon,yes,"Slashed taxon, nomenclature",Anafroptilum/Procloeon,Ephemeroptera
+Centroptilum sp.,Anafroptilum/Procloeon,yes,"Slashed taxon, nomenclature",Anafroptilum/Procloeon,Ephemeroptera
+Ceraclea,Ceraclea,no,,Ceraclea,Trichoptera
+Ceraclea sp.,Ceraclea,yes,sp.,Ceraclea,Trichoptera
+Ceratopogonidae,Ceratopogonidae,no,,Ceratopogonidae,Diptera
+Ceratopogoninae,Ceratopogoninae,no,,Ceratopogoninae,Diptera
+Chaetocladius,Chaetocladius,no,,Chaetocladius,Chironomidae
+Chaetocladius sp.,Chaetocladius,yes,sp.,Chaetocladius,Chironomidae
+Chaetogaster,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Chaetogaster diaphanus,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Chaetogaster diastrophus,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Chaetogaster limnaei,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Chelifera,Chelifera/Metachela,yes,Slashed taxon,Chelifera/Metachela,Diptera
+Chelifera (Metachela),Chelifera/Metachela,yes,Slashed taxon,Chelifera/Metachela,Diptera
+Chelifera/Metachela,Chelifera/Metachela,no,Slashed taxon,Chelifera/Metachela,Diptera
+Chelifera/Metachela sp.,Chelifera/Metachela,yes,Slashed taxon,Chelifera/Metachela,Diptera
+Cheumatopsyche,Cheumatopsyche,no,,Cheumatopsyche,Trichoptera
+Cheumatopsyche sp.,Cheumatopsyche,yes,sp.,Cheumatopsyche,Trichoptera
+Chimarra,Chimarra,no,,Chimarra,Trichoptera
+Chimarra sp.,Chimarra,yes,sp.,Chimarra,Trichoptera
+Chironomidae,Chironomidae,no,,Chironomidae,Chironomidae
+Chironomidae-pupae,Chironomidae,yes,naming scheme,Chironomidae,Chironomidae
+Chironomini,Chironomini,no,,Chironomini,Chironomidae
+Chironomus,Chironomus,no,,Chironomus,Chironomidae
+Chironomus sp.,Chironomus,yes,sp.,Chironomus,Chironomidae
+Chloroperlidae,Chloroperlidae,no,,Chloroperlidae,Plecoptera
+Choroterpes,Choroterpes,no,,Choroterpes,Ephemeroptera
+Choroterpes sp.,Choroterpes,yes,sp.,Choroterpes,Ephemeroptera
+Chrysomelidae,DNI,yes,Terrestrial,DNI,
+Chrysops,Tabanidae,yes,backed off to family,Tabanidae,Diptera
+Chrysops sp.,Tabanidae,yes,backed off to family,Tabanidae,Diptera
+Chydoridae,DNI,yes,Cladocera excluded,DNI,
+Chyranda,Chyrandra,yes,backed off to genus; likely multiple spp.,Chyrandra,Trichoptera
+Chyranda centralis,Chyrandra,yes,backed off to genus; likely multiple spp.,Chyrandra,Trichoptera
+Chyrandra,Chyrandra,no,likely multiple spp.,Chyrandra,Trichoptera
+Cinygma,Cinygma,no,,Cinygma,Ephemeroptera
+Cinygma sp.,Cinygma,yes,sp.,Cinygma,Ephemeroptera
+Cinygmula,Cinygmula,no,,Cinygmula,Ephemeroptera
+Cinygmula sp.,Cinygmula,yes,sp.,Cinygmula,Ephemeroptera
+Claassenia,Claassenia sabulosa,yes,monotypic,Claassenia sabulosa,Plecoptera
+Claassenia sabulosa,Claassenia sabulosa,no,monotypic,Claassenia sabulosa,Plecoptera
+Cladopelma,Cladopelma,no,,Cladopelma,Chironomidae
+Cladopelma sp.,Cladopelma,yes,sp.,Cladopelma,Chironomidae
+Cladotanytarsus,Cladotanytarsus,no,,Cladotanytarsus,Chironomidae
+Cladotanytarsus sp.,Cladotanytarsus,yes,sp.,Cladotanytarsus,Chironomidae
+CLATHROSPERCHON,Acari,yes,mites collapsed to Acari,Clathrosperchon,Acari
+Clathrosperchon sp.,Acari,yes,mites collapsed to Acari,Clathrosperchon,Acari
+Cleptelmis,Cleptelmis addenda,yes,monotypic,Cleptelmis addenda,Coleoptera
+Cleptelmis A62,Cleptelmis addenda,yes,Cleptelmis addenda (monotypic) in OR/WA. A62 is weird - wonder if this is Bryelmis?,Cleptelmis addenda,Coleoptera
+Cleptelmis addenda,Cleptelmis addenda,no,monotypic,Cleptelmis addenda,Coleoptera
+Clinocera,Clinocera/Trichoclinocera,yes,Slashed taxon,Clinocera/Trichoclinocera,Diptera
+Clinocera sp.,Clinocera/Trichoclinocera,yes,Slashed taxon,Clinocera/Trichoclinocera,Diptera
+Clinocera/Trichoclinocera,Clinocera/Trichoclinocera,no,,Clinocera/Trichoclinocera,Diptera
+Cnidaria,Hydra,yes,all Cnidaria,Hydra,Misc. Phyla
+Coenagrion/Enallagma,Coenagrionidae,yes,backed off to family,Coenagrionidae,Odonata
+Coenagrion/Enallagma sp.,Coenagrionidae,yes,backed off to family,Coenagrionidae,Odonata
+Coenagrionidae,Coenagrionidae,no,,Coenagrionidae,Odonata
+Coenagrionidae (narrow winged damsel),Coenagrionidae,yes,backed off to family,Coenagrionidae,Odonata
+Constempellina,Constempellina,no,,Constempellina,Chironomidae
+Constempellina sp.,Constempellina,yes,sp.,Constempellina,Chironomidae
+Corbicula,Corbicula,no,,Corbicula,Mollusca
+Corbicula fluminea,Corbicula,yes,backed off to genus,Corbicula,Mollusca
+Corbicula sp.,Corbicula,yes,sp.,Corbicula,Mollusca
+Corbiculoidea,Corbiculoidea,no,,Corbiculoidea,Mollusca
+Cordulegaster,Cordulegaster,no,,Cordulegaster,Odonata
+Cordulegaster dorsalis,Cordulegaster,yes,backed off to genus,Cordulegaster,Odonata
+Cordulegaster sp.,Cordulegaster,yes,sp.,Cordulegaster,Odonata
+Corduliidae,Corduliidae,no,,Corduliidae,Odonata
+Corixidae,Corixidae,no,NonTarget? Could go either way. Enough calls to keep it in,Corixidae,Hemiptera
+Corticacarus,Acari,yes,mites collapsed to Acari,Corticacarus,Acari
+Corynoneura,Corynoneura,no,,Corynoneura,Chironomidae
+Corynoneura sp.,Corynoneura,yes,sp.,Corynoneura,Chironomidae
+Crambidae,Lepidoptera,yes,Backed off to Order. Lots of these are terrestrial,Lepidoptera,Lepidoptera
+Crangonyx,Crangonyx,no,,Crangonyx,Crustacea
+Crangonyx sp.,Crangonyx,yes,sp.,Crangonyx,Crustacea
+Crenitis sp.,Hydrophilidae,yes,backed off to family,Hydrophilidae,Coleoptera
+Cricotopus,Cricotopus,no,,Cricotopus,Chironomidae
+Cricotopus (Cricotopus),Cricotopus,yes,backed off to genus,Cricotopus,Chironomidae
+Cricotopus (Isocladius),Cricotopus (Isocladius),no,,Cricotopus (Isocladius),Chironomidae
+Cricotopus (Isocladius) Type I,Cricotopus (Isocladius),yes,FORMATTING,Cricotopus (Isocladius),Chironomidae
+Cricotopus (Nostoc.) nostocicola,Cricotopus (Nostococladius),yes,FORMATTING,Cricotopus (Nostococladius),Chironomidae
+Cricotopus (Nostococladius),Cricotopus (Nostococladius),no,,Cricotopus (Nostococladius),Chironomidae
+"Cricotopus (sub-genus, Isocladius) Type 1",Cricotopus (Isocladius),yes,FORMATTING,Cricotopus (Isocladius),Chironomidae
+"Cricotopus (sub-genus, Nostococladius)",Cricotopus (Nostococladius),yes,FORMATTING,Cricotopus (Nostococladius),Chironomidae
+Cricotopus Bicinctus Gr.,Cricotopus Bicinctus Group,yes,FORMATTING,Cricotopus Bicinctus Group,Chironomidae
+Cricotopus bicinctus group,Cricotopus Bicinctus Group,yes,CAPS,Cricotopus Bicinctus Group,Chironomidae
+Cricotopus bicotopus group,Cricotopus Bicinctus Group,yes,misspelled,Cricotopus Bicinctus Group,Chironomidae
+Cricotopus nostocicola,Cricotopus (Nostococladius),yes,FORMATTING,Cricotopus (Nostococladius),Chironomidae
+Cricotopus sp.,Cricotopus,yes,sp.,Cricotopus,Chironomidae
+Cricotopus trifacia group,Cricotopus Trifascia Group,yes,CAPS,Cricotopus Trifascia Group,Chironomidae
+Cricotopus Trifascia Gr.,Cricotopus Trifascia Group,yes,FORMATTING,Cricotopus Trifascia Group,Chironomidae
+Cricotopus trifascia group,Cricotopus Trifascia Group,yes,FORMATTING,Cricotopus Trifascia Group,Chironomidae
+Cricotopus/Orthocladius,Cricotopus/Orthocladius,no,,Cricotopus/Orthocladius,Chironomidae
+Cryptochia,Cryptochia,no,,Cryptochia,Trichoptera
+Cryptochia sp.,Cryptochia,yes,sp.,Cryptochia,Trichoptera
+Cryptochironomus,Cryptochironomus,no,,Cryptochironomus,Chironomidae
+Cryptochironomus sp.,Cryptochironomus,yes,sp.,Cryptochironomus,Chironomidae
+Cryptolabis,Cryptolabis,no,,Cryptolabis,Diptera
+Cryptolabis sp.,Cryptolabis,yes,sp.,Cryptolabis,Diptera
+Cryptotendipes,Cryptotendipes,no,,Cryptotendipes,Chironomidae
+Cryptotendipes sp.,Cryptotendipes,yes,sp.,Cryptotendipes,Chironomidae
+Culicidae,DNI,yes,Culicidae excluded,DNI,Diptera
+Culicoides,Ceratopogoninae,yes,backed off to subfamily; too many unknown genera,Ceratopogoninae,Diptera
+Culoptila,Culoptila/Protoptila,yes,Slashed taxon,Culoptila/Protoptila,Trichoptera
+Culoptila (tortoise case maker),Culoptila/Protoptila,yes,Slashed taxon,Culoptila/Protoptila,Trichoptera
+Culoptila sp.,Culoptila/Protoptila,yes,Slashed taxon,Culoptila/Protoptila,Trichoptera
+Culoptila/Protoptila,Culoptila/Protoptila,no,,Culoptila/Protoptila,Trichoptera
+Cultus,Cultus,no,,Cultus,Plecoptera
+Cultus sp.,Cultus,yes,sp.,Cultus,Plecoptera
+Cystobranchus,Cystobranchus,no,,Cystobranchus,Leeches
+Dasyhelea,Dasyhelea,no,,Dasyhelea,Diptera
+Dasyhelea sp.,Dasyhelea,yes,sp.,Dasyhelea,Diptera
+Decapoda,Decapoda,no,,Decapoda,Crustacea
+Demicryptochironomus,Demicryptochironomus,no,,Demicryptochironomus,Chironomidae
+Demicryptochironomus sp.,Demicryptochironomus,yes,sp.,Demicryptochironomus,Chironomidae
+Dero,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Dero digitata,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Dero sp.,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Derotanypus,Derotanypus,no,,Derotanypus,Chironomidae
+Derotanypus sp.,Derotanypus,yes,sp.,Derotanypus,Chironomidae
+Desmona,Monophylax mono,yes,nomenclature,Monophylax mono,Trichoptera
+Desmona mono,Monophylax mono,yes,nomenclature,Monophylax mono,Trichoptera
+Desmona sp.,Monophylax mono,yes,nomenclature,Monophylax mono,Trichoptera
+Despaxia,Despaxia augusta,yes,monotypic,Despaxia augusta,Plecoptera
+Despaxia augusta,Despaxia augusta,no,monotypic,Despaxia augusta,Plecoptera
+Deuterophlebia,Deuterophlebia,no,,Deuterophlebia,Diptera
+Deuterophlebia sp.,Deuterophlebia,yes,sp.,Deuterophlebia,Diptera
+Diamesa,Diamesa,no,,Diamesa,Chironomidae
+Diamesa sp.,Diamesa,yes,sp.,Diamesa,Chironomidae
+Diamesinae,Diamesinae,no,,Diamesinae,Chironomidae
+Diamesinae-early instar,Diamesinae,yes,naming scheme,Diamesinae,Chironomidae
+Dicosmoecus,Dicosmoecus,no,,Dicosmoecus,Trichoptera
+Dicosmoecus atripes,Dicosmoecus atripes,no,,Dicosmoecus atripes,Trichoptera
+Dicosmoecus gilvipes,Dicosmoecus gilvipes,no,,Dicosmoecus gilvipes,Trichoptera
+Dicosmoecus sp.,Dicosmoecus,yes,sp.,Dicosmoecus,Trichoptera
+Dicranomyia,Dicranomyia,no,,Dicranomyia,Diptera
+Dicranota,Dicranota,no,,Dicranota,Diptera
+Dicranota sp.,Dicranota,yes,sp.,Dicranota,Diptera
+Dicrotendipes,Dicrotendipes,no,,Dicrotendipes,Chironomidae
+Dicrotendipes sp.,Dicrotendipes,yes,sp.,Dicrotendipes,Chironomidae
+Diphetor,Diphetor hageni,yes,monotypic,Diphetor hageni,Ephemeroptera
+Diphetor hageni,Diphetor hageni,no,monotypic,Diphetor hageni,Ephemeroptera
+Diplocladius,Diplocladius,no,,Diplocladius,Chironomidae
+Diplocladius sp.,Diplocladius,yes,sp.,Diplocladius,Chironomidae
+Diptera,Diptera,no,,Diptera,Diptera
+Diura,Diura,no,,Diura,Plecoptera
+Diura sp.,Diura,yes,sp.,Diura,Plecoptera
+Dixa,Dixa,no,,Dixa,Diptera
+Dixa sp.,Dixa,yes,sp.,Dixa,Diptera
+Dixella,Dixella,no,,Dixella,Diptera
+Dixella sp.,Dixella,yes,sp.,Dixella,Diptera
+Dixidae,Dixidae,no,,Dixidae,Diptera
+Dolichopodidae,Dolichopodidae,no,,Dolichopodidae,Diptera
+Dolophilodes,Dolophilodes,no,,Dolophilodes,Trichoptera
+Dolophilodes sp.,Dolophilodes,yes,sp.,Dolophilodes,Trichoptera
+Doncricotopus,Doncricotopus,no,,Doncricotopus,Chironomidae
+Doncricotopus sp.,Doncricotopus,yes,sp.,Doncricotopus,Chironomidae
+Doroneuria,Doroneuria,no,,Doroneuria,Plecoptera
+Doroneuria sp.,Doroneuria,yes,sp.,Doroneuria,Plecoptera
+Drunella,Drunella,no,,Drunella,Ephemeroptera
+Drunella Coloradensis Group,Drunella Coloradensis Group,no,,Drunella Coloradensis Group,Ephemeroptera
+Drunella coloradensis/flavilinea,Drunella Coloradensis Group,yes,Formatting and consistency,Drunella Coloradensis Group,Ephemeroptera
+Drunella doddsi,Drunella doddsii,yes,spelling,Drunella doddsii,Ephemeroptera
+Drunella doddsii,Drunella doddsii,no,note some older data may have 'doddsi',Drunella doddsii,Ephemeroptera
+Drunella grandis,Drunella Grandis Group,yes,Formatting and consistency,Drunella Grandis Group,Ephemeroptera
+Drunella Grandis Group,Drunella Grandis Group,no,,Drunella Grandis Group,Ephemeroptera
+Drunella grandis/spinifera,Drunella Grandis Group,yes,Formatting and consistency,Drunella Grandis Group,Ephemeroptera
+Drunella sp.,Drunella,yes,sp.,Drunella,Ephemeroptera
+Drunella spinifera,Drunella Grandis Group,yes,Formatting and consistency,Drunella Grandis Group,Ephemeroptera
+Dubiraphia,Dubiraphia,no,,Dubiraphia,Coleoptera
+Dubiraphia sp.,Dubiraphia,yes,sp.,Dubiraphia,Coleoptera
+Dytiscidae,Dytiscidae,no,,Dytiscidae,Coleoptera
+Ecclisocosmoecus scylla,Ecclisocosmoecus scylla,no,monotypic,Ecclisocosmoecus scylla,Trichoptera
+Ecclisomyia,Ecclisomyia,no,,Ecclisomyia,Trichoptera
+Ecclisomyia sp.,Ecclisomyia,yes,sp.,Ecclisomyia,Trichoptera
+Ecdynonurus criddlei (Heptagenia/Nixe sp.),Ecdyonurus criddlei,yes,spelling,Ecdyonurus criddlei,Ephemeroptera
+Ecdyonurus,Ecdyonurus,no,,Ecdyonurus,Ephemeroptera
+Ecdyonurus criddlei,Ecdyonurus criddlei,no,,Ecdyonurus criddlei,Ephemeroptera
+Ecdyonurus sp.,Ecdyonurus,yes,sp.,Ecdyonurus,Ephemeroptera
+Eclipidrilus,Oligochaeta,yes,worms to Oligochaeta,Lumbriculidae,Oligochaeta
+Elmidae,Elmidae,no,,Elmidae,Coleoptera
+Eloeophila,Eloeophila,no,,Eloeophila,Diptera
+Empididae,Empididae,no,,Empididae,Diptera
+Enchytraeidae,Oligochaeta,yes,worms to Oligochaeta,Enchytraeidae,Oligochaeta
+Endochironomus,Endochironomus,no,,Endochironomus,Chironomidae
+Endochironomus sp.,Endochironomus,yes,sp.,Endochironomus,Chironomidae
+Enochrus,Hydrophilidae,yes,backed off to family,Hydrophilidae,Coleoptera
+Eocosmoecus,Eocosmoecus,no,,Eocosmoecus,Trichoptera
+Epeorus,Epeorus,no,,Epeorus,Ephemeroptera
+Epeorus albertae,Epeorus Albertae Group,yes,Formatting,Epeorus Albertae Group,Ephemeroptera
+Epeorus Albertae Group,Epeorus Albertae Group,no,,Epeorus Albertae Group,Ephemeroptera
+Epeorus deceptivus,Epeorus deceptivus,no,,Epeorus deceptivus,Ephemeroptera
+Epeorus deceptivus/hesperus,Epeorus,yes,backed off to genus,Epeorus,Ephemeroptera
+Epeorus grandis,Epeorus Grandis Group,yes,Formatting,Epeorus Grandis Group,Ephemeroptera
+Epeorus Grandis Group,Epeorus Grandis Group,no,,Epeorus Grandis Group,Ephemeroptera
+Epeorus grandis/permagnus,Epeorus Grandis Group,yes,Formatting,Epeorus Grandis Group,Ephemeroptera
+Epeorus longimanus,Epeorus longimanus,no,,Epeorus longimanus,Ephemeroptera
+Epeorus sp.,Epeorus,yes,sp.,Epeorus,Ephemeroptera
+Ephemera,Ephemera,no,,Ephemera,Ephemeroptera
+Ephemera simulans,Ephemera,yes,backed off to genus,Ephemera,Ephemeroptera
+Ephemera sp.,Ephemera,yes,sp.,Ephemera,Ephemeroptera
+Ephemerella,Ephemerella,no,,Ephemerella,Ephemeroptera
+Ephemerella aurivillii,Ephemerella aurivillii,no,,Ephemerella aurivillii,Ephemeroptera
+Ephemerella dorothea/excrucians,Ephemerella Excrucians Group,yes,nomenclature,Ephemerella Excrucians Group,Ephemeroptera
+Ephemerella excrucians group,Ephemerella Excrucians Group,yes,CAPs,Ephemerella Excrucians Group,Ephemeroptera
+Ephemerella inermis,Ephemerella Excrucians Group,yes,nomenclature,Ephemerella Excrucians Group,Ephemeroptera
+Ephemerella inermis/infrequens,Ephemerella Excrucians Group,yes,nomenclature,Ephemerella Excrucians Group,Ephemeroptera
+Ephemerella sp.,Ephemerella,yes,sp.,Ephemerella,Ephemeroptera
+Ephemerella tibialis,Ephemerella tibialis,no,,Ephemerella tibialis,Ephemeroptera
+Ephemerellidae,Ephemerellidae,no,,Ephemerellidae,Ephemeroptera
+Ephemeridae,Ephemeridae,no,,Ephemeridae,Ephemeroptera
+Ephemeroptera,Ephemeroptera,no,,Ephemeroptera,Ephemeroptera
+Ephoron,Ephoron,no,,Ephoron,Ephemeroptera
+Ephoron album,Ephoron,yes,backed off to genus,Ephoron,Ephemeroptera
+Ephoron sp.,Ephoron,yes,sp.,Ephoron,Ephemeroptera
+Ephydridae,Ephydridae,no,,Ephydridae,Diptera
+Erioptera,Erioptera,no,,Erioptera,Diptera
+Erioptera sp.,Erioptera,yes,sp.,Erioptera,Diptera
+Erpobdella,Erpobdella,no,,Erpobdella,Leeches
+Erpobdellidae,Erpobdella,yes,backed off to family,Erpobdella,Leeches
+Estelloxus,Acari,yes,mites collapsed to Acari,Lebertia,Acari
+Estelloxus sp.,Acari,yes,mites collapsed to Acari,Lebertia,Acari
+Eubrianax edwardsi,Eubrianax edwardsii,yes,spelling,Eubrianax edwardsii,Coleoptera
+Eubrianax edwardsii,Eubrianax edwardsii,no,,Eubrianax edwardsii,Coleoptera
+Eucapnopsis brevicauda,Capniidae,yes,nomenclature,Capniidae,Plecoptera
+Eucorethra,Eucorethra underwoodi,yes,monotypic,Eucorethra underwoodi,Diptera
+Eucorethra underwoodi,Eucorethra underwoodi,no,,Eucorethra underwoodi,Diptera
+Eukiefferiella,Eukiefferiella,no,,Eukiefferiella,Chironomidae
+Eukiefferiella Brehmi Gr.,Eukiefferiella Brehmi Group,yes,FORMATTING,Eukiefferiella Brehmi Group,Chironomidae
+Eukiefferiella brehmi group,Eukiefferiella Brehmi Group,yes,CAPs,Eukiefferiella Brehmi Group,Chironomidae
+Eukiefferiella Brevicalcar Gr.,Eukiefferiella Brevicalcar Group,yes,FORMATTING,Eukiefferiella Brevicalcar Group,Chironomidae
+Eukiefferiella brevicalcar group,Eukiefferiella Brevicalcar Group,yes,CAPs,Eukiefferiella Brevicalcar Group,Chironomidae
+Eukiefferiella Claripennis Gr.,Eukiefferiella Claripennis Group,yes,FORMATTING,Eukiefferiella Claripennis Group,Chironomidae
+Eukiefferiella claripennis group,Eukiefferiella Claripennis Group,yes,CAPs,Eukiefferiella Claripennis Group,Chironomidae
+Eukiefferiella Coerulescens Gr.,Eukiefferiella Coerulescens Group,yes,FORMATTING,Eukiefferiella Coerulescens Group,Chironomidae
+Eukiefferiella coerulescens group,Eukiefferiella Coerulescens Group,yes,CAPs,Eukiefferiella Coerulescens Group,Chironomidae
+Eukiefferiella cyanea gr.,Eukiefferiella Cyanea Group,yes,FORMATTING,Eukiefferiella Cyanea Group,Chironomidae
+Eukiefferiella Cyanea Group,Eukiefferiella Cyanea Group,no,,Eukiefferiella Cyanea Group,Chironomidae
+Eukiefferiella Devonica Gr.,Eukiefferiella Devonica Group,yes,FORMATTING,Eukiefferiella Devonica Group,Chironomidae
+Eukiefferiella devonica group,Eukiefferiella Devonica Group,yes,CAPs,Eukiefferiella Devonica Group,Chironomidae
+Eukiefferiella Gracei Gr.,Eukiefferiella Gracei Group,yes,FORMATTING,Eukiefferiella Gracei Group,Chironomidae
+Eukiefferiella gracei group,Eukiefferiella Gracei Group,yes,CAPs,Eukiefferiella Gracei Group,Chironomidae
+Eukiefferiella Pseudomontana Gr.,Eukiefferiella Pseudomontana Group,yes,FORMATTING,Eukiefferiella Pseudomontana Group,Chironomidae
+Eukiefferiella pseudomontana group,Eukiefferiella Pseudomontana Group,yes,CAPs,Eukiefferiella Pseudomontana Group,Chironomidae
+Eukiefferiella sp.,Eukiefferiella,yes,sp.,Eukiefferiella,Chironomidae
+Eukiefferiella tirolensis,Eukiefferiella Tirolensis Group,yes,FORMATTING,Eukiefferiella Tirolensis Group,Chironomidae
+Eukiefferiella Tirolensis Group,Eukiefferiella Tirolensis Group,no,,Eukiefferiella Tirolensis Group,Chironomidae
+Euparyphus,Euparyphus,no,,Euparyphus,Diptera
+Euparyphus sp.,Euparyphus,yes,sp.,Euparyphus,Diptera
+Euryhapsis,Euryhapsis,no,,Euryhapsis,Chironomidae
+Euryhapsis sp.,Euryhapsis,yes,sp.,Euryhapsis,Chironomidae
+Eylais,Acari,yes,mites collapsed to Acari,Eylais,Acari
+Eylais sp.,Acari,yes,mites collapsed to Acari,Eylais,Acari
+Fallceon,Fallceon,no,,Fallceon,Ephemeroptera
+Fallceon quilleri,Fallceon,yes,backed off to genus,Fallceon,Ephemeroptera
+Fallceon sp.,Fallceon,yes,sp.,Fallceon,Ephemeroptera
+Faxonius,Faxonius,no,,Faxonius,Crustacea
+Feltria,Acari,yes,mites collapsed to Acari,Feltria,Acari
+Feltria sp.,Acari,yes,mites collapsed to Acari,Feltria,Acari
+Ferrissia,Ferrissia,no,,Ferrissia,Mollusca
+Ferrissia rowelli,Ferrissia,yes,backed off to genus,Ferrissia,Mollusca
+Ferrissia sp.,Ferrissia,yes,sp.,Ferrissia,Mollusca
+FISHEROLA,Fisherola,yes,CAPs,Fisherola,Mollusca
+Fisherola nuttalli,Fisherola nuttalli,no,,Fisherola nuttalli,Mollusca
+Fluminicola,Truncatelloidea,yes,backed off to Truncatelloidea,Truncatelloidea,Mollusca
+Fluminicola (new sp. near fuscus),Truncatelloidea,yes,backed off to Truncatelloidea,Truncatelloidea,Mollusca
+Fluminicola sp.,Truncatelloidea,yes,backed off to Truncatelloidea,Truncatelloidea,Mollusca
+Forcipomyia,Forcipomyiinae,yes,backed off to subfamily,Forcipomyiinae,Diptera
+Forcipomyia sp.,Forcipomyiinae,yes,backed off to subfamily,Forcipomyiinae,Diptera
+Forcipomyiinae,Forcipomyiinae,no,,Forcipomyiinae,Diptera
+Forelia,Acari,yes,mites collapsed to Acari,Forelia,Acari
+Fossaria,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Fossaria bulimiodes/cockerelli,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Fossaria sp.,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Galba,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Gammaridae,Amphipoda,yes,backed off to Order,Amphipoda,Crustacea
+Gammarus,Gammarus,no,,Gammarus,Crustacea
+Gammarus (scud),Gammarus,yes,naming scheme,Gammarus,Crustacea
+Gammarus sp.,Gammarus,yes,sp.,Gammarus,Crustacea
+Gastropoda,Gastropoda,no,TOO COARSE,Gastropoda,Mollusca
+Gaufina/Sweltsa,Gaufina/Sweltsa,no,,Gaufina/Sweltsa,Plecoptera
+Gerris,DNI,yes,"NonTarget - Hemiptera, water column or surface dwellers",DNI,Hemiptera
+Glossiphonia,Glossiphonia,no,,Glossiphonia,Leeches
+Glossiphonia complanata,Glossiphonia,yes,backed off to genus,Glossiphonia,Leeches
+Glossiphonia sp.,Glossiphonia,yes,sp.,Glossiphonia,Leeches
+Glossiphonidae,Glossiphoniidae,yes,misspelling,Glossiphoniidae,Leeches
+Glossiphoniidae,Glossiphoniidae,no,,Glossiphoniidae,Leeches
+Glossosoma,Glossosoma,no,,Glossosoma,Trichoptera
+Glossosoma (tortoise case maker),Glossosoma,yes,naming scheme,Glossosoma,Trichoptera
+Glossosoma sp.,Glossosoma,yes,sp.,Glossosoma,Trichoptera
+Glossosomatidae,Glossosomatidae,no,,Glossosomatidae,Trichoptera
+Glutops,Glutops,no,,Glutops,Diptera
+Glutops sp.,Glutops,yes,sp.,Glutops,Diptera
+Glyptotendipes,Glyptotendipes,no,,Glyptotendipes,Chironomidae
+Glyptotendipes sp.,Glyptotendipes,yes,sp.,Glyptotendipes,Chironomidae
+Gomphidae,Gomphidae,no,,Gomphidae,Odonata
+Gomphidae (club tail),Gomphidae,yes,naming scheme,Gomphidae,Odonata
+Gomphus (clubtail dragonfly),Gomphidae,yes,naming scheme,Gomphidae,Odonata
+Gonidea angulata (western ridged mussel),DNI,yes,OR/WA note: was an Anodonta brackish or tidally influenced freshwater,DNI,
+Gonomyia,Gonomyia,no,,Gonomyia,Diptera
+Gonomyia sp.,Gonomyia,yes,sp.,Gonomyia,Diptera
+Guttipelopia,Guttipelopia,no,,Guttipelopia,Chironomidae
+Gymnometriocnemus,Gymnometriocnemus,no,,Gymnometriocnemus,Chironomidae
+Gymnometriocnemus sp.,Gymnometriocnemus,yes,sp.,Gymnometriocnemus,Chironomidae
+Gyraulus,Gyraulus,no,,Gyraulus,Mollusca
+Gyraulus parvus,Gyraulus,yes,backed off to genus,Gyraulus,Mollusca
+Gyraulus sp.,Gyraulus,yes,sp.,Gyraulus,Mollusca
+Gyrinidae,Gyrinidae,no,,Gyrinidae,Coleoptera
+Gyrinus,Gyrinidae,yes,backed off to family,Gyrinidae,Coleoptera
+Gyrinus sp.,Gyrinidae,yes,backed off to family,Gyrinidae,Coleoptera
+Haliplidae,Haliplidae,no,,Haliplidae,Coleoptera
+Haliplus,Haliplus,no,,Haliplus,Coleoptera
+Haliplus sp.,Haliplus,yes,sp.,Haliplus,Coleoptera
+Haplotaxida,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Haplotaxidae,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Haplotaxis,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Haplotaxis cf. gordioides,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Haplotaxis sp.,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Harnischia,Harnischia,no,,Harnischia,Chironomidae
+Heledon/Prosimulium,Helodon/Prosimulium,yes,Slashed taxon,Helodon/Prosimulium,Diptera
+Heleniella,Heleniella,no,,Heleniella,Chironomidae
+Heleniella sp.,Heleniella,yes,sp.,Heleniella,Chironomidae
+Helichus,Helichus,no,,Helichus,Coleoptera
+Helichus sp.,Helichus,yes,sp.,Helichus,Coleoptera
+Helichus striatus,Helichus,yes,backed off to genus,Helichus,Coleoptera
+Helicopsyche,Helicopsyche,no,,Helicopsyche,Trichoptera
+Helicopsyche borealis,Helicopsyche,yes,backed off to genus,Helicopsyche,Trichoptera
+Helicopsyche sp.,Helicopsyche,yes,sp.,Helicopsyche,Trichoptera
+Helisoma,Helisoma,no,,Helisoma,Mollusca
+"Helisoma anceps (very large snail, ram horns)",Helisoma,yes,naming scheme,Helisoma,Mollusca
+Helobdella,Helobdella,no,,Helobdella,Leeches
+Helobdella stagnalis,Helobdella,yes,backed off to genus,Helobdella,Leeches
+Helobdella stagnalis complex,Helobdella,yes,backed off to genus,Helobdella,Leeches
+Helodon,Helodon/Prosimulium,yes,Slashed taxon,Helodon/Prosimulium,Diptera
+Helodon sp.,Helodon/Prosimulium,yes,Slashed taxon,Helodon/Prosimulium,Diptera
+Helodon/Prosimulium,Helodon/Prosimulium,no,,Helodon/Prosimulium,Diptera
+Helopelopia,Thienemannimyia Group,yes,nomenclature,Thienemannimyia Group,Chironomidae
+Helophorus,Helophorus,no,,Helophorus,Coleoptera
+Helophorus sp.,Helophorus,yes,sp.,Helophorus,Coleoptera
+Hemerodromia,Hemerodromia,no,,Hemerodromia,Diptera
+Hemerodromia sp.,Hemerodromia,yes,sp.,Hemerodromia,Diptera
+Heptagenia,Heptageniidae,yes,backed off to family,Heptageniidae,Ephemeroptera
+Heptagenia sp.,Heptageniidae,yes,backed off to family,Heptageniidae,Ephemeroptera
+Heptagenia/Nixe,Heptageniidae,yes,backed off to family,Heptageniidae,Ephemeroptera
+Heptageniidae,Heptageniidae,no,,Heptageniidae,Ephemeroptera
+Hesperoconopa,Hesperoconopa,no,,Hesperoconopa,Diptera
+Hesperoconopa sp.,Hesperoconopa,yes,sp.,Hesperoconopa,Diptera
+Hesperoperla,Hesperoperla pacifica,yes,monotypic,Hesperoperla pacifica,Plecoptera
+Hesperoperla pacifica,Hesperoperla pacifica,no,monotypic in OR/WA,Hesperoperla pacifica,Plecoptera
+Hesperophylax,Hesperophylax,no,,Hesperophylax,Trichoptera
+Hesperophylax sp.,Hesperophylax,yes,sp.,Hesperophylax,Trichoptera
+Heterlimnius,Heterlimnius corpulentus,yes,monotypic,Heterlimnius corpulentus,Coleoptera
+Heterlimnius corpulentus,Heterlimnius corpulentus,no,monotypic,Heterlimnius corpulentus,Coleoptera
+Heterlimnius sp.,Heterlimnius corpulentus,yes,monotypic,Heterlimnius corpulentus,Coleoptera
+Heterocloeon,Heterocloeon,no,,Heterocloeon,Ephemeroptera
+Heterocloeon sp.,Heterocloeon,yes,sp.,Heterocloeon,Ephemeroptera
+Heterotrissocladius,Heterotrissocladius,no,,Heterotrissocladius,Chironomidae
+Heterotrissocladius Marcidus Gr.,Heterotrissocladius Marcidus Group,yes,FORMATTING,Heterotrissocladius Marcidus Group,Chironomidae
+Heterotrissocladius Marcidus Group,Heterotrissocladius Marcidus Group,no,,Heterotrissocladius Marcidus Group,Chironomidae
+Heterotrissocladius subpilosa gr.,Heterotrissocladius,yes,OR/WA backed off to genus; known from Artic north and Arctic Europe,Heterotrissocladius,Chironomidae
+Hexagenia,Hexagenia,no,,Hexagenia,Ephemeroptera
+Hexatoma,Hexatoma,no,,Hexatoma,Diptera
+Hexatoma sp.,Hexatoma,yes,sp.,Hexatoma,Diptera
+Hirudinea,Hirudinea,no,,Hirudinea,Leeches
+Homophylax,Homophylax,no,,Homophylax,Trichoptera
+Homophylax sp.,Homophylax,yes,sp.,Homophylax,Trichoptera
+Hyalella,Hyalella,no,,Hyalella,Crustacea
+Hyalella azteca (scud),Hyalella,yes,backed off to genus,Hyalella,Crustacea
+Hyalella sp.,Hyalella,yes,sp.,Hyalella,Crustacea
+Hydra,Hydra,no,,Hydra,Misc. Phyla
+Hydra sp.,Hydra,yes,sp.,Hydra,Misc. Phyla
+Hydrachna,Acari,yes,mites collapsed to Acari,Hydrachna,Acari
+Hydraena,Hydraenidae,yes,naming scheme,Hydraenidae,Coleoptera
+Hydraena sp.,Hydraenidae,yes,sp.,Hydraenidae,Coleoptera
+Hydraenidae,Hydraenidae,no,,Hydraenidae,Coleoptera
+Hydrobaenus,Hydrobaenus,no,,Hydrobaenus,Chironomidae
+Hydrobaenus sp.,Hydrobaenus,yes,sp.,Hydrobaenus,Chironomidae
+Hydrobiidae,Truncatelloidea,yes,backed off to Truncatelloidea,Truncatelloidea,Mollusca
+Hydrodroma,Acari,yes,mites collapsed to Acari,Hydrodroma,Acari
+Hydrodroma sp.,Acari,yes,mites collapsed to Acari,Hydrodroma,Acari
+Hydrophilidae,Hydrophilidae,no,,Hydrophilidae,Coleoptera
+Hydroporinae,Hydroporinae,no,,Hydroporinae,Coleoptera
+Hydroporus,Hydroporinae,yes,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Coleoptera
+Hydropsyche,Hydropsyche,no,,Hydropsyche,Trichoptera
+Hydropsyche sp.,Hydropsyche,yes,sp.,Hydropsyche,Trichoptera
+Hydropsychidae,Hydropsychidae,no,,Hydropsychidae,Trichoptera
+Hydroptila,Hydroptila,no,,Hydroptila,Trichoptera
+Hydroptila sp.,Hydroptila,yes,sp.,Hydroptila,Trichoptera
+Hydroptilidae,Hydroptilidae,no,,Hydroptilidae,Trichoptera
+Hydrosmittia,Hydrosmittia,no,,Hydrosmittia,Chironomidae
+Hydrosmittia sp.,Hydrosmittia,yes,sp.,Hydrosmittia,Chironomidae
+Hydrovolzia,Acari,yes,mites collapsed to Acari,Hydrovolzia,Acari
+Hydrovolzia sp.,Acari,yes,mites collapsed to Acari,Hydrovolzia,Acari
+Hydrovolziidae,Acari,yes,mites collapsed to Acari,Hydrovolzia,Acari
+Hydrozoa,Hydra,yes,naming scheme,Hydra,Misc. Phyla
+Hydryphantidae,Acari,yes,mites collapsed to Acari,Hydryphantidae,Acari
+Hygrobates,Acari,yes,mites collapsed to Acari,Hygrobates,Acari
+Hygrobates sp.,Acari,yes,mites collapsed to Acari,Hygrobates,Acari
+Hygrobatidae,Acari,yes,mites collapsed to Acari,Hygrobatidae,Acari
+Hygrobatidae ,Acari,yes,mites collapsed to Acari,Hygrobatidae,Acari
+Ilyodrilus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Ilyodrilus templetoni,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Ironodes,Ironodes,no,,Ironodes,Ephemeroptera
+Ironodes sp.,Ironodes,yes,sp.,Ironodes,Ephemeroptera
+Isogenoides,Isogenoides,no,,Isogenoides,Plecoptera
+Isogenoides sp.,Isogenoides,yes,sp.,Isogenoides,Plecoptera
+Isoperla,Isoperla,no,,Isoperla,Plecoptera
+Isoperla sp.,Isoperla,yes,sp.,Isoperla,Plecoptera
+Iswaeon,Iswaeon,no,,Iswaeon,Ephemeroptera
+Iswaeon anoka,Iswaeon,yes,backed off to genus,Iswaeon,Ephemeroptera
+Kathroperla,Kathroperla,no,,Kathroperla,Plecoptera
+Kathroperla sp.,Kathroperla,yes,sp.,Kathroperla,Plecoptera
+Kincaidiana hexatheca,Oligochaeta,yes,worms to Oligochaeta,Lumbriculidae,Oligochaeta
+Kogotus,Kogotus/Rickera,yes,Slashed taxon,Kogotus/Rickera,Plecoptera
+Kogotus sp.,Kogotus/Rickera,yes,Slashed taxon,Kogotus/Rickera,Plecoptera
+Kogotus/Rickera,Kogotus/Rickera,no,,Kogotus/Rickera,Plecoptera
+Krenopelopia,Krenopelopia,no,,Krenopelopia,Chironomidae
+Krenopelopia sp.,Krenopelopia,yes,sp.,Krenopelopia,Chironomidae
+Krenosmittia,Krenosmittia,no,,Krenosmittia,Chironomidae
+Krenosmittia sp.,Krenosmittia,yes,sp.,Krenosmittia,Chironomidae
+Labiobaetis,Labiobaetis,no,,Labiobaetis,Ephemeroptera
+Labrundinia,Labrundinia,no,,Labrundinia,Chironomidae
+Labrundinia sp.,Labrundinia,yes,sp.,Labrundinia,Chironomidae
+Laccobius,Hydrophilidae,yes,backed off to family,Hydrophilidae,Coleoptera
+Laccobius sp.,Hydrophilidae,yes,backed off to family,Hydrophilidae,Coleoptera
+Laccophilus,Laccophilus,no,,Laccophilus,Coleoptera
+Laccophilus sp.,Laccophilus,yes,sp.,Laccophilus,Coleoptera
+Lanx,Lanx,no,,Lanx,Mollusca
+Lara,Lara,no,,Lara,Coleoptera
+Lara avara,Lara,yes,backed off to genus,Lara,Coleoptera
+Lara sp.,Lara,yes,sp.,Lara,Coleoptera
+Larsia,Larsia,no,,Larsia,Chironomidae
+Larsia sp.,Larsia,yes,sp.,Larsia,Chironomidae
+Lebertia,Acari,yes,mites collapsed to Acari,Lebertia,Acari
+Lebertia sp.,Acari,yes,mites collapsed to Acari,Lebertia,Acari
+Lebertiidae,Acari,yes,mites collapsed to Acari,Lebertiidae,Acari
+Lepidoptera,Lepidoptera,no,Lot of these are terrestrial,Lepidoptera,Lepidoptera
+Lepidostoma,Lepidostoma,no,,Lepidostoma,Trichoptera
+Lepidostoma sp.,Lepidostoma,yes,sp.,Lepidostoma,Trichoptera
+Lepidostoma Unicolor Group,Lepidostoma,yes,best to leave at genus,Lepidostoma,Trichoptera
+Lepidostoma-turret case larvae,Lepidostoma,yes,best to leave at genus,Lepidostoma,Trichoptera
+Leptoceridae,Leptoceridae,no,,Leptoceridae,Trichoptera
+Leptohyphidae,Leptohyphidae,no,,Leptohyphidae,Ephemeroptera
+Leptophlebiidae,Leptophlebiidae,no,,Leptophlebiidae,Ephemeroptera
+Leptophlebiinae,Leptophlebiidae,yes,backed off to family,Leptophlebiidae,Ephemeroptera
+Lestes,Lestes,no,,Lestes,Odonata
+Lestes sp.,Lestes,yes,sp.,Lestes,Odonata
+Leucotrichia,Leucotrichia,no,,Leucotrichia,Trichoptera
+Leucotrichia sp.,Leucotrichia,yes,sp.,Leucotrichia,Trichoptera
+Leuctridae,Leuctridae,no,,Leuctridae,Plecoptera
+Libellula,Libellulidae,yes,backed off to family,Libellulidae,Odonata
+Libellulidae,Libellulidae,no,,Libellulidae,Odonata
+Limnebius sp.,Hydraenidae,yes,sp.,Hydraenidae,Coleoptera
+Limnephilidae,Limnephilidae,no,,Limnephilidae,Trichoptera
+Limnephilus,Limnephilus,no,,Limnephilus,Trichoptera
+Limnephilus sp.,Limnephilus,yes,sp.,Limnephilus,Trichoptera
+Limnesia,Acari,yes,mites collapsed to Acari,Limnesia,Acari
+Limnesia sp.,Acari,yes,mites collapsed to Acari,Limnesia,Acari
+Limnesiidae,Acari,yes,mites collapsed to Acari,Limnesiidae,Acari
+Limnodrilus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Limnodrilus claparedeianus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Limnodrilus hoffmeisteri,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Limnodrilus silvani,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Limnodrilus udekemianus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Limnophila,Eloeophila,yes,nomenclature,Eloeophila,Diptera
+Limnophila sp.,Eloeophila,yes,nomenclature,Eloeophila,Diptera
+Limnophora,Muscidae,yes,backed off to family,Muscidae,Diptera
+Limnophyes,Limnophyes,no,,Limnophyes,Chironomidae
+Limnophyes sp.,Limnophyes,yes,sp.,Limnophyes,Chironomidae
+Limonia,Dicranomyia,yes,nomenclature,Dicranomyia,Diptera
+Limonia sp.,Dicranomyia,yes,nomenclature,Dicranomyia,Diptera
+Limoniidae,Limoniidae,no,,Limoniidae,Diptera
+Liodessus,Hydroporinae,yes,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Coleoptera
+Liodessus sp.,Hydroporinae,yes,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Coleoptera
+Lopescladius,Lopescladius,no,,Lopescladius,Chironomidae
+Lopescladius sp.,Lopescladius,yes,sp.,Lopescladius,Chironomidae
+Lumbricidae,DNI,yes,Mostly Terrestrial,DNI,
+Lumbricina,DNI,yes,Mostly Terrestrial,DNI,
+Lumbriculidae,Oligochaeta,yes,worms to Oligochaeta,Lumbriculidae,Oligochaeta
+Lymnaea stagnalis,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Lymnaeidae,Lymnaeidae,no,,Lymnaeidae,Mollusca
+Lymnaidae,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Maccaffertium,Maccaffertium,no,,Maccaffertium,Ephemeroptera
+Maccaffertium terminatum,Maccaffertium,yes,backed off to genus,Maccaffertium,Ephemeroptera
+Maccaffertium/Stenonema,Maccaffertium/Stenonema,no,,Maccaffertium/Stenonema,Ephemeroptera
+Macromia,Macromia,no,,Macromia,Odonata
+Macromia (emeralds),Macromia,yes,naming scheme,Macromia,Odonata
+Macropelopia,Macropelopia,no,,Macropelopia,Chironomidae
+Macropelopia sp.,Macropelopia,yes,sp.,Macropelopia,Chironomidae
+Macropelopiini,Macropelopiini,no,,Macropelopiini,Chironomidae
+Malenka,Malenka,no,,Malenka,Plecoptera
+Malenka sp.,Malenka,yes,sp.,Malenka,Plecoptera
+Margaritifera,Margaritifera falcata,yes,monotypic,Margaritifera falcata,Mollusca
+Margaritifera falcata,Margaritifera falcata,no,,Margaritifera falcata,Mollusca
+Maruina,Maruina,no,,Maruina,Diptera
+Maruina sp.,Maruina,yes,sp.,Maruina,Diptera
+Matriella,Matriella teresa,yes,monotypic,Matriella teresa,Ephemeroptera
+Matriella teresa,Matriella teresa,no,,Matriella teresa,Ephemeroptera
+Mayatrichia,Mayatrichia,no,"Mayatrichia ayama may not be the only species found in the PNW, as several other species are currently known to occur as far north as NV/UT/WY.",Mayatrichia,Trichoptera
+Mayatrichia sp.,Mayatrichia,yes,sp.,Mayatrichia,Trichoptera
+Megadrile,DNI,yes,Terrestrial,DNI,
+Megaleuctra,Megaleuctra,no,,Megaleuctra,Plecoptera
+Megaleuctra sp.,Megaleuctra,yes,sp.,Megaleuctra,Plecoptera
+Megarcys,Megarcys,no,,Megarcys,Plecoptera
+Megarcys sp.,Megarcys,yes,sp.,Megarcys,Plecoptera
+Menetus,Menetus,no,,Menetus,Mollusca
+Menetus opercularis,Menetus,yes,backed off to genus,Menetus,Mollusca
+Meringodixa,Meringodixa,no,,Meringodixa,Diptera
+Meringodixa chalonensis,Meringodixa,yes,backed off to genus,Meringodixa,Diptera
+Meringodixa sp.,Meringodixa,yes,sp.,Meringodixa,Diptera
+Meropelopia sp.,Thienemannimyia Group,yes,nomenclature,Thienemannimyia Group,Chironomidae
+Mesobates,Acari,yes,mites collapsed to Acari,Mesobates,Acari
+Mesobates sp.,Acari,yes,mites collapsed to Acari,Mesobates,Acari
+Mesocricotopus,Mesocricotopus,no,,Mesocricotopus,Chironomidae
+Mesocricotopus sp.,Mesocricotopus,yes,sp.,Mesocricotopus,Chironomidae
+Metriocnemus,Metriocnemus,no,,Metriocnemus,Chironomidae
+Metriocnemus sp.,Metriocnemus,yes,sp.,Metriocnemus,Chironomidae
+Micrasema,Micrasema,no,,Micrasema,Trichoptera
+Micrasema sp.,Micrasema,yes,sp.,Micrasema,Trichoptera
+Microcylloepus,Microcylloepus,no,,Microcylloepus,Coleoptera
+Microcylloepus sp.,Microcylloepus,yes,sp.,Microcylloepus,Coleoptera
+Micropsectra,Micropsectra,no,,Micropsectra,Chironomidae
+Micropsectra sp.,Micropsectra,yes,sp.,Micropsectra,Chironomidae
+Microtendipes,Microtendipes,no,,Microtendipes,Chironomidae
+Microtendipes Pedellus gr.,Microtendipes Pedellus Group,yes,FORMATTING,Microtendipes Pedellus Group,Chironomidae
+Microtendipes pedellus group,Microtendipes Pedellus Group,yes,CAPs,Microtendipes Pedellus Group,Chironomidae
+Microtendipes Rydalensis Gr.,Microtendipes Rydalensis Group,yes,FORMATTING,Microtendipes Rydalensis Group,Chironomidae
+Microtendipes Rydalensis Group,Microtendipes Rydalensis Group,no,,Microtendipes Rydalensis Group,Chironomidae
+Microtendipes sp.,Microtendipes,yes,sp.,Microtendipes,Chironomidae
+Mideopsidae,Acari,yes,mites collapsed to Acari,Mideopsidae,Acari
+Mideopsis,Acari,yes,mites collapsed to Acari,Mideopsis,Acari
+Mideopsis sp.,Acari,yes,mites collapsed to Acari,Mideopsis,Acari
+Molophilus,Molophilus,no,,Molophilus,Diptera
+Molophilus sp.,Molophilus,yes,sp.,Molophilus,Diptera
+Monatractides,Acari,yes,mites collapsed to Acari,Monatractides,Acari
+Monodiamesa,Monodiamesa,no,,Monodiamesa,Chironomidae
+Monodiamesa sp.,Monodiamesa,yes,sp.,Monodiamesa,Chironomidae
+Monophylax mono,Monophylax mono,no,,Monophylax mono,Trichoptera
+Moselia,Moselia,no,,Moselia,Plecoptera
+Moselia sp.,Moselia,yes,sp.,Moselia,Plecoptera
+Muscidae,Muscidae,no,,Muscidae,Diptera
+Musculium,Musculium/Sphaerium,yes,Slashed taxon,Musculium/Sphaerium,Mollusca
+Musculium sp.,Musculium/Sphaerium,yes,Slashed taxon,Musculium/Sphaerium,Mollusca
+Musculium/Sphaerium,Musculium/Sphaerium,no,,Musculium/Sphaerium,Mollusca
+Mystacides,Mystacides,no,,Mystacides,Trichoptera
+Mystacides alafimbriata,Mystacides,yes,backed off to genus,Mystacides,Trichoptera
+Mystacides sp.,Mystacides,yes,sp.,Mystacides,Trichoptera
+Naididae,Oligochaeta,yes,worms to Oligochaeta,Naididae,Oligochaeta
+Naidinae,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais barbata,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais behningi,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais bicuspidalis,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais bretscheri,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais elinguis,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais pardalis,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais sp.,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nais variabilis,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Nanocladius,Nanocladius,no,,Nanocladius,Chironomidae
+Nanocladius sp.,Nanocladius,yes,sp.,Nanocladius,Chironomidae
+Narpus,Narpus,no,,Narpus,Coleoptera
+Narpus concolor,Narpus,yes,backed off to genus,Narpus,Coleoptera
+Narpus sp.,Narpus,yes,sp.,Narpus,Coleoptera
+Natarsia,Natarsia,no,,Natarsia,Chironomidae
+Natarsia sp.,Natarsia,yes,sp.,Natarsia,Chironomidae
+near Heleniella sp.,DNI,yes,,DNI,
+Neaviperla/Suwallia,Neaviperla/Suwallia,no,,Neaviperla/Suwallia,Plecoptera
+Nectopsyche,Nectopsyche,no,,Nectopsyche,Trichoptera
+Nectopsyche sp.,Nectopsyche,yes,sp.,Nectopsyche,Trichoptera
+Nemata,Nemata,no,,Nemata,Misc. Phyla
+Nematoda,Nemata,yes,naming scheme,Nemata,Misc. Phyla
+Nematomorpha,Nematomorpha,no,,Nematomorpha,Misc. Phyla
+Nemertea (carnivorous ribbon worm),Prostoma,yes,naming scheme,Prostoma,Misc. Phyla
+Nemotelus,Nemotelus,no,,Nemotelus,Diptera
+Nemotelus sp.,Nemotelus,yes,sp.,Nemotelus,Diptera
+Nemouridae,Nemouridae,no,,Nemouridae,Plecoptera
+Neoleptophlebia,Neoleptophlebia/Paraleptophlebia,yes,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Ephemeroptera
+Neoleptophlebia/Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,no,,Neoleptophlebia/Paraleptophlebia,Ephemeroptera
+Neophylax,Neophylax,no,,Neophylax,Trichoptera
+Neophylax A64,Neophylax,yes,backed off to genus,Neophylax,Trichoptera
+Neophylax occidentis,Neophylax occidentis,no,,Neophylax occidentis,Trichoptera
+Neophylax rickeri,Neophylax rickeri,no,,Neophylax rickeri,Trichoptera
+Neophylax sp.,Neophylax,yes,sp.,Neophylax,Trichoptera
+Neophylax splendens,Neophylax splendens,no,,Neophylax splendens,Trichoptera
+Neoplasta,Neoplasta,no,,Neoplasta,Diptera
+Neoplasta sp.,Neoplasta,yes,sp.,Neoplasta,Diptera
+Neothremma,Neothremma,no,,Neothremma,Trichoptera
+Neothremma sp.,Neothremma,yes,sp.,Neothremma,Trichoptera
+Neotrichia,Neotrichia,no,,Neotrichia,Trichoptera
+Neotrichia sp.,Neotrichia,yes,sp.,Neotrichia,Trichoptera
+Neozavrelia,Neozavrelia,no,,Neozavrelia,Chironomidae
+Neozavrelia sp.,Neozavrelia,yes,not sure about this one,Neozavrelia,Chironomidae
+Neumania,Acari,yes,mites collapsed to Acari,Neumania,Acari
+Neureclipsis,Neureclipsis,no,,Neureclipsis,Trichoptera
+Nilotanypus,Nilotanypus,no,,Nilotanypus,Chironomidae
+Nilotanypus fimbriatus,Nilotanypus,yes,backed off to genus,Nilotanypus,Chironomidae
+Nilotanypus sp.,Nilotanypus,yes,sp.,Nilotanypus,Chironomidae
+Nilothauma,Nilothauma,no,,Nilothauma,Chironomidae
+Nixe,Ecdyonurus,yes,most PNW Nixe are Afghanurus,Ecdyonurus,Ephemeroptera
+Nixe criddlei,Ecdyonurus criddlei,yes,OR/WA translated to Ecdyonurus,Ecdyonurus criddlei,Ephemeroptera
+Notonecta sp.,DNI,yes,NonTarget? Could go either way. Left out because only 2 calls total,DNI,Hemiptera
+Notonectidae,DNI,yes,NonTarget? Could go either way. Left out because only 2 calls total,DNI,Hemiptera
+Ochrotrichia,Ochrotrichia,no,,Ochrotrichia,Trichoptera
+Ochrotrichia sp.,Ochrotrichia,yes,sp.,Ochrotrichia,Trichoptera
+Ochthebius sp.,Hydraenidae,yes,sp.,Hydraenidae,Coleoptera
+Octogomphus,Octogomphus specularis,yes,monotypic,Octogomphus specularis,Odonata
+Octogomphus specularis,Octogomphus specularis,no,,Octogomphus specularis,Odonata
+Odonata,Odonata,no,,Odonata,Odonata
+Odontomesa,Odontomesa,no,,Odontomesa,Chironomidae
+Odontomesa sp.,Odontomesa,yes,sp.,Odontomesa,Chironomidae
+Odontomyia,Odontomyia,no,,Odontomyia,Diptera
+Odontomyia sp,Odontomyia,yes,sp.,Odontomyia,Diptera
+Oecetis,Oecetis,no,,Oecetis,Trichoptera
+Oecetis avara,Oecetis,yes,backed off to genus,Oecetis,Trichoptera
+Oecetis avara group,Oecetis,yes,backed off to genus,Oecetis,Trichoptera
+Oecetis disjuncta,Oecetis,yes,backed off to genus,Oecetis,Trichoptera
+Oecetis sp.,Oecetis,yes,sp.,Oecetis,Trichoptera
+Oligochaeta,Oligochaeta,no,,Oligochaeta,Oligochaeta
+Oligophlebodes,Oligophlebodes,no,,Oligophlebodes,Trichoptera
+Oligophlebodes sp.,Oligophlebodes,yes,sp.,Oligophlebodes,Trichoptera
+Onocosmoecus,Onocosmoecus,no,two species in region,Onocosmoecus,Trichoptera
+Onocosmoecus sp.,Onocosmoecus,yes,sp.,Onocosmoecus,Trichoptera
+Onocosmoecus unicolor,Onocosmoecus,yes,backed off to genus,Onocosmoecus,Trichoptera
+Ophidonais,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Ophidonais serpentina,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Ophiogomphus,Ophiogomphus,no,,Ophiogomphus,Odonata
+Ophiogomphus occidentis,Ophiogomphus,yes,backed off to genus,Ophiogomphus,Odonata
+Ophiogomphus severus,Ophiogomphus,yes,backed off to genus,Ophiogomphus,Odonata
+Ophiogomphus sp.,Ophiogomphus,yes,sp.,Ophiogomphus,Odonata
+Optioservus,Optioservus,no,,Optioservus,Coleoptera
+Optioservus divergens,Optioservus,yes,backed off to genus,Optioservus,Coleoptera
+Optioservus quadrimaculatus,Optioservus,yes,backed off to genus,Optioservus,Coleoptera
+Optioservus sp.,Optioservus,yes,sp.,Optioservus,Coleoptera
+Orconectes,Faxonius,yes,nomenclature,Faxonius,Crustacea
+Orconectes (northern crayfish),Faxonius,yes,naming scheme,Faxonius,Crustacea
+Orconectes sp.,Faxonius,yes,sp.,Faxonius,Crustacea
+Ordobrevia,Ordobrevia nubifera,yes,monotypic,Ordobrevia nubifera,Coleoptera
+Ordobrevia nubifera,Ordobrevia nubifera,no,monotypic,Ordobrevia nubifera,Coleoptera
+Oreodytes,Hydroporinae,yes,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Coleoptera
+Oreodytes sp.,Hydroporinae,yes,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Coleoptera
+Oreogeton,Oreogeton,no,,Oreogeton,Diptera
+Oreogeton sp.,Oreogeton,yes,sp.,Oreogeton,Diptera
+Oreoleptis torrenticola,Oreoleptis torrenticola,no,,Oreoleptis torrenticola,Diptera
+Oribatei,Acari,yes,mites collapsed to Acari,Oribatida,Acari
+Oribatida,Acari,yes,mites collapsed to Acari,Oribatida,Acari
+Ormosia,Ormosia,no,,Ormosia,Diptera
+Ormosia (Sceleroprocta) sp.,Scleroprocta,yes,naming scheme,Scleroprocta,Diptera
+Oropuella,Oropuella,no,,Oropuella,Chironomidae
+Oropuella sp.,Oropuella,yes,sp.,Oropuella,Chironomidae
+Orthocladiinae,Orthocladiinae,no,,Orthocladiinae,Chironomidae
+Orthocladius,Orthocladius,no,,Orthocladius,Chironomidae
+Orthocladius (Euortho.) rivulorum,Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius (Euortho.) rivulorum gr.,Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius (Euorthocladius),Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius (Euorthocladius) sp.,Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius (Euorthos.) rivicola gr.,Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius (Euorthos.) rivulorum gr.,Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius (Symp.) lignicola,Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius annectens,Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius complex,Cricotopus/Orthocladius,yes,Slashed taxon,Cricotopus/Orthocladius,Chironomidae
+Orthocladius Genus 5,Orthocladius,yes,backed off to genus,Orthocladius,Chironomidae
+Orthocladius sp.,Orthocladius,yes,sp.,Orthocladius,Chironomidae
+Orthotrichia,Orthotrichia,no,,Orthotrichia,Trichoptera
+Orthotrichia sp.,Orthotrichia,yes,sp.,Orthotrichia,Trichoptera
+Ostracoda,Ostracoda,no,,Ostracoda,Crustacea
+Oxidae,Acari,yes,mites collapsed to Acari,Oxus,Acari
+Oxus,Acari,yes,mites collapsed to Acari,Oxus,Acari
+Oxyethira,Oxyethira,no,,Oxyethira,Trichoptera
+Oxyethira sp.,Oxyethira,yes,sp.,Oxyethira,Trichoptera
+Pacifastacus,Pacifastacus,no,,Pacifastacus,Crustacea
+Pacifastacus connectens,Pacifastacus,yes,backed off to genus,Pacifastacus,Crustacea
+Pacifastacus leniusculus,Pacifastacus,yes,backed off to genus,Pacifastacus,Crustacea
+Pacifastacus leniusculus (signal crayfish),Pacifastacus,yes,backed off to genus,Pacifastacus,Crustacea
+Pacifastacus sp.,Pacifastacus,yes,sp.,Pacifastacus,Crustacea
+Pagastia,Pagastia,no,,Pagastia,Chironomidae
+Pagastia sp.,Pagastia,yes,sp.,Pagastia,Chironomidae
+Pagastiella,Pagastiella,no,,Pagastiella,Chironomidae
+Paracapnia sp.,Capniidae,yes,sp.,Capniidae,Plecoptera
+Parachaetocladius,Parachaetocladius,no,,Parachaetocladius,Chironomidae
+Parachaetocladius sp.,Parachaetocladius,yes,sp.,Parachaetocladius,Chironomidae
+Parachironomus,Parachironomus,no,,Parachironomus,Chironomidae
+Parachironomus sp.,Parachironomus,yes,sp.,Parachironomus,Chironomidae
+Paracladius,Paracladius,no,,Paracladius,Chironomidae
+Paracladius sp.,Paracladius,yes,sp.,Paracladius,Chironomidae
+Paracladopelma,Paracladopelma,no,,Paracladopelma,Chironomidae
+Paracladopelma sp.,Paracladopelma,yes,sp.,Paracladopelma,Chironomidae
+Paracricotopus,Paracricotopus,no,,Paracricotopus,Chironomidae
+Paracricotopus sp.,Paracricotopus,yes,sp.,Paracricotopus,Chironomidae
+Parakiefferiella,Parakiefferiella,no,,Parakiefferiella,Chironomidae
+Parakiefferiella sp.,Parakiefferiella,yes,sp.,Parakiefferiella,Chironomidae
+Paralauterborniella,Paralauterborniella,no,monotypic; historic spelling issues,Paralauterborniella,Chironomidae
+Paralauterborniella nigrohalteralis,Paralauterborniella,yes,"Single species in Genus (nigrohalteralis), but left at genus due to historic spelling issues",Paralauterborniella,Chironomidae
+Paralauterborniella nigrohalteris,Paralauterborniella,yes,"Single species in Genus (nigrohalteralis), but left at genus due to historic spelling issues",Paralauterborniella,Chironomidae
+Paraleptophlebia,Neoleptophlebia/Paraleptophlebia,yes,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Ephemeroptera
+Paraleptophlebia bicornuta,Paraleptophlebia Bicornuta Group,yes,Formatting,Paraleptophlebia Bicornuta Group,Ephemeroptera
+Paraleptophlebia bicornuta group,Paraleptophlebia Bicornuta Group,yes,CAPs,Paraleptophlebia Bicornuta Group,Ephemeroptera
+Paraleptophlebia sp.,Neoleptophlebia/Paraleptophlebia,yes,Slashed taxon,Neoleptophlebia/Paraleptophlebia,Ephemeroptera
+Paraleuctra,Leuctridae,yes,backed off to family,Leuctridae,Plecoptera
+Paraleuctra sp.,Leuctridae,yes,backed off to family,Leuctridae,Plecoptera
+Paramerina,Zavrelimyia,yes,nomenclature,Zavrelimyia,Chironomidae
+Paramerina sp.,Zavrelimyia,yes,nomenclature,Zavrelimyia,Chironomidae
+Parametriocnemus,Parametriocnemus,no,,Parametriocnemus,Chironomidae
+Parametriocnemus sp.,Parametriocnemus,yes,sp.,Parametriocnemus,Chironomidae
+Paranais,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Paraperla,Paraperla,no,,Paraperla,Plecoptera
+Paraperla sp.,Paraperla,yes,sp.,Paraperla,Plecoptera
+Paraphaenocladius,Paraphaenocladius,no,,Paraphaenocladius,Chironomidae
+"Paraphaenocladius ""n. sp.""",Paraphaenocladius,yes,naming scheme,Paraphaenocladius,Chironomidae
+Paraphaenocladius sp.,Paraphaenocladius,yes,sp.,Paraphaenocladius,Chironomidae
+Parapsyche,Parapsyche,no,,Parapsyche,Trichoptera
+Parapsyche almota,Parapsyche almota,no,,Parapsyche almota,Trichoptera
+Parapsyche elsis,Parapsyche elsis,no,,Parapsyche elsis,Trichoptera
+Parapsyche sp.,Parapsyche,yes,sp.,Parapsyche,Trichoptera
+Paratanytarsus,Paratanytarsus,no,,Paratanytarsus,Chironomidae
+Paratanytarsus sp.,Paratanytarsus,yes,sp.,Paratanytarsus,Chironomidae
+Paratendipes,Paratendipes,no,,Paratendipes,Chironomidae
+Paratendipes sp.,Paratendipes,yes,sp.,Paratendipes,Chironomidae
+Parathyas,Acari,yes,mites collapsed to Acari,Parathyas,Acari
+Parochlus,Parochlus,no,,Parochlus,Chironomidae
+Parochlus kiefferi,Parochlus,yes,backed off to genus,Parochlus,Chironomidae
+Parochlus sp.,Parochlus,yes,sp.,Parochlus,Chironomidae
+Parorthocladius,Parorthocladius,no,,Parorthocladius,Chironomidae
+Parorthocladius sp.,Parorthocladius,yes,sp.,Parorthocladius,Chironomidae
+Pedicia,Pedicia,no,,Pedicia,Diptera
+Pedicia sp.,Pedicia,yes,sp.,Pedicia,Diptera
+Pedomoecus,Pedomoecus sierra,yes,monotypic,Pedomoecus sierra,Trichoptera
+Pedomoecus sierra,Pedomoecus sierra,no,monotypic,Pedomoecus sierra,Trichoptera
+Peltodytes,Peltodytes,no,,Peltodytes,Coleoptera
+Peltoperlidae,Peltoperlidae,no,,Peltoperlidae,Plecoptera
+Pentaneura,Pentaneura,no,,Pentaneura,Chironomidae
+Pentaneura sp.,Pentaneura,yes,sp.,Pentaneura,Chironomidae
+Pentaneurini,Pentaneurini,no,,Pentaneurini,Chironomidae
+Pericoma/Telmatoscopus,Pericomaini,yes,backed off to tribe,Pericomaini,Diptera
+Pericoma/Telmatoscopus sp.,Pericomaini,yes,backed off to tribe,Pericomaini,Diptera
+Pericomaini,Pericomaini,no,,Pericomaini,Diptera
+Perlidae,Perlidae,no,,Perlidae,Plecoptera
+Perlinodes,Perlinodes aureus,yes,monotypic; often misspelled,Perlinodes aureus,Plecoptera
+Perlinodes aurea,Perlinodes aureus,yes,monotypic; often misspelled,Perlinodes aureus,Plecoptera
+Perlinodes aureus,Perlinodes aureus,no,,Perlinodes aureus,Plecoptera
+Perlodidae,Perlodidae,no,,Perlodidae,Plecoptera
+Perlomyia,Perlomyia,no,,Perlomyia,Plecoptera
+Perlomyia sp.,Perlomyia,yes,sp.,Perlomyia,Plecoptera
+Petrophila,Petrophila,no,,Petrophila,Lepidoptera
+Petrophila (aquatic caterpillars),Petrophila,yes,naming scheme,Petrophila,Lepidoptera
+Petrophila sp.,Petrophila,yes,sp.,Petrophila,Lepidoptera
+Phaenopsectra,Phaenopsectra,no,,Phaenopsectra,Chironomidae
+Phaenopsectra obediens group,Phaenopsectra Obediens Group,yes,CAPs,Phaenopsectra Obediens Group,Chironomidae
+Phaenopsectra Punctipes Group,Phaenopsectra,yes,backed off to genus,Phaenopsectra,Chironomidae
+Phaenopsectra sp.,Phaenopsectra,yes,sp.,Phaenopsectra,Chironomidae
+Philocasca,Philocasca,no,,Philocasca,Trichoptera
+Philocasca sp.,Philocasca,yes,sp.,Philocasca,Trichoptera
+Philopotamidae,Philopotamidae,no,,Philopotamidae,Trichoptera
+Philorus sp.,Blephariceridae,yes,sp.,Blephariceridae,Diptera
+Phoridae,DNI,yes,Terrestrial,DNI,
+Physa,Physa/Physella,yes,slashed taxon,Physa/Physella,Mollusca
+Physa (Physella) sp.,Physa/Physella,yes,slashed taxon,Physa/Physella,Mollusca
+Physa sp.,Physa/Physella,yes,slashed taxon,Physa/Physella,Mollusca
+Physa/Physella,Physa/Physella,no,,Physa/Physella,Mollusca
+Physella,Physa/Physella,yes,slashed taxon,Physa/Physella,Mollusca
+Physidae,Physa/Physella,yes,slashed taxon,Physa/Physella,Mollusca
+Pictetiella expansa,Perlidae,yes,"backed off toe family; not known from OR, WA, known from ID, MT",Perlidae,Plecoptera
+Pilaria,Pilaria,no,,Pilaria,Diptera
+Pilaria sp.,Pilaria,yes,sp.,Pilaria,Diptera
+Pinnixa,DNI,yes,marine crab,DNI,
+Piona,Acari,yes,mites collapsed to Acari,Piona,Acari
+Piona sp.,Acari,yes,mites collapsed to Acari,Piona,Acari
+Pionidae,Acari,yes,mites collapsed to Acari,Pionidae,Acari
+Piscicola,Piscicolidae,yes,backed off to family,Piscicolidae,Leeches
+Piscicola salmositica,Cystobranchus,yes,nomenclature,Cystobranchus,Leeches
+Piscicola sp.,Piscicolidae,yes,backed off to family,Piscicolidae,Leeches
+Piscicolidae,Piscicolidae,no,,Piscicolidae,Leeches
+Pisidiidae,Sphaeriidae,yes,nomenclature,Sphaeriidae,Mollusca
+Pisidium,Pisidium,no,,Pisidium,Mollusca
+Pisidium sp.,Pisidium,yes,sp.,Pisidium,Mollusca
+Placobdella sp.,Glossiphoniidae,yes,nomenclature,Glossiphoniidae,Leeches
+Planorbella,Planorbella,no,,Planorbella,Mollusca
+Planorbella sp.,Planorbella,yes,sp.,Planorbella,Mollusca
+Planorbella subcrenata,Planorbella,yes,backed off to genus,Planorbella,Mollusca
+Planorbidae,Planorbidae,no,,Planorbidae,Mollusca
+Platyhelminthes,Platyhelminthes,no,,Platyhelminthes,Misc. Phyla
+Platysmittia,Platysmittia,no,,Platysmittia,Chironomidae
+Platysmittia bilyji,Platysmittia,yes,backed off to genus,Platysmittia,Chironomidae
+Platysmittia fimbriata,Platysmittia,yes,backed off to genus,Platysmittia,Chironomidae
+Plauditus,Plauditus,no,,Plauditus,Ephemeroptera
+Plauditus (Plauditus punctventris),Iswaeon,yes,nomenclature,Iswaeon,Ephemeroptera
+Plauditus cestus,Plauditus,yes,backed off to genus,Plauditus,Ephemeroptera
+Plauditus sp.,Plauditus,yes,sp.,Plauditus,Ephemeroptera
+Plecoptera,Plecoptera,no,,Plecoptera,Plecoptera
+Podmosta,Podmosta,no,,Podmosta,Plecoptera
+Podmosta sp.,Podmosta,yes,sp.,Podmosta,Plecoptera
+Podonominae,Podonominae,no,,Podonominae,Chironomidae
+Polycelis,Polycelis,no,,Polycelis,Misc. Phyla
+Polycelis sp.,Polycelis,yes,sp.,Polycelis,Misc. Phyla
+Polycentropodidae,Polycentropodidae,no,,Polycentropodidae,Trichoptera
+Polycentropus,Polycentropus sensu lato,yes,nomenclature,Polycentropus sensu lato,Trichoptera
+Polycentropus sensu lato,Polycentropus sensu lato,no,,Polycentropus sensu lato,Trichoptera
+Polycentropus sp.,Polycentropus sensu lato,yes,nomenclature,Polycentropus sensu lato,Trichoptera
+Polypedilum,Polypedilum,no,,Polypedilum,Chironomidae
+Polypedilum sp.,Polypedilum,yes,sp.,Polypedilum,Chironomidae
+Porifera (sponges),DNI,yes,Sponges excluded in OR/WA,DNI,
+Potamopyrgus antipodarum,Potamopyrgus antipodarum,no,monotypic,Potamopyrgus antipodarum,Mollusca
+Potamothrix bavaricus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Potthastia,Potthastia,no,,Potthastia,Chironomidae
+Potthastia Gaedii Gr.,Potthastia Gaedii Group,yes,formatting,Potthastia Gaedii Group,Chironomidae
+Potthastia gaedii group,Potthastia Gaedii Group,yes,CAPs,Potthastia Gaedii Group,Chironomidae
+Potthastia longimana gr.,Potthastia Longimanus Group,yes,formatting,Potthastia Longimanus Group,Chironomidae
+Potthastia Longimana Group,Potthastia Longimanus Group,yes,spelling and formatting,Potthastia Longimanus Group,Chironomidae
+Potthastia Longimanus Group,Potthastia Longimanus Group,no,,Potthastia Longimanus Group,Chironomidae
+Prionoxystus,DNI,yes,a terrestrial moth,DNI,
+Pristina,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Pristina aequiseta,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Pristina jenkinae,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Pristina leidyi,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Pristina osborni,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Pristina sima,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Pristina sp.,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Pristinicola hemphilli,Pristinicola hemphilli,no,monotypic,Pristinicola hemphilli,Mollusca
+Probezzia,Ceratopogoninae,yes,backed off to subfamily; too many unknown genera,Ceratopogoninae,Diptera
+Probezzia sp.,Ceratopogoninae,yes,backed off to subfamily; too many unknown genera,Ceratopogoninae,Diptera
+Procladius,Procladius,no,,Procladius,Chironomidae
+Procladius sp.,Procladius,yes,sp.,Procladius,Chironomidae
+Procloeon,Anafroptilum/Procloeon,yes,Slashed taxon,Anafroptilum/Procloeon,Ephemeroptera
+Procloeon sp.,Anafroptilum/Procloeon,yes,Slashed taxon,Anafroptilum/Procloeon,Ephemeroptera
+Prodiamesa,Prodiamesa,no,,Prodiamesa,Chironomidae
+Prodiamesa sp.,Prodiamesa,yes,sp.,Prodiamesa,Chironomidae
+Promenetus,Planorbidae,yes,backed off to family,Planorbidae,Mollusca
+Promenetus umbilicatellus,Planorbidae,yes,backed off to family,Planorbidae,Mollusca
+Prosimulium,Helodon/Prosimulium,yes,Slashed taxon,Helodon/Prosimulium,Diptera
+Prosimulium sp.,Helodon/Prosimulium,yes,Slashed taxon,Helodon/Prosimulium,Diptera
+Prostoma,Prostoma,no,,Prostoma,Misc. Phyla
+Prostoma sp.,Prostoma,yes,sp.,Prostoma,Misc. Phyla
+Protanyderus sp.,Tanyderidae,yes,backed off to family,Tanyderidae,Diptera
+Protoptila,Culoptila/Protoptila,yes,Slashed taxon,Culoptila/Protoptila,Trichoptera
+Protoptila sp.,Culoptila/Protoptila,yes,Slashed taxon,Culoptila/Protoptila,Trichoptera
+Protzia,Acari,yes,mites collapsed to Acari,Protzia,Acari
+Protzia sp.,Acari,yes,mites collapsed to Acari,Protzia,Acari
+Protziidae,Acari,yes,mites collapsed to Acari,Hydryphantidae,Acari
+Psectrocladius,Psectrocladius,no,,Psectrocladius,Chironomidae
+Psectrocladius sp.,Psectrocladius,yes,sp.,Psectrocladius,Chironomidae
+Psectrotanypus,Psectrotanypus,no,,Psectrotanypus,Chironomidae
+Psectrotanypus sp.,Psectrotanypus,yes,sp.,Psectrotanypus,Chironomidae
+Psephenus,Psephenus,no,,Psephenus,Coleoptera
+Psephenus sp.,Psephenus,yes,sp.,Psephenus,Coleoptera
+Pseudochironomus,Pseudochironomus,no,,Pseudochironomus,Chironomidae
+Pseudochironomus sp.,Pseudochironomus,yes,sp.,Pseudochironomus,Chironomidae
+Pseudocloeon,Labiobaetis,yes,nomenclature,Labiobaetis,Ephemeroptera
+Pseudocloeon sp.,Labiobaetis,yes,nomenclature,Labiobaetis,Ephemeroptera
+Pseudodiamesa,Pseudodiamesa,no,,Pseudodiamesa,Chironomidae
+Pseudodiamesa sp.,Pseudodiamesa,yes,sp.,Pseudodiamesa,Chironomidae
+Pseudorthocladius,Pseudorthocladius,no,,Pseudorthocladius,Chironomidae
+Pseudorthocladius sp.,Pseudorthocladius,yes,sp.,Pseudorthocladius,Chironomidae
+Pseudosmittia,Pseudosmittia,no,,Pseudosmittia,Chironomidae
+Pseudosmittia sp.,Pseudosmittia,yes,sp.,Pseudosmittia,Chironomidae
+Pseudosuccinea,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Psilometriocnemus,Psilometriocnemus,no,,Psilometriocnemus,Chironomidae
+Psilometriocnemus sp.,Psilometriocnemus,yes,sp.,Psilometriocnemus,Chironomidae
+Psychoda,Psychodini,yes,backed off to tribe,Psychodini,Diptera
+Psychoda sp.,Psychodini,yes,backed off to tribe,Psychodini,Diptera
+Psychodidae,Psychodidae,no,,Psychodidae,Diptera
+Psychodini,Psychodini,no,,Psychodini,Diptera
+Psychoglypha,Psychoglypha,no,,Psychoglypha,Trichoptera
+Psychoglypha bella,Psychoglypha,yes,"backed off to genus; Wisseman et al. (in prep) is working on a key to separate out several species and groups that are widespread and common in PNW streams, but for now genus is the STE.",Psychoglypha,Trichoptera
+Psychoglypha sp.,Psychoglypha,yes,sp.,Psychoglypha,Trichoptera
+Psychoglypha subborealis,Psychoglypha,yes,"backed off to genus; Wisseman et al. (in prep) is working on a key to separate out several species and groups that are widespread and common in PNW streams, but for now genus is the STE.",Psychoglypha,Trichoptera
+Psychomyia,Psychomyia,no,,Psychomyia,Trichoptera
+Psychomyia sp.,Psychomyia,yes,sp.,Psychomyia,Trichoptera
+Psychomyiidae,Psychomyiidae,no,,Psychomyiidae,Trichoptera
+Pteronarcella,Pteronarcella,no,,Pteronarcella,Plecoptera
+Pteronarcella ( dwarf salmonfly),Pteronarcella,yes,naming scheme,Pteronarcella,Plecoptera
+Pteronarcella sp.,Pteronarcella,yes,sp.,Pteronarcella,Plecoptera
+Pteronarcyidae,Pteronarcyidae,no,,Pteronarcyidae,Plecoptera
+Pteronarcys,Pteronarcys,no,,Pteronarcys,Plecoptera
+Pteronarcys californica,Pteronarcys californica,no,,Pteronarcys californica,Plecoptera
+Pteronarcys princeps,Pteronarcys princeps,no,,Pteronarcys princeps,Plecoptera
+Pteronarcys sp.,Pteronarcys,yes,sp.,Pteronarcys,Plecoptera
+Ptychoptera,Ptychoptera,no,,Ptychoptera,Diptera
+Ptychoptera sp.,Ptychoptera,yes,sp.,Ptychoptera,Diptera
+Ptychopteridae,Ptychopteridae,no,,Ptychopteridae,Diptera
+Pycnopsyche,Limnephilidae,yes,backed off to family,Limnephilidae,Trichoptera
+Pyrgulopsis,Truncatelloidea,yes,backed off to Truncatelloidea,Truncatelloidea,Mollusca
+Pyrgulopsis bruneauensis,Truncatelloidea,yes,backed off to Truncatelloidea,Truncatelloidea,Mollusca
+Quistradrilus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Quistradrilus multisetosus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Radix auricularia,Radix auricularia,no,,Radix auricularia,Mollusca
+Radotanypus,Radotanypus,no,,Radotanypus,Chironomidae
+Radotanypus sp.,Radotanypus,yes,sp.,Radotanypus,Chironomidae
+Reomyia,Zavrelimyia,yes,nomenclature,Zavrelimyia,Chironomidae
+Reomyia sp.,Zavrelimyia,yes,nomenclature,Zavrelimyia,Chironomidae
+Rhabdomastix,Rhabdomastix,no,,Rhabdomastix,Diptera
+Rhabdomastix fascigera gr.,Rhabdomastix,yes,backed off to genus,Rhabdomastix,Diptera
+Rhabdomastix setigera gr.,Rhabdomastix,yes,backed off to genus,Rhabdomastix,Diptera
+Rhabdomastix sp.,Rhabdomastix,yes,sp.,Rhabdomastix,Diptera
+Rheocricotopus,Rheocricotopus,no,,Rheocricotopus,Chironomidae
+Rheocricotopus sp.,Rheocricotopus,yes,sp.,Rheocricotopus,Chironomidae
+Rheosmittia,Rheosmittia,no,,Rheosmittia,Chironomidae
+Rheosmittia sp.,Rheosmittia,yes,sp.,Rheosmittia,Chironomidae
+Rheotanytarsus,Rheotanytarsus,no,,Rheotanytarsus,Chironomidae
+Rheotanytarsus sp.,Rheotanytarsus,yes,sp.,Rheotanytarsus,Chironomidae
+Rhithrogena,Rhithrogena,no,,Rhithrogena,Ephemeroptera
+Rhithrogena sp.,Rhithrogena,yes,sp.,Rhithrogena,Ephemeroptera
+Rhyacodrilus,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Rhyacodrilus coccineus,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Rhyacodrilus falciformis,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Rhyacodrilus sodalis,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Rhyacodrilus sp.,Oligochaeta,yes,worms to Oligochaeta,Oligochaeta,Oligochaeta
+Rhyacophila,Rhyacophila,no,,Rhyacophila,Trichoptera
+Rhyacophila Alberta Gr.,Rhyacophila Alberta Group,yes,formatting,Rhyacophila Alberta Group,Trichoptera
+Rhyacophila Alberta Group,Rhyacophila Alberta Group,no,,Rhyacophila Alberta Group,Trichoptera
+Rhyacophila angelita,Rhyacophila Angelita Group,yes,formatting,Rhyacophila Angelita Group,Trichoptera
+Rhyacophila Angelita Gr.,Rhyacophila Angelita Group,yes,formatting,Rhyacophila Angelita Group,Trichoptera
+Rhyacophila angelita group,Rhyacophila Angelita Group,yes,CAPs,Rhyacophila Angelita Group,Trichoptera
+Rhyacophila arnaudi,Rhyacophila arnaudi,no,,Rhyacophila arnaudi,Trichoptera
+Rhyacophila atrata complex,Rhyacophila atrata complex,no,,Rhyacophila atrata complex,Trichoptera
+Rhyacophila Betteni Gr.,Rhyacophila Betteni Group,yes,formatting,Rhyacophila Betteni Group,Trichoptera
+Rhyacophila Betteni Group,Rhyacophila Betteni Group,no,,Rhyacophila Betteni Group,Trichoptera
+Rhyacophila brunnea gr.,Rhyacophila Brunnea/Vemna Groups,yes,nomenclature,Rhyacophila Brunnea/Vemna Groups,Trichoptera
+Rhyacophila brunnea group,Rhyacophila Brunnea/Vemna Groups,yes,nomenclature,Rhyacophila Brunnea/Vemna Groups,Trichoptera
+Rhyacophila Brunnea/Vemna Groups,Rhyacophila Brunnea/Vemna Groups,no,,Rhyacophila Brunnea/Vemna Groups,Trichoptera
+Rhyacophila Coloradensis Gr.,Rhyacophila Coloradensis Group,yes,formatting,Rhyacophila Coloradensis Group,Trichoptera
+Rhyacophila coloradensis group,Rhyacophila Coloradensis Group,yes,CAPs,Rhyacophila Coloradensis Group,Trichoptera
+Rhyacophila Hyalinata Gr.,Rhyacophila Hyalinata Group,yes,formatting,Rhyacophila Hyalinata Group,Trichoptera
+Rhyacophila Hyalinata Group,Rhyacophila Hyalinata Group,no,,Rhyacophila Hyalinata Group,Trichoptera
+Rhyacophila narvae,Rhyacophila narvae,no,,Rhyacophila narvae,Trichoptera
+Rhyacophila oreia,Rhyacophila Visor Group,yes,nomenclature,Rhyacophila Visor Group,Trichoptera
+Rhyacophila pellisa/valuma,Rhyacophila atrata complex,yes,nomenclature,Rhyacophila atrata complex,Trichoptera
+Rhyacophila Rotunda Gr.,Rhyacophila Rotunda Group,yes,formatting,Rhyacophila Rotunda Group,Trichoptera
+Rhyacophila Rotunda Group,Rhyacophila Rotunda Group,no,,Rhyacophila Rotunda Group,Trichoptera
+Rhyacophila Sibirica Gr.,Rhyacophila Sibirica Group,yes,formatting,Rhyacophila Sibirica Group,Trichoptera
+Rhyacophila Sibirica Group,Rhyacophila Sibirica Group,no,,Rhyacophila Sibirica Group,Trichoptera
+Rhyacophila sp.,Rhyacophila,yes,sp.,Rhyacophila,Trichoptera
+Rhyacophila Vagrita Gr.,Rhyacophila Vagrita Group,yes,formatting,Rhyacophila Vagrita Group,Trichoptera
+Rhyacophila Vagrita Group,Rhyacophila Vagrita Group,no,,Rhyacophila Vagrita Group,Trichoptera
+Rhyacophila verrula,Rhyacophila Verrula Group,yes,formatting,Rhyacophila Verrula Group,Trichoptera
+Rhyacophila Verrula Gr.,Rhyacophila Verrula Group,yes,formatting,Rhyacophila Verrula Group,Trichoptera
+Rhyacophila Verrula Group,Rhyacophila Verrula Group,no,,Rhyacophila Verrula Group,Trichoptera
+Rhyacophila Visor Group,Rhyacophila Visor Group,no,,Rhyacophila Visor Group,Trichoptera
+Rhyacophila Vofixa Gr.,Rhyacophila Vofixa Group,yes,formatting,Rhyacophila Vofixa Group,Trichoptera
+Rhyacophila Vofixa Group,Rhyacophila Vofixa Group,no,,Rhyacophila Vofixa Group,Trichoptera
+Robackia,Robackia,no,,Robackia,Chironomidae
+Robackia demeijerei,Robackia,yes,backed off to genus,Robackia,Chironomidae
+Robackia sp.,Robackia,yes,sp.,Robackia,Chironomidae
+Roederiodes,Roederiodes/Wiedemannia,yes,Slashed taxon,Roederiodes/Wiedemannia,Diptera
+Roederiodes/Wiedemannia,Roederiodes/Wiedemannia,no,,Roederiodes/Wiedemannia,Diptera
+Saetheria,Saetheria,no,,Saetheria,Chironomidae
+Saetheria sp.,Saetheria,yes,sp.,Saetheria,Chironomidae
+Saetheria tylus,Saetheria,yes,backed off to genus,Saetheria,Chironomidae
+Sanfilippodytes sp.,Hydroporinae,yes,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Coleoptera
+Sarcoptiformes,Acari,yes,mites collapsed to Acari,Acari,Acari
+Sciomyzidae,Sciomyzidae,no,,Sciomyzidae,Diptera
+Scleroprocta,Scleroprocta,no,,Scleroprocta,Diptera
+Sergentia,Sergentia,no,,Sergentia,Chironomidae
+Sergentia sp.,Sergentia,yes,sp.,Sergentia,Chironomidae
+Sericostriata,Sericostriata surdickae,yes,monotypic,Sericostriata surdickae,Trichoptera
+Sericostriata surdickae,Sericostriata surdickae,no,monotypic,Sericostriata surdickae,Trichoptera
+Serratella,Ephemerellidae,yes,backed off to family,Ephemerellidae,Ephemeroptera
+Serratella A27,Ephemerellidae,yes,backed off to family,Ephemerellidae,Ephemeroptera
+Serratella A45,Ephemerellidae,yes,backed off to family,Ephemerellidae,Ephemeroptera
+Serratella A49,Ephemerellidae,yes,backed off to family,Ephemerellidae,Ephemeroptera
+Serratella micheneri,Serratella micheneri,no,,Serratella micheneri,Ephemeroptera
+Serratella sp.,Ephemerellidae,yes,backed off to family,Ephemerellidae,Ephemeroptera
+Serratella teresa,Matriella teresa,yes,nomenclature,Matriella teresa,Ephemeroptera
+Serratella tibialis,Ephemerella tibialis,yes,nomenclature; S. tibialis was placed in Ephemerella (2008),Ephemerella tibialis,Ephemeroptera
+Setvena,Setvena,no,,Setvena,Plecoptera
+Setvena sp.,Setvena,yes,sp.,Setvena,Plecoptera
+Sialis,Sialis,no,,Sialis,Megaloptera
+Sialis sp.,Sialis,yes,sp.,Sialis,Megaloptera
+Sigara sp.,Corixidae,yes,backed off to family; NonTarget? Could go either way,Corixidae,Hemiptera
+Simuliidae,Simuliidae,no,,Simuliidae,Diptera
+Simulium,Simulium,no,,Simulium,Diptera
+Simulium sp.,Simulium,yes,sp.,Simulium,Diptera
+Siphlonuridae,Siphlonuridae,no,,Siphlonuridae,Ephemeroptera
+Siphlonurus,Siphlonurus,no,,Siphlonurus,Ephemeroptera
+Siphlonurus sp.,Siphlonurus,yes,sp.,Siphlonurus,Ephemeroptera
+Skwala,Skwala,no,,Skwala,Plecoptera
+Skwala sp.,Skwala,yes,sp.,Skwala,Plecoptera
+Slavina,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Slavina appendiculata,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Smittia,Smittia,no,,Smittia,Chironomidae
+Smittia sp.,Smittia,yes,sp.,Smittia,Chironomidae
+Specaria,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Sperchon,Acari,yes,mites collapsed to Acari,Sperchon,Acari
+Sperchon sp.,Acari,yes,mites collapsed to Acari,Sperchon,Acari
+Sperchonidae,Acari,yes,mites collapsed to Acari,Sperchontidae,Acari
+Sperchonopsis,Acari,yes,mites collapsed to Acari,Sperchonopsis,Acari
+Sperchonopsis sp.,Acari,yes,mites collapsed to Acari,Sperchonopsis,Acari
+Sperchontidae,Acari,yes,mites collapsed to Acari,Sperchontidae,Acari
+Sphaeriidae,Sphaeriidae,no,,Sphaeriidae,Mollusca
+Sphaeriidae (Pisidiidae),Sphaeriidae,yes,naming scheme,Sphaeriidae,Mollusca
+Sphaerium,Musculium/Sphaerium,yes,Slashed taxon,Musculium/Sphaerium,Mollusca
+Sphaerium sp.,Musculium/Sphaerium,yes,Slashed taxon,Musculium/Sphaerium,Mollusca
+Sphaerium striatinum,Musculium/Sphaerium,yes,Slashed taxon,Musculium/Sphaerium,Mollusca
+Spirosperma,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Spirosperma ferox,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Stactobiella,Stactobiella,no,,Stactobiella,Trichoptera
+Stagnicola,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Stagnicola caperata,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Stagnicola idahoensis (shortspire pondsnail),Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Stagnicola sp.,Lymnaeidae,yes,backed off to family,Lymnaeidae,Mollusca
+Stempellina,Stempellina,no,,Stempellina,Chironomidae
+Stempellina sp.,Stempellina,yes,sp.,Stempellina,Chironomidae
+Stempellinella,Stempellinella,no,,Stempellinella,Chironomidae
+Stempellinella sp.,Stempellinella,yes,sp.,Stempellinella,Chironomidae
+Stenelmis,Stenelmis,no,,Stenelmis,Coleoptera
+Stenelmis sp.,Stenelmis,yes,sp.,Stenelmis,Coleoptera
+Stenochironomus,Stenochironomus,no,,Stenochironomus,Chironomidae
+Stenochironomus sp.,Stenochironomus,yes,sp.,Stenochironomus,Chironomidae
+Stenonema,Maccaffertium/Stenonema,yes,Slashed taxon. Unsure whether this is Stenonema femoratum or Maccaffertium,Maccaffertium/Stenonema,Ephemeroptera
+Stictochironomous,Stictochironomus,yes,spelling,Stictochironomus,Chironomidae
+Stictochironomus,Stictochironomus,no,,Stictochironomus,Chironomidae
+Stictochironomus sp.,Stictochironomus,yes,sp.,Stictochironomus,Chironomidae
+Stictocladius,Stictocladius,no,,Stictocladius,Chironomidae
+Stictocladius sp.,Stictocladius,yes,sp.,Stictocladius,Chironomidae
+Stictotarsus,Hydroporinae,yes,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Coleoptera
+Stictotarsus sp.,Hydroporinae,yes,Genera within Hydroporinae in flux best to leave at subfamily,Hydroporinae,Coleoptera
+Stilobezzia,Ceratopogoninae,yes,backed off to subfamily; too many unknown genera,Ceratopogoninae,Diptera
+Stilobezzia sp.,Ceratopogoninae,yes,backed off to subfamily; too many unknown genera,Ceratopogoninae,Diptera
+Stilocladius,Stilocladius,no,,Stilocladius,Chironomidae
+Stilocladius sp.,Stilocladius,yes,sp.,Stilocladius,Chironomidae
+Stratiomyidae,Stratiomyidae,no,,Stratiomyidae,Diptera
+Stratiomys sp.,Stratiomyidae,yes,sp.,Stratiomyidae,Diptera
+Stygobromus,Stygobromus,no,,Stygobromus,Crustacea
+Stygobromus sp.,Stygobromus,yes,sp.,Stygobromus,Crustacea
+Stygothrombidiidae,Acari,yes,mites collapsed to Acari,Stygothrombiidae,Acari
+Stygothrombiidae,Acari,yes,mites collapsed to Acari,Stygothrombiidae,Acari
+Stygothrombium,Acari,yes,mites collapsed to Acari,Stygothrombium,Acari
+Stygothrombium sp.,Acari,yes,mites collapsed to Acari,Stygothrombium,Acari
+Stylaria,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Stylaria lacustris,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Stylodrilus heringianus,Oligochaeta,yes,worms to Oligochaeta,Lumbriculidae,Oligochaeta
+Sublettea,Sublettea,no,,Sublettea,Chironomidae
+Sublettea sp.,Sublettea,yes,sp.,Sublettea,Chironomidae
+Suwallia,Neaviperla/Suwallia,yes,Slashed taxon,Neaviperla/Suwallia,Plecoptera
+Suwallia sp.,Neaviperla/Suwallia,yes,Slashed taxon,Neaviperla/Suwallia,Plecoptera
+Sweltsa,Gaufina/Sweltsa,yes,"slashed taxon. Gaufinia Stark and Baumann, 2021 (new genus)",Gaufina/Sweltsa,Plecoptera
+Sweltsa sp.,Gaufina/Sweltsa,yes,"slashed taxon. Gaufinia Stark and Baumann, 2021 (new genus)",Gaufina/Sweltsa,Plecoptera
+Symbiocladius,Symbiocladius,no,,Symbiocladius,Chironomidae
+Symbiocladius sp.,Symbiocladius,yes,sp.,Symbiocladius,Chironomidae
+Symplecta (Trimicra) pilipes,Limoniidae,yes,backed off to family,Limoniidae,Diptera
+Symposiocladius,Orthocladius,yes,nomenclature,Orthocladius,Chironomidae
+Sympotthastia,Sympotthastia,no,,Sympotthastia,Chironomidae
+Sympotthastia sp.,Sympotthastia,yes,sp.,Sympotthastia,Chironomidae
+Synorthocladius,Synorthocladius,no,,Synorthocladius,Chironomidae
+Synorthocladius sp.,Synorthocladius,yes,sp.,Synorthocladius,Chironomidae
+Syrphidae,Syrphidae,no,,Syrphidae,Diptera
+Tabanidae,Tabanidae,no,,Tabanidae,Diptera
+Taenionema sp.,Taeniopterygidae,yes,backed off to family,Taeniopterygidae,Plecoptera
+Taeniopterygidae,Taeniopterygidae,no,,Taeniopterygidae,Plecoptera
+Tanyderidae,Tanyderidae,no,,Tanyderidae,Diptera
+Tanypus,Tanypus,no,,Tanypus,Chironomidae
+Tanypus sp.,Tanypus,yes,sp.,Tanypus,Chironomidae
+Tanytarsini,Tanytarsini,no,,Tanytarsini,Chironomidae
+Tanytarsus,Tanytarsus,no,,Tanytarsus,Chironomidae
+Tanytarsus sp.,Tanytarsus,yes,sp.,Tanytarsus,Chironomidae
+Taylorconcha serpenticola,Truncatelloidea,yes,backed off to Truncatelloidea,Truncatelloidea,Mollusca
+Telmatodrilinae,Oligochaeta,yes,worms to Oligochaeta,Telmatodrilinae,Oligochaeta
+TELMATODRILUS,Oligochaeta,yes,worms to Oligochaeta,Telmatodrilinae,Oligochaeta
+Telmatodrilus vejdovskyi,Oligochaeta,yes,worms to Oligochaeta,Telmatodrilinae,Oligochaeta
+Teneridrilus,Oligochaeta,yes,worms to Oligochaeta,Telmatodrilinae,Oligochaeta
+Testudacarus,Acari,yes,mites collapsed to Acari,Testudacarus,Acari
+Testudacarus sp.,Acari,yes,mites collapsed to Acari,Testudacarus,Acari
+Teutonia,Acari,yes,mites collapsed to Acari,Teutonia,Acari
+Thaumaleidae,Thaumaleidae,no,,Thaumaleidae,Diptera
+Theromyzon,Glossiphoniidae,yes,backed off to family,Glossiphoniidae,Leeches
+Theromyzon sp.,Glossiphoniidae,yes,backed off to family,Glossiphoniidae,Leeches
+Thienemanniella,Thienemanniella,no,,Thienemanniella,Chironomidae
+Thienemanniella sp.,Thienemanniella,yes,sp.,Thienemanniella,Chironomidae
+Thienemannimyia,Thienemannimyia Group,yes,These should all be Group,Thienemannimyia Group,Chironomidae
+Thienemannimyia complex,Thienemannimyia Group,yes,These should all be Group,Thienemannimyia Group,Chironomidae
+Thienemannimyia Genus Gr.,Thienemannimyia Group,yes,These should all be Group,Thienemannimyia Group,Chironomidae
+Thienemannimyia gr. sp.,Thienemannimyia Group,yes,These should all be Group,Thienemannimyia Group,Chironomidae
+Thienemannimyia group,Thienemannimyia Group,yes,CAPs,Thienemannimyia Group,Chironomidae
+Thyas sp.,Acari,yes,mites collapsed to Acari,Parathyas,Acari
+Timpanoga,Timpanoga hecuba,yes,monotypic,Timpanoga hecuba,Ephemeroptera
+Timpanoga hecuba,Timpanoga hecuba,no,monotypic,Timpanoga hecuba,Ephemeroptera
+Tinodes,Tinodes,no,,Tinodes,Trichoptera
+Tinodes sp.,Tinodes,yes,sp.,Tinodes,Trichoptera
+Tipula,Tipula,no,,Tipula,Diptera
+Tipula sp.,Tipula,yes,sp.,Tipula,Diptera
+Tipulidae,Tipulidae,no,,Tipulidae,Diptera
+Tokunagaia,Tokunagaia,no,,Tokunagaia,Chironomidae
+Tokunagaia sp.,Tokunagaia,yes,sp.,Tokunagaia,Chironomidae
+Torrenticola,Acari,yes,mites collapsed to Acari,Torrenticola,Acari
+Torrenticola sp.,Acari,yes,mites collapsed to Acari,Torrenticola,Acari
+Torrenticolidae,Acari,yes,mites collapsed to Acari,Torrenticolidae,Acari
+Trepaxonemata,Platyhelminthes,yes,backed off to Platyhelminthes,Platyhelminthes,Misc. Phyla
+Triaenodes,Triaenodes,no,,Triaenodes,Trichoptera
+Triaenodes sp.,Triaenodes,yes,sp.,Triaenodes,Trichoptera
+Tribelos,Tribelos,no,,Tribelos,Chironomidae
+Tribelos jucundum,Tribelos,yes,backed off to genus,Tribelos,Chironomidae
+Tribelos sp.,Tribelos,yes,sp.,Tribelos,Chironomidae
+Trichoclinocera,Clinocera/Trichoclinocera,yes,Slashed taxon,Clinocera/Trichoclinocera,Diptera
+Trichoclinocera sp.,Clinocera/Trichoclinocera,yes,Slashed taxon,Clinocera/Trichoclinocera,Diptera
+Trichoptera,Trichoptera,no,,Trichoptera,Trichoptera
+Tricorythodes,Tricorythodes,no,,Tricorythodes,Ephemeroptera
+Tricorythodes explicatus,Tricorythodes,yes,backed off to genus,Tricorythodes,Ephemeroptera
+Tricorythodes minutus,Tricorythodes,yes,backed off to genus,Tricorythodes,Ephemeroptera
+Tricorythodes sp.,Tricorythodes,yes,sp.,Tricorythodes,Ephemeroptera
+Triogma,Triogma,no,,Triogma,Diptera
+Triogma sp.,Triogma,yes,sp.,Triogma,Diptera
+Trombidiformes,Acari,yes,mites collapsed to Acari,Trombidiformes,Acari
+Tropisternus sp.,Hydrophilidae,yes,backed off to family,Hydrophilidae,Coleoptera
+Truncatelloidea,Truncatelloidea,no,,Truncatelloidea,Mollusca
+Tubifex,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Tubifex tubifex,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Tubificidae,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Tubificidae w/ cap setae,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Tubificidae w/o cap setae,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Tubificinae,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Turbellaria,Platyhelminthes,yes,backed off to Platyhelminthes,Platyhelminthes,Misc. Phyla
+Tvetenia,Tvetenia,no,,Tvetenia,Chironomidae
+Tvetenia Bavarica Gr.,Tvetenia Bavarica Group,yes,FORMATTING,Tvetenia Bavarica Group,Chironomidae
+Tvetenia bavarica group,Tvetenia Bavarica Group,yes,CAPs,Tvetenia Bavarica Group,Chironomidae
+Tvetenia Discoloripes Gr.,Tvetenia tshernovskii,yes,nomenclature,Tvetenia tshernovskii,Chironomidae
+Tvetenia discoloripes group,Tvetenia tshernovskii,yes,nomenclature,Tvetenia tshernovskii,Chironomidae
+Tvetenia tshernovskii,Tvetenia tshernovskii,no,,Tvetenia tshernovskii,Chironomidae
+Tvetenia Vitracies Group,Tvetenia tshernovskii,yes,nomenclature,Tvetenia tshernovskii,Chironomidae
+Twinnia,Twinnia,no,,Twinnia,Diptera
+Twinnia sp.,Twinnia,yes,sp.,Twinnia,Diptera
+Tyrrellia,Acari,yes,mites collapsed to Acari,Tyrrellia,Acari
+Tyrrellia sp.,Acari,yes,mites collapsed to Acari,Tyrrellia,Acari
+Uenoidae,Uenoidae,no,,Uenoidae,Trichoptera
+Ulomorpha,Ulomorpha,no,,Ulomorpha,Diptera
+Ulomorpha sp.,Ulomorpha,yes,sp.,Ulomorpha,Diptera
+Uncinais,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Uncinais uncinata,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Unionacea,Unionida,yes,backed off to Unionida,Unionida,Mollusca
+Unionicola,Acari,yes,mites collapsed to Acari,Unionicola,Acari
+Unionicola sp.,Acari,yes,mites collapsed to Acari,Unionicola,Acari
+Unionida,Unionida,no,,Unionida,Mollusca
+Unionidae,Unionida,yes,backed off to Unionida,Unionida,Mollusca
+Unionoida,Unionida,yes,naming scheme,Unionida,Mollusca
+Utaxatax,Acari,yes,mites collapsed to Acari,Utaxatax,Acari
+Valvata,Valvata,no,,Valvata,Mollusca
+Valvata humeralis,Valvata,yes,backed off to genus,Valvata,Mollusca
+Valvata sp.,Valvata,yes,sp.,Valvata,Mollusca
+Valvata utahensis,Valvata,yes,backed off to genus,Valvata,Mollusca
+Varichaetadrilus,Oligochaeta,yes,worms to Oligochaeta,Tubificinae,Oligochaeta
+Vejdovskyella,Oligochaeta,yes,worms to Oligochaeta,Naidinae,Oligochaeta
+Veneroida,Veneroida,no,,Veneroida,Mollusca
+Visoka,Visoka cataractae,yes,monotypic,Visoka cataractae,Plecoptera
+Visoka cataractae,Visoka cataractae,no,monotypic,Visoka cataractae,Plecoptera
+Visoka sp.,Visoka cataractae,yes,monotypic,Visoka cataractae,Plecoptera
+Vorticifex,Vorticifex,no,,Vorticifex,Mollusca
+Vorticifex effusa,Vorticifex,yes,backed off to genus,Vorticifex,Mollusca
+Wandesia,Acari,yes,mites collapsed to Acari,Wandesia,Acari
+Wandesia sp.,Acari,yes,mites collapsed to Acari,Wandesia,Acari
+Wiedemannia,Roederiodes/Wiedemannia,yes,Slashed taxon,Roederiodes/Wiedemannia,Diptera
+Wiedemannia sp.,Roederiodes/Wiedemannia,yes,Slashed taxon,Roederiodes/Wiedemannia,Diptera
+Wormaldia,Wormaldia,no,,Wormaldia,Trichoptera
+Wormaldia sp.,Wormaldia,yes,sp.,Wormaldia,Trichoptera
+Xenochironomus,Xenochironomus xenolabis,yes,monotypic,Xenochironomus xenolabis,Chironomidae
+Xenochironomus xenolabis,Xenochironomus xenolabis,no,monotypic,Xenochironomus xenolabis,Chironomidae
+Yoraperla,Yoraperla,no,,Yoraperla,Plecoptera
+Yoraperla brevis,Yoraperla,yes,backed off to genus,Yoraperla,Plecoptera
+Yoraperla sp.,Yoraperla,yes,sp.,Yoraperla,Plecoptera
+Zaitzevia,Zaitzevia,no,,Zaitzevia,Coleoptera
+Zaitzevia parvula,Zaitzevia,yes,backed off to genus,Zaitzevia,Coleoptera
+Zaitzevia posthonia,Zaitzevia,yes,backed off to genus,Zaitzevia,Coleoptera
+Zaitzevia sp.,Zaitzevia,yes,sp.,Zaitzevia,Coleoptera
+Zapada,Zapada,no,,Zapada,Plecoptera
+Zapada cinctipes,Zapada cinctipes,no,,Zapada cinctipes,Plecoptera
+Zapada columbiana,Zapada columbiana,no,,Zapada columbiana,Plecoptera
+Zapada frigida,Zapada frigida,no,,Zapada frigida,Plecoptera
+Zapada Oregonensis Gr.,Zapada Oregonensis Group,yes,Formatting,Zapada Oregonensis Group,Plecoptera
+Zapada Oregonensis Group,Zapada Oregonensis Group,no,,Zapada Oregonensis Group,Plecoptera
+Zapada sp.,Zapada,yes,sp.,Zapada,Plecoptera
+Zavrelimyia,Zavrelimyia,no,,Zavrelimyia,Chironomidae
+Zavrelimyia sp.,Zavrelimyia,yes,sp.,Zavrelimyia,Chironomidae
+Zumatrichia,Zumatrichia,no,,Zumatrichia,Trichoptera
+Zumatrichia notosa,Zumatrichia,yes,backed off to genus,Zumatrichia,Trichoptera
+Zumatrichia notosa (Leucotrichia notosa),Zumatrichia,yes,backed off to genus,Zumatrichia,Trichoptera
+Zygoptera,Zygoptera,no,,Zygoptera,Odonata

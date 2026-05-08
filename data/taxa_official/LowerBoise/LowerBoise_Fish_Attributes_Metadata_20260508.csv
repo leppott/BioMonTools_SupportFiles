@@ -1,0 +1,32 @@
+Version Date,5/8/2026
+Primary contacts,Jen Stamp (Jen.Stamp@tetratech.com) and Don Zaroban
+,
+TAXON,Scientific name (after translation; see taxa translator table)
+COMMONNAME,Common name of taxon
+RIS,TRUE=Representative Important Species (with length measurements that are used for age class metrics)
+NumAgeClass_Possible,number of possible age classes (RIS taxa only)
+LBR_Mainstem,TRUE = present at Lower Boise River mainstem sites used to calibrate the Lower Boise River BCG model (version 1)
+FAMILY,taxonomic hierarchy after Cyprinidae was broken up into LEUCISCIDAE and CYPRINIDAE
+oldFAMILY,CYPRINIDAE = used to be in the CYPRINIDAE family
+GENUS,taxonomic hierarchy
+HYBRID,TRUE = hybrid (offspring of two different fish species)
+NONTARGET,FALSE = target (ok to include in the BCG calculations). TRUE = nontarget (not appropriate to include in the BCG calculation)
+NATIVE,Specifies whether a taxon is native or non-native to the Lower Boise River HUC12 basin. Entries = NATIVE or NON_NATIVE
+BCG_ATTR,Biological Condition Gradient (BCG) taxa attribute assignments for the Lower Boise River BCG: 2 = highly sensitive; 3 = sensitive ubiquitous; 4 = moderately tolerant; 5 = highly tolerant; 6=non-native
+BCG_ATTR2,BCG attribute IV sub-groups: 4_better; 4_middle; 4_worse
+BCG_ATTR_ROMAN,BCG taxa attribute in Roman numeral format
+HABITAT,Habitat type: benthic (B); water-column (W)
+TROPHIC,Trophic type: Herbivore (HB); Invertivore (IV); Omnivore (OM); top-carnivore (TC). A single taxon can have multiple entries.
+THERMAL_INDICATOR,Thermal preference assignment: cold; cool; warm
+REPRODUCTION,Reproduction type: only populated with LITHOPHIL for Lower Boise BCG. Can add more later (BEARER; BROADCASTER; COMPLEX NEST; MIGRATORY; SIMPLE NEST). A single taxon can have multiple entries.
+CONNECTIVITY,TRUE = need connectivity to complete life cycle
+LBRmain_BCG,yes = occurred in the Lower Boise mainstem BCG calibration dataset
+,
+Sources,
+Zaroban et al. 1999,
+"Sigler and Zaroban. 2018. Fishes of Idaho - A Natural History Survey. Caxton Press. Caldwell, Idaho.",
+IDEQ - 2024; Fish_Taxon wkst in Excel file 'FishData_Request_20240925',
+IDEQ - 2011 MMI report; App J,
+EPA NRSA,
+"Great Plains BCG (Tetra Tech, in progress; contact Jen.Stamp@tetratech.com)",
+New Mexico Sandy Rivers BCG (Hughes et al. 2022; Biological assessment of western USA sandy bottom rivers based on modeling historical and current fish and macroinvertebrate data),
