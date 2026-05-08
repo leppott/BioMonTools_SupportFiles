@@ -1,0 +1,9 @@
+Version Date,12/25/2025
+Primary contact,Ben Block (Ben.Block@tetratech.com)
+,
+TaxaID_orig,taxon name from the original source file
+Name type,scientific or common name (we can accommodate either; common names will be translated to scientific names during the 'taxa translate' step)
+LBR_BCG_v1,"TaxaID_orig translated to an ID that harmonizes differences across data sources (such as syntax, changes in nomenclature, misspellings, etc.). DNI = not included. Used for the Lower Boise River Fish BCG (version 1) metric calculations"
+modified_BCG,TRUE = TaxaID_orig is different from the LBR_BCG_v1; FALSE = TaxaID_orig is the same as the LBR_BCG_v1
+Rationale_modifyBCG,"reason for LBR_BCG_v1 change (e.g., formatting, spelling)"
+LBR_AllFish_v1,"includes all fish taxa (harmonized across data sources), even ones at coarser levels of taxonomic resolution that aren't included in the BCG calculation (which are marked as DNI in LBR_BCG_v1)"

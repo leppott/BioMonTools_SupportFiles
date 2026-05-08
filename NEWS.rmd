@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9113
+===========
+Released - 2026-05-08
+
+* docs: Add guide for tests
+* refactor: Add updated files for Lower Boise
+
 BioMonTools_SupportFiles 0.0.1.9112
 ===========
 Released - 2026-02-12

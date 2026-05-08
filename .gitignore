@@ -6,3 +6,5 @@ BioMonTools_SupportFiles.Rproj
 *.json
 *.dcf
 _tests/
+inst/extdata/~WRL0005.tmp
+.positai

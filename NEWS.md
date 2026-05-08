@@ -4,7 +4,37 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2025-08-12 17:19:15.624801
+    #> Last Update: 2026-05-08 14:24:07.144098
+
+# BioMonTools_SupportFiles 0.0.1.9113
+
+Released - 2026-05-08
+
+- docs: Add guide for tests
+- refactor: Add updated files for Lower Boise
+
+# BioMonTools_SupportFiles 0.0.1.9112
+
+Released - 2026-02-12
+
+- refactor: Update Great Plains Nebraska Bug Attributes and Taxa
+  Translator
+- refactor: Update pickfile for new file
+
+# BioMonTools_SupportFiles 0.0.1.9111
+
+Released - 2025-12-31
+
+- refactor: Added new files and folder for Lower Boise River BCG (fish
+  for now)
+- refactor: Update pickfile for new files
+
+# BioMonTools_SupportFiles 0.0.1.9110
+
+Released - 2025-12-31
+
+- refactor: Update Great Plains Nebraska Bug Attributes
+- refactor: Update pickfile for new file
 
 # BioMonTools_SupportFiles 0.0.1.9109
 
