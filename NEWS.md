@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-05-08 14:24:07.144098
+    #> Last Update: 2026-05-21 16:47:28.059779
+
+# BioMonTools_SupportFiles 0.0.1.9114
+
+Released - 2026-05-21
+
+- refactor: Modify bugs translation file for Lower Boise
 
 # BioMonTools_SupportFiles 0.0.1.9113
 
