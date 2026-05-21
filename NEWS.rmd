@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9115
+===========
+Released - 2026-05-21
+
+* refactor: Modify bugs translation file for Lower Boise
+
 BioMonTools_SupportFiles 0.0.1.9114
 ===========
 Released - 2026-05-21
