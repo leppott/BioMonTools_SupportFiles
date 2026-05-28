@@ -1,0 +1,27 @@
+NEW ADDITIONS,,,,
+Taxon_orig,Rationale,OTU_MetricCalc,OTU_BCG_ORWA,OTU_BCG_ORWA_worms
+Camptomyia panelii,Terrestrial,DNI,DNI,DNI
+Chernovskiia,PR- Harpactacoids; lake / LR sediment,Chernovskiia,Chernovskiia,Chernovskiia
+Cheumatopsyche ela,"not known from PNW ( mostly eastern), larvae not differenciated ",Cheumatopsyche,Cheumatopsyche,Cheumatopsyche
+Microtendipes pedellus,FORMATTING,Microtendipes Pedellus Group,Microtendipes Pedellus Group,Microtendipes Pedellus Group
+Nasiternella,Pediciidae-decaying wood,Nasiternella,Nasiternella,Nasiternella
+Onconeura,Easily confused with Corynoneura and Thienemanniella,Onconeura,Onconeura,Onconeura
+Pacifastacus okanaganensis,added04212026,Pacifastacus,Pacifastacus,Pacifastacus
+Parakiefferiella ferringtoni,added04212026 changed Ortho Genus 5 too,Parakiefferiella ferringtoni,Parakiefferiella ferringtoni,Parakiefferiella ferringtoni
+Phaenopsectra obediens,FORMATTING,Phaenopsectra Obediens Group,Phaenopsectra Obediens Group,Phaenopsectra Obediens Group
+Phaenopsectra punctipes,Group is current but we put these to genus previously,Phaenopsectra,Phaenopsectra,Phaenopsectra
+Simuliinae,does not really add information common PNW taxa all in this subfamily,Simuliidae,Simuliidae,Simuliidae
+Sphaerium/Musculium,Formatting,Musculium/Sphaerium,Musculium/Sphaerium,Musculium/Sphaerium
+Tabaninae,does not add information,Tabanidae,Tabanidae,Tabanidae
+,,,,
+,,,,
+,,,,
+CHANGES TO EXISTING ENTRIES,,,,
+OLD,,,,
+Taxon_orig,Rationale,OTU_MetricCalc,OTU_BCG_ORWA,OTU_BCG_ORWA_worms
+Orthocladiinae Genus 5,,Orthocladiinae Genus 5,Orthocladiinae Genus 5,Orthocladiinae Genus 5
+Orthocladiinae Genus 5 (Coffman and Ferrington),,Orthocladiinae,Orthocladiinae,Orthocladiinae
+,,,,
+NEW,,,,
+Orthocladiinae Genus 5,See Fasbender et al. 2025,Parakiefferiella ferringtoni,Parakiefferiella ferringtoni,Parakiefferiella ferringtoni
+Orthocladiinae Genus 5 (Coffman and Ferrington),See Fasbender et al. 2025,Parakiefferiella ferringtoni,Parakiefferiella ferringtoni,Parakiefferiella ferringtoni
