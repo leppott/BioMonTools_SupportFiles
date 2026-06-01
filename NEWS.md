@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-05-28 14:52:34.760154
+    #> Last Update: 2026-06-01 14:43:03.812755
+
+# BioMonTools_SupportFiles 0.0.1.9117
+
+Released - 2026-06-01
+
+- refactor: Update ORWA and MariNW attribute tables and pickfiles
 
 # BioMonTools_SupportFiles 0.0.1.9116
 
