@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-06-01 14:43:03.812755
+    #> Last Update: 2026-06-04 14:53:40.644126
+
+# BioMonTools_SupportFiles 0.0.1.9118
+
+Released - 2026-06-04
+
+- fix: Reverse last two commits for ORWA and MariNW
 
 # BioMonTools_SupportFiles 0.0.1.9117
 
