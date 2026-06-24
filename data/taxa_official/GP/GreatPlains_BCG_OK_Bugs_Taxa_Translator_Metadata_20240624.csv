@@ -1,0 +1,7 @@
+Version,6/24/2026
+Primary contact,Jen Stamp <Jen.Stamp@tetratech.com>
+,
+Taxon_orig,taxon name from the original source file
+OTU_BCG_ChiroCoarse,Operational Taxonomic Unit (OTU) for BCG model calibrated with coarse-level Chironomidae (subfamily or tribe)
+modified_BCG_ChiroCoarse,yes = modified during the translation to OTU_BCG_ChiroCoarse; blank = unchanged
+OTU_BCG_ChiroFine,Operational Taxonomic Unit (OTU) for BCG model calibrated with finer-resolution Chironomidae
