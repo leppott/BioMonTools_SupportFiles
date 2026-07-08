@@ -17,6 +17,13 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9123
+===========
+Released - 2026-07-08
+
+* refactor: Added lower boise bug taxa translator file and updated pick file.
+* refactor: Created archive folder, moved files to that location.
+
 BioMonTools_SupportFiles 0.0.1.9120
 ===========
 Released - 2026-06-24
