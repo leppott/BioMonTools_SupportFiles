@@ -4,7 +4,45 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-06-04 14:53:40.644126
+    #> Last Update: 2026-07-10 12:12:24.902429
+
+# BioMonTools_SupportFiles 0.0.1.9124
+
+Released - 2026-07-10
+
+- refactor: Update order of indices in ORWA pickfiles
+- docs: Update NEWS with missing entries
+
+# BioMonTools_SupportFiles 0.0.1.9123
+
+Released - 2026-07-08
+
+- refactor: Added lower boise bug taxa translator file and updated pick
+  file.
+- refactor: Created archive folder, moved files to that location.
+
+# BioMonTools_SupportFiles 0.0.1.9122
+
+Released - 2026-06-26
+
+- Updated error in OK picker file
+
+# BioMonTools_SupportFiles 0.0.1.9121
+
+Released - 2026-06-25 \* Updated errors in naming of files for file
+builder in Great Plains
+
+# BioMonTools_SupportFiles 0.0.1.9120
+
+Released - 2026-06-24
+
+- refactor: Added Oklahoma attribute and taxa trans tables and pickfiles
+
+# BioMonTools_SupportFiles 0.0.1.9119
+
+Released - 2026-06-24
+
+- refactor: Update ORWA attribute and taxa trans tables and pickfiles
 
 # BioMonTools_SupportFiles 0.0.1.9118
 

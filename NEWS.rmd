@@ -17,12 +17,30 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9124
+===========
+Released - 2026-07-10
+
+* refactor: Update order of indices in ORWA pickfiles
+* docs: Update NEWS with missing entries
+
 BioMonTools_SupportFiles 0.0.1.9123
 ===========
 Released - 2026-07-08
 
 * refactor: Added lower boise bug taxa translator file and updated pick file.
 * refactor: Created archive folder, moved files to that location.
+
+BioMonTools_SupportFiles 0.0.1.9122
+===========
+Released - 2026-06-26
+
+* Updated error in OK picker file
+
+BioMonTools_SupportFiles 0.0.1.9121
+===========
+Released - 2026-06-25
+* Updated errors in naming of files for file builder in Great Plains
 
 BioMonTools_SupportFiles 0.0.1.9120
 ===========
