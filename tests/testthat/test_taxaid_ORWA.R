@@ -456,16 +456,17 @@ testthat::test_that("ORWA, attr, taxaid1", {
   
   n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
+  setdiff(unique(df_i[, i_taxaid_match]),df_j[, j_taxaid])
   
   # show mismatches
-  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, 
-               "' from file '", fn_i, "'"))
+  print(paste0("Unique TaxaTranslator taxa '", j_taxaid, "' missing from '", j_taxaid, 
+               "' from file '", fn_j, "'"))
   j1 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j1)
   
   # Remove DNI
-  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -505,10 +506,11 @@ testthat::test_that("ORWA, attr, taxaid_2", {
   
   n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
+  setdiff(unique(df_i[, i_taxaid_match]),df_j[, j_taxaid])
   
   # show mismatches
-  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, 
-               "' from file '", fn_i, "'"))
+  print(paste0("Unique TaxaTranslator taxa '", j_taxaid, "' missing from '", j_taxaid, 
+               "' from file '", fn_j, "'"))
   j2 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j2)
@@ -547,14 +549,14 @@ testthat::test_that("ORWA, attr, taxaid_3", {
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
   
   # show mismatches
-  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, 
-               "' from file '", fn_i, "'"))
+  print(paste0("Unique TaxaTranslator taxa '", j_taxaid, "' missing from '", j_taxaid, 
+               "' from file '", fn_j, "'"))
   j3 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j3)
   
   # Remove DNI
-  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -587,14 +589,14 @@ testthat::test_that("ORWA, attr, taxaid_4", {
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
   
   # show mismatches
-  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, 
-               "' from file '", fn_i, "'"))
+  print(paste0("Unique TaxaTranslator taxa '", j_taxaid, "' missing from '", j_taxaid, 
+               "' from file '", fn_j, "'"))
   j4 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j4)
   
   # Remove DNI
- # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -627,14 +629,14 @@ testthat::test_that("ORWA, attr, taxaid_5", {
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
   
   # show mismatches
-  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, 
-               "' from file '", fn_i, "'"))
+  print(paste0("Unique TaxaTranslator taxa '", j_taxaid, "' missing from '", j_taxaid, 
+               "' from file '", fn_j, "'"))
   j5 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j5)
   
   # Remove DNI
-  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -667,14 +669,14 @@ testthat::test_that("ORWA, attr, taxaid_6", {
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
   
   # show mismatches
-  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, 
-               "' from file '", fn_i, "'"))
+  print(paste0("Unique TaxaTranslator taxa '", j_taxaid, "' missing from '", j_taxaid, 
+               "' from file '", fn_j, "'"))
   j6 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j6)
   
   # Remove DNI
-  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -707,14 +709,14 @@ testthat::test_that("ORWA, attr, taxaid_7", {
   n_match_QC <- length(unique(df_i[, i_taxaid_match]))
   
   # show mismatches
-  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, 
-               "' from file '", fn_i, "'"))
+  print(paste0("Unique TaxaTranslator taxa '", j_taxaid, "' missing from '", j_taxaid, 
+               "' from file '", fn_j, "'"))
   j7 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
                                          df_j[, j_taxaid]]
   sort(j7)
   
   # Remove DNI
-  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -722,7 +724,55 @@ testthat::test_that("ORWA, attr, taxaid_7", {
   # }## FOR ~ i
   
 })## Test ~ taxaid
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# attr, phylo QC ----
 
+testthat::test_that("ORWA, attr, phylo_qc", {
+  # # data files
+  # dn_data <- file.path("data", "taxa_official", "ORWA")
+  # df_pickfiles <- read.csv(file.path(dn_data, "_pick_files.csv"))
+  # fn_all <- df_pickfiles$filename
+  # 
+  # jjj <- 1 #+ 6
+  # 
+  # # attribute file
+  # fn_jjj <- df_pickfiles[jjj , "attributes_filename"]
+  # df_jjj <- read.csv(file.path(dn_data, fn_jjj))
+  # jjj_taxaid <- df_pickfiles[jjj, "attributes_taxaid"]
+  # 
+  # # QC phylo
+  # qc_phylo <- BioMonTools::qc_taxa_phylo(
+  #   df_jjj,
+  #   jjj_taxaid,
+  #   phylo_names = c("Kingdom",
+  #                   "Phylum",
+  #                   "SubPhylum",
+  #                   "Class",
+  #                   "SubClass",
+  #                   "Order",
+  #                   "SuperFamily",
+  #                   "Family",
+  #                   "SubFamily",
+  #                   "Tribe",
+  #                   "GenusGroup",
+  #                   "Genus",
+  #                   "SubGenus",
+  #                   "SpeciesGroup",
+  #                   "SpeciesSubGroup",
+  #                   "SpeciesComplex",
+  #                   "Species"),
+  #   min_len = 2)
+  # 
+  
+  # too much 
+  
+
+  
+})## Test ~ qc_phylo
+
+
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # test_that("attr, taxaid_orig", {
 #   # data files

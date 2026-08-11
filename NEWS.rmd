@@ -17,6 +17,16 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9125
+===========
+Released - 2026-08-11
+
+* refactor: Update ORWA and MariNW files
+    + TaxaTranslator
+    + TaxaTranslator_Metadata
+* tests: Update ORWA tests for attributes 1 and 2
+* tests: Update ORWA tests for attributes 3:7 for DNI
+
 BioMonTools_SupportFiles 0.0.1.9124
 ===========
 Released - 2026-07-10

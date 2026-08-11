@@ -4,7 +4,17 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-07-10 12:12:24.902429
+    #> Last Update: 2026-08-11 16:18:06.520141
+
+# BioMonTools_SupportFiles 0.0.1.9125
+
+Released - 2026-08-11
+
+- refactor: Update ORWA and MariNW files
+  - TaxaTranslator
+  - TaxaTranslator_Metadata
+- tests: Update ORWA tests for attributes 1 and 2
+- tests: Update ORWA tests for attributes 3:7 for DNI
 
 # BioMonTools_SupportFiles 0.0.1.9124
 
