@@ -27,6 +27,7 @@
 # Add back DNI removal for attr tests
 # Add test taxaid_7 for both trans and attr
 # Add test dups_2 for both trans and attr
+# Number are rows in "pickfiles"
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # FileNames ----
@@ -63,7 +64,7 @@ testthat::test_that("ORWA, pickfiles, filenames", {
 })## Test ~ pickfiles - filenames
 
 # duplicate names ----
-testthat::test_that("ORWA, trans, dups1", {
+testthat::test_that("ORWA, trans, dups_1", {
   # data files
   dn_data <- file.path("data", "taxa_official", "ORWA")
   df_pickfiles <- read.csv(file.path(dn_data, "_pick_files.csv"))
@@ -90,7 +91,7 @@ testthat::test_that("ORWA, trans, dups1", {
   
 })## Test ~ dup, trans
 
-testthat::test_that("ORWA, trans, dups2", {
+testthat::test_that("ORWA, trans, dups_2", {
   # data files
   dn_data <- file.path("data", "taxa_official", "ORWA")
   df_pickfiles <- read.csv(file.path(dn_data, "_pick_files.csv"))
@@ -117,7 +118,7 @@ testthat::test_that("ORWA, trans, dups2", {
   
 })## Test ~ dup, trans
 
-testthat::test_that("ORWA, attr, dups1", {
+testthat::test_that("ORWA, attr, dups_1", {
   # data files
   dn_data <- file.path("data", "taxa_official", "ORWA")
   df_pickfiles <- read.csv(file.path(dn_data, "_pick_files.csv"))
@@ -144,7 +145,7 @@ testthat::test_that("ORWA, attr, dups1", {
   
 })## Test ~ dup, trans
 
-testthat::test_that("ORWA, attr, dups2", {
+testthat::test_that("ORWA, attr, dups_2", {
   # data files
   dn_data <- file.path("data", "taxa_official", "ORWA")
   df_pickfiles <- read.csv(file.path(dn_data, "_pick_files.csv"))
@@ -435,7 +436,7 @@ testthat::test_that("ORWA, trans, taxaid_7", {
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # attr, taxaid ----
-testthat::test_that("ORWA, attr, taxaid1", {
+testthat::test_that("ORWA, attr, taxaid_1", {
   # data files
   dn_data <- file.path("data", "taxa_official", "ORWA")
   df_pickfiles <- read.csv(file.path(dn_data, "_pick_files.csv"))
@@ -516,7 +517,7 @@ testthat::test_that("ORWA, attr, taxaid_2", {
   sort(j2)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -556,7 +557,7 @@ testthat::test_that("ORWA, attr, taxaid_3", {
   sort(j3)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -596,7 +597,7 @@ testthat::test_that("ORWA, attr, taxaid_4", {
   sort(j4)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -636,7 +637,7 @@ testthat::test_that("ORWA, attr, taxaid_5", {
   sort(j5)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -676,7 +677,7 @@ testthat::test_that("ORWA, attr, taxaid_6", {
   sort(j6)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)
@@ -716,7 +717,7 @@ testthat::test_that("ORWA, attr, taxaid_7", {
   sort(j7)
   
   # Remove DNI
-  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  # n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
   
   # test
   testthat::expect_equivalent(n_match_calc, n_match_QC)

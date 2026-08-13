@@ -920,3 +920,5 @@ Zapada Oregonensis Group,FALSE,CN,,F,1,2,5,3,SH,semi,RHEO,,TRUE,cold,Cold,,15.73
 Zavrelia,FALSE,SP,,F,11,8,,4,PR,multi,GENE,,FALSE,,,Less30,,,,,130038,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Chironominae,Tanytarsini,,Zavrelia,,,,,,Chironomidae
 Zavrelimyia,FALSE,SP,,F,11,8,,4,PR,multi,GENE,,FALSE,cool,Cool,,17.76067088,21.36,,,128259,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Tanypodinae,Pentaneurini,,Zavrelimyia,,,,,,Chironomidae
 Zygoptera,FALSE,CN,,,,NA,,NA,PR,uni,GENE,,FALSE,,Warm Stenotherm,,23.74648404,27.45,,yes,102042,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Odonata,Zygoptera,,,,,,,,,,,,Odonata
+Baetis Fuscatus Group,FALSE,"SW,CN",,,,,,,CG,multi,LOTI,FALSE,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Ephemeroptera,Pisciforma,,Baetidae,,,,Baetis,,Fuscatus Gr.,,,,Ephemeroptera
+Parochlus kiefferi,FALSE,UN,,,,,,,UN,multi,GENE,TRUE,FALSE,,,,,,,,,Animalia,Arthropoda,Hexapoda,Insecta,Pterygota,Diptera,Nematocera,,Chironomidae,Podonominae,Podonomini,,Parochlus,,,,,kiefferi,Chironomidae
