@@ -17,6 +17,16 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9127
+===========
+Released - 2026-08-26
+
+* refactor: Update Great Plains MO attributes
+* fix: Edit to GP (NE) taxa trans
+    + testing
+* tests: Add GP 6th test
+    + Add toupper for trans test
+
 BioMonTools_SupportFiles 0.0.1.9126
 ===========
 Released - 2026-08-13

@@ -21,6 +21,9 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # 20240910, Erik, Update directory and remove 6th test (only 5 for GP)
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# 20260826, Erik, add 6th test (bugs = 5 states and fish = 1)
+# trans, added toupper for testing (OK only)
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # duplicate names ----
 testthat::test_that("GP, trans, dups1", {
@@ -276,10 +279,49 @@ testthat::test_that("GP, trans, taxaid_5", {
 })## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+testthat::test_that("GP, trans, taxaid_6", {
+  # data files
+  df_pickfiles <- read.csv(file.path("data"
+                                     , "taxa_official"
+                                     , "GP"
+                                     , "GreatPlains_BCG_Pick_Files.csv"))
+  fn_all <- df_pickfiles$filename
+  
+  i <- 6 #+ 6
+  
+  # for (i in seq_len(length(fn_all))) {
+  fn_i <- df_pickfiles[i , "filename"]
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
+  i_taxaid <- df_pickfiles[i, "taxaid"]
+  i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
+  
+  # toupper, 20260826
+  df_i[, i_taxaid_match] <- toupper(df_i[, i_taxaid_match])
+  df_i[, i_taxaid] <- toupper(df_i[, i_taxaid])
+  
+  n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_i[, i_taxaid])
+  n_match_QC <- length(unique(df_i[, i_taxaid_match]))
+  
+  # show mismatches
+  print(paste0("Unique '", i_taxaid_match, "' missing from '", i_taxaid, "'"))
+  i6 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
+                                         df_i[, i_taxaid]]
+  sort(i6)
+  
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  
+  # test
+  testthat::expect_equivalent(n_match_calc, n_match_QC)
+  
+  # }## FOR ~ i
+  
+})## Test ~ taxaid
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # All missing taxa
-# sort(unique(c(i1, i2, i3, i4, i5)))
+# sort(unique(c(i1, i2, i3, i4, i5, i6)))
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # attr, taxaid ----
@@ -495,10 +537,49 @@ testthat::test_that("GP, attr, taxaid_5", {
   # }## FOR ~ i
   
 })## Test ~ taxaid
-
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+testthat::test_that("GP, attr, taxaid_6", {
+  # data files
+  df_pickfiles <- read.csv(file.path("data"
+                                     , "taxa_official"
+                                     , "GP"
+                                     , "GreatPlains_BCG_Pick_Files.csv"))
+  fn_all <- df_pickfiles$filename
+  
+  i <- 6# + 6
+  
+  # for (i in seq_len(length(fn_all))) {
+  fn_i <- df_pickfiles[i , "filename"]
+  df_i <- read.csv(file.path("data", "taxa_official", "GP", fn_i))
+  i_taxaid <- df_pickfiles[i, "taxaid"]
+  i_taxaid_match <- df_pickfiles[i, "calc_taxaid"]
+  
+  # attribute file
+  fn_j <- df_pickfiles[i , "attributes_filename"]
+  df_j <- read.csv(file.path("data", "taxa_official", "GP", fn_j))
+  j_taxaid <- df_pickfiles[i, "attributes_taxaid"]
+  
+  n_match_calc <- sum(unique(df_i[, i_taxaid_match]) %in% df_j[, j_taxaid])
+  n_match_QC <- length(unique(df_i[, i_taxaid_match]))
+  
+  # show mismatches
+  print(paste0("Unique '", j_taxaid, "' missing from '", i_taxaid_match, "'"))
+  j6 <- unique(df_i[, i_taxaid_match])[!unique(df_i[, i_taxaid_match]) %in% 
+                                         df_j[, j_taxaid]]
+  sort(j6)
+  
+  # Remove DNI
+  n_match_QC <- n_match_QC - "DNI" %in% df_i[, i_taxaid_match]
+  
+  # test
+  testthat::expect_equivalent(n_match_calc, n_match_QC)
+  
+  # }## FOR ~ i
+  
+})## Test ~ taxaid
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # All missing taxa
-# sort(unique(c(j1, j2, j3, j4, j5)))
+# sort(unique(c(j1, j2, j3, j4, j5, j6)))
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

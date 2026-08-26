@@ -4,7 +4,17 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-08-13 08:14:19.089396
+    #> Last Update: 2026-08-26 14:31:05.648737
+
+# BioMonTools_SupportFiles 0.0.1.9127
+
+Released - 2026-08-26
+
+- refactor: Update Great Plains MO attributes
+- fix: Edit to GP (NE) taxa trans
+  - testing
+- tests: Add GP 6th test
+  - Add toupper for trans test
 
 # BioMonTools_SupportFiles 0.0.1.9126
 
