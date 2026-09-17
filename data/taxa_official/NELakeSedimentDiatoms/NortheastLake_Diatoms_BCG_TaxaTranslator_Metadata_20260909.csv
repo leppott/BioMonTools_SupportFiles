@@ -1,0 +1,9 @@
+Version,9/9/2026
+Primary contact,Jen Stamp (Jen.Stamp@tetratech.com)
+,
+Taxon orig,taxon name from the original source file
+OTU_BCG_NortheastLakes_v1,"TaxaID_orig translated to an ID that is used for the Northeast Lake Diatom BCG (version 1) metric calculations. It harmonizes differences such as syntax, changes in nomenclature, misspellings, etc. DNI = not included. "
+modified_BCG,yes = Taxon_orig is different from the ID that is used for the Northeast Lake Diatom BCG (version 1) ; no = no difference
+Slash,"combination name. For example, Lindavia bodanica/L. intermedia"
+Questionable,yes = ID seems questionable but left 'as is' (not enough information to change)
+Notes,self-explanatory

@@ -1,0 +1,81 @@
+Version,9/9/2026
+Primary contact,Jen Stamp (Jen.Stamp@tetratech.com)
+,
+TaxaID,Operational Taxonomic Unit (OTU) version 1 for the BCG
+Rank,"level of taxonomic resolution (genus, species, variety)"
+Genus,self-explanatory (hierarchy)
+Species,self-explanatory (hierarchy)
+nOcc,number of occurences (number of samples) in the Northeast lake dataset
+SumIndiv,total number of individuals in the Northeast lake dataset
+NonTarget,FALSE = target (ok to include in calculations). TRUE = nontarget (not appropriate to include in any of the calculations)
+BCG_attr,"preliminary overall BCG attribute assignment; 2 = most sensitive, 3 = sensitive but more ubiquitous; 4 = intermediate (subgroups better, middle, worse); 5 = very tolerant"
+BCG_attr2,"preliminary BCG attribute 4 subgroup (better, middle, worse)"
+BCG_attr_Roman,BCG taxa attribute as a Roman numeral
+NutrientIndicator,"strong indicator of low or high nutrient levels (no strict criteria). Sources: expert panelists, tolerance analysis - Northeast lake sediment diatoms, literature"
+pH_TolAnal,"[tolerance analysis - Northeast lake sediment diatoms] entries: acid, neutral, alkali, hialkali. See criteria below"
+AcidImpacted,TRUE = strong indicator of acid impacted lakes if % individs >15%. Preliminary entries based on feedback from Don Charles
+MajorHabitatGrp,"major habitat group entries for BioMonTools R package (multiple are allowable): benthic, planktonic, macrophytic, sandmud, mostlybenthic, mostlyplanktonic"
+MajorHabitatGrp_Narr,major habitat group - original narrative categories
+SIZE_USGS,"cell volume. VERY SMALL, SMALL, MEDIUM, BIG, VERY BIG. Source: diatoms.org. See criteria below"
+TROPHIC_BCG,"Trophic categories of Van Dam et al. (1994), translated from numbers to text: TROPHIC_1 (oligo), TROPHIC_2 (oligo-meso), TROPHIC_3 (meso), TROPHIC_4 (meso-eutra), TROPHIC_5 (eutra), TROPHIC_6 (hypereutra), TROPHIC_7 (indiff)"
+TROPHIC_USGS,"entries for BioMonTools R package: TROPHIC_1, TROPHIC_2, TROPHIC_3, TROPHIC_4, TROPHIC_5, TROPHIC_6, TROPHIC_7"
+P_USGS,LOW_P or HIGH_P. P=phosphorus. Nutrient status metrics based on data from US rivers (Potapova and Charles 2007).
+N_USGS,LOW_N or HIGH_N. N=nitrogren. Nutrient status metrics based on data from US rivers (Potapova and Charles 2007).
+N_FIXER_USGS,"N_FIXER or NON_N_FIXER. Some species (within the general Epithemia and Rhophalodia) may contain symbiotic cyanobacteria within their cells. The endosymbionts are capable of nitrogen fixation, producing nitrogen for use by the diatom cell. Source: diatoms.org"
+MOTILITY_USGS,"ability of the cell to move over surfaces. Entries: NON_MOTILE, SLIGHTLY_MOTILE, WEAKLY_MOTILE, MODERATELY_MOTILE, HIGHLY_MOTILE. Non-motile species lack a raphe system. Source: diatoms.org"
+MOTILE2_USGS,ARAPHID or HIGHLY_MOTILE.1
+HABIT_USGS,adnate or stalked. Source: Tang et al. 2016
+,
+,
+pH_TolAnal,Criteria
+acid,"WAopt < 6.9, PCT95 < 8.3, Curve shape not an increaser"
+neutral,"WAopt 6.8-7.1, PCT95 7.6-8.65, Curve shape"
+alkali,"WAopt > 7.1, PCT95 >7.75, Curve shape not a decreaser"
+hialkali,"WAopt > 7.4, PCT95 > 8.6, Curve shape not a decreaser"
+,
+MajorHabitatGrp,MajorHabitatGrp_Narr
+benthic,benthic (many possible substrates)
+"benthic,macrophytic",benthic (strong macrophyte indicator)
+"benthic,planktonic",planktonic and benthic
+"benthic,planktonic,macrophytic",planktonic or macrophytic or benthic
+"benthic,sandmud",benthic (strong sand/mud indicator)
+mostlybenthic,mostly benthic
+mostlyplanktonic,mostly planktonic
+planktonic,planktonic
+,
+SIZE_USGS,Criteria
+VERY SMALL,11-100 µm3 in cell volume
+SMALL, 101-1000 µm3 in cell volume 
+MEDIUM," 1001-10,000 µm3"
+BIG," 10,001-100,000 µm3"
+VERY_BIG," 100,001-1,000,000 µm3"
+,
+TROPHIC_USGS,Description - text
+TROPHIC_1,oligo
+TROPHIC_2,oligo-meso
+TROPHIC_3,meso
+TROPHIC_4,meso-eutra
+TROPHIC_5,eutra
+TROPHIC_6,hypereutra
+TROPHIC_7,indiff
+,
+N and P USGS,Criteria
+LOW_P,TP < 10 ug/L
+HIGH_P,TP > 100 ug/L
+LOW_N,TN < 0.2 mg/L
+HIGH_N,TN > 3 mg/L
+,
+N_FIXER_USGS,
+N_FIXER,nitrogen fixing algae
+NON_N_FIXER,not nitrogen fixing algae
+,
+MOTILITY_USGS,Description
+NON_MOTILE,"lack a raphe system, and include centric (i.e., Cyclotella, Stephanodiscus) and araphid (i.e., Fragilaria, Staurosirella) genera"
+WEAKLY_MOTILE,"possess a raphe system that is highly reduced (i.e., Eunotia), or secondarily filled with silica (i.e., Humidophila)"
+SLIGHTLY_MOTILE,"possess a complete raphe system (biraphid) but cells are very small, or cells are affixed to surfaces by a mucilage pad (i.e., Achnanthidium, Cocconeis)."
+MODERATELY_MOTILE,possess a complete raphe system (biraphid) and cells are moderate in size
+HIGHLY_MOTILE,"possess a complete raphe system (biraphid) and cells are large in size, or the raphe is positioned in a raised keel so that cells are highly adapted to movement on surfaces (i.e., Surrirella, Stenopterobia)."
+,
+HABIT_USGS,Description
+Adnate,Diatoms with one valve face attached to a surface
+Stalked,Diatoms that produce stalks 
