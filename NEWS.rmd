@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9129
+===========
+Released - 2026-09-22
+
+* refactor: Removed original files for NE lake sediment diatom project in favor of FTP
+
 BioMonTools_SupportFiles 0.0.1.9128
 ===========
 Released - 2026-09-17
