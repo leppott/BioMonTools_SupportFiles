@@ -1,0 +1,34 @@
+Version,10/21/2026
+Primary contact,Jen Stamp (Jen.Stamp@tetratech.com)
+,
+Taxon_orig,taxon name from the original source file
+NumSamp,number of samples the Taxon_orig occurs in (NE lake BCG dataset)
+BCGDataset,yes = Taxon_orig is in the NE lake BCG dataset; no = not in the dataset (= translated name)
+Step1_mod,"entries = initial modification of name before matching (e.g., removal of taxonomic authority, forma etc.)"
+OTU_BCG_NortheastLakes_v1,"TaxaID_orig translated to an ID that is used for the Northeast Lake Diatom BCG (version 1) metric calculations. It harmonizes differences such as syntax, changes in nomenclature, misspellings, etc. DNI = not included. "
+modified_BCG_OTU,yes = Taxon_orig is different from the ID that is used for the Northeast Lake Diatom BCG (version 1) ; no = no difference
+Source,"primary source, in order of priority: 1) NELakeHarmonization_2022_Step2 (Potapova et al. 2022); 2) NELakeVoucherFlora_2022 (Potapova et al. 2022); 3) DONA (https://diatoms.org/); 4) algaebase (https://www.algaebase.org/); 5) Charles, D.F. et al. 1990 (Asterionella ralfsii var. americana (45 um). There were 290 taxa with 1 or 2 occurrences that did not match with Sources 1-3 and were not checked in algaebase."
+SourcesDiffer,entries if there were differences across sources
+Heterotypic_synonym,entry = if matched with algaebase but only as a Heterotypic Synonym (we only counted matches in algaebase if they were Homotypic Synonyms)
+Notes,self-explanatory
+BCG_OTU_Slash,"slashed taxa (combination of more than one taxon). For example, Lindavia bodanica/Lindavia intermedia"
+BCG_OTU_Provisional,provisional = preliminary (not fully verified). Does not match with the primary sources
+ModType,"type of modification such as misspelling, naming convention, translation, etc."
+Rationale,brief reason for the modification
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
