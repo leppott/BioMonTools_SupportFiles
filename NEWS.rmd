@@ -18,9 +18,15 @@ cat(paste0("Last Update: ",Sys.time()))
 ```
 BioMonTools_SupportFiles 0.0.1.9133
 ===========
+<<<<<<< HEAD
 Released - 2026-10-27
 
 * refactor: after running QC tests, found three taxa no longer being used; removed the three taxa from taxa translator file for the NE lake sediment diatom project
+=======
+Released - 2026-10-26
+
+* tests: Add testing files for NELakeDiatoms
+>>>>>>> 883b805b19e78bf51a3b5e83ed6de62e0ceff386
 
 BioMonTools_SupportFiles 0.0.1.9132
 ===========
