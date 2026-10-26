@@ -16,6 +16,12 @@ knitr::opts_chunk$set(
 ```{r LastUpdate, echo = FALSE}
 cat(paste0("Last Update: ",Sys.time()))
 ```
+BioMonTools_SupportFiles 0.0.1.9133
+===========
+Released - 2026-10-27
+
+* refactor: after running QC tests, found three taxa no longer being used; removed the three taxa from taxa translator file for the NE lake sediment diatom project
+
 BioMonTools_SupportFiles 0.0.1.9132
 ===========
 Released - 2026-10-26
