@@ -4,7 +4,21 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-10-26 11:27:05.384104
+    #> Last Update: 2026-10-26 14:30:05.819638
+
+# BioMonTools_SupportFiles 0.0.1.9135
+
+Released - 2026-10-26
+
+- docs: Fix merge issue with NEWS
+
+# BioMonTools_SupportFiles 0.0.1.9134
+
+Released - 2026-10-26
+
+- refactor: after running QC tests, found three taxa no longer being
+  used; removed the three taxa from taxa translator file for the NE lake
+  sediment diatom project
 
 # BioMonTools_SupportFiles 0.0.1.9133
 
