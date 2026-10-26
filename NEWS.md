@@ -4,7 +4,13 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-10-26 14:30:05.819638
+    #> Last Update: 2026-10-26 14:33:22.069904
+
+# BioMonTools_SupportFiles 0.0.1.9136
+
+Released - 2026-10-26
+
+- refactor: Updated file names in NELakeDiatoms
 
 # BioMonTools_SupportFiles 0.0.1.9135
 
