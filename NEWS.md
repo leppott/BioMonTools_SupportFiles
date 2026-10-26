@@ -4,7 +4,48 @@ NEWS
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2026-08-26 14:31:05.648737
+    #> Last Update: 2026-10-26 11:27:05.384104
+
+# BioMonTools_SupportFiles 0.0.1.9133
+
+Released - 2026-10-26
+
+- tests: Add testing files for NELakeDiatoms
+
+# BioMonTools_SupportFiles 0.0.1.9132
+
+Released - 2026-10-26
+
+- refactor: fixed errors in taxa translator and attribute files for NE
+  lake sediment diatom project
+
+# BioMonTools_SupportFiles 0.0.1.9131
+
+Released - 2026-10-24
+
+- refactor: updated taxa translator and attribute files for NE lake
+  sediment diatom project
+
+# BioMonTools_SupportFiles 0.0.1.9130
+
+Released - 2026-10-21
+
+- refactor: updated taxa translator files for NE lake sediment diatom
+  project
+
+# BioMonTools_SupportFiles 0.0.1.9129
+
+Released - 2026-09-22
+
+- refactor: Removed original files for NE lake sediment diatom project
+  in favor of FTP
+
+# BioMonTools_SupportFiles 0.0.1.9128
+
+Released - 2026-09-17
+
+- refactor: Added initial translator and attribute files for NE lake
+  sediment diatom project
 
 # BioMonTools_SupportFiles 0.0.1.9127
 
