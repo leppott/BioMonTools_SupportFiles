@@ -21,7 +21,7 @@ BioMonTools_SupportFiles 0.0.1.9138
 ===========
 Released - 2026-11-05
 
-* refactor: Updated GP Fish attribute file (changed semicolons to commas in Habit and Reproduction columns) and added GP Fish attributes update log
+* refactor: Updated GP Fish attribute file (changed semicolons to commas in Habit and Reproduction columns) and added GP Fish attributes update log. initially forgot to update the pick files. did that afterwards (didn't bother changing the version number)
 
 BioMonTools_SupportFiles 0.0.1.9137
 ===========
