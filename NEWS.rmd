@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9138
+===========
+Released - 2026-11-05
+
+* refactor: Updated GP Fish attribute file (changed semicolons to commas in Habit and Reproduction columns) and added GP Fish attributes update log
+
 BioMonTools_SupportFiles 0.0.1.9137
 ===========
 Released - 2026-10-29
