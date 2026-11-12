@@ -1,0 +1,20 @@
+Version,11/12/2026
+Primary contact,Jen Stamp (Jen.Stamp@tetratech.com)
+,
+Taxon_orig,taxon name from the original source file
+BCGDataset,yes = Taxon_orig is in the NE lake BCG dataset; no = not in the dataset (= translated name)
+NumSamp,number of samples the Taxon_orig occurs in (NE lake BCG dataset)
+orig_modified_for_matching,"entries = initial modification of name before matching (e.g., removal of taxonomic authority)"
+modified_BCG,yes = Taxon_orig is different from the ID that is used for the Northeast Lake Diatom BCG (version 1) ; no = no difference
+OTU_BCG_NortheastLakes_v1,"TaxaID_orig translated to an ID that is used for the Northeast Lake Diatom BCG (version 1) metric calculations. It harmonizes differences such as syntax, changes in nomenclature, misspellings, etc. DNI = not included. "
+OTU_BCG_Source,"source of OTU_BCG_NortheastLakes_v1 (DONA, Potapova2022_Step2, Potapova2022_VoucherFlora, algaebase, BCG panel, literature - e.g., Charles, D.F. et al. 1990)"
+DONA,"entries = taxa are included in orig_DONA_species-2026-10-01_09-26-19.csv (file downloaded from https://diatoms.org/practitioners), listed in either the Name (Col A) or Synonyms (Col H) column"
+DONA_source,name = taxa name is listed in Col A; synonym = taxa name is listed in Col H; source file: orig_DONA_species-2026-10-01_09-26-19.csv
+Potapova2022_Step2,entries = taxa name from the Step2 column in the Harmonization_102421.xlsx file from Potapova et al. 2022
+Potapova2022_VoucherFlora,entries = taxa name from the Taxon_name column in the VoucherFloraTranslation_102421.xlsx file from Potapova et al. 2022
+Notes,self-explanatory
+BCG_OTU_Slash,"yes = slashed taxa (combination of more than one taxon). For example, Lindavia bodanica/Lindavia intermedia"
+Slash_Potapova2022_3plus,yes = slashed taxa name from the Step2 column in the Harmonization_102421.xlsx file from Potapova et al. 2022 that had three or more taxa
+QuestionMark,yes = Taxon_orig has a question mark
+ModType,"type of modification such as naming convention, translation, etc."
+Rationale,brief reason for the modification

@@ -17,6 +17,12 @@ knitr::opts_chunk$set(
 cat(paste0("Last Update: ",Sys.time()))
 ```
 
+BioMonTools_SupportFiles 0.0.1.9139
+===========
+Released - 2026-11-12
+
+* refactor: updated all the files for the NE lake sediment diatom project (translator, attributes, metadata, update logs)
+
 BioMonTools_SupportFiles 0.0.1.9138
 ===========
 Released - 2026-11-05
